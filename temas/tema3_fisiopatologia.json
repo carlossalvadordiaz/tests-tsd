@@ -1,0 +1,640 @@
+[
+  {
+    "question": "El tratamiento frente a la diarrea ha de ser…",
+    "options": {
+      "a": "fundamentalmente dietético.",
+      "b": "fundamentalmente farmacológico.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "fundamentalmente de tipo natural."
+    },
+    "correct": "a",
+    "correct_text": "fundamentalmente dietético."
+  },
+  {
+    "question": "El mejor tratamiento ante la hepatopatia alcohólica, es…",
+    "options": {
+      "a": "la abstinencia del café.",
+      "b": "la consumición de café.",
+      "c": "la consumición de alcohol.",
+      "d": "la abstinencia alcohólica."
+    },
+    "correct": "d",
+    "correct_text": "la abstinencia alcohólica."
+  },
+  {
+    "question": "Entre las medidas que se indican para los pacientes con estreñimiento, encontramos…",
+    "options": {
+      "a": "la realización de ejercicio físico de forma moderada y habitual.",
+      "b": "el aporte de líquidos.",
+      "c": "el aporte de alimentos ricos en fibra.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Entre las patologías más habituales del tracto gastrointestinal se encuentran…",
+    "options": {
+      "a": "las náuseas.",
+      "b": "el vómito.",
+      "c": "el herpes labial y las caries dentales.",
+      "d": "el reflujo gastroesofágico."
+    },
+    "correct": "c",
+    "correct_text": "el herpes labial y las caries dentales."
+  },
+  {
+    "question": "Las hepatitis agudas, son producidas, esencialmente por…",
+    "options": {
+      "a": "la cirrosis.",
+      "b": "los virus de las hepatitis A, B, B+D, C y E.",
+      "c": "el herpes agudo.",
+      "d": "los vómitos."
+    },
+    "correct": "b",
+    "correct_text": "los virus de las hepatitis A, B, B+D, C y E."
+  },
+  {
+    "question": "Se define como la llegada a la faringe, o incluso a la boca de restos de alimentos o de un contenido de sabor ácido o amargo…",
+    "options": {
+      "a": "pirosis.",
+      "b": "regurgitación ácidda.",
+      "c": "vómito.",
+      "d": "náusea."
+    },
+    "correct": "b",
+    "correct_text": "regurgitación ácidda."
+  },
+  {
+    "question": "Se define como “el estreñimiento ligado a una patología o alteración fisiológica que, directa o indirectamente, afecta al tracto digestivo.”...",
+    "options": {
+      "a": "estreñimiento primario.",
+      "b": "estreñimiento iatrogénico.",
+      "c": "estreñimiento terciario.",
+      "d": "estreñimiento secundario."
+    },
+    "correct": "d",
+    "correct_text": "estreñimiento secundario."
+  },
+  {
+    "question": "Se define como “aquella situación en la que el individuo realiza menos de tres deposiciones por semana, siendo las heces duras y con un bajo contenido en agua.”...",
+    "options": {
+      "a": "úlcera.",
+      "b": "estreñimiento.",
+      "c": "vómito.",
+      "d": "dolor de tripa."
+    },
+    "correct": "b",
+    "correct_text": "estreñimiento."
+  },
+  {
+    "question": "Entre los errores que encontramos en nuestros hábitos de alimentación y que",
+    "options": {
+      "a": "la poca consumición de tabaco.",
+      "b": "evitar el sedentarismo.",
+      "c": "hacer gran cantidad de ejercicio físico.",
+      "d": "una ingestión pobre en fibra dietética."
+    },
+    "correct": "d",
+    "correct_text": "una ingestión pobre en fibra dietética."
+  },
+  {
+    "question": "Las patologías más frecuentes del páncreas exorcino son…",
+    "options": {
+      "a": "el cáncer de páncreas.",
+      "b": "la pancreatitis aguda.",
+      "c": "la pancreatitis crónica.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Entre las precauciones que se recomiendan ante una úlcera gastroduodenal, encontramos…",
+    "options": {
+      "a": "tomar el fármaco junto con un café.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "tomar el fármaco junto con un buen vaso de agua.",
+      "d": "tomar alcohol todos los días."
+    },
+    "correct": "c",
+    "correct_text": "tomar el fármaco junto con un buen vaso de agua."
+  },
+  {
+    "question": "Se define como “los procesos no inflamatorios ni infecciosos y que afectan al hígado”...",
+    "options": {
+      "a": "procesos tóxicos-metabólicos.",
+      "b": "Hepatohepatia alcoholica.",
+      "c": "Hepatitis virales.",
+      "d": "Hepatitis crónica."
+    },
+    "correct": "a",
+    "correct_text": "procesos tóxicos-metabólicos."
+  },
+  {
+    "question": "La presentación más frecuente de la úlcera gastrointestinal consiste en…",
+    "options": {
+      "a": "una sensación de ardor o molestia en el epigastrio.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "un dolor de cabeza.",
+      "d": "un herpes labial."
+    },
+    "correct": "a",
+    "correct_text": "una sensación de ardor o molestia en el epigastrio."
+  },
+  {
+    "question": "El esfínter esofágico inferior tiene capacidad para adaptarse a cambios…",
+    "options": {
+      "a": "extrínsecos.",
+      "b": "externos.",
+      "c": "intrínsecos.",
+      "d": "fisiológicos."
+    },
+    "correct": "d",
+    "correct_text": "fisiológicos."
+  },
+  {
+    "question": "¿Los pacientes con una úlcera gastroduodenal, pueden consumir café o alcohol?",
+    "options": {
+      "a": "Sí, en una cantidad moderada.",
+      "b": "Sí, en grandes cantidades.",
+      "c": "Sí, solo un sorbo.",
+      "d": "No, bajo ningún concepto."
+    },
+    "correct": "a",
+    "correct_text": "Sí, en una cantidad moderada."
+  },
+  {
+    "question": "Entre los factores más importantes implicados en la etiología y en las recidivas de la úlcera peptica encontramos…",
+    "options": {
+      "a": "las comidas muy copiosas.",
+      "b": "el uso de antiinflamatorios esteroideos.",
+      "c": "el uso de alcohol.",
+      "d": "el uso de antiinflamatorios no esteroideos."
+    },
+    "correct": "d",
+    "correct_text": "el uso de antiinflamatorios no esteroideos."
+  },
+  {
+    "question": "Entre los procesos que encontramos en las enfermedades que afectan al hígado podemos encontrarnos con…",
+    "options": {
+      "a": "lesiones tóxicas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "procesos inflamatorios o infecciosos.",
+      "d": "alteraciones vasculares y metabólicas."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Entre las enfermedades que afectan al hepatocito, podemos encontrarnos con…",
+    "options": {
+      "a": "la úlcera gastroduodenal.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el reflujo gastroesofágico.",
+      "d": "la esteatohepatitis no alcohólica."
+    },
+    "correct": "d",
+    "correct_text": "la esteatohepatitis no alcohólica."
+  },
+  {
+    "question": "Los tipos de diarrea que se establecen según su duración, son…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "diarrea aguda y crónica.",
+      "c": "diarrea corta y larga.",
+      "d": "diarrea corta y aguda."
+    },
+    "correct": "b",
+    "correct_text": "diarrea aguda y crónica."
+  },
+  {
+    "question": "El objetivo de la rehidratación oral frente a las causas que originan la diarrea, es…",
+    "options": {
+      "a": "reemplazar la pérdida de agua y electrolitos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "reemplazar la pérdida de sangre.",
+      "d": "reintroducir ácidos grasos."
+    },
+    "correct": "a",
+    "correct_text": "reemplazar la pérdida de agua y electrolitos."
+  },
+  {
+    "question": "Las patologías más frecuentes e importantes se suelen presentar en…",
+    "options": {
+      "a": "el hígado.",
+      "b": "el intestino delgado.",
+      "c": "la boca.",
+      "d": "el esófago y estómago."
+    },
+    "correct": "d",
+    "correct_text": "el esófago y estómago."
+  },
+  {
+    "question": "Entre los iones que debe contener la rehidratación oral contra la diarrea encontramos…",
+    "options": {
+      "a": "potasio.",
+      "b": "cloruros.",
+      "c": "Todas las respuestas anteriores son correctas.",
+      "d": "bicarbonato."
+    },
+    "correct": "c",
+    "correct_text": "Todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Entre los conceptos relacionados con el vómito que debemos conocer, se define como “los movimientos espasmódicos respiratorios con la glotis cerrada, acompañados de la contracción forzada de la musculatura respiratoria y abdominal”...",
+    "options": {
+      "a": "arcada.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "regurgitación.",
+      "d": "náusea."
+    },
+    "correct": "a",
+    "correct_text": "arcada."
+  },
+  {
+    "question": "¿Qué tipo de dieta deben tener los pacientes con una úlcera gastroduodenal?",
+    "options": {
+      "a": "una dieta poco variada.",
+      "b": "una dieta rica en vitaminas.",
+      "c": "una dieta basada en la comida basura.",
+      "d": "no existe evidencia científica para recomendarles una dieta."
+    },
+    "correct": "d",
+    "correct_text": "no existe evidencia científica para recomendarles una dieta."
+  },
+  {
+    "question": "Se define como “el síndrome caracterizado por un incremento en la frecuencia, el peso o el contenido de agua en las heces.”...",
+    "options": {
+      "a": "úlcera gastroduodenal.",
+      "b": "diarrea.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "estreñimiento."
+    },
+    "correct": "b",
+    "correct_text": "diarrea."
+  },
+  {
+    "question": "Para lograr reducir los efectos del reflujo gastroesofágico, tenemos que evitar…",
+    "options": {
+      "a": "el sobrepeso.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "los esfuerzos físicos.",
+      "d": "la ropa apretada."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Se ha estimado que un… de la población adulta sufre pirosis…",
+    "options": {
+      "a": "un 20%.",
+      "b": "un 15%.",
+      "c": "un 1%.",
+      "d": "un 5 o 10%."
+    },
+    "correct": "d",
+    "correct_text": "un 5 o 10%."
+  },
+  {
+    "question": "En la capacidad para el transporte hidroelectrolítico del intestino, se estima que diariamente se vierten…",
+    "options": {
+      "a": "9 litros de líquidos al intestino para aumentar la digestión.",
+      "b": "2 litros de líquidos al intestino para facilitar la digestión.",
+      "c": "9 litros de líquidos al intestino para facilitar la digestión.",
+      "d": "9 litros de líquidos al intestino para dificultar la digestión."
+    },
+    "correct": "c",
+    "correct_text": "9 litros de líquidos al intestino para facilitar la digestión."
+  },
+  {
+    "question": "Para disminuir los factores agresores en una úlcera gastrointestinal, se aplican…",
+    "options": {
+      "a": "ciertas cremas que alivian el quemazón.",
+      "b": "inhibidores de la secreción ácida.",
+      "c": "con un poco de agua se pasa la sensación de ardor.",
+      "d": "no se utiliza ningún tipo de pastilla."
+    },
+    "correct": "b",
+    "correct_text": "inhibidores de la secreción ácida."
+  },
+  {
+    "question": "Se define como “el paso del contenido gástrico, por lo común ácido, al esófago en ausencia de vómito”, a…",
+    "options": {
+      "a": "el reflujo gastroesofágico.",
+      "b": "las náuseas.",
+      "c": "la úlcera gastroduodenal.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "el reflujo gastroesofágico."
+  },
+  {
+    "question": "La causa que parece fundamental de la ERGE es…",
+    "options": {
+      "a": "la rotura de la barrera espontánea.",
+      "b": "la prolongación de las relajaciones espontáneas.",
+      "c": "ninguna de las respuestas anteriores son correctas.",
+      "d": "la unión de las relajaciones espontáneas."
+    },
+    "correct": "b",
+    "correct_text": "la prolongación de las relajaciones espontáneas."
+  },
+  {
+    "question": "Entre los síntomas que suele presentar de forma brusca la diarrea aguda, podemos encontrarnos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "deshidratación.",
+      "c": "heces frecuentes y líquidas.",
+      "d": "debilidad y dolor abdominal."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "En el daño pancreático de la pancreatitis aguda cabe considerar varios protagonistas como…",
+    "options": {
+      "a": "una inflamación.",
+      "b": "radicales libres.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "enzimas pancreáticas."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "¿Durante cuánto tiempo se suele extender una diarrea para empezar a considerarse crónica?",
+    "options": {
+      "a": "una semana.",
+      "b": "entre tres y cuatro semanas.",
+      "c": "dos meses.",
+      "d": "tres días."
+    },
+    "correct": "b",
+    "correct_text": "entre tres y cuatro semanas."
+  },
+  {
+    "question": "El mejor tratamiento ante la esteatohepatitis no alcoholica es…",
+    "options": {
+      "a": "la recomendación de una dieta por parte de un nutricionista.",
+      "b": "la realización de actividad sedentaria.",
+      "c": "inexistente, porque no hay un tratamiento farmacológico que mejore o frene el proceso.",
+      "d": "la consumición de alcohol."
+    },
+    "correct": "c",
+    "correct_text": "inexistente, porque no hay un tratamiento farmacológico que mejore o frene el proceso."
+  },
+  {
+    "question": "Finalmente, tras el tratamiento con sueroterapia, se reintroduce…",
+    "options": {
+      "a": "una gran cantidad de dieta sólida con muchas grasas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "una gran ingesta de comida.",
+      "d": "la ingesta oral, con ingesta líquida frecuente."
+    },
+    "correct": "d",
+    "correct_text": "la ingesta oral, con ingesta líquida frecuente."
+  },
+  {
+    "question": "En el tratamiento del reflujo gastroesofágico, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la remisión de los síntomas.",
+      "c": "las recomendaciones higiénico-dietéticas.",
+      "d": "la curación de lesiones esofágicas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Entre las medidas posturales que encontramos para reducir los síntomas del reflujo gastroesofágico, tenemos…",
+    "options": {
+      "a": "bajar el cabecero de la cama.",
+      "b": "consumir tabaco.",
+      "c": "no acostarse hasta 2 o 3 horas después de la ingesta.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "no acostarse hasta 2 o 3 horas después de la ingesta."
+  },
+  {
+    "question": "Entre las medidas dietéticas que se dictan para minimizar los síntomas del reflujo, encontramos…",
+    "options": {
+      "a": "realizar comidas con gran volumen.",
+      "b": "evitar las comidas copiosas.",
+      "c": "realizar comidas poco frecuentes.",
+      "d": "aumentar la ingesta de alimentos."
+    },
+    "correct": "b",
+    "correct_text": "evitar las comidas copiosas."
+  },
+  {
+    "question": "Se define como “una lesión con pérdida de sustancia en cualquiera de las superficies del cuerpo humano” a…",
+    "options": {
+      "a": "una brecha.",
+      "b": "una úlcera.",
+      "c": "una herida.",
+      "d": "una rotura."
+    },
+    "correct": "b",
+    "correct_text": "una úlcera."
+  },
+  {
+    "question": "El tratamiento ante el vómito comprende actuaciones como…",
+    "options": {
+      "a": "el tratamiento específico de la enfermedad.",
+      "b": "la corrección del déficit hidroelectrolítico y calórico.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el tratamiento farmacológico del vómito."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Se define como “un cuadro histológico en que se aprecian las alteraciones que caracterizan la hepatitis alcohólica”...",
+    "options": {
+      "a": "la hepatopatia alcohólica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la esteatohepatitis no alcohólica.",
+      "d": "la hepatitis crónica autoinmune."
+    },
+    "correct": "c",
+    "correct_text": "la esteatohepatitis no alcohólica."
+  },
+  {
+    "question": "La causa más conocida que origina el estreñimiento es…",
+    "options": {
+      "a": "la dieta con gran cantidad de calorías.",
+      "b": "ninguna porque no existe una causa conocida que lo origine.",
+      "c": "la dieta rica en fibra y vitaminas.",
+      "d": "la dieta alta en grasas y ácidos."
+    },
+    "correct": "b",
+    "correct_text": "ninguna porque no existe una causa conocida que lo origine."
+  },
+  {
+    "question": "Se define como “la inflamación crónica del hígado secundaria al desarrollo de fenómenos de autoinmunidad en su tejido”...",
+    "options": {
+      "a": "la esteatohepatitis no alcohólica.",
+      "b": "la hepatopatia alcohólica.",
+      "c": "la úlcera gastroduodenal.",
+      "d": "la hepatitis crónica autoinmune."
+    },
+    "correct": "d",
+    "correct_text": "la hepatitis crónica autoinmune."
+  },
+  {
+    "question": "La alteración de… es la causa fundamental de producción de la ERGE.",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "bolsa antirreflujo.",
+      "c": "la línea antirreflujo.",
+      "d": "la barrera antirreflujo."
+    },
+    "correct": "d",
+    "correct_text": "la barrera antirreflujo."
+  },
+  {
+    "question": "La forma más frecuente de la úlcera péptica es…",
+    "options": {
+      "a": "la estomacal.",
+      "b": "la intestinal.",
+      "c": "la duodenal.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la duodenal."
+  },
+  {
+    "question": "Entre las patologías que hemos estudiado para las enfermedades que afectan al hígado encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la Hepatohepatia alcoholica.",
+      "c": "los procesos tóxicos-metabólicos.",
+      "d": "la hepatitis crónica autoinmune."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "La gravedad de la esofagitis se puede catalogar según…",
+    "options": {
+      "a": "el tiempo de lesión.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el tipo de lesión y su extensión.",
+      "d": "la forma de la lesión."
+    },
+    "correct": "c",
+    "correct_text": "el tipo de lesión y su extensión."
+  },
+  {
+    "question": "Los agentes normalmente no producen daños ni síntomas, puesto que existen unos mecanismos de defensa…",
+    "options": {
+      "a": "involuntarios.",
+      "b": "voluntarios.",
+      "c": "extrínsecos.",
+      "d": "intrínsecos."
+    },
+    "correct": "d",
+    "correct_text": "intrínsecos."
+  },
+  {
+    "question": "En general, las personas con hepatitis virales, suelen presentar síntomas…",
+    "options": {
+      "a": "graves.",
+      "b": "leves.",
+      "c": "inespecíficos o bien son asintomáticas.",
+      "d": "muy comunes entre sí."
+    },
+    "correct": "c",
+    "correct_text": "inespecíficos o bien son asintomáticas."
+  },
+  {
+    "question": "El vómito, evolutivamente se desarrolló como…",
+    "options": {
+      "a": "un mecanismo para expulsar del cuerpo sustancias tóxicas ingeridas.",
+      "b": "ninguna de las respuestas anteriores son correctas.",
+      "c": "un mecanismo para hacer que se alejen enemigos de nosotros.",
+      "d": "un mecanismo de absorción de nutrientes."
+    },
+    "correct": "a",
+    "correct_text": "un mecanismo para expulsar del cuerpo sustancias tóxicas ingeridas."
+  },
+  {
+    "question": "Entre los síntomas más característicos de la ERGE encontramos…",
+    "options": {
+      "a": "la regurgitación ácida, únicamente.",
+      "b": "la pirosis, únicamente.",
+      "c": "el vómito.",
+      "d": "ambas respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "ambas respuestas anteriores son correctas."
+  },
+  {
+    "question": "Entre las enfermedades que afectan al hígado, el cuadro final común es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "procesos tóxicos.",
+      "c": "la cirrosis hepática.",
+      "d": "enfermedades cardiovasculares."
+    },
+    "correct": "c",
+    "correct_text": "la cirrosis hepática."
+  },
+  {
+    "question": "Entre las recomendaciones que se indican para los pacientes con estreñimiento crónico, encontramos…",
+    "options": {
+      "a": "mejorar los hábitos de evacuación del paciente.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "realizar ejercicio de manera continuada y diaria.",
+      "d": "mejorar los hábitos dietéticos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Se define como “la expulsión violenta y espasmódica del contenido del estómago a través de la boca”...",
+    "options": {
+      "a": "úlcera gastroduodenal.",
+      "b": "vómito.",
+      "c": "regurgitación.",
+      "d": "náusea."
+    },
+    "correct": "b",
+    "correct_text": "vómito."
+  },
+  {
+    "question": "Se define como “una intensa contracción de la musculatura abdominal diafragmática, al tiempo que el cardias permanece abierto y elevado y el píloro contraído”",
+    "options": {
+      "a": "arcada.",
+      "b": "náusea.",
+      "c": "regurgitación.",
+      "d": "vómito."
+    },
+    "correct": "d",
+    "correct_text": "vómito."
+  },
+  {
+    "question": "Según la OMS, establece que existe diarrea cuando…",
+    "options": {
+      "a": "hay una o más deposiciones de gran consistencia al día.",
+      "b": "hay cinco o más deposiciones de baja consistencia al día.",
+      "c": "hay seis o más deposiciones de baja consistencia al día.",
+      "d": "hay tres o más deposiciones de baja consistencia al día."
+    },
+    "correct": "d",
+    "correct_text": "hay tres o más deposiciones de baja consistencia al día."
+  },
+  {
+    "question": "El esfínter esofágico inferior está situado en la unión entre…",
+    "options": {
+      "a": "el esófago y el estómago.",
+      "b": "el esófago y la boca.",
+      "c": "el esófago y el páncreas.",
+      "d": "el esófago y la laringe."
+    },
+    "correct": "a",
+    "correct_text": "el esófago y el estómago."
+  }
+]

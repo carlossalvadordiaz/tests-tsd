@@ -1,0 +1,684 @@
+[
+  {
+    "question": "El intestino delgado recibe un cantidad total de fluidos diarios de…",
+    "options": {
+      "a": "3 litros al día.",
+      "b": "5 litros al día.",
+      "c": "10 litros al día.",
+      "d": "8 litros al día."
+    },
+    "correct": "d",
+    "correct_text": "8 litros al día."
+  },
+  {
+    "question": "¿Cuál constituye el principal mecanismo endocrino?…",
+    "options": {
+      "a": "la liberación de gastrina.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la liberación de pepsina.",
+      "d": "la liberación de amilasa."
+    },
+    "correct": "a",
+    "correct_text": "la liberación de gastrina."
+  },
+  {
+    "question": "El proceso que se encarga de reducir el tamaño del alimento y favorece su mezcla con la saliva iniciando la digestión del bolo alimenticio es…",
+    "options": {
+      "a": "la digestión.",
+      "b": "la secreción.",
+      "c": "la excreción.",
+      "d": "la masticación."
+    },
+    "correct": "a",
+    "correct_text": "la digestión."
+  },
+  {
+    "question": "Entre los factores que pueden variar el tiempo del tránsito intestinal, encontramos…",
+    "options": {
+      "a": "la naturaleza.",
+      "b": "la composición en proteínas e hidratos de carbono.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la composición en grasas."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "El páncreas es una víscera de pequeño tamaño situada entre…",
+    "options": {
+      "a": "El estómago, el duodeno, el colon y la columna vertebral.",
+      "b": "el estómago y el esófago.",
+      "c": "el colon y la columna vertebral.",
+      "d": "el estómago y el duodeno."
+    },
+    "correct": "c",
+    "correct_text": "el colon y la columna vertebral."
+  },
+  {
+    "question": "La saliva contiene enzimas como…",
+    "options": {
+      "a": "la amilasa.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "ambas respuestas son correctas.",
+      "d": "la lisozima."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas son correctas."
+  },
+  {
+    "question": "El tracto biliar permite el paso de la bilis producida por el hígado hasta…",
+    "options": {
+      "a": "el estómago.",
+      "b": "el páncreas.",
+      "c": "la vesícula biliar.",
+      "d": "el intestino."
+    },
+    "correct": "d",
+    "correct_text": "el intestino."
+  },
+  {
+    "question": "La principal función del sistema gastrointestinal es…",
+    "options": {
+      "a": "desechar los alimentos.",
+      "b": "protegernos ante agentes externos.",
+      "c": "no procesar las sustancias procedentes de los alimentos.",
+      "d": "procesar las sustancias procedentes de los alimentos y ofertarlos a las células."
+    },
+    "correct": "d",
+    "correct_text": "procesar las sustancias procedentes de los alimentos y ofertarlos a las células."
+  },
+  {
+    "question": "Las formaciones tubulares muy profundas que se distinguen en el microscopio dentro de la mucosa gástrica, se denominan…",
+    "options": {
+      "a": "mucosas gástricas.",
+      "b": "epitelios celulares.",
+      "c": "células mucosas.",
+      "d": "glándulas gástricas."
+    },
+    "correct": "d",
+    "correct_text": "glándulas gástricas."
+  },
+  {
+    "question": "¿Cómo se denomina la formación originada tras el amasado del quimo y unido a las secreciones?…",
+    "options": {
+      "a": "bolo gástrico.",
+      "b": "quilo.",
+      "c": "bolo alimenticio.",
+      "d": "quino."
+    },
+    "correct": "b",
+    "correct_text": "quilo."
+  },
+  {
+    "question": "¿Qué porcentaje de las sales biliares que llegan al intestino se reabsorben por transporte activo en el íleon distal?…",
+    "options": {
+      "a": "un 80%.",
+      "b": "un 99%.",
+      "c": "un 94%.",
+      "d": "un 60%."
+    },
+    "correct": "c",
+    "correct_text": "un 94%."
+  },
+  {
+    "question": "El colon, a su vez, está dividido en…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "tres partes, el colon transverso, descendente y sigmoideo.",
+      "c": "una sola parte, el colon transverso.",
+      "d": "tres partes, el colon ascendente, transverso y descendente."
+    },
+    "correct": "a",
+    "correct_text": "ninguna de las respuestas anteriores es correcta."
+  },
+  {
+    "question": "¿Cómo se conduce el bolo alimenticio desde la boca al estómago?",
+    "options": {
+      "a": "sin mecanismos reflejos.",
+      "b": "con un mecanismo forzado.",
+      "c": "mediante mecanismos voluntarios y reflejos posteriores.",
+      "d": "mediante un proceso obligado."
+    },
+    "correct": "c",
+    "correct_text": "mediante mecanismos voluntarios y reflejos posteriores."
+  },
+  {
+    "question": "Entre las funciones de la saliva encontramos…",
+    "options": {
+      "a": "la disolución de las sustancias.",
+      "b": "hacer posible la sensación gustativa.",
+      "c": "la actividad antimicrobiana.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Se denomina como el proceso de escisión de los alimentos en sus componentes más elementales susceptibles de ser absorbidos…",
+    "options": {
+      "a": "la digestión",
+      "b": "la masticación",
+      "c": "la secreción",
+      "d": "la formación del bolo alimenticio"
+    },
+    "correct": "a",
+    "correct_text": "la digestión"
+  },
+  {
+    "question": "El tejido hepático se organiza constituyendo…",
+    "options": {
+      "a": "los lobulillos.",
+      "b": "los hepatocitos.",
+      "c": "los enterocitos.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "los lobulillos."
+  },
+  {
+    "question": "Los hepatocitos forman cordones de forma…",
+    "options": {
+      "a": "cuadrada.",
+      "b": "hexagonal.",
+      "c": "radiada.",
+      "d": "diagonal."
+    },
+    "correct": "c",
+    "correct_text": "radiada."
+  },
+  {
+    "question": "En la motilidad del intestino delgado, encontramos…",
+    "options": {
+      "a": "que se encarga de mezclar el quimo con las secreciones digestivas.",
+      "b": "que hace progresar el contenido intestinal en sentido laboral.",
+      "c": "que se encarga de mezclar el bolo alimenticio con las secreciones digestivas.",
+      "d": "que no renueva la superficie absortiva de la mucosa intestinal."
+    },
+    "correct": "a",
+    "correct_text": "que se encarga de mezclar el quimo con las secreciones digestivas."
+  },
+  {
+    "question": "El trayecto en el tránsito intestinal puede durar entre…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "24 y 72 horas.",
+      "c": "6 y 36 horas.",
+      "d": "12 y 48 horas."
+    },
+    "correct": "d",
+    "correct_text": "12 y 48 horas."
+  },
+  {
+    "question": "El tracto gastrointestinal es el responsable de…",
+    "options": {
+      "a": "convertir la comida y absorber los nutrientes.",
+      "b": "únicamente de eliminar las sustancias de desecho.",
+      "c": "digerir y hacer la digestión de los alimentos.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "El hígado junto con los riñones, ejerce una una función…",
+    "options": {
+      "a": "de absorción vital.",
+      "b": "detoxificante vital.",
+      "c": "de excreción vital.",
+      "d": "de secreción vital."
+    },
+    "correct": "b",
+    "correct_text": "detoxificante vital."
+  },
+  {
+    "question": "Las encefalinas…",
+    "options": {
+      "a": "no inhiben la secreción estomacal.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "aumentan la velocidad del tránsito intestinal.",
+      "d": "disminuyen la velocidad del tránsito intestinal."
+    },
+    "correct": "d",
+    "correct_text": "disminuyen la velocidad del tránsito intestinal."
+  },
+  {
+    "question": "La principal función del factor intrínseco es…",
+    "options": {
+      "a": "introducir los nutrientes en la sangre.",
+      "b": "fijar la vitamina B12 en el íleon.",
+      "c": "transportar los hidratos de carbono.",
+      "d": "fijar las proteínas en el hígado."
+    },
+    "correct": "b",
+    "correct_text": "fijar la vitamina B12 en el íleon."
+  },
+  {
+    "question": "El segmento distal o íleon tiene entre sus funciones…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la absorción de las sales biliares.",
+      "c": "unas funciones selectivas.",
+      "d": "la absorción de la vitamina B12."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "¿Qué parte del cuerpo humano es el más importante centro regulador del apetito?…",
+    "options": {
+      "a": "las fosas nasales.",
+      "b": "el hipotálamo.",
+      "c": "las glándulas salivales.",
+      "d": "el cerebro."
+    },
+    "correct": "b",
+    "correct_text": "el hipotálamo."
+  },
+  {
+    "question": "La célula enterocromafín también posee receptores para…",
+    "options": {
+      "a": "la acetilcolina y la gastrina.",
+      "b": "la amilasa.",
+      "c": "la pepsina.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "la acetilcolina y la gastrina."
+  },
+  {
+    "question": "La misión del tracto gastrointestinal inferior es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la formación y excreción de heces.",
+      "c": "la formación del bolo alimenticio.",
+      "d": "el conseguir los nutrientes necesarios."
+    },
+    "correct": "b",
+    "correct_text": "la formación y excreción de heces."
+  },
+  {
+    "question": "La enzima que facilita la digestión de los hidratos de carbono es…",
+    "options": {
+      "a": "la fosfolipasa.",
+      "b": "la pepsina.",
+      "c": "la amilasa.",
+      "d": "la quimiotripsina."
+    },
+    "correct": "c",
+    "correct_text": "la amilasa."
+  },
+  {
+    "question": "Entre los objetivos de la motilidad gástrica encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "vaciar su contenido hacia el intestino delgado.",
+      "c": "permitir que el estómago realice su función de reserva.",
+      "d": "disminuir el tamaño de las partículas del alimento y mezclarlas con secreciones digestivas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "La capa serosa está constituida por…",
+    "options": {
+      "a": "una primera capa circular y una segunda capa longitudinal.",
+      "b": "la reflexión del peritoneo sobre las vísceras.",
+      "c": "únicamente el meseterio.",
+      "d": "la cavidad peritoneal y el líquido seroso."
+    },
+    "correct": "b",
+    "correct_text": "la reflexión del peritoneo sobre las vísceras."
+  },
+  {
+    "question": "El control de la secreción pancreática es esencialmente…",
+    "options": {
+      "a": "involuntario.",
+      "b": "humoral.",
+      "c": "voluntario.",
+      "d": "vagal."
+    },
+    "correct": "b",
+    "correct_text": "humoral."
+  },
+  {
+    "question": "El ciego es…",
+    "options": {
+      "a": "un saco que se proyecta hacia abajo desde la unión entre íleon y colon.",
+      "b": "un saco que se proyecta hacia arriba en la unión entre el intestino delgado y grueso.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un saco que se proyecta hacia abajo desde la unión del hígado hasta el páncreas."
+    },
+    "correct": "a",
+    "correct_text": "un saco que se proyecta hacia abajo desde la unión entre íleon y colon."
+  },
+  {
+    "question": "La conexión entre el intestino delgado y el estómago, se realiza a través de…",
+    "options": {
+      "a": "el páncreas.",
+      "b": "el íleon.",
+      "c": "el duodeno.",
+      "d": "el yeyuno."
+    },
+    "correct": "c",
+    "correct_text": "el duodeno."
+  },
+  {
+    "question": "El principal neurotransmisor de las neuronas motoras de carácter excitador es…",
+    "options": {
+      "a": "la acetilcolina.",
+      "b": "la pepsina.",
+      "c": "la amilasa.",
+      "d": "la serotonina."
+    },
+    "correct": "a",
+    "correct_text": "la acetilcolina."
+  },
+  {
+    "question": "Las glándulas salivares…",
+    "options": {
+      "a": "ayudan a dar sabor a la comida.",
+      "b": "logran tragar la comida.",
+      "c": "se encargan de masticar la comida.",
+      "d": "liberan enzimas digestivas para comenzar la digestión."
+    },
+    "correct": "d",
+    "correct_text": "liberan enzimas digestivas para comenzar la digestión."
+  },
+  {
+    "question": "La secreción biliar es imprescindible para…",
+    "options": {
+      "a": "la digestión y absorción adecuadas.",
+      "b": "la absorción, únicamente.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la excreción de las heces."
+    },
+    "correct": "a",
+    "correct_text": "la digestión y absorción adecuadas."
+  },
+  {
+    "question": "El producto que se forma en la secreción gástrica se denomina y tiene una cantidad de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "jugo gástrico y 1’5 litros al día.",
+      "c": "amilasa y 1’5 litros al día.",
+      "d": "jugo mucoso y 2 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "jugo gástrico y 1’5 litros al día."
+  },
+  {
+    "question": "La serotonina, liberada por células enterocromafines epiteliales, en respuesta a estímulos luminales, desencadena…",
+    "options": {
+      "a": "actos reflejos peristálticos.",
+      "b": "actos voluntarios.",
+      "c": "actos involuntarios.",
+      "d": "actos no reflejos."
+    },
+    "correct": "a",
+    "correct_text": "actos reflejos peristálticos."
+  },
+  {
+    "question": "Las principales enzimas digestivas implicadas que actúan sobre las proteínas…",
+    "options": {
+      "a": "la aminopeptidasa.",
+      "b": "la quimiotripsina.",
+      "c": "la pepsina y la tripsina.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "La actuación coordinada y efectiva en todo el tracto digestivo se consigue mediante…",
+    "options": {
+      "a": "postneuronas conectadas entre sí a las neuronas entéricas.",
+      "b": "proneuronas conectadas entre sí.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "interneuronas conectadas entre sí a las neuronas entéricas."
+    },
+    "correct": "d",
+    "correct_text": "interneuronas conectadas entre sí a las neuronas entéricas."
+  },
+  {
+    "question": "La mayor parte del proceso digestivo se lleva a cabo en…",
+    "options": {
+      "a": "el íleon.",
+      "b": "el hígado.",
+      "c": "el intestino grueso.",
+      "d": "el intestino delgado."
+    },
+    "correct": "d",
+    "correct_text": "el intestino delgado."
+  },
+  {
+    "question": "¿Qué tipo de vitamina almacenan las células estrelladas o de Ito?…",
+    "options": {
+      "a": "la vitamina D.",
+      "b": "la vitamina A.",
+      "c": "la vitamina C.",
+      "d": "la vitamina K."
+    },
+    "correct": "b",
+    "correct_text": "la vitamina A."
+  },
+  {
+    "question": "La presencia de enteroquinasa y otras enzimas en el intestino va a transformar…",
+    "options": {
+      "a": "la amilasa.",
+      "b": "la catepsina.",
+      "c": "el tripsinógeno en tripsina.",
+      "d": "la fosfolipasa."
+    },
+    "correct": "c",
+    "correct_text": "el tripsinógeno en tripsina."
+  },
+  {
+    "question": "La motilidad del intestino grueso se consigue a través de…",
+    "options": {
+      "a": "contracciones del ciego y el colon descendente de tipo segmentario.",
+      "b": "contracciones del intestino de tipo grueso.",
+      "c": "contracciones del hígado y el páncreas de tipo inferior.",
+      "d": "contracciones del ciego y el colon ascendente de tipo segmentario."
+    },
+    "correct": "d",
+    "correct_text": "contracciones del ciego y el colon ascendente de tipo segmentario."
+  },
+  {
+    "question": "El hígado pesa aproximadamente…",
+    "options": {
+      "a": "3 kg.",
+      "b": "1 kg.",
+      "c": "2 kg.",
+      "d": "1’5 kg."
+    },
+    "correct": "d",
+    "correct_text": "1’5 kg."
+  },
+  {
+    "question": "El proceso mediante el cual el aparato digestivo transforma los nutrientes en moléculas se denomina…",
+    "options": {
+      "a": "motilidad.",
+      "b": "digestión.",
+      "c": "secreción.",
+      "d": "absorción."
+    },
+    "correct": "b",
+    "correct_text": "digestión."
+  },
+  {
+    "question": "El tracto gastrointestinal, al igual que la piel, constituye…",
+    "options": {
+      "a": "una barrera entre el medio interno y el exterior.",
+      "b": "una pequeña porción del cuerpo humano.",
+      "c": "una barrera entre la piel y los órganos.",
+      "d": "una mucosa dentro de los órganos del ser humano."
+    },
+    "correct": "a",
+    "correct_text": "una barrera entre el medio interno y el exterior."
+  },
+  {
+    "question": "La histamina es responsable de…",
+    "options": {
+      "a": "controlar las moléculas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "controlar la mucosa gástrica.",
+      "d": "controlar la liberación basal de HCI."
+    },
+    "correct": "d",
+    "correct_text": "controlar la liberación basal de HCI."
+  },
+  {
+    "question": "Entre las principales funciones que desarrolla el hígado encontramos…",
+    "options": {
+      "a": "dejar de actuar como regulador de la glucemia.",
+      "b": "degradar los hidratos de carbono.",
+      "c": "la oxidación de las proteínas.",
+      "d": "sintetizar los ácidos y las sales biliares."
+    },
+    "correct": "d",
+    "correct_text": "sintetizar los ácidos y las sales biliares."
+  },
+  {
+    "question": "¿Qué tipo de motilidad presenta el intestino delgado al igual que el estómago?…",
+    "options": {
+      "a": "estomacal.",
+      "b": "gástrica.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "peristáltica."
+    },
+    "correct": "d",
+    "correct_text": "peristáltica."
+  },
+  {
+    "question": "Las capas que conforman el tubo digestivo es…",
+    "options": {
+      "a": "la mucosa y el epitelio.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la lámina propia.",
+      "d": "la capa muscular de la mucosa."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "La motilidad intestinal se define como…",
+    "options": {
+      "a": "el proceso que sirve para producir el desplazamiento de los nutrientes por el tracto digestivo.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el proceso mediante el cual el aparato digestivo transforma los nutrientes en moléculas.",
+      "d": "el proceso mediante el cual las moléculas son capaces de traspasar las paredes gastrointestinales hasta la sangre."
+    },
+    "correct": "a",
+    "correct_text": "el proceso que sirve para producir el desplazamiento de los nutrientes por el tracto digestivo."
+  },
+  {
+    "question": "Los segmentos secretores del tracto gastrointestinal son…",
+    "options": {
+      "a": "la secreción intestinal.",
+      "b": "la secreción salival.",
+      "c": "la secreción gástrica.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Las células oxínticas o parietales, son las principales productoras de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "moco y algo de pepsinógeno.",
+      "c": "hormonas péptidicas.",
+      "d": "HCI y factor intrínseco."
+    },
+    "correct": "d",
+    "correct_text": "HCI y factor intrínseco."
+  },
+  {
+    "question": "Entre los órganos accesorios del tracto gastrointestinal, encontramos…",
+    "options": {
+      "a": "el páncreas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el hígado.",
+      "d": "la vesícula biliar."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "La secreción pancreática es capaz de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "transformar los alimentos en nutrientes y la excreción de las sustancias de deshecho.",
+      "c": "absorber los nutrientes provenientes del alimento.",
+      "d": "degradar los principios inmediatos hasta moléculas simples para su absorción en el enterocito."
+    },
+    "correct": "d",
+    "correct_text": "degradar los principios inmediatos hasta moléculas simples para su absorción en el enterocito."
+  },
+  {
+    "question": "La motilidad intestinal tiene por objeto…",
+    "options": {
+      "a": "promover la progresión ordenada de los alimentos por el tracto digestivo.",
+      "b": "la excreción de los restos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "nutrir a la sangre de los nutrientes necesarios."
+    },
+    "correct": "a",
+    "correct_text": "promover la progresión ordenada de los alimentos por el tracto digestivo."
+  },
+  {
+    "question": "En los sinusoides se encuentran, además de las células endoteliales…",
+    "options": {
+      "a": "las células de Kupffer.",
+      "b": "las células de Meissner.",
+      "c": "las células de Advance.",
+      "d": "los hepatocitos."
+    },
+    "correct": "a",
+    "correct_text": "las células de Kupffer."
+  },
+  {
+    "question": "La ampolla de Vater, desemboca en el duodeno a través de la…",
+    "options": {
+      "a": "papila duodenal.",
+      "b": "papila intestinal.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "papila gástrica."
+    },
+    "correct": "a",
+    "correct_text": "papila duodenal."
+  },
+  {
+    "question": "La musculatura del tracto gastrointestinal es lisa salvo en…",
+    "options": {
+      "a": "el páncreas.",
+      "b": "el esófago.",
+      "c": "el estómago.",
+      "d": "el hígado."
+    },
+    "correct": "b",
+    "correct_text": "el esófago."
+  },
+  {
+    "question": "La estimulación vagal, se induce de forma refleja ante la presencia o el olor del alimento…",
+    "options": {
+      "a": "ambas respuestas anteriores son correctas.",
+      "b": "libera acetilcolina.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "activa la secreción ácida y la de gastrina."
+    },
+    "correct": "a",
+    "correct_text": "ambas respuestas anteriores son correctas."
+  },
+  {
+    "question": "La vesícula biliar es un reservorio donde se almacena…",
+    "options": {
+      "a": "la bilis.",
+      "b": "el quimo.",
+      "c": "el quilo.",
+      "d": "el bolo alimenticio."
+    },
+    "correct": "a",
+    "correct_text": "la bilis."
+  }
+]

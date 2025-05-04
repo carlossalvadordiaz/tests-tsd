@@ -1,0 +1,1081 @@
+[
+  {
+    "question": "Funciones de los delegados sindicales:",
+    "options": {
+      "a": "Todas son correctas.",
+      "b": "Es un puente entre la empresa y los miembros del Comité de empresa.",
+      "c": "Maneja todas las posibles quejas formales que se plantean por los trabajadores al sindicato.",
+      "d": "Cuenta con una función reclutadora."
+    },
+    "correct": "a",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Como monitor de ocio y tiempo libre, se considera falta grave:",
+    "options": {
+      "a": "Dejar de notificar, dentro de las 24 horas siguientes a la ausencia, los motivos que puedan justificar la falta al trabajo, salvo que se demuestre que es imposible de hacerlo.",
+      "b": "La reiteración o la reincidencia en la falta leve dentro de un mismo trimestre, siempre que haya sido sancionada y sea firme.",
+      "c": "Negligencia en la conservación del material y de las instalaciones que no causen perjuicio a la empresa.",
+      "d": "Todas son correctas."
+    },
+    "correct": "b",
+    "correct_text": "La reiteración o la reincidencia en la falta leve dentro de un mismo trimestre, siempre que haya sido sancionada y sea firme.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Funciones del comité de empresa o delegado de personal (señala la opción incorrecta):",
+    "options": {
+      "a": "Vigilar y controlar la seguridad y salud en el trabajo.",
+      "b": "No tiene por qué colaborar con la empresa para aumentar la productividad.",
+      "c": "Vigilar la igualdad de trato entre hombres y mujeres.",
+      "d": "Colaborar para establecer medidas de conciliación de la vida personal y laboral."
+    },
+    "correct": "b",
+    "correct_text": "No tiene por qué colaborar con la empresa para aumentar la productividad.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿En qué grupo se encuadra un monitor de ocio y tiempo libre dentro del convenio colectivo de ocio educativo y de animación sociocultural?",
+    "options": {
+      "a": "Grupo III.",
+      "b": "Grupo I.",
+      "c": "Grupo II.",
+      "d": "Grupo IV."
+    },
+    "correct": "d",
+    "correct_text": "Grupo IV.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué artículo de la constitución española recoge derechos como a sindicarse o el derecho a la huelga?",
+    "options": {
+      "a": "40.",
+      "b": "28.",
+      "c": "25.",
+      "d": "30."
+    },
+    "correct": "b",
+    "correct_text": "28.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las funciones del monitor deportivo son:",
+    "options": {
+      "a": "Acondicionamiento físico básico en grupo.",
+      "b": "Orientación básica para la utilización elemental del equipamiento y maquinaria deportiva.",
+      "c": "Asignación elemental y básica de rutinas grupales.",
+      "d": "Todas son correctas."
+    },
+    "correct": "d",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El ámbito de aplicación de la LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid es:",
+    "options": {
+      "a": "Madrid capital.",
+      "b": "La Comunidad de Madrid",
+      "c": "Europa",
+      "d": "España"
+    },
+    "correct": "b",
+    "correct_text": "La Comunidad de Madrid",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las funciones del especialista de rendimiento físico son:",
+    "options": {
+      "a": "Readaptación, reentrenamiento y/o reeducación de personas, grupos o equipos con lesiones y patologías (diagnosticadas y/o prescritas por un médico), compitan o no.",
+      "b": "Preparación, asesoramiento, planificación, desarrollo y evaluación técnico-científica de actividades físico-deportivas y ejercicios físicos con las siguientes poblaciones que requieren especial atención: mujeres embarazadas o en puerperio, personas mayores y personas con patologías y problemas de salud y asimilados.",
+      "c": "No existe esta figura en la ley",
+      "d": "Asesoramiento, prevención, planificación, diseño, evaluación técnico-científica, desarrollo y ejecución de actividades físico-deportivas y ejercicio físico orientado al mantenimiento, mejora, desarrollo, optimización y recuperación de la condición física y las capacidades coordinativas de personas, grupos o equipos, enfocada o no a la competición o pruebas oficiales. Preparación y entrenamiento personal, sea grupal o individual"
+    },
+    "correct": "d",
+    "correct_text": "Asesoramiento, prevención, planificación, diseño, evaluación técnico-científica, desarrollo y ejecución de actividades físico-deportivas y ejercicio físico orientado al mantenimiento, mejora, desarrollo, optimización y recuperación de la condición física y las capacidades coordinativas de personas, grupos o equipos, enfocada o no a la competición o pruebas oficiales. Preparación y entrenamiento personal, sea grupal o individual",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La dirección, organización, coordinación, planificación, supervisión y evaluación de actividades físicas y deportivas y de los recursos humanos del deporte en un centro, servicio, instalación o entidad deportiva, tanto de titularidad pública como privada son funciones de:",
+    "options": {
+      "a": "Monitor deportivo",
+      "b": "Educador físico.",
+      "c": "Profesor de educación física",
+      "d": "director deportivo"
+    },
+    "correct": "d",
+    "correct_text": "director deportivo",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para ejercer la profesión de Monitora Deportiva/Monitor Deportivo en Actividad Física Recreativa se requiere:",
+    "options": {
+      "a": "Cuando la actividad conlleve conducir al usuario a pie, en bicicleta o utilizando animales en condiciones de seguridad y protección medioambiental por senderos o en zonas de montaña, siempre que no se precisen técnicas de escalada y alpinismo, también podrán ejercer la profesión de Monitora Deportiva/Monitor Deportivo de Actividad Física Recreativa quienes acrediten su cualificación mediante la posesión de la titulación de Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural.",
+      "b": "Todas son verdaderas.",
+      "c": "Técnico Superior en Enseñanza y Animación Sociodeportiva.",
+      "d": "Cuando la actividad conlleve conducir al usuario por itinerarios ecuestres, con especial atención a la seguridad y bienestar animal, utilizando y manteniendo instalaciones, maquinaria y equipos y cumpliendo la normativa de bienestar animal, de prevención de riesgos laborales y de protección ambiental, también podrán ejercer la profesión de Monitora Deportiva/Monitor Deportivo de Actividad Física Recreativa quienes acrediten su cualificación mediante la posesión de la titulación de Técnico en Actividades Ecuestres."
+    },
+    "correct": "b",
+    "correct_text": "Todas son verdaderas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son daños del riesgo eléctrico:",
+    "options": {
+      "a": "Pérdida de conocimiento",
+      "b": "Todas son correctas.",
+      "c": "Quemaduras",
+      "d": "Asfixia"
+    },
+    "correct": "b",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son medidas de prevención de riesgos en el deporte.",
+    "options": {
+      "a": "Superficie de juego: las superficies duras aumentan el riesgo de lesiones como tendinitis, sobre todo en rodilla y talón, debidas al impacto brusco en un suelo duro, especialmente en deportes de contacto como baloncesto, fútbol, etc..",
+      "b": "Superficie de juego: las superficies duras aumentan el riesgo de lesiones como tendinitis, sobre todo en rodilla y talón, debidas al impacto brusco en un suelo duro, especialmente en deportes de contacto como baloncesto, fútbol, etc..",
+      "c": "Todas son correctas.",
+      "d": "Temperatura ambiente: evitar las temperaturas extremas."
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los lugares de trabajo:",
+    "options": {
+      "a": "Los lugares de trabajo son las áreas del centro de trabajo, edificadas o no, en las que los trabajadores deben permanecer o a las que pueden acceder por razón de su trabajo",
+      "b": "Los lugares de trabajo son las áreas del centro de trabajo, edificadas, en las que los trabajadores deben permanecer o a las que pueden acceder por razón de su trabajo",
+      "c": "Los lugares de trabajo son las áreas del centro de trabajo, edificadas o no, en las que los trabajadores no están obligados a permanecer o a las que pueden acceder por razón de su trabajo.",
+      "d": "Los lugares de trabajo son las áreas del centro de trabajo, edificadas , en las que los trabajadores deben permanecer o a las que no pueden acceder por razón de su trabajo"
+    },
+    "correct": "a",
+    "correct_text": "Los lugares de trabajo son las áreas del centro de trabajo, edificadas o no, en las que los trabajadores deben permanecer o a las que pueden acceder por razón de su trabajo",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son radiaciones no ionizantes:",
+    "options": {
+      "a": "rayos X",
+      "b": "rayos gamma",
+      "c": "radiofrecuencia y microondas",
+      "d": "neutrones."
+    },
+    "correct": "c",
+    "correct_text": "radiofrecuencia y microondas",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Un riesgo laboral es:",
+    "options": {
+      "a": "Es la posibilidad de que un trabajador sufra un daño como consecuencia de las condiciones de trabajo",
+      "b": "El riesgo laboral no es inminente",
+      "c": "El riesgo laboral no se puede prevenir.",
+      "d": "El riesgo laboral es previsible"
+    },
+    "correct": "a",
+    "correct_text": "Es la posibilidad de que un trabajador sufra un daño como consecuencia de las condiciones de trabajo",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las pruebas que realizan los candidatos a un puesto de trabajo, con cuyos resultados el seleccionador puede establecer las características personales de este y su posible conducta futura en el empleo se les llama",
+    "options": {
+      "a": "CV.",
+      "b": "Carta de presentación",
+      "c": "entrevista",
+      "d": "test"
+    },
+    "correct": "d",
+    "correct_text": "test",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la fase previa de una entrevista:",
+    "options": {
+      "a": "Ser natural, mostrarse como uno es personal y profesional",
+      "b": "Hacerle preguntas salariales al entrevistador.",
+      "c": "Ser muy puntual. Llegar al menos 10 minutos antes, saludar al entrevistador, presentarnos y agradecer que nos hayan recibido.",
+      "d": "Informarnos sobre la empresa y su sector. Consulta página web, folletos etc."
+    },
+    "correct": "d",
+    "correct_text": "Informarnos sobre la empresa y su sector. Consulta página web, folletos etc.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el desarrollo de la entrevista:",
+    "options": {
+      "a": "Habrá aclaraciones con respecto a la entrevista",
+      "b": "Habrá una conversación introductoria.",
+      "c": "Se resolverán dudas",
+      "d": "Se preguntará por la experiencia profesional"
+    },
+    "correct": "d",
+    "correct_text": "Se preguntará por la experiencia profesional",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La entrevista:",
+    "options": {
+      "a": "Comprueba el estilo más íntimo del candidato. .",
+      "b": "El entrevistador no profundiza en la información ofrecida en el CV.",
+      "c": "A) Suele ser el primer paso en un proceso de selección.",
+      "d": "Durante la entrevista es importante lo que decimos y cómo lo decimos."
+    },
+    "correct": "d",
+    "correct_text": "Durante la entrevista es importante lo que decimos y cómo lo decimos.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para preparar una entrevista:",
+    "options": {
+      "a": "Realiza comentarios positivos de nuestros intereses, metas y aficiones.",
+      "b": "Evita utilizar monosílabos, el vocabulario excesivamente coloquial o rebuscado.",
+      "c": "Evita hablar mal de anteriores trabajos, jefes o compañeros",
+      "d": "Todas son correctas."
+    },
+    "correct": "d",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El ámbito del convenio colectivo que determina el sector o rama de la actividad es el:",
+    "options": {
+      "a": "Temporal.",
+      "b": "Personal.",
+      "c": "Territorial.",
+      "d": "Funcional."
+    },
+    "correct": "d",
+    "correct_text": "Funcional.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Dentro del convenio colectivo estatal de instalaciones deportivas y gimnasios, ¿qué sanción se puede imponer por una falta grave?",
+    "options": {
+      "a": "Suspensión de empleo y sueldo de tres a treinta días.",
+      "b": "Rescisión del contrato de trabajo.",
+      "c": "Amonestación verbal.",
+      "d": "Todas son correctas."
+    },
+    "correct": "a",
+    "correct_text": "Suspensión de empleo y sueldo de tres a treinta días.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La solución a un conflicto colectivo que se realiza ante el SMAC y se pretende que las parte lleguen a un acuerdo se conoce como:",
+    "options": {
+      "a": "Conciliación.",
+      "b": "Mediación.",
+      "c": "Arbitraje.",
+      "d": "Resolución judicial."
+    },
+    "correct": "a",
+    "correct_text": "Conciliación.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Dentro del convenio colectivo estatal de instalaciones deportivas y gimnasios, ¿en qué grupo profesional estarían encuadrados los monitores de sala?",
+    "options": {
+      "a": "Grupo 4.",
+      "b": "Grupo 1.",
+      "c": "Grupo 3.",
+      "d": "Grupo 2."
+    },
+    "correct": "c",
+    "correct_text": "Grupo 3.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se reconocen como profesiones del deporte:",
+    "options": {
+      "a": "Monitor/a Deportivo/a, Entrenador/a Deportivo/a, Preparador/a Físico/a, director/a Deportivo/a y Profesor/a de Educación Física.",
+      "b": "Monitor/a Deportivo/a, Entrenador/a Deportivo/a, Preparador/a Físico/a, director/a Deportivo/a, sanitario/a y Profesor/a de Educación Física.",
+      "c": "Monitor/a Deportivo/a, Entrenador/a Deportivo/a, Preparador/a Físico/a, director/a Deportivo/a, fisioterapeuta y Profesor/a de Educación Física.",
+      "d": "Monitor/a Deportivo/a, Entrenador/a Deportivo/a, Preparador/a Físico/a, director/a Deportivo/a, nutricionista y Profesor/a de Educación Física. ."
+    },
+    "correct": "a",
+    "correct_text": "Monitor/a Deportivo/a, Entrenador/a Deportivo/a, Preparador/a Físico/a, director/a Deportivo/a y Profesor/a de Educación Física.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para ejercer la profesión de Monitora Deportiva/Monitor Deportivo en Acondicionamiento Físico Básico se requiere",
+    "options": {
+      "a": "Licenciatura en Ciencias de la Actividad Física y del Deporte o el correspondiente título de Grado que la sustituya",
+      "b": "Técnico Superior en Enseñanza y Animación Sociodeportiva",
+      "c": "Técnico Superior en Acondicionamiento Físico",
+      "d": "Todas son correctas."
+    },
+    "correct": "d",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La ley del deporte en la Comunidad de Madrid es del año:",
+    "options": {
+      "a": "2007",
+      "b": "2006",
+      "c": "2015.",
+      "d": "2016"
+    },
+    "correct": "d",
+    "correct_text": "2016",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son derechos redactados en la LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+    "options": {
+      "a": "A recibir una prestación de servicios deportivos que no fomente prácticas deportivas que puedan resultar perjudiciales para la salud",
+      "b": "A disponer de información suficiente y comprensible de las actividades físico-deportivas que vayan a desarrollarse.",
+      "c": "Todas son correctas.",
+      "d": "Al respeto de su personalidad, dignidad e intimidad."
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La finalidad de la LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid:",
+    "options": {
+      "a": "Todas son falsas",
+      "b": "Velar por el derecho de las personas que solicitan la prestación de servicios deportivos y Velar por la práctica deportiva saludable",
+      "c": "Disponer de información suficiente y comprensible de las actividades físico-deportivas que vayan a desarrollarse.",
+      "d": "Es ordenar y regular los aspectos esenciales del ejercicio de determinadas profesiones del deporte, reconocer cuales son éstas, determinar las cualificaciones y titulaciones necesarias para ejercerlas y atribuir a cada profesión el ámbito funcional específico que le corresponde."
+    },
+    "correct": "b",
+    "correct_text": "Velar por el derecho de las personas que solicitan la prestación de servicios deportivos y Velar por la práctica deportiva saludable",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Todo suceso anormal, no querido, ni deseado, que interrumpe la continuidad en el trabajo, de forma súbita e inesperada y produce daños contra las personas y/o las cosas es:",
+    "options": {
+      "a": "Un riesgo psicosocial.",
+      "b": "Una lesión",
+      "c": "Una enfermedad profesional",
+      "d": "Un accidente de trabajo"
+    },
+    "correct": "d",
+    "correct_text": "Un accidente de trabajo",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Es una medida de prevención:",
+    "options": {
+      "a": "Los locales deben de tener 3 metros de altura como mínimo y en oficinas de 2,5m",
+      "b": "Pasillos principales con anchura mínima de 5m.",
+      "c": "Escaleras con anchura de 10m con barandillas.",
+      "d": "Cada trabajador debe de disponer de 3m² y 15m³ de volumen"
+    },
+    "correct": "a",
+    "correct_text": "Los locales deben de tener 3 metros de altura como mínimo y en oficinas de 2,5m",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El burnout es:",
+    "options": {
+      "a": "Se produce cuando una persona percibe de una manera agobiante que le piden más de lo que puede ofrecer, provocando una tensión fuerte que puede ocasionar trastornos físicos o psicológicos",
+      "b": "Disminución de la capacidad física y mental para realizar el trabajo debido al cansancio. Se puede dar por carga física o mental.",
+      "c": "Agotamiento y falta de motivación que se produce por una sensación continua y avanzada de estrés laboral",
+      "d": "Se produce cuando una o varias personas ejercen violencia psicológica extrema sobre otra de forma sistemática (una vez en semana al menos durante más de seis meses) ."
+    },
+    "correct": "c",
+    "correct_text": "Agotamiento y falta de motivación que se produce por una sensación continua y avanzada de estrés laboral",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son agentes químicos",
+    "options": {
+      "a": "Polvos y gases",
+      "b": "Bacterias y hongos",
+      "c": "Sustancias tóxicas en general.",
+      "d": "El ruido, la temperatura y las vibraciones"
+    },
+    "correct": "a",
+    "correct_text": "Polvos y gases",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son condiciones de seguridad:",
+    "options": {
+      "a": "Los riesgos físicos",
+      "b": "Los riesgos químicos.",
+      "c": "Los locales y las herramientas",
+      "d": "Los riesgos biológicos"
+    },
+    "correct": "c",
+    "correct_text": "Los locales y las herramientas",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para preparar una entrevista:",
+    "options": {
+      "a": "Evita dar información que pueda perjudicarte",
+      "b": "Todas son correctas.",
+      "c": "Utiliza expresiones de seguridad, ejemplo: “estaré a la altura”",
+      "d": "Mostrar siempre una sonrisa"
+    },
+    "correct": "b",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El proceso de selección se desarrolla a través de los siguientes pasos:",
+    "options": {
+      "a": "Reclutamiento y entrevista.",
+      "b": "Reclutamiento, profesiograma y entrevista",
+      "c": "Reclutamiento, preselección y entrevista",
+      "d": "Profesiograma, reclutamiento, preselección y test, pruebas o entrevistas"
+    },
+    "correct": "d",
+    "correct_text": "Profesiograma, reclutamiento, preselección y test, pruebas o entrevistas",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La huelga legal (señala la respuesta incorrecta):",
+    "options": {
+      "a": "Debe ser comunicada al empresario y a la autoridad laboral como mínimo 5 días antes de la fecha de inicio.",
+      "b": "Acuerdo entre las partes legitimadas.",
+      "c": "Se fijan servicios mínimos.",
+      "d": "Excede los límites del derecho del trabajo."
+    },
+    "correct": "d",
+    "correct_text": "Excede los límites del derecho del trabajo.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los sindicatos persiguen sobre todo los siguientes objetivos (señala la opción incorrecta):",
+    "options": {
+      "a": "La mejora de los sistemas para la prevención de riesgos laborales.",
+      "b": "Representar a sus afiliados para la negociación colectiva.",
+      "c": "Dar ayuda a los asociados, así como cooperación mutua.",
+      "d": "Vigilar que se cumplan las leyes fiscales."
+    },
+    "correct": "d",
+    "correct_text": "Vigilar que se cumplan las leyes fiscales.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Un sindicato es una asociación de trabajadores constituida para la defensa y promoción de intereses ________________ de sus miembros.",
+    "options": {
+      "a": "Económicos.",
+      "b": "Sociales.",
+      "c": "Todas son correctas.",
+      "d": "Profesionales."
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Como monitor de ocio y tiempo libre, ¿cuántas faltas de puntualidad en la asistencia al trabajo son necesarias para que suponga una falta leve?",
+    "options": {
+      "a": "De dos a cinco faltas de puntualidad en la asistencia al trabajo, sin la justificación oportuna, cometidas en el período de treinta días de servicio.",
+      "b": "Dos faltas de puntualidad en menos de siete días.",
+      "c": "De dos a cinco faltas de puntualidad en la asistencia al trabajo, sean o no justificados.",
+      "d": "Cinco faltas de puntualidad en la asistencia al trabajo, sean o no justificados."
+    },
+    "correct": "a",
+    "correct_text": "De dos a cinco faltas de puntualidad en la asistencia al trabajo, sin la justificación oportuna, cometidas en el período de treinta días de servicio.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las funciones del educador físico son:",
+    "options": {
+      "a": "Preparación, asesoramiento, planificación, desarrollo y evaluación técnico-científica de actividades físico-deportivas y ejercicios físicos con las siguientes poblaciones que requieren especial atención: mujeres embarazadas o en puerperio, personas mayores y personas con patologías y problemas de salud y asimilados",
+      "b": "Prevención, asesoramiento, planificación, diseño, desarrollo y evaluación técnico-científica del trabajo.",
+      "c": "Todas son correctas.",
+      "d": "Readaptación, reentrenamiento y/o reeducación de personas, grupos o equipos con lesiones y patologías (diagnosticadas y/o prescritas por un médico), compitan o no."
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son obligaciones de los profesionales deportivos según la LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+    "options": {
+      "a": "Todas son correctas.",
+      "b": "Prestar unos servicios adecuados a las condiciones y necesidades personales de las personas destinatarias, de acuerdo con el estado de los conocimientos científicos de cada momento y con los niveles de calidad y seguridad que se establezcan en disposiciones específicas.",
+      "c": "Estar en posesión de los requisitos habilitantes para el ejercicio de cada una de las profesiones que se regulan en la Ley.",
+      "d": "Velar por la salud de las personas destinatarias de sus servicios y colaborar en la erradicación de prácticas que sean nocivas para la salud de los consumidores usuarios y deportistas"
+    },
+    "correct": "a",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El profesional que dedica su actividad profesional a la enseñanza de la Educación Física en cualquiera de los niveles educativos previstos en la Ley de Educación en vigor.",
+    "options": {
+      "a": "director deportivo",
+      "b": "Profesor de educación física",
+      "c": "Monitor deportivo",
+      "d": "Educador social."
+    },
+    "correct": "b",
+    "correct_text": "Profesor de educación física",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La ley que regula las profesiones deportivas en Madrid es:",
+    "options": {
+      "a": "LEY 6/2014, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+      "b": "LEY 6/2018, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+      "c": "LEY 6/2013, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid.",
+      "d": "LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid"
+    },
+    "correct": "d",
+    "correct_text": "LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son obligaciones de los profesionales deportivos según la LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+    "options": {
+      "a": "Promover el debido control médico de los deportistas mediante profesionales sanitarios.",
+      "b": "Promover el uso del medio natural para ejercer las actividades deportivas de manera sostenible y respetuosa",
+      "c": "Todas son correctas.",
+      "d": "Ejercer la actividad profesional fomentando una práctica deportiva exenta de todo tipo de violencia, racismo o xenofobia."
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son daños derivados del trabajo:",
+    "options": {
+      "a": "Enfermedades profesionales (ET)",
+      "b": "Estrés, fatiga laboral o envejecimiento prematuro",
+      "c": "Todas son correctas.",
+      "d": "Accidentes de trabajo (AT)"
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "En un aula es necesario que haya:",
+    "options": {
+      "a": "1000 lux",
+      "b": "2000 lux.",
+      "c": "500 lux",
+      "d": "200 lux"
+    },
+    "correct": "c",
+    "correct_text": "500 lux",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son medidas de prevención de riesgos en el deporte.",
+    "options": {
+      "a": "Entrenamiento adecuado: incluyendo estiramientos musculares y calentamiento previo a la actividad.",
+      "b": "Reglas: respetarlas ayuda a prevenir la aparición de lesiones asociadas a una mala práctica.",
+      "c": "Todas son correctas.",
+      "d": "Evaluación médica previa a la participación en deportes organizados: aunque no se pueden evitar todos los casos de muerte súbita, la detección de alteraciones cardiovasculares se puede prevenir."
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El deterioro paulatino de la salud del trabajador por la sobreexplotación reiterada a situaciones insalubres producidas en el trabajo, el medio ambiente en el trabajo o la forma en que este se desarrolla es:",
+    "options": {
+      "a": "Un riesgo psicosocial.",
+      "b": "Una enfermedad profesional",
+      "c": "Un accidente de trabajo",
+      "d": "Una lesión"
+    },
+    "correct": "b",
+    "correct_text": "Una enfermedad profesional",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son agentes físicos",
+    "options": {
+      "a": "Polvos y gases",
+      "b": "El ruido, la temperatura y las vibraciones",
+      "c": "Sustancias tóxicas en general.",
+      "d": "Bacterias y hongos"
+    },
+    "correct": "b",
+    "correct_text": "El ruido, la temperatura y las vibraciones",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid, pretende:",
+    "options": {
+      "a": "Ninguna es correcta.",
+      "b": "Proteger y mejorar el deporte, la educación, la integridad física y la calidad de vida de los consumidores, usuarios o deportistas en una prestación de servicios deportivos",
+      "c": "Proteger y mejorar la salud, la educación, la integridad física y la calidad de vida de los deportistas en una prestación de servicios deportivos",
+      "d": "Proteger y mejorar la salud, la educación, la integridad física y la calidad de vida de los consumidores, usuarios o deportistas en una prestación de servicios deportivos y regular las profesiones relacionadas con el deporte"
+    },
+    "correct": "d",
+    "correct_text": "Proteger y mejorar la salud, la educación, la integridad física y la calidad de vida de los consumidores, usuarios o deportistas en una prestación de servicios deportivos y regular las profesiones relacionadas con el deporte",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los requisitos para ser preparador físico:",
+    "options": {
+      "a": "Monitor deportivo",
+      "b": "Coordinador de campamentos",
+      "c": "Fisioterapeuta.",
+      "d": "Licenciatura en Ciencias de la Actividad Física y del Deporte o el título de Grado que le sustituya"
+    },
+    "correct": "d",
+    "correct_text": "Licenciatura en Ciencias de la Actividad Física y del Deporte o el título de Grado que le sustituya",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las funciones del preparador físico son:",
+    "options": {
+      "a": "Asesoramiento, planificación, diseño, evaluación técnico-científica, desarrollo y ejecución de actividades físico-deportivas y ejercicio físico orientado al mantenimiento, desarrollo, mejora, optimización y recuperación de la condición física y las capacidades coordinativas de las personas. .",
+      "b": "Acondicionamiento físico básico en grupo.",
+      "c": "Orientación básica para la utilización elemental del equipamiento y maquinaria deportiva.",
+      "d": "Desempeña actividades y funciones de entrenamiento, selección, planificación, programación, control y evaluación a deportistas y/o equipos para la competición federada en la modalidad deportiva o especialidad correspondiente."
+    },
+    "correct": "a",
+    "correct_text": "Asesoramiento, planificación, diseño, evaluación técnico-científica, desarrollo y ejecución de actividades físico-deportivas y ejercicio físico orientado al mantenimiento, desarrollo, mejora, optimización y recuperación de la condición física y las capacidades coordinativas de las personas. .",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los requisitos para ser director deportivo:",
+    "options": {
+      "a": "Coordinador de campamentos y grado de relaciones laborales y economía",
+      "b": "Fisioterapeuta.",
+      "c": "Licenciatura en Ciencias de la Actividad Física y del Deporte o el título de Grado que le sustituya",
+      "d": "Monitor deportivo y grado de administración"
+    },
+    "correct": "c",
+    "correct_text": "Licenciatura en Ciencias de la Actividad Física y del Deporte o el título de Grado que le sustituya",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para ejercer la profesión de Monitora Deportiva/Monitor Deportivo en Actividad Física Recreativa se requiere:",
+    "options": {
+      "a": "Cuando la actividad se ejerce con niños en el marco de actividades del deporte escolar en Educación Primaria también podrán ejercer la profesión de Monitora Deportiva/Monitor Deportivo de Actividad Física Deportiva de carácter formativo quienes acrediten su cualificación mediante la posesión de la titulación de Diplomatura en Magisterio con especialidad en Educación Física o correspondiente título de Grado que la sustituya.",
+      "b": "Técnico Superior de dirección deportiva",
+      "c": "Socorrista.",
+      "d": "Graduado en nutrición"
+    },
+    "correct": "a",
+    "correct_text": "Cuando la actividad se ejerce con niños en el marco de actividades del deporte escolar en Educación Primaria también podrán ejercer la profesión de Monitora Deportiva/Monitor Deportivo de Actividad Física Deportiva de carácter formativo quienes acrediten su cualificación mediante la posesión de la titulación de Diplomatura en Magisterio con especialidad en Educación Física o correspondiente título de Grado que la sustituya.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué son los factores de riesgo?",
+    "options": {
+      "a": "Los factores de riesgo son todas las condiciones del empresario que pueden resultar peligrosas para la salud de los trabajadores.",
+      "b": "Los factores de riesgo son todas las condiciones de prevención que pueden resultar peligrosas para la salud de los trabajadores",
+      "c": "Los factores de riesgo son todas las condiciones de seguridad que pueden resultar peligrosas para la salud de los trabajadores",
+      "d": "Los factores de riesgo son todas las condiciones de trabajo que pueden resultar peligrosas para la salud de los trabajadores"
+    },
+    "correct": "d",
+    "correct_text": "Los factores de riesgo son todas las condiciones de trabajo que pueden resultar peligrosas para la salud de los trabajadores",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La fatiga laboral es:",
+    "options": {
+      "a": "Se produce cuando una persona percibe de una manera agobiante que le piden más de lo que puede ofrecer, provocando una tensión fuerte que puede ocasionar trastornos físicos o psicológicos",
+      "b": "Se produce cuando una o varias personas ejercen violencia psicológica extrema sobre otra de forma sistemática (una vez en semana al menos durante más de seis meses) .",
+      "c": "Disminución de la capacidad física y mental para realizar el trabajo debido al cansancio. Se puede dar por carga física o mental.",
+      "d": "Tristeza profunda en la que suelen coincidir una inhibición como: la disminución de las capacidades de atención, memoria, de inexpresión o insomnio"
+    },
+    "correct": "c",
+    "correct_text": "Disminución de la capacidad física y mental para realizar el trabajo debido al cansancio. Se puede dar por carga física o mental.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los agentes químicos se miden en:",
+    "options": {
+      "a": "Nivel de concentración en el ambiente y tiempo de exposición al agente contaminante",
+      "b": "Cantidad y calidad.",
+      "c": "Hercios",
+      "d": "Lux"
+    },
+    "correct": "a",
+    "correct_text": "Nivel de concentración en el ambiente y tiempo de exposición al agente contaminante",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El mobbing es:",
+    "options": {
+      "a": "Disminución de la capacidad física y mental para realizar el trabajo debido al cansancio. Se puede dar por carga física o mental.",
+      "b": "Se produce cuando una persona percibe de una manera agobiante que le piden más de lo que puede ofrecer, provocando una tensión fuerte que puede ocasionar trastornos físicos o psicológicos",
+      "c": "Disminución de la capacidad física y mental para realizar el trabajo debido al cansancio. Se puede dar por carga física o mental.",
+      "d": "Se produce cuando una o varias personas ejercen violencia psicológica extrema sobre otra de forma sistemática (una vez en semana al menos durante más de seis meses)"
+    },
+    "correct": "d",
+    "correct_text": "Se produce cuando una o varias personas ejercen violencia psicológica extrema sobre otra de forma sistemática (una vez en semana al menos durante más de seis meses)",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los requisitos para ser profesor de educación física:",
+    "options": {
+      "a": "Licenciatura en Ciencias de la Actividad Física y del Deporte o el título de Grado que le sustituya",
+      "b": "Monitor deportivo y educador infantil",
+      "c": "Coordinador de campamentos y grado de relaciones laborales y economía",
+      "d": "Animador."
+    },
+    "correct": "a",
+    "correct_text": "Licenciatura en Ciencias de la Actividad Física y del Deporte o el título de Grado que le sustituya",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Es una obligación de los profesionales del deporte según la LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+    "options": {
+      "a": "Garantizar la personalidad, dignidad e intimidad de las personas destinatarias del servicio prestado. Para ello habrá que poner cámaras en los vestuarios.",
+      "b": "Identificarse ante las personas destinatarias de los servicios e informar a los mismos de su profesión y titulación.",
+      "c": "Ofrecer a las personas destinatarias una información incorrecta y poco comprensible de las actividades físico-deportivas que vayan a desarrollarse bajo su dirección o supervisión.",
+      "d": "Desigualdad de condiciones en la práctica deportiva independientemente de su sexo, edad, cultura o discapacidad."
+    },
+    "correct": "b",
+    "correct_text": "Identificarse ante las personas destinatarias de los servicios e informar a los mismos de su profesión y titulación.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los requisitos de un entrenador deportivo son:",
+    "options": {
+      "a": "Magisterio",
+      "b": "Técnico Superior Profesional Deportivo y social",
+      "c": "Psicopedagogo.",
+      "d": "Técnico Superior en Animación de Actividades Físicas (TAFAD)"
+    },
+    "correct": "d",
+    "correct_text": "Técnico Superior en Animación de Actividades Físicas (TAFAD)",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las funciones del entrenador deportivo son:",
+    "options": {
+      "a": "Acondicionamiento físico básico en grupo.",
+      "b": "Orientación básica para la utilización elemental del equipamiento y maquinaria deportiva.",
+      "c": "Asignación elemental y básica de rutinas grupales. .",
+      "d": "Desempeña actividades y funciones de entrenamiento, selección, planificación, programación, control y evaluación a deportistas y/o equipos para la competición federada en la modalidad deportiva o especialidad correspondiente."
+    },
+    "correct": "d",
+    "correct_text": "Desempeña actividades y funciones de entrenamiento, selección, planificación, programación, control y evaluación a deportistas y/o equipos para la competición federada en la modalidad deportiva o especialidad correspondiente.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El objeto de la LEY 6/2016, de 24 de noviembre por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid:",
+    "options": {
+      "a": "Velar por el derecho de las personas que solicitan la prestación de servicios deportivos.",
+      "b": "Disponer de información suficiente y comprensible de las actividades físico-deportivas que vayan a desarrollarse.",
+      "c": "Velar por la práctica deportiva saludable",
+      "d": "Es ordenar y regular los aspectos esenciales del ejercicio de determinadas profesiones del deporte, reconocer cuales son éstas, determinar las cualificaciones y titulaciones necesarias para ejercerlas y atribuir a cada profesión el ámbito funcional específico que le corresponde."
+    },
+    "correct": "d",
+    "correct_text": "Es ordenar y regular los aspectos esenciales del ejercicio de determinadas profesiones del deporte, reconocer cuales son éstas, determinar las cualificaciones y titulaciones necesarias para ejercerlas y atribuir a cada profesión el ámbito funcional específico que le corresponde.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son agentes biológicos",
+    "options": {
+      "a": "Los protozoos",
+      "b": "Los gases",
+      "c": "Las vibraciones",
+      "d": "La iluminación solar."
+    },
+    "correct": "a",
+    "correct_text": "Los protozoos",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La salud es:",
+    "options": {
+      "a": "Es el estado de bienestar físico y mental completo y no simplemente la ausencia de daño o enfermedad",
+      "b": "Es el estado de bienestar físico y social completo y no simplemente la ausencia de daño o enfermedad",
+      "c": "Es el estado de bienestar físico, mental y social completo y no simplemente la ausencia de daño o enfermedad",
+      "d": "Ninguna es correcta."
+    },
+    "correct": "c",
+    "correct_text": "Es el estado de bienestar físico, mental y social completo y no simplemente la ausencia de daño o enfermedad",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El accidente de trabajo de tareas distintas es:",
+    "options": {
+      "a": "Aquellos que sufre el trabajador para salvar a personas que no se encuentran en el centro de trabajo.",
+      "b": "El que sufra un trabajador al desplazarse por motivo de su cargo sindical",
+      "c": "Los ocurridos realizando tareas que, aun siendo distintas a las de su categoría profesional ejecute el trabajador para el buen funcionamiento de la empresa.",
+      "d": "Lo sufre el trabajador al ir o al volver del trabajo"
+    },
+    "correct": "c",
+    "correct_text": "Los ocurridos realizando tareas que, aun siendo distintas a las de su categoría profesional ejecute el trabajador para el buen funcionamiento de la empresa.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son daños derivados de los agentes biológicos:",
+    "options": {
+      "a": "Rabias",
+      "b": "Alergias",
+      "c": "Hepatitis",
+      "d": "Todas son correctas."
+    },
+    "correct": "d",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El listado de enfermedades profesionales se recoge en:",
+    "options": {
+      "a": "Real Decreto 1299/2006, de 10 de noviembre",
+      "b": "Real Decreto 123/1995, de 11 de marzo",
+      "c": "Ley 31/1995, de 8 de noviembre Prevención de Riesgos Laborales",
+      "d": "Ley 32/1998, de 8 de noviembre Prevención de Riesgos Laborales."
+    },
+    "correct": "a",
+    "correct_text": "Real Decreto 1299/2006, de 10 de noviembre",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Son agentes biológicos",
+    "options": {
+      "a": "Sustancias tóxicas en general",
+      "b": "Polvos y gases",
+      "c": "Bacterias y hongos.",
+      "d": "El ruido, la temperatura y las vibraciones"
+    },
+    "correct": "c",
+    "correct_text": "Bacterias y hongos.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El trabajo:",
+    "options": {
+      "a": "Contribuye a la satisfacción y realización personal",
+      "b": "Proporciona recursos económicos para cubrir las necesidades",
+      "c": "Todas son correctas.",
+      "d": "Fuente de relaciones sociales"
+    },
+    "correct": "c",
+    "correct_text": "Todas son correctas.",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las vibraciones sistema manos brazo se trasmiten:",
+    "options": {
+      "a": "Los dedos o las manos entran en contacto con taladros o pulidoras",
+      "b": "Intensidad, hercios y decibelios",
+      "c": "Frecuencia, tiempo y decibelios.",
+      "d": "Intensidad, tiempo y hercios"
+    },
+    "correct": "a",
+    "correct_text": "Los dedos o las manos entran en contacto con taladros o pulidoras",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Aquello que adapta las condiciones de trabajo a las personas para conseguir mayor seguridad, confortabilidad y eficiencia",
+    "options": {
+      "a": "Ergonomía",
+      "b": "Prevención de riesgos laborales",
+      "c": "Confort.",
+      "d": "Condiciones de trabajo"
+    },
+    "correct": "a",
+    "correct_text": "Ergonomía",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La principal diferencia entre enfermedad profesional y accidente de trabajo es:",
+    "options": {
+      "a": "La técnica para luchar contra el accidente es la higiene y la de la enfermedad es la seguridad",
+      "b": "La enfermedad profesional se contrae como consecuencia del trabajo ordinario y el accidente de trabajo sucede por un acontecimiento anormal en el medio laboral",
+      "c": "Se pueden detectar los accidentes, en cambio es difícil detectar una enfermedad.",
+      "d": "La enfermedad laboral ocurre en un momento concreto y el accidente laboral no."
+    },
+    "correct": "b",
+    "correct_text": "La enfermedad profesional se contrae como consecuencia del trabajo ordinario y el accidente de trabajo sucede por un acontecimiento anormal en el medio laboral",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los riesgos psicosociales se producen por:",
+    "options": {
+      "a": "Carga social y mental.",
+      "b": "Carga física y química",
+      "c": "Carga física y social",
+      "d": "Carga física y mental"
+    },
+    "correct": "d",
+    "correct_text": "Carga física y mental",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Es un riesgo psicológico:",
+    "options": {
+      "a": "La ansiedad",
+      "b": "El absentismo",
+      "c": "Fatiga mental",
+      "d": "El dolor de cabeza."
+    },
+    "correct": "c",
+    "correct_text": "Fatiga mental",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las radiaciones pueden ser:",
+    "options": {
+      "a": "Rojas o blancas",
+      "b": "Directa o indirectas",
+      "c": "Ionizantes o no ionizantes",
+      "d": "Cancerígenas o no cancerígenas."
+    },
+    "correct": "c",
+    "correct_text": "Ionizantes o no ionizantes",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los factores de riesgos medioambientales dependen:",
+    "options": {
+      "a": "Ninguna es correcta.",
+      "b": "Del grado de la caída o lesión",
+      "c": "De la mala gestión de la empresa",
+      "d": "Nivel de concentración (cantidad de la sustancia)  y tiempo de exposición a los mismos"
+    },
+    "correct": "d",
+    "correct_text": "Nivel de concentración (cantidad de la sustancia)  y tiempo de exposición a los mismos",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El accidente de trabajo IN ITINERE es:",
+    "options": {
+      "a": "Los ocurridos realizando tareas que, aun siendo distintas a las de su categoría profesional ejecute el trabajador para el buen funcionamiento de la empresa.",
+      "b": "Los ocurridos realizando tareas que, aun siendo distintas a las de su categoría profesional ejecute el trabajador para el buen funcionamiento de la empresa",
+      "c": "Lo sufre el trabajador al ir o al volver del trabajo",
+      "d": "El que sufra un trabajador al desplazarse por motivo de su cargo sindical"
+    },
+    "correct": "c",
+    "correct_text": "Lo sufre el trabajador al ir o al volver del trabajo",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Cuál es la ley de prevención de riesgos laborales?",
+    "options": {
+      "a": "Ley 32/1998, de 8 de noviembre Prevención de Riesgos Laborales.",
+      "b": "Ley 33/1999, de 8 de noviembre Prevención de Riesgos Laborales",
+      "c": "Ley 34/1998, de 8 de noviembre Prevención de Riesgos Laborales",
+      "d": "Ley 31/1995, de 8 de noviembre Prevención de Riesgos Laborales"
+    },
+    "correct": "d",
+    "correct_text": "Ley 31/1995, de 8 de noviembre Prevención de Riesgos Laborales",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los agentes químicos pueden ser:",
+    "options": {
+      "a": "Explosivos y comburentes entre otros",
+      "b": "Biológicos, físicos entre otros.",
+      "c": "Poco inflamables",
+      "d": "Cutáneos, biológicos y físicos"
+    },
+    "correct": "a",
+    "correct_text": "Explosivos y comburentes entre otros",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "El estrés es:",
+    "options": {
+      "a": "Disminución de la capacidad física y mental para realizar el trabajo debido al cansancio. Se puede dar por carga física o mental.",
+      "b": "Se produce cuando una o varias personas ejercen violencia psicológica extrema sobre otra de forma sistemática (una vez en semana al menos durante más de seis meses) .",
+      "c": "Se produce cuando una persona percibe de una manera agobiante que le piden más de lo que puede ofrecer, provocando una tensión fuerte que puede ocasionar trastornos físicos o psicológicos",
+      "d": "Disminución de la capacidad física y mental para realizar el trabajo debido al cansancio. Se puede dar por carga física o mental."
+    },
+    "correct": "c",
+    "correct_text": "Se produce cuando una persona percibe de una manera agobiante que le piden más de lo que puede ofrecer, provocando una tensión fuerte que puede ocasionar trastornos físicos o psicológicos",
+    "asignatura": "fol",
+    "tema": "tema3"
+  },
+  {
+    "question": "La temperatura para trabajos ligeros tiene que ser:",
+    "options": {
+      "a": "14 y 25ºC",
+      "b": "17 y 27ºC",
+      "c": "21ºC",
+      "d": "15 y 21ºC."
+    },
+    "correct": "a",
+    "correct_text": "14 y 25ºC",
+    "asignatura": "fol",
+    "tema": "tema3"
+  }
+]

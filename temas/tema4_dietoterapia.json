@@ -1,0 +1,990 @@
+[
+  {
+    "question": "¿Qué tipo de dieta tiene que seguir el sujeto que vaya a pasar la prueba de sobrecarga oral?",
+    "options": {
+      "a": "dieta hipercalórica.",
+      "b": "dieta normocalórica.",
+      "c": "dieta hipocalórica.",
+      "d": "dieta vegana."
+    },
+    "correct": "b",
+    "correct_text": "dieta normocalórica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los alimentos que se deben evitar para detectar las catecolaminas, encontramos…",
+    "options": {
+      "a": "Todas las respuestas anteriores son correctas.",
+      "b": "quesos y café.",
+      "c": "plátano y frutas cítricas.",
+      "d": "nueces y aguacates."
+    },
+    "correct": "a",
+    "correct_text": "Todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipo de vitamina participa como coenzima en el metabolismo de las grasas?",
+    "options": {
+      "a": "la vitamina B12.",
+      "b": "la vitamina B3.",
+      "c": "la vitamina B9.",
+      "d": "la vitamina B6."
+    },
+    "correct": "a",
+    "correct_text": "la vitamina B12.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las indicaciones en una dieta a través de una sonda nasogástrica, encontramos…",
+    "options": {
+      "a": "la anorexia leve.",
+      "b": "las enfermedades neurológicas con disfagia.",
+      "c": "el aumento del nivel de conciencia.",
+      "d": "las enfermedades que no afectan a la masticación."
+    },
+    "correct": "b",
+    "correct_text": "las enfermedades neurológicas con disfagia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La vitamina A puede encontrarse…",
+    "options": {
+      "a": "necesitando un precursor que lo active.",
+      "b": "ambas respuestas anteriores son correctas.",
+      "c": "en estado activo en forma de retinol.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La ingesta recomendada diaria de vitamina D, se encuentra en…",
+    "options": {
+      "a": "5g por día.",
+      "b": "2g por día.",
+      "c": "15g por día.",
+      "d": "10g por día."
+    },
+    "correct": "c",
+    "correct_text": "15g por día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Cuando se informa al paciente del tratamiento nutricional ante un TCA, debe informarse de…",
+    "options": {
+      "a": "la situación clínica.",
+      "b": "de las consecuencias de la malnutrición.",
+      "c": "de las características de una alimentación equilibrada.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Para la prueba de ácido 5-OH-Indolactéico , se debe recoger la orina de…",
+    "options": {
+      "a": "12 horas.",
+      "b": "48 horas.",
+      "c": "24 horas.",
+      "d": "36 horas."
+    },
+    "correct": "c",
+    "correct_text": "24 horas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La diarrea con presencia excesiva de grasa en las heces, se define como…",
+    "options": {
+      "a": "esteorrea.",
+      "b": "gonorrea.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "esteatorrea."
+    },
+    "correct": "d",
+    "correct_text": "esteatorrea.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Cuando se ingiere alcohol, ¿dónde se absorbe una pequeña parte del mismo?",
+    "options": {
+      "a": "en el estómago.",
+      "b": "en el páncreas.",
+      "c": "en el yeyuno.",
+      "d": "en el hígado."
+    },
+    "correct": "a",
+    "correct_text": "en el estómago.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los problemas de coagulación sanguínea que puede producir la vitamina K, se encuentran…",
+    "options": {
+      "a": "la falta de calcio en los huesos.",
+      "b": "la destrucción de glóbulos blancos.",
+      "c": "las anemias.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "las anemias.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La anorexia nerviosa, tiene que ver con…",
+    "options": {
+      "a": "la gran disconformidad con la propia imagen y el peso corporal.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "con los factores éticos y sociales.",
+      "d": "con factores de tipo social, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "la gran disconformidad con la propia imagen y el peso corporal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Definida como “la prueba de sobrecarga oral de glucosa que mide la capacidad del organismo para metabolizar la glucosa y permite diagnosticar su intolerancia”, hace referencia a…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores son correctas.",
+      "b": "la dieta previa a la recta de glucemia.",
+      "c": "la dieta posterior a la recta de glucemia.",
+      "d": "la dieta previa a la curva de glucemia."
+    },
+    "correct": "d",
+    "correct_text": "la dieta previa a la curva de glucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los objetivos del tratamiento nutricional de los TCA, encontramos…",
+    "options": {
+      "a": "restaurar el peso corporal.",
+      "b": "dejar de normalizar los hábitos dietéticos del paciente.",
+      "c": "tratar las alteraciones psicológicas.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "restaurar el peso corporal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En las mujeres, ¿cuál es el índice diario recomendado de consumo de vitamina K?",
+    "options": {
+      "a": "60 pg por día.",
+      "b": "90 pg por día.",
+      "c": "80 pg por día.",
+      "d": "120 pg por día."
+    },
+    "correct": "b",
+    "correct_text": "90 pg por día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la prueba para el estudio del metabolismo de calcio, se considera normal eliminar por la orina…",
+    "options": {
+      "a": "hasta 100 mg de agua en 24 horas.",
+      "b": "hasta 300 mg de agua en 24 horas.",
+      "c": "hasta 300 mg de calcio en 24 horas.",
+      "d": "hasta 300 mg de calcio en 12 horas."
+    },
+    "correct": "c",
+    "correct_text": "hasta 300 mg de calcio en 24 horas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La vitamina C, entre otros muchos beneficios, podemos encontrar…",
+    "options": {
+      "a": "que ayuda a evitar el envejecimiento prematuro, protegiendo los vasos sanguíneos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "que participa en la síntesis de colágeno, ayudando a la cicatrización de las heridas.",
+      "d": "que potencia la absorción intestinal del hierro no hemo."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los episodios de bulimia nerviosa de grandes ingestas de comida pueden ir seguidos de…",
+    "options": {
+      "a": "maniobras psicológicas.",
+      "b": "maniobras no compensatorias.",
+      "c": "maniobras de anorexia.",
+      "d": "maniobras compensatorias."
+    },
+    "correct": "d",
+    "correct_text": "maniobras compensatorias.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La elaboración de un plan de alimentación para tratar un TCA, debe incluir…",
+    "options": {
+      "a": "el control de los atracones y las conductas compensatorias.",
+      "b": "valorar la conveniencia de raciones o gramaje.",
+      "c": "los grupos de alimentos a incluir.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué enfermedad se caracteriza por la falta de tiamina?",
+    "options": {
+      "a": "la osteomalacia.",
+      "b": "el escorbuto.",
+      "c": "la cefalopatía de Wernicke.",
+      "d": "el beriberi."
+    },
+    "correct": "d",
+    "correct_text": "el beriberi.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las causas de una hospitalización de un anciano referido a la malnutrición, encontramos…",
+    "options": {
+      "a": "el sentido del olfato y el apetito aumentan.",
+      "b": "el estreñimiento.",
+      "c": "las úlceras por inflamación.",
+      "d": "la anemia por la ingesta de hierro suficiente."
+    },
+    "correct": "b",
+    "correct_text": "el estreñimiento.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipos de personas pueden adquirir un déficit de vitamina K?",
+    "options": {
+      "a": "los bebés que no consumen la suficiente leche materna.",
+      "b": "las mujeres embarazadas si no consumen los productos lácteos indicados.",
+      "c": "los niños que no toman lo suficiente el sol.",
+      "d": "los adultos con tratamiento antibiótico a largo plazo."
+    },
+    "correct": "d",
+    "correct_text": "los adultos con tratamiento antibiótico a largo plazo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las distintas fuentes de niacina, encontramos…",
+    "options": {
+      "a": "las leches y los pescados.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las carnes o los huevos.",
+      "d": "la levadura de cerveza y los cereales."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué puede producir en el paciente el paso del alimento a través de las vías respiratorias?",
+    "options": {
+      "a": "cáncer de pulmón.",
+      "b": "infecciones respiratorias.",
+      "c": "neumonía.",
+      "d": "pulmonía."
+    },
+    "correct": "c",
+    "correct_text": "neumonía.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué dos formas de bulimia nerviosa podemos encontrarnos?",
+    "options": {
+      "a": "bulimia nerviosa purgativa y no purgativa.",
+      "b": "bulimia nerviosa mental y psicológica.",
+      "c": "bulimia nerviosa actual y pasada.",
+      "d": "bulimia nerviosa psicológica y psiquiátrica."
+    },
+    "correct": "a",
+    "correct_text": "bulimia nerviosa purgativa y no purgativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El método para administrar la comida a través de sonda donde se administra controladamente la comida por gravedad o bomba de difusión, es…",
+    "options": {
+      "a": "la alimentación intermitente.",
+      "b": "la alimentación por partes.",
+      "c": "la alimentación continua.",
+      "d": "la alimentación por bolos."
+    },
+    "correct": "a",
+    "correct_text": "la alimentación intermitente.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cómo se llama a la malnutrición que se produce como resultado de la hospitalización?",
+    "options": {
+      "a": "malnutrición pregénica.",
+      "b": "malnutrición patogénica.",
+      "c": "malnutrición iaotrogénica.",
+      "d": "malnutrición pregénica."
+    },
+    "correct": "c",
+    "correct_text": "malnutrición iaotrogénica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué suele producir la intolerancia a un alimento?",
+    "options": {
+      "a": "un problema nervioso.",
+      "b": "un problema inmunológico.",
+      "c": "un problema psicológico.",
+      "d": "un problema digestivo."
+    },
+    "correct": "d",
+    "correct_text": "un problema digestivo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipo de tratamiento se le puede dar a una persona con un déficit de cobalamina?",
+    "options": {
+      "a": "tratamiento con antibióticos.",
+      "b": "tratamiento con inyecciones.",
+      "c": "tratamiento con antivirales.",
+      "d": "tratamiento a través de suplementación."
+    },
+    "correct": "b",
+    "correct_text": "tratamiento con inyecciones.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las funciones de la vitamina D, podemos encontrarnos con…",
+    "options": {
+      "a": "la absorción de hierro.",
+      "b": "la absorción de hidrógeno.",
+      "c": "la absorción de calcio.",
+      "d": "la absorción de micronutrientes."
+    },
+    "correct": "c",
+    "correct_text": "la absorción de calcio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La densidad calórica de las fórmulas normocalóricas es…",
+    "options": {
+      "a": "inferior a 1’5 kcal/ml.",
+      "b": "superior a 2 kcal/ml.",
+      "c": "superior a 1’5 kcal/ml.",
+      "d": "igual a 1’25 kcal/ml."
+    },
+    "correct": "d",
+    "correct_text": "igual a 1’25 kcal/ml.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “la sequedad de la conjuntiva y opacidad de la córnea” a…",
+    "options": {
+      "a": "la flebotomía.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la ceguera nocturna.",
+      "d": "la xeroftalmía."
+    },
+    "correct": "d",
+    "correct_text": "la xeroftalmía.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La vitamina B1…",
+    "options": {
+      "a": "participa activamente en el metabolismo de los lípidos.",
+      "b": "participa en el correcto funcionamiento del sistema inmunitario.",
+      "c": "participa activamente en el metabolismo de los hidratos de carbono.",
+      "d": "participa activamente en la concentración de sangre."
+    },
+    "correct": "c",
+    "correct_text": "participa activamente en el metabolismo de los hidratos de carbono.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El tratamiento para la recuperación de vitamina C es…",
+    "options": {
+      "a": "la toma de más luz solar a lo largo del día.",
+      "b": "la ingesta de 100 mg de vitamina C tres veces al día.",
+      "c": "la ingesta de productos lácteos más de tres veces al día.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "la ingesta de 100 mg de vitamina C tres veces al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las contraindicaciones en una dieta a través de una sonda nasogástrica, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la preparación intestinal para pruebas diagnósticas o cirugía.",
+      "c": "el síndrome de malabsorción.",
+      "d": "la enfermedad inflamatoria intestinal aguda."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La malabsorción de nutrientes por culpa del alcohol en el intestino delgado, está causada por…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "alteraciones en la función pancreática exocrina.",
+      "c": "alteraciones en los procesos selectivos de absorción de ciertos nutrientes.",
+      "d": "alteraciones morfológicas y funcionales en la mucosa intestinal."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las fuentes de vitamina A, podemos encontrarnos con…",
+    "options": {
+      "a": "frutas y verduras.",
+      "b": "carnes de ternera y cerdo.",
+      "c": "pescados azules y blancos.",
+      "d": "cereales de todo tipo."
+    },
+    "correct": "a",
+    "correct_text": "frutas y verduras.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La ingesta diaria recomendada de ácido fólico es de…",
+    "options": {
+      "a": "200 mg al día.",
+      "b": "400 mg al día.",
+      "c": "100 mg al día.",
+      "d": "300 mg al día."
+    },
+    "correct": "b",
+    "correct_text": "400 mg al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿La ingesta insuficiente de qué producto alimenticio, puede ocasionar la osteomalacia?",
+    "options": {
+      "a": "la falta de ingesta de calcio.",
+      "b": "la falta de ingesta de hierro.",
+      "c": "la falta de ingesta de vitamina A.",
+      "d": "la falta de ingesta de minerales."
+    },
+    "correct": "a",
+    "correct_text": "la falta de ingesta de calcio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Cuando la restricción a la alimentación se asocia con la utilización de laxantes o diuréticos, estamos ante…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "una anorexia nerviosa.",
+      "c": "una anorexia nerviosa restrictiva.",
+      "d": "una anorexia nerviosa compulsivo-purgativa."
+    },
+    "correct": "d",
+    "correct_text": "una anorexia nerviosa compulsivo-purgativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Son patológicos y sospechosos de tumor carcinoide, los valores de 5-OH-Indolactéico por encima de…",
+    "options": {
+      "a": "30 mg al día.",
+      "b": "20 mg al día.",
+      "c": "40 mg al día.",
+      "d": "10 mg al día."
+    },
+    "correct": "a",
+    "correct_text": "30 mg al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La disregulación de la temperatura corporal forma parte de las complicaciones…",
+    "options": {
+      "a": "neurológicas.",
+      "b": "metabólicas.",
+      "c": "dermatológicas.",
+      "d": "renales."
+    },
+    "correct": "b",
+    "correct_text": "metabólicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las distintas funciones del calcio, podemos encontrar…",
+    "options": {
+      "a": "el desarrollo de los huesos y dientes.",
+      "b": "la función muscular y nerviosa, entre otras funciones.",
+      "c": "el proceso de coagulación sanguínea.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El déficit de vitamina D, se puede producir por…",
+    "options": {
+      "a": "la falta de luz solar o enfermedades hepáticas y renales crónicas.",
+      "b": "la falta de ingesta de alimentos como la carne o el pescado.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la falta de otras vitaminas y del consumo de agua."
+    },
+    "correct": "a",
+    "correct_text": "la falta de luz solar o enfermedades hepáticas y renales crónicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los síntomas que puede provocar la ingesta superior a 2000 mg de vitamina C al día, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "retortijones abdominales.",
+      "c": "diarrea.",
+      "d": "náuseas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cómo se define a la inflamación de las venas?",
+    "options": {
+      "a": "arteriosis.",
+      "b": "fiebrosis.",
+      "c": "venitis.",
+      "d": "flebitis."
+    },
+    "correct": "d",
+    "correct_text": "flebitis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La enfermedad que se define como “el organismo es capaz de sintetizar niacina a partir de triptófano”, se denomina…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "osteomalacia.",
+      "c": "escorbuto.",
+      "d": "pelagra."
+    },
+    "correct": "d",
+    "correct_text": "pelagra.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la nutrición parenteral, pueden surgir alguna serie de complicaciones, como pueden ser…",
+    "options": {
+      "a": "las alteraciones metabólicas por una mala formulación.",
+      "b": "la infección de un catéter que da lugar a sepsis.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la contaminación de una fórmula."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué distintas lesiones se pueden producir en el hígado por un consumo excesivo de alcohol?",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la hepatitis alcohólica.",
+      "c": "el hígado graso.",
+      "d": "la cirrosis hepática."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los factores sociales de los trastornos de la conducta alimentaria, podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el sexo, donde las mujeres tienen mayor riesgo.",
+      "c": "la edad, dada mayormente en la adolescencia.",
+      "d": "la presión social y cultural."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué se debe realizar para identificar el alimento responsable de una alergia?",
+    "options": {
+      "a": "provocar esa alergia con la ingesta de algunos alimentos.",
+      "b": "dejar que se produzca la alergia con la ingesta de alimentos.",
+      "c": "realizar un diario de alimentación, registrando las comidas y bebidas.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "realizar un diario de alimentación, registrando las comidas y bebidas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las complicaciones óseas de la bulimia, nos encontramos con…",
+    "options": {
+      "a": "las convulsiones y los estados confusionales.",
+      "b": "la deshidratación y los edemas.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la osteoporosis y las fracturas patológicas."
+    },
+    "correct": "d",
+    "correct_text": "la osteoporosis y las fracturas patológicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El retinol, suele participar en procesos, tales como…",
+    "options": {
+      "a": "la visión y formación de mucosas.",
+      "b": "la formación de tejidos blandos y piel.",
+      "c": "ayuda a prevenir infecciones y tiene funciones antioxidantes.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Si se da una dosis muy alta de ácido fólico, se puede producir…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "problemas en el hígado.",
+      "c": "problemas estomacales y trastornos del sueño.",
+      "d": "problemas en la respiración."
+    },
+    "correct": "c",
+    "correct_text": "problemas estomacales y trastornos del sueño.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los adolescentes comienzan a beber en una media de…",
+    "options": {
+      "a": "los 18 años.",
+      "b": "los 16 años.",
+      "c": "los 15 años.",
+      "d": "los 14 años."
+    },
+    "correct": "b",
+    "correct_text": "los 16 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las complicaciones gastrointestinales que podemos encontrar con los TCA, están…",
+    "options": {
+      "a": "la amenorrea y el aumento de cortisol.",
+      "b": "la leucopenia y la anemia.",
+      "c": "la hipertrofia salivar y las alteraciones hepáticas.",
+      "d": "la bradicardia e hipotensión."
+    },
+    "correct": "c",
+    "correct_text": "la hipertrofia salivar y las alteraciones hepáticas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿De dónde puede provenir el déficit de vitamina B9 en una persona?",
+    "options": {
+      "a": "de una concentración de eritrocitos disminuida.",
+      "b": "de la deficiencia de folato.",
+      "c": "de las enfermedades gastrointestinales.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “el aporte de nutrientes directamente en el aparato digestivo a través de una sonda nasogástrica” a…",
+    "options": {
+      "a": "la nutrición enteral.",
+      "b": "la nutrición parenteral.",
+      "c": "la nutrición postenteral.",
+      "d": "la nutrición preenteral."
+    },
+    "correct": "a",
+    "correct_text": "la nutrición enteral.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La proteína fibrosa que se encuentra en los huesos, la piel, los ligamentos o los cartílagos, entre otros, es…",
+    "options": {
+      "a": "la grasa.",
+      "b": "el colágeno.",
+      "c": "la glucemia.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "el colágeno.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las alteraciones metabólicas producidas por un exceso consumo de alcohol, podemos encontrar…",
+    "options": {
+      "a": "aumenta el glucógeno hepático.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "altera la homeostasis de glucemia.",
+      "d": "que disminuye la degradación protéica."
+    },
+    "correct": "c",
+    "correct_text": "altera la homeostasis de glucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La fórmula que se define como “que contiene los macronutrientes intactos, sin hidrolizar” es…",
+    "options": {
+      "a": "la polimérica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la oligomérica.",
+      "d": "las especiales."
+    },
+    "correct": "a",
+    "correct_text": "la polimérica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿A partir de qué edad, una persona empieza a perder en su piel cerca del 75% de la capacidad para fabricar vitamina D?",
+    "options": {
+      "a": "a partir de los 50 años.",
+      "b": "a partir de los 70 años.",
+      "c": "a partir de los 40 años.",
+      "d": "a partir de los 60 años."
+    },
+    "correct": "b",
+    "correct_text": "a partir de los 70 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “un tumor maligno que se desarrolla a partir del tejido nervioso” a..",
+    "options": {
+      "a": "catecolaminas.",
+      "b": "feocromocitoma.",
+      "c": "neuroblastoma.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "neuroblastoma.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “la administración de nutrientes al paciente a través de vía intravenosa” a…",
+    "options": {
+      "a": "la nutrición parenteral.",
+      "b": "la nutrición postenteral.",
+      "c": "la nutrición enteral.",
+      "d": "la nutrición preenteral."
+    },
+    "correct": "a",
+    "correct_text": "la nutrición parenteral.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Por qué se utiliza la vena cava en la nutrición parenteral?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "debido a que el flujo arterial alto facilita la dilución rápida de la solución.",
+      "c": "debido a que el flujo arterial bajo dificulta la dilución rápida de la solución.",
+      "d": "debido a que el flujo arterial alto dificulta la dilución rápida de la solución."
+    },
+    "correct": "b",
+    "correct_text": "debido a que el flujo arterial alto facilita la dilución rápida de la solución.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los síntomas del déficit de cobalamina, se pueden presentar en…",
+    "options": {
+      "a": "el sistema nervioso y circulatorio.",
+      "b": "el sistema excretor.",
+      "c": "el aparato respiratorio.",
+      "d": "el aparato digestivo."
+    },
+    "correct": "a",
+    "correct_text": "el sistema nervioso y circulatorio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las diferentes enfermedades que se pueden detectar en un examen de sangre oculta en las heces, encontramos…",
+    "options": {
+      "a": "enfermedad de Crohn.",
+      "b": "cáncer de hígado.",
+      "c": "úlcera péptica.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "enfermedad de Crohn.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipos de personas llegan a tener una mayor necesidad de ácido fólico?",
+    "options": {
+      "a": "las personas ancianas.",
+      "b": "los niños y los bebés.",
+      "c": "las mujeres embarazadas.",
+      "d": "los adultos."
+    },
+    "correct": "c",
+    "correct_text": "las mujeres embarazadas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las fórmulas modulares contienen…",
+    "options": {
+      "a": "un solo tipo de nutriente.",
+      "b": "varios tipos de nutrientes.",
+      "c": "cinco tipos de nutrientes.",
+      "d": "diferentes tipos de micronutrientes."
+    },
+    "correct": "a",
+    "correct_text": "un solo tipo de nutriente.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La limitación de la ingesta autoimpuesta, asociada y a veces, desencadenada, es la definición de…",
+    "options": {
+      "a": "anorexia restrictiva.",
+      "b": "anorexia glucémica.",
+      "c": "anorexia nerviosa.",
+      "d": "anorexia funcional."
+    },
+    "correct": "c",
+    "correct_text": "anorexia nerviosa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “una sustancia líquida que es la concentración de partículas osmóticamente contenidas en una disolución” a…",
+    "options": {
+      "a": "osmocilaridad.",
+      "b": "osmotidad.",
+      "c": "osmolaringaridad.",
+      "d": "osmolalidad."
+    },
+    "correct": "d",
+    "correct_text": "osmolalidad.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las principales fuentes de hierro no hemo en los alimentos son…",
+    "options": {
+      "a": "los frutos secos y el huevo.",
+      "b": "las legumbres y cereales.",
+      "c": "las verduras de hoja verde.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La renina suele aumentar en algunos casos de…",
+    "options": {
+      "a": "hipertensión arterial.",
+      "b": "hipotensión arterial.",
+      "c": "infartos de miocardio.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "hipertensión arterial.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las funciones del ácido fólico, podemos encontrar…",
+    "options": {
+      "a": "ayuda a reducir los niveles de homocisteína.",
+      "b": "el proceso de eritropoyesis y la formación de leucocitos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el desarrollo neuronal y cerebral."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La piridoxina participa en la síntesis de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "ácidos nucleicos y hormonas esteroideas.",
+      "c": "de hidratos de carbono y lípidos.",
+      "d": "proteínas y algunas vitaminas esenciales."
+    },
+    "correct": "b",
+    "correct_text": "ácidos nucleicos y hormonas esteroideas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipo de vitamina liposoluble es fundamental para el proceso de coagulación sanguínea?",
+    "options": {
+      "a": "la vitamina D.",
+      "b": "la vitamina E.",
+      "c": "la vitamina K.",
+      "d": "la vitamina C."
+    },
+    "correct": "c",
+    "correct_text": "la vitamina K.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  }
+]

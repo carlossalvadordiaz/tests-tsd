@@ -1,0 +1,4669 @@
+[
+  {
+    "question": "¿Cómo se podrían definir de otra manera a las enfermedades neurodegenerativas provocadas por los priones?",
+    "options": {
+      "a": "el mal de las gallinas flacas.",
+      "b": "el mal de las vacas locas.",
+      "c": "el mal de las vacas flacas.",
+      "d": "el mal de las gallinas locas."
+    },
+    "correct": "b",
+    "correct_text": "el mal de las vacas locas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de alimentos tienen un mayor riesgo para la presencia de toxinas procedentes de hongos?",
+    "options": {
+      "a": "los frutos secos y el cacao.",
+      "b": "los cereales y las legumbres.",
+      "c": "las frutas y las especias.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacteria aparece en alimentos como comidas preparadas no refrigeradas o productos cárnicos y salsas?",
+    "options": {
+      "a": "la Clostridium perfrin-gens.",
+      "b": "la Listeria monocytogenes.",
+      "c": "la Escherichia coli.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "la Clostridium perfrin-gens.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Uno de los objetivos fundamentales de la legislación alimentaria vigente es…",
+    "options": {
+      "a": "proteger a los consumidores ante los riesgos en la elaboración de los alimentos.",
+      "b": "proteger a los consumidores ante la subida de precios de los alimentos.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "ambas respuestas son correctas."
+    },
+    "correct": "a",
+    "correct_text": "proteger a los consumidores ante los riesgos en la elaboración de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué Comité se encarga de la revisión de las propuestas de proyectos?",
+    "options": {
+      "a": "el Comité de Asuntos Generales.",
+      "b": "el Comité Central.",
+      "c": "el Comité General.",
+      "d": "el Comité Horizontal."
+    },
+    "correct": "a",
+    "correct_text": "el Comité de Asuntos Generales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La evaluación del riesgo en los alimentos debe llevarse a cabo de forma…",
+    "options": {
+      "a": "transparente, únicamente.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "independiente, únicamente.",
+      "d": "objetiva, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La vía más importante de la exposición humana a los COP es…",
+    "options": {
+      "a": "la quema de algunos tipos de árboles.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el consumo de agua.",
+      "d": "el consumo de alimentos."
+    },
+    "correct": "d",
+    "correct_text": "el consumo de alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Un aspecto relevante que se establece dentro de la legislación alimentaria actual es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "que los consumidores compren la comida necesaria para ellos.",
+      "c": "que los consumidores tengan un límite de compra.",
+      "d": "que las empresas alimentarias establezcan programas y procedimientos de seguridad alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "que las empresas alimentarias establezcan programas y procedimientos de seguridad alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de productos pueden causar alergias o intolerancias?",
+    "options": {
+      "a": "los huevos y los productos a base de huevo.",
+      "b": "los frutos de cáscara.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "los cacahuetes y los productos a base de cacahuete."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los efectos de las dioxinas y los PCBs a largo plazo, podemos encontrar…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el fallo cardíaco y del sistema nervioso.",
+      "c": "la falta de respiración y fiebre.",
+      "d": "el aumento del impulso sexual."
+    },
+    "correct": "b",
+    "correct_text": "el fallo cardíaco y del sistema nervioso.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Dentro de los principios generales de la legislación alimentaria, es necesario tener en cuenta que…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "ambas respuestas anteriores son correctas.",
+      "c": "las directivas son actos legislativos donde se establecen los objetivos de todos los países de la UE.",
+      "d": "los reglamentos son vinculantes para todos los países de la UE."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "A nivel nacional, ¿qué tipo de normas en materia alimentaria son de obligado cumplimiento?",
+    "options": {
+      "a": "los textos.",
+      "b": "las leyes, únicamente.",
+      "c": "las notas de prensa del Presidente.",
+      "d": "las leyes y los reales decretos."
+    },
+    "correct": "d",
+    "correct_text": "las leyes y los reales decretos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las medidas que se tomen por parte de los gestores dentro del principio de cautela, deben cumplir también con…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los principios normales de no discriminación y proporcionalidad.",
+      "c": "con el principio de no permitir la circulación de ese producto de manera europea.",
+      "d": "con el principio de no discriminación, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "los principios normales de no discriminación y proporcionalidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El Códex Alimentarius incluye normas sobre…",
+    "options": {
+      "a": "alimentos elaborados, sin elaborar y materias primas.",
+      "b": "alimentos elaborados y poco elaborados.",
+      "c": "alimentos elaborados, únicamente.",
+      "d": "materias primas, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "alimentos elaborados, sin elaborar y materias primas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se definen como “aquellas sustancias químicas que se caracterizan por ser persistentes, con una elevada permanencia en el medioambiente”...",
+    "options": {
+      "a": "los contaminantes medioambientales.",
+      "b": "los COP.",
+      "c": "los contaminantes físicos.",
+      "d": "los contaminantes agrícolas."
+    },
+    "correct": "b",
+    "correct_text": "los COP.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la posibilidad de poder seguir el rastro, a través de todas las etapas de producción, de los alimentos y piensos, y sus ingredientes” al principio de…",
+    "options": {
+      "a": "unión.",
+      "b": "seguimiento.",
+      "c": "trazabilidad.",
+      "d": "búsqueda."
+    },
+    "correct": "c",
+    "correct_text": "trazabilidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Quiénes están como observadores en la Comisión del Códex Alimentarius?",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "52 organizaciones intergubernamentales.",
+      "c": "162 comisiones no gubernamentales.",
+      "d": "16 organismos de las Naciones Unidas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Con el fin de asegurar que la utilización de productos fitosanitarios es segura para los consumidores se establecen…",
+    "options": {
+      "a": "límites máximos de residuos.",
+      "b": "límites intermedios de residuos.",
+      "c": "normas y leyes.",
+      "d": "límites mínimos de residuos."
+    },
+    "correct": "a",
+    "correct_text": "límites máximos de residuos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “aquel organismo que sobrevive habitando dentro de otro organismo, generalmente más grande” a…",
+    "options": {
+      "a": "los hongos.",
+      "b": "los virus.",
+      "c": "los parásitos.",
+      "d": "las bacterias."
+    },
+    "correct": "c",
+    "correct_text": "los parásitos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Uno de los principales principios de la legislación alimentaria es…",
+    "options": {
+      "a": "la de luchar frente a las guerras y la subida de los precios de la alimentación.",
+      "b": "la de velar por conseguir los más elevados niveles de seguridad alimentaria.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la de no necesitar velar por la seguridad de los alimentos."
+    },
+    "correct": "b",
+    "correct_text": "la de velar por conseguir los más elevados niveles de seguridad alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los contaminantes físicos, para una persona u animal, pueden suponer…",
+    "options": {
+      "a": "un riesgo para el consumidor.",
+      "b": "un daño y sanciones para la marca.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "unos costes por litigios."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de cereales no pueden causar alergias o intolerancias?",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "los jarabes de glucosa a base de cebada.",
+      "c": "la dextrosa y los jarabes de glucosa a base de trigo.",
+      "d": "las maltodextrinas a base de trigo."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuáles son las principales bacterias productoras de toxiinfecciones en alimentos?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la Salmonella.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "el Campylobacter."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se definen como “las sustancias que tienen una función tecnológica dentro de los alimentos” a…",
+    "options": {
+      "a": "los aditivos.",
+      "b": "los suplementos alimenticios.",
+      "c": "los propios alimentos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "los aditivos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se consideran como contaminantes agrícolas y de la pesca…",
+    "options": {
+      "a": "las sustancias tóxicas vegetales.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "los productos de la pesca que pueden contener o producir histamina.",
+      "d": "los nitratos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué principio se define como “relevante cuando se observa la posibilidad de que existan riesgos nocivos para la salud”?",
+    "options": {
+      "a": "el principio de seguridad.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el principio de cautela.",
+      "d": "el principio de no alimentación."
+    },
+    "correct": "c",
+    "correct_text": "el principio de cautela.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los distintos tipos de contaminantes industriales o medioambientales, podemos encontrar…",
+    "options": {
+      "a": "los nucleicos y la melamina.",
+      "b": "el arsénico y el falano.",
+      "c": "los radionucleicos y el estaño.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "los radionucleicos y el estaño.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la presencia de cualquier sustancia o componente extraño al alimento que comporte un riesgo real o potencial para la salud o el estado general del consumidor” a…",
+    "options": {
+      "a": "la contaminación de las materias primas.",
+      "b": "la producción de contaminación.",
+      "c": "la contaminación acústica.",
+      "d": "la contaminación alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "la contaminación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "A escala comunitaria, la legislación alimentaria tiene por objeto…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "no garantizar la libre circulación de los alimentos.",
+      "c": "cumplir algunos requisitos impuestos sobre la legislación.",
+      "d": "armonizar los requisitos nacionales con el fin de garantizar la libre circulación de los alimentos."
+    },
+    "correct": "d",
+    "correct_text": "armonizar los requisitos nacionales con el fin de garantizar la libre circulación de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la página web del Código Alimentario, podemos acceder a…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "las normas para los productos alimenticios.",
+      "c": "los límites máximos de residuos veterinarios.",
+      "d": "la normativa de los aditivos alimentarios."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Cuando una regla satisface todos los requisitos impuestos en el Códex, se denomina como…",
+    "options": {
+      "a": "aceptación completa.",
+      "b": "aceptación con exenciones específicas.",
+      "c": "aceptación diferida.",
+      "d": "aceptación por completar."
+    },
+    "correct": "a",
+    "correct_text": "aceptación completa.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los ámbitos que pueden suponer un riesgo de contaminación química para los alimentos, podemos encontrar…",
+    "options": {
+      "a": "los medicamentos para los humanos.",
+      "b": "los aditivos alimentarios.",
+      "c": "los productos de uso personal e higiene.",
+      "d": "los productos metasanitarios."
+    },
+    "correct": "b",
+    "correct_text": "los aditivos alimentarios.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cómo se inicia la elaboración de una norma o un texto para instaurarlo dentro del Códex Alimentarius?",
+    "options": {
+      "a": "con la aprobación por parte de la Comisión.",
+      "b": "con una propuesta de proyecto que examina el comité correspondiente.",
+      "c": "enviando una carta a los Estados miembros.",
+      "d": "con una votación previa."
+    },
+    "correct": "b",
+    "correct_text": "con una propuesta de proyecto que examina el comité correspondiente.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se entiende por residuo veterinario…",
+    "options": {
+      "a": "los materiales u objetos en contacto con los alimentos y los animales.",
+      "b": "el contenido de estos residuos de la utilización de un medicamento veterinario legalmente autorizado.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "todas las sustancias farmacológicamente activas."
+    },
+    "correct": "d",
+    "correct_text": "todas las sustancias farmacológicamente activas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de parásito se puede encontrar dentro del pescado?",
+    "options": {
+      "a": "el anisakis.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el bacterovirus.",
+      "d": "la triquinosis."
+    },
+    "correct": "a",
+    "correct_text": "el anisakis.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los tipos de contaminantes de los alimentos, podemos encontrar…",
+    "options": {
+      "a": "los físicos y metabólicos.",
+      "b": "los físicos, químicos y biológicos.",
+      "c": "los metafísicos y metabólicos.",
+      "d": "los químicos y biológicos."
+    },
+    "correct": "b",
+    "correct_text": "los físicos, químicos y biológicos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué parte del ser humano es fundamental la presencia de bacterias?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "en los jugos digestivos.",
+      "c": "en la flora intestinal.",
+      "d": "en la parte del páncreas y el hígado."
+    },
+    "correct": "c",
+    "correct_text": "en la flora intestinal.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las “entidades infecciosas microscópicas que sólo pueden multiplicarse dentro de las células y que tienen una alta capacidad infectiva” son…",
+    "options": {
+      "a": "los priones.",
+      "b": "los virus.",
+      "c": "las bacterias.",
+      "d": "los microorganismos."
+    },
+    "correct": "b",
+    "correct_text": "los virus.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tres componentes componen el análisis de riesgos en el Reglamento sobre la legislación alimentaria?",
+    "options": {
+      "a": "evaluación, razón y comunicación.",
+      "b": "gestión, razón y comunicación.",
+      "c": "evaluación, gestión y comunicación.",
+      "d": "comunicación, riesgos y evaluación."
+    },
+    "correct": "c",
+    "correct_text": "evaluación, gestión y comunicación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los parásitos suelen entrar en el organismo…",
+    "options": {
+      "a": "a través del agua que ingerimos.",
+      "b": "como producto de una intoxicación.",
+      "c": "a través de la boca.",
+      "d": "a través de las fosas nasales."
+    },
+    "correct": "c",
+    "correct_text": "a través de la boca.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuántas especies de hongos existen que puedan producir patología en el ser humano?",
+    "options": {
+      "a": "menos de 150 especies.",
+      "b": "más de 150 especies.",
+      "c": "más de 200 especies.",
+      "d": "menos de 200 especies."
+    },
+    "correct": "b",
+    "correct_text": "más de 150 especies.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El objetivo principal del Reglamento sobre la higiene en los productos de origen animal es…",
+    "options": {
+      "a": "garantizar la protección de los animales.",
+      "b": "garantizar la protección de los consumidores.",
+      "c": "garantizar la libre circulación de las materias primas.",
+      "d": "dejar de garantizar que se pueden producir grandes cantidades de productos."
+    },
+    "correct": "b",
+    "correct_text": "garantizar la protección de los consumidores.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La utilización de productos fitosanitarios es una práctica frecuente en la producción de…",
+    "options": {
+      "a": "suplementos alimenticios.",
+      "b": "productos agrícolas.",
+      "c": "alimentos vegetales.",
+      "d": "productos de origen animal."
+    },
+    "correct": "c",
+    "correct_text": "alimentos vegetales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Dentro de los contaminantes químicos, podemos distinguir entre…",
+    "options": {
+      "a": "contaminantes orgánicos no persistentes.",
+      "b": "contaminantes agrosanitarios.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "contaminantes industriales o medioambientales."
+    },
+    "correct": "d",
+    "correct_text": "contaminantes industriales o medioambientales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “el compendio de normas alimentarias y textos relacionados redactados por una Comisión Internacional” a…",
+    "options": {
+      "a": "el Código alimentario.",
+      "b": "las Leyes de los alimentos.",
+      "c": "la Constitución de los alimentos.",
+      "d": "el Código de alimentos."
+    },
+    "correct": "a",
+    "correct_text": "el Código alimentario.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El Reglamento en la legislación alimentaria, establece…",
+    "options": {
+      "a": "un marco para la mayor participación de los operadores.",
+      "b": "un hueco para la participación de los consumidores.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "una ley para la participación de las marcas."
+    },
+    "correct": "a",
+    "correct_text": "un marco para la mayor participación de los operadores.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿De qué debe disponer el operador alimentario cuando hay materiales en contacto con los alimentos?",
+    "options": {
+      "a": "de una declaración verbal que certifique la conformidad.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "de una declaración jurada.",
+      "d": "de una declaración por escrito que certifique su conformidad."
+    },
+    "correct": "d",
+    "correct_text": "de una declaración por escrito que certifique su conformidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los diferentes materiales y objetos que suelen estar en contacto con los alimentos, nos podemos encontrar…",
+    "options": {
+      "a": "corchos, aleaciones de metal o productos de impresión.",
+      "b": "vidrio, plástico, papel o cartón.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "madera, cera y productos activos."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de norma no es vinculante para los países de la UE?",
+    "options": {
+      "a": "el dictamen.",
+      "b": "las recomendaciones.",
+      "c": "las leyes.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "b",
+    "correct_text": "las recomendaciones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Del Plan de Acción sobre seguridad alimentaria, se ha derivado…",
+    "options": {
+      "a": "la Ley que protege al consumidor.",
+      "b": "la Ley Orgánica sobre seguridad alimentaria.",
+      "c": "el Reglamento base que recoge los Principios Generales de la Legislación alimentaria.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "el Reglamento base que recoge los Principios Generales de la Legislación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "En el principio de trazabilidad, es necesario…",
+    "options": {
+      "a": "poder identificar la adquisición y producción de cualquier alimento.",
+      "b": "poder identificar cualquier producto dentro de la empresa.",
+      "c": "poder lograr identificar la distribución de cualquier alimento.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La legislación alimentaria, ¿qué establece a escala nacional y comunitaria?",
+    "options": {
+      "a": "el derecho a la no decisión por parte de los consumidores.",
+      "b": "el derecho a la información con poca precisión sobre los alimentos.",
+      "c": "el derecho de veto de las decisiones de los consumidores.",
+      "d": "el derecho de los consumidores a la seguridad de los alimentos."
+    },
+    "correct": "d",
+    "correct_text": "el derecho de los consumidores a la seguridad de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los objetivos del Códex Alimentarius, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "desarrollar unos códigos en las prácticas de la producción de alimentos.",
+      "c": "desarrollar unos estándares en los alimentos, únicamente.",
+      "d": "desarrollar unas directrices en los alimentos, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las reglas del Códex Alimentarius, nos podemos encontrar con…",
+    "options": {
+      "a": "los límites mínimos de contaminantes en los alimentos.",
+      "b": "los procedimientos de elaboración y de no revisión.",
+      "c": "los límites máximos de residuos para pesticidas.",
+      "d": "los pocos riesgos para la inocuidad de los alimentos."
+    },
+    "correct": "c",
+    "correct_text": "los límites máximos de residuos para pesticidas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacterias son una de las principales causas de enfermedades humanas?",
+    "options": {
+      "a": "las bacterias patógenas.",
+      "b": "las bacterias alucinógenas.",
+      "c": "las bacterias compuestas.",
+      "d": "las bacterias simples."
+    },
+    "correct": "a",
+    "correct_text": "las bacterias patógenas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué se declara para lograr la aceptación dentro de la Comisión del Códex Alimentarius?",
+    "options": {
+      "a": "se declara la autoridad a todas las competencias.",
+      "b": "se declaran las obligaciones establecidas en los Estatutos del Códex.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "se declara el proceso de no coordinación con el resto de países."
+    },
+    "correct": "b",
+    "correct_text": "se declaran las obligaciones establecidas en los Estatutos del Códex.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuáles son los elementos fundamentales en la construcción de un mayor grado de confianza de los consumidores sobre las empresas?",
+    "options": {
+      "a": "la transparencia en la legislación.",
+      "b": "la consulta pública.",
+      "c": "la transparencia en la legislación y la consulta pública",
+      "d": "Todas las respuestas son incorrectas"
+    },
+    "correct": "c",
+    "correct_text": "la transparencia en la legislación y la consulta pública",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacteria aparece en el agua contaminada o en los mariscos?",
+    "options": {
+      "a": "la Salmonella spp.",
+      "b": "la Staphylococcus aureus.",
+      "c": "la Vibrio cholerae.",
+      "d": "la Shigella spp."
+    },
+    "correct": "c",
+    "correct_text": "la Vibrio cholerae.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué parte de la Comisión del Códex trabaja España?",
+    "options": {
+      "a": "España se encarga de repartir el excedente de los productos alimentarios.",
+      "b": "España no tiene una implicación muy directa dentro de esta Comisión.",
+      "c": "España no tiene suficiente repercusión como para tener un puesto dentro de la Comisión.",
+      "d": "España trabaja en los distintos comités horizontales y verticales."
+    },
+    "correct": "d",
+    "correct_text": "España trabaja en los distintos comités horizontales y verticales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de productos representan aproximadamente el 80% de la exposición total a contaminantes orgánicos persistentes?",
+    "options": {
+      "a": "los derivados cárnicos y otros productos de origen animal.",
+      "b": "los derivados de los lácteos.",
+      "c": "las grasas de origen vegetal.",
+      "d": "los derivados del pescado y otros productos de origen animal."
+    },
+    "correct": "d",
+    "correct_text": "los derivados del pescado y otros productos de origen animal.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se definen como “las proteínas modificadas que no presentan un material genético” a…",
+    "options": {
+      "a": "los hongos.",
+      "b": "las bacterias.",
+      "c": "los virus.",
+      "d": "los priones."
+    },
+    "correct": "d",
+    "correct_text": "los priones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Desde qué año concreto, España forma parte de los miembros del Códex Alimentarius?",
+    "options": {
+      "a": "desde el año 1960.",
+      "b": "desde el año 1980.",
+      "c": "desde el año 1963.",
+      "d": "desde el año 1972."
+    },
+    "correct": "c",
+    "correct_text": "desde el año 1963.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El carácter del Códex Alimentarius es…",
+    "options": {
+      "a": "totalmente obligatorio de cumplir.",
+      "b": "meramente consultivo.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "está hecho para quién quiera leerlo, nada más."
+    },
+    "correct": "b",
+    "correct_text": "meramente consultivo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la elaboración de una norma en el Códex Alimentarius, si logra pasar el examen crítico, el siguiente paso es…",
+    "options": {
+      "a": "la aprobación final de la norma.",
+      "b": "la consulta a los Estados y las partes interesadas.",
+      "c": "la revisión o el abandono de la norma.",
+      "d": "el debate interno."
+    },
+    "correct": "b",
+    "correct_text": "la consulta a los Estados y las partes interesadas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El órgano encargado de la resistencia a los antimicrobianos o la buena alimentación animal, entre otros, es…",
+    "options": {
+      "a": "los grupos de acción intergubernamentales especiales.",
+      "b": "el comité de coordinadores regionales.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "el Comité sobre asuntos generales."
+    },
+    "correct": "a",
+    "correct_text": "los grupos de acción intergubernamentales especiales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuántos miembros conforman la Comisión del Códex Alimentarius?",
+    "options": {
+      "a": "189 miembros.",
+      "b": "186 miembros.",
+      "c": "180 miembros.",
+      "d": "150 miembros."
+    },
+    "correct": "b",
+    "correct_text": "186 miembros.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacteria puede provocar gastroenteritis y septicemia, entre otros síntomas?",
+    "options": {
+      "a": "la Campylobacter jejeuni.",
+      "b": "la Aeromonas hydrophila.",
+      "c": "la Clostridium perfrin-gens.",
+      "d": "la Bacillus cereus."
+    },
+    "correct": "b",
+    "correct_text": "la Aeromonas hydrophila.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los diferentes riesgos biológicos que están presentes en los alimentos, podemos encontrar…",
+    "options": {
+      "a": "la listeria en el pescado.",
+      "b": "la salmonella en productos lácteos y cárnicos.",
+      "c": "los parásitos como el Anisakis en el pescado.",
+      "d": "los priones en los productos cárnicos."
+    },
+    "correct": "c",
+    "correct_text": "los parásitos como el Anisakis en el pescado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué componente exige la selección de las medidas apropiadas necesarias para prevenir, reducir o eliminar los peligros en los alimentos?",
+    "options": {
+      "a": "la toma de decisiones.",
+      "b": "la gestión.",
+      "c": "la comunicación.",
+      "d": "la evaluación."
+    },
+    "correct": "b",
+    "correct_text": "la gestión.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿A través de qué se puede generar un consumo excesivo de dioxinas para el ser humano?",
+    "options": {
+      "a": "a través de la quema de basuras.",
+      "b": "a partir del consumo de algunos alimentos.",
+      "c": "a través del agua en mal estado.",
+      "d": "a través de la quema de montes y montañas."
+    },
+    "correct": "a",
+    "correct_text": "a través de la quema de basuras.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los virus suelen transmitirse a través de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los derivados lácteos.",
+      "c": "los alimentos muy hechos.",
+      "d": "los alimentos crudos o poco cocinados."
+    },
+    "correct": "d",
+    "correct_text": "los alimentos crudos o poco cocinados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los compuestos orgánicos tricíclicos clorados, son…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los policloribifenilos.",
+      "c": "las dioxinas.",
+      "d": "los PCBs."
+    },
+    "correct": "c",
+    "correct_text": "las dioxinas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El método electroquímico que mide la diferencia de potenciales en una disolución es…",
+    "options": {
+      "a": "la potenciometría.",
+      "b": "la polarometría.",
+      "c": "la refractometría.",
+      "d": "la electroforesis."
+    },
+    "correct": "a",
+    "correct_text": "la potenciometría.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué se utiliza como indicador de alteración o estabilidad de los alimentos y la contaminación de los microorganismos?",
+    "options": {
+      "a": "el pH.",
+      "b": "el CH.",
+      "c": "el HC.",
+      "d": "el WC."
+    },
+    "correct": "a",
+    "correct_text": "el pH.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los métodos y técnicas empleadas en el control microbiológico, podemos encontrarnos…",
+    "options": {
+      "a": "las técnicas de conteo.",
+      "b": "la toma de diluciones.",
+      "c": "la preparación de muestras.",
+      "d": "los métodos de cultivo."
+    },
+    "correct": "a",
+    "correct_text": "las técnicas de conteo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina a la muestra de concentración conocida realizada para el análisis de muestras?",
+    "options": {
+      "a": "última dilución.",
+      "b": "dilución madre.",
+      "c": "dilución final.",
+      "d": "primera dilución."
+    },
+    "correct": "b",
+    "correct_text": "dilución madre.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En los alimentos elaborados, entre las diferentes inspecciones generales, comprenden…",
+    "options": {
+      "a": "el control del etiquetado.",
+      "b": "el adecuado muestreo del producto.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "comprobar la calidad de las materias primas."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La saponificación permite la formación de…",
+    "options": {
+      "a": "azúcares caseros.",
+      "b": "jabones.",
+      "c": "geles caseros.",
+      "d": "sales minerales."
+    },
+    "correct": "b",
+    "correct_text": "jabones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los métodos químicos, en la determinación básica de la composición de los alimentos, se suele utilizar…",
+    "options": {
+      "a": "con alimentos bajos en grasas.",
+      "b": "con alimentos bajos en agua.",
+      "c": "con alimentos bajos en proteínas.",
+      "d": "con alimentos altos en agua."
+    },
+    "correct": "b",
+    "correct_text": "con alimentos bajos en agua.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las determinaciones de componentes propios relacionados con la calidad de las grasas, nos encontramos con…",
+    "options": {
+      "a": "el índice de saponificación.",
+      "b": "el índice de lípidos.",
+      "c": "el índice de igualación.",
+      "d": "el índice de nitrógeno."
+    },
+    "correct": "a",
+    "correct_text": "el índice de saponificación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En el caso de una superficie, para la posterior siembra en placa, se pueden utilizar…",
+    "options": {
+      "a": "los palillos de los oídos.",
+      "b": "cualquier recipiente u objeto.",
+      "c": "los hisopos.",
+      "d": "objetos de cristal."
+    },
+    "correct": "c",
+    "correct_text": "los hisopos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Para poder comercializar productos bajo un sello de calidad, las empresas en la actualidad utilizan…",
+    "options": {
+      "a": "el Índice de Warner Bratzler.",
+      "b": "un Índice cualquiera.",
+      "c": "la Denominación de Origen poco Protegida.",
+      "d": "la Denominación de Origen Protegida."
+    },
+    "correct": "d",
+    "correct_text": "la Denominación de Origen Protegida.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué término indica que un producto consumido de forma esporádica o habitual no es susceptible de ocasionar trastornos en el consumidor?",
+    "options": {
+      "a": "inocuo.",
+      "b": "higienización.",
+      "c": "cualquiera de las respuestas anteriores es correcta.",
+      "d": "salubridad."
+    },
+    "correct": "a",
+    "correct_text": "inocuo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La técnica donde “participan un gran número de personas no entrenadas en las técnicas de evaluación y se escogen entre la población general” es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "paneles de catadores.",
+      "c": "técnicas instrumentales.",
+      "d": "estudios de degustación o de mercado."
+    },
+    "correct": "d",
+    "correct_text": "estudios de degustación o de mercado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En el método Dumas se realiza una combustión de la muestra, a una temperatura de…",
+    "options": {
+      "a": "entre 300 y 400 grados.",
+      "b": "entre 700 y 800 grados.",
+      "c": "entre 1000 y 2000 grados.",
+      "d": "entre 600 y 700 grados."
+    },
+    "correct": "b",
+    "correct_text": "entre 700 y 800 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los diferentes procedimientos de valoración de las características de un producto, podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "los análisis microbiológicos.",
+      "c": "los análisis físico-químicos.",
+      "d": "las evaluaciones organolépticas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Un medio de cultivo, está conformado por…",
+    "options": {
+      "a": "un conjunto de sustancias nutritivas que facilitan el crecimiento de microorganismos.",
+      "b": "un conjunto de sustancias nutritivas que facilitan el crecimiento de enzimas.",
+      "c": "un conjunto de sales minerales que facilitan el crecimiento de microorganismos.",
+      "d": "un conjunto de sustancias poco nutritivas que facilitan el crecimiento de microorganismos."
+    },
+    "correct": "a",
+    "correct_text": "un conjunto de sustancias nutritivas que facilitan el crecimiento de microorganismos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El control de calidad físico-química comprende…",
+    "options": {
+      "a": "tanto inspecciones visuales como determinaciones analíticas.",
+      "b": "solo inspecciones visuales.",
+      "c": "otro tipo de inspecciones, como las gustativas.",
+      "d": "una inspección que nada tiene que ver con lo visual."
+    },
+    "correct": "a",
+    "correct_text": "tanto inspecciones visuales como determinaciones analíticas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿De qué dependen los componentes subjetivos para evaluar la calidad del alimento?",
+    "options": {
+      "a": "de si ese alimento le gusta o no a una persona.",
+      "b": "de la apreciación del consumidor.",
+      "c": "de las necesidades del consumidor.",
+      "d": "de si ese alimento produce intolerancias hacia un grupos de personas."
+    },
+    "correct": "b",
+    "correct_text": "de la apreciación del consumidor.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué método para determinar el contenido de agua se basa en el cálculo del porcentaje de agua por la pérdida de peso debido a su eliminación?",
+    "options": {
+      "a": "el método de secado.",
+      "b": "el método del vacío.",
+      "c": "el método de liquidez.",
+      "d": "el método de semisecado."
+    },
+    "correct": "a",
+    "correct_text": "el método de secado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La presencia de microorganismos en un alimento puede deberse a…",
+    "options": {
+      "a": "una inadecuada manipulación higiénica.",
+      "b": "el carácter físico-químico del propio alimento.",
+      "c": "los tratamientos de higienización y conservación.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El método que se basa en “que cuando un haz de luz pasa de un medio a otro con densidades distintas, el haz de luz se desvía o se refracta, obteniéndose un índice de refracción” es…",
+    "options": {
+      "a": "el método eléctrico.",
+      "b": "el refractómetro.",
+      "c": "el método electrónico.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "el refractómetro.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los métodos rápidos de control de calidad microbiológico, la técnica más empleada es…",
+    "options": {
+      "a": "la técnica inmunológica ELSA.",
+      "b": "la técnica inmunológica ALSA.",
+      "c": "la técnica inmunológica ELISA.",
+      "d": "la técnica inmunosupresora ELSA."
+    },
+    "correct": "c",
+    "correct_text": "la técnica inmunológica ELISA.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En las frutas, la inspección visual comprende…",
+    "options": {
+      "a": "la edad, la coloración y las deformaciones, entre otros.",
+      "b": "el porcentaje de rotos o el índice de líquido que incluyen.",
+      "c": "el ph, el aspecto o las grietas en las mismas.",
+      "d": "la madurez y la presencia de almidón."
+    },
+    "correct": "d",
+    "correct_text": "la madurez y la presencia de almidón.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La cromatografía se basa en el principio de…",
+    "options": {
+      "a": "retención selectiva.",
+      "b": "iniciación selectiva.",
+      "c": "protección selectiva.",
+      "d": "indicación selectiva."
+    },
+    "correct": "a",
+    "correct_text": "retención selectiva.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En el método directo para la extracción de grasa bruta, cuando el disolvente se evapora, se determina la cantidad de grasa a través de…",
+    "options": {
+      "a": "el método indirecto.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el método gravimétrico.",
+      "d": "la gravimetría."
+    },
+    "correct": "d",
+    "correct_text": "la gravimetría.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La determinación de las características organolépticas tiene una gran importancia en la industria alimentaria porque…",
+    "options": {
+      "a": "sirve para conocer el sabor concreto de un producto.",
+      "b": "solo sirve para clasificar un producto.",
+      "c": "sirve para conocer cómo se va a vender ese producto concreto.",
+      "d": "se necesita clasificar y asegurar el nivel de calidad de los productos."
+    },
+    "correct": "d",
+    "correct_text": "se necesita clasificar y asegurar el nivel de calidad de los productos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se define como “el proceso que consiste en cuantificar el número de bacterias vivas o el número de unidades formadoras de colonias en una cantidad determinada de alimentos”, es…",
+    "options": {
+      "a": "contador de microorganismos.",
+      "b": "contador de enzimas.",
+      "c": "recuento de microorganismos.",
+      "d": "recuento de bacterias."
+    },
+    "correct": "c",
+    "correct_text": "recuento de microorganismos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El valor nutritivo de un alimento está determinado por…",
+    "options": {
+      "a": "su composición.",
+      "b": "su peso en kg.",
+      "c": "la cantidad que las personas somos capaces de comer de ese alimento.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "su composición.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los componentes más habituales resultantes de la alteración de los lípidos son…:",
+    "options": {
+      "a": "los compuestos de peroxidación e isomerización.",
+      "b": "los compuestas apolares.",
+      "c": "los ácidos grasos terminados.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "los compuestos de peroxidación e isomerización.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se entiende por calidad…",
+    "options": {
+      "a": "a los atributos o funciones, únicamente que ofrece un producto o servicio.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "al conjunto de características, atributos o funciones que ofrece un producto o servicio.",
+      "d": "al conjunto únicamente de características que ofrece un producto o servicio."
+    },
+    "correct": "c",
+    "correct_text": "al conjunto de características, atributos o funciones que ofrece un producto o servicio.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En el sistema de calidad de las técnicas instrumentales básicas, es importante…",
+    "options": {
+      "a": "la protección de los equipos de medición.",
+      "b": "la adquisición de los equipos de medición.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la gestión y el control de los equipos de medición."
+    },
+    "correct": "d",
+    "correct_text": "la gestión y el control de los equipos de medición.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El método que se caracteriza por la eliminación por medio de reactivos químicos de los distintos componentes de los alimentos, es…",
+    "options": {
+      "a": "el método químico.",
+      "b": "el método enzimático.",
+      "c": "el método glicólico.",
+      "d": "el método total."
+    },
+    "correct": "a",
+    "correct_text": "el método químico.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las propiedades de un alimento se comparan con…",
+    "options": {
+      "a": "si su sabor es el adecuado para el producto en concreto.",
+      "b": "si se vende bien ese producto en concreto en diferentes supermercados.",
+      "c": "los gustos de un grupo determinado de consumidores.",
+      "d": "las características exigidas por la reglamentación alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "las características exigidas por la reglamentación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El método Dye-Binding se basa en la utilización de…",
+    "options": {
+      "a": "colorantes que se fijan sobre los lípidos.",
+      "b": "enzimas que se fijan sobre las proteínas.",
+      "c": "sales minerales que se fijan sobre las proteínas.",
+      "d": "colorantes que se fijan sobre las proteínas."
+    },
+    "correct": "d",
+    "correct_text": "colorantes que se fijan sobre las proteínas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué método mide el volumen de agua liberada por una muestra?",
+    "options": {
+      "a": "el método de las lámparas infrarrojas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "las estufas de desecación.",
+      "d": "el método de destilación."
+    },
+    "correct": "d",
+    "correct_text": "el método de destilación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La humedad en los productos líquidos y en las leches condensadas se puede determinar con el uso…",
+    "options": {
+      "a": "de un medio electrónico.",
+      "b": "de un medio digital.",
+      "c": "el refractómetro.",
+      "d": "de un medio artesanal."
+    },
+    "correct": "c",
+    "correct_text": "el refractómetro.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El método Kjeldahl, se resume en las etapas de…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "adición de hidróxido sódico.",
+      "c": "valoración del amoniaco destilado en ácido bárico.",
+      "d": "digestión de la muestra con ácido sulfúrico concentrado."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En las propiedades funcionales y de estabilidad, están relacionadas…",
+    "options": {
+      "a": "los aspectos del deterioro del alimento en su consumo.",
+      "b": "los grandes aspectos de un alimento en su procesamiento.",
+      "c": "los aspectos de deterioro del alimento en su procesamiento.",
+      "d": "los aspectos de aumento del alimento en su procesamiento."
+    },
+    "correct": "c",
+    "correct_text": "los aspectos de deterioro del alimento en su procesamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El análisis cuantitativo de la grasa bruta se basa en…",
+    "options": {
+      "a": "la extracción de la fracción acuosa del producto.",
+      "b": "la extracción de la fracción proteica del producto.",
+      "c": "la inserción de la fracción lipídica en el producto.",
+      "d": "la extracción de la fracción lipídica del producto."
+    },
+    "correct": "d",
+    "correct_text": "la extracción de la fracción lipídica del producto.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El contenido en cenizas representa el contenido total en…",
+    "options": {
+      "a": "en proteínas.",
+      "b": "en minerales.",
+      "c": "en grasa bruta.",
+      "d": "acciones enzimáticas."
+    },
+    "correct": "b",
+    "correct_text": "en minerales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Para asegurar la calidad de los productos, los operadores de la industria alimentaria necesitan…",
+    "options": {
+      "a": "adquirir materia prima sin antes consultar sus especificaciones.",
+      "b": "adquirir materias primas con unas especificaciones de calidad adecuadas.",
+      "c": "adquirir comida adecuada.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "adquirir materias primas con unas especificaciones de calidad adecuadas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se definen como “aquellas características apreciables a través de los sentidos”...",
+    "options": {
+      "a": "propiedades organolépticas.",
+      "b": "criterios de calidad.",
+      "c": "propiedades nutricionales.",
+      "d": "propiedades funcionales y de estabilidad."
+    },
+    "correct": "a",
+    "correct_text": "propiedades organolépticas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué se utiliza generalmente para poder medir las propiedades organolépticas de un alimento?",
+    "options": {
+      "a": "cualquier persona vale.",
+      "b": "paneles de personas.",
+      "c": "degustadores de alta cocina.",
+      "d": "paneles de catadores."
+    },
+    "correct": "d",
+    "correct_text": "paneles de catadores.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se debe realizar la toma de muestras en el control de calidad microbiológico?",
+    "options": {
+      "a": "sin el uso de recipientes estériles.",
+      "b": "sin ningún tipo de protección.",
+      "c": "de forma aséptica y utilizando recipientes estériles.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "de forma aséptica y utilizando recipientes estériles.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Por qué es difícil para los consumidores y las propias empresas conocer la aptitud adecuada de los alimentos?",
+    "options": {
+      "a": "porque son productos muy complejos.",
+      "b": "porque cada vez existen más empresas.",
+      "c": "por la gran evolución que ha sufrido la industria alimentaria.",
+      "d": "porque se dan pocos datos acerca de los alimentos."
+    },
+    "correct": "c",
+    "correct_text": "por la gran evolución que ha sufrido la industria alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los diferentes equipos más utilizados en las técnicas instrumentales para un control de calidad organoléptica, encontramos…",
+    "options": {
+      "a": "la nariz electrónica.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "los colorímetros.",
+      "d": "la Cizalla de Warner Bratzler."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las especificaciones de calidad o especificaciones de compra se detallan…",
+    "options": {
+      "a": "en la parte superior de los productos.",
+      "b": "en un pliego de preinscripciones.",
+      "c": "en la página web de la empresa.",
+      "d": "en el reverso de los productos."
+    },
+    "correct": "b",
+    "correct_text": "en un pliego de preinscripciones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El carácter de las propiedades nutricionales es…",
+    "options": {
+      "a": "subjetivo a cada uno.",
+      "b": "indiferente para todas las personas.",
+      "c": "individual a cada uno.",
+      "d": "objetivo a todos."
+    },
+    "correct": "d",
+    "correct_text": "objetivo a todos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los resultados de la determinación básica de la composición del agua se suele expresar como…",
+    "options": {
+      "a": "humedad, sólidos totales y agua.",
+      "b": "humedad y sólidos totales.",
+      "c": "humedad.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "humedad, sólidos totales y agua.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En general, se consideran dentro de las propiedades funcionales y de estabilidad…",
+    "options": {
+      "a": "todas aquellas propiedades no nutricionales que influyen en el carácter sensorial del alimento.",
+      "b": "todas aquellas reglas nutricionales de los alimentos.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "todas aquellas propiedades nutricionales de los alimentos."
+    },
+    "correct": "a",
+    "correct_text": "todas aquellas propiedades no nutricionales que influyen en el carácter sensorial del alimento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las características de las especificaciones de calidad deben estar basadas en…",
+    "options": {
+      "a": "la legislación del país.",
+      "b": "ningún tipo de legislación.",
+      "c": "la legislación comunitaria.",
+      "d": "la legislación alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "la legislación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El medio de cultivo definido como “llevan en su composición alguna sustancia que permite seleccionar los microorganismos que pueden crecer” es…",
+    "options": {
+      "a": "el medio selectivo.",
+      "b": "el medio de cultivo anaerobio.",
+      "c": "el medio diferencial.",
+      "d": "el medio de enriquecimiento."
+    },
+    "correct": "a",
+    "correct_text": "el medio selectivo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué entidad es la encargada de acreditar la calidad de los productos…",
+    "options": {
+      "a": "el Ministerio de Consumo.",
+      "b": "la Entidad Nacional de Acreditación.",
+      "c": "la Agencia Estatal de Consumo.",
+      "d": "la Entidad Provincial de Acreditación."
+    },
+    "correct": "b",
+    "correct_text": "la Entidad Nacional de Acreditación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El método de extracción caracterizado por realizarse con un disolvente apolar en continuo, es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la extracción líquido-líquido.",
+      "c": "la extracción líquida-sólida.",
+      "d": "la extracción sólida-sólida."
+    },
+    "correct": "b",
+    "correct_text": "la extracción líquido-líquido.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los equipos de medida directa, podemos encontrarnos con…",
+    "options": {
+      "a": "balanza analítica y medidor de radiación.",
+      "b": "todas las respuestas anteirores son correctas.",
+      "c": "espectofotómetro.",
+      "d": "polarógrafo y cromatógrafo."
+    },
+    "correct": "a",
+    "correct_text": "balanza analítica y medidor de radiación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En los huevos, la inspección visual comprende…",
+    "options": {
+      "a": "el pH y el nitrógeno volátil.",
+      "b": "el porcentaje de rotos e índice de líquido que incluye.",
+      "c": "su aspecto, las grietas que existan o la cámara de aire, entre otros.",
+      "d": "la edad, la coloración, las deformaciones o su engrosamiento."
+    },
+    "correct": "c",
+    "correct_text": "su aspecto, las grietas que existan o la cámara de aire, entre otros.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se definen como “aquello en lo cual está basada en la normativa vigente y se sitúan los requerimientos de la empresa o instituciones” a…",
+    "options": {
+      "a": "las especificaciones de cantidad.",
+      "b": "la especificación de los requerimientos energéticos.",
+      "c": "las especificaciones de calidad.",
+      "d": "la especificación del producto."
+    },
+    "correct": "c",
+    "correct_text": "las especificaciones de calidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los principales componentes de los alimentos son…",
+    "options": {
+      "a": "el agua, la fibra bruta, las cenizas totales y el nitrógeno.",
+      "b": "el agua, las cenizas totales, la proteína pura y la fibra bruta.",
+      "c": "el agua, las cenizas totales, la fibra bruta, el nitrógeno y la proteína pura.",
+      "d": "el agua y las cenizas totales, únicamente."
+    },
+    "correct": "c",
+    "correct_text": "el agua, las cenizas totales, la fibra bruta, el nitrógeno y la proteína pura.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cada equipo de medición debe contar con una identificación que en general consta de…",
+    "options": {
+      "a": "un código.",
+      "b": "un número de serie y una fecha de alta.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "una denominación de equipo."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La realización de las determinaciones en la composición de los alimentos es básica para…",
+    "options": {
+      "a": "conocer un poco más sobre los distintos tipos de alimentos.",
+      "b": "conocer con exactitud el contenido de los distintos macro y micronutrientes.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "conocer a medida los alimentos."
+    },
+    "correct": "b",
+    "correct_text": "conocer con exactitud el contenido de los distintos macro y micronutrientes.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué método óptico se basa en la medida comparativa de intensidades luminosas mediante la acentuación de uno de los rayos o su transformación en energía eléctrica?",
+    "options": {
+      "a": "la fluormetría.",
+      "b": "la polarometría.",
+      "c": "la nanometría.",
+      "d": "la fotometría."
+    },
+    "correct": "d",
+    "correct_text": "la fotometría.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El método de referencia para calcular la proteína pura es…",
+    "options": {
+      "a": "el Método destilado.",
+      "b": "el Método sulfúrico.",
+      "c": "el Método Hammer.",
+      "d": "el Método Kjeldahl."
+    },
+    "correct": "d",
+    "correct_text": "el Método Kjeldahl.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La peroxidasa, es más conocida comúnmente como…",
+    "options": {
+      "a": "bicarbonato sódico.",
+      "b": "agua oxigenada.",
+      "c": "lejía.",
+      "d": "cloro."
+    },
+    "correct": "b",
+    "correct_text": "agua oxigenada.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El metanol es un reactivo deshidratante, por lo que la reacción debe protegerse…",
+    "options": {
+      "a": "frente al calor.",
+      "b": "frente a la humedad del aire.",
+      "c": "frente al frío.",
+      "d": "frente al aire."
+    },
+    "correct": "b",
+    "correct_text": "frente a la humedad del aire.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los paneles de catadores están conformados por…",
+    "options": {
+      "a": "personas entrenadas y seleccionadas por su agudeza sensorial.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "personas cualquiera entre un público.",
+      "d": "expertos en gastronomía."
+    },
+    "correct": "a",
+    "correct_text": "personas entrenadas y seleccionadas por su agudeza sensorial.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cuando un producto es originario de un lugar determinado, cuya calidad o características se deben fundamental o exclusivamente a un medio geográfico particular, se obtiene…",
+    "options": {
+      "a": "la Denominación de Origen Protegida.",
+      "b": "la Indicación Geográfica Protegida.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la Denominación Provincial de Origen."
+    },
+    "correct": "a",
+    "correct_text": "la Denominación de Origen Protegida.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la leche, la fosfatasa alcalina se inactiva progresivamente a temperaturas superiores a…",
+    "options": {
+      "a": "80 grados.",
+      "b": "30 grados.",
+      "c": "50 grados.",
+      "d": "60 grados."
+    },
+    "correct": "d",
+    "correct_text": "60 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El residuo inorgánico que queda después de calcinar la materia orgánica es…",
+    "options": {
+      "a": "la proteína bruta.",
+      "b": "la fibra bruta.",
+      "c": "el nitrógeno.",
+      "d": "las cenizas."
+    },
+    "correct": "d",
+    "correct_text": "las cenizas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las pruebas bioquímicas de caracterización pueden basarse en…",
+    "options": {
+      "a": "análisis proteicos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "análisis grasos o enzimáticos.",
+      "d": "análisis glucídicos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las técnicas de secado de los alimentos, podemos encontrarnos con…",
+    "options": {
+      "a": "estufas de sustancia inerte.",
+      "b": "con lámparas de suprarrojos.",
+      "c": "por desecación de sustancia inerte.",
+      "d": "por corriente de aire frío."
+    },
+    "correct": "c",
+    "correct_text": "por desecación de sustancia inerte.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "El polisacárido que se obtiene a partir de algas y que se utiliza como agente gelificante, es…",
+    "options": {
+      "a": "el algar.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el agar.",
+      "d": "la algarosa."
+    },
+    "correct": "c",
+    "correct_text": "el agar.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En los productos perecederos, ¿qué tipos de inspecciones se realizan?",
+    "options": {
+      "a": "inspecciones en la variedad o en la especie.",
+      "b": "inspecciones en la coloración o la homogeneidad.",
+      "c": "inspecciones sobre si existen defectos en la piel del producto.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "La fibra alimentaria, comprende…",
+    "options": {
+      "a": "el almidón resistente.",
+      "b": "los residuos no específicos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "los polisacáridos no amiláceos."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "Durante el tratamiento tecnológico o procesamiento de los alimentos existe el riesgo de…",
+    "options": {
+      "a": "una oxidación de los propios alimentos.",
+      "b": "una contaminación por parte de manipuladores u otros.",
+      "c": "deteriorar los alimentos en el proceso.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "una contaminación por parte de manipuladores u otros.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de glúcido es el más reactivo?",
+    "options": {
+      "a": "los disacáridos.",
+      "b": "los monosacáridos.",
+      "c": "la maltosa.",
+      "d": "la ribosa."
+    },
+    "correct": "d",
+    "correct_text": "la ribosa.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las vitaminas más susceptibles a los distintos tratamientos, nos encontramos con…",
+    "options": {
+      "a": "la tiamina.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las vitaminas A, C y B.",
+      "d": "la vitamina B9."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué se produce cuando se somete a altas temperaturas a los hidratos de carbono?",
+    "options": {
+      "a": "la oxidación.",
+      "b": "la caramelización.",
+      "c": "la carbonización.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "la caramelización.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las bajas temperaturas en los alimentos retardan las reacciones de…",
+    "options": {
+      "a": "hidrólisis.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "pardeamiento.",
+      "d": "hidroxidación."
+    },
+    "correct": "c",
+    "correct_text": "pardeamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los alimentos son susceptibles de sufrir alteraciones por…",
+    "options": {
+      "a": "los procesos tecnológicos.",
+      "b": "los procesos industriales.",
+      "c": "las cadenas de almacenamiento de los mismos.",
+      "d": "los procesos metabólicos."
+    },
+    "correct": "a",
+    "correct_text": "los procesos tecnológicos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se definen como “biomoléculas muy sensibles a los aumentos de temperatura, pudiendo producirse su desnaturalización, reacciones de pardeamiento no enzimático y otras reacciones”, se trata de…",
+    "options": {
+      "a": "los hidratos de carbono.",
+      "b": "las proteínas.",
+      "c": "las vitaminas y minerales.",
+      "d": "los lípidos."
+    },
+    "correct": "b",
+    "correct_text": "las proteínas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué grupo de bacterias aparecen con mayor frecuencia en el deterioro de los alimentos?",
+    "options": {
+      "a": "el grupo Pseudomonas.",
+      "b": "el grupo Campylobacter.",
+      "c": "el grupo Pseudófolis.",
+      "d": "el grupo psicrófilas."
+    },
+    "correct": "a",
+    "correct_text": "el grupo Pseudomonas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El agua es…",
+    "options": {
+      "a": "un medio poco favorable para la proliferación y la propagación de los microorganismos.",
+      "b": "un medio favorable para la proliferación y la transmisión de microorganismos.",
+      "c": "un medio desfavorable para la proliferación y la transmisión de los microorganismos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "un medio favorable para la proliferación y la transmisión de microorganismos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de tratamientos térmicos producen la desnaturalización de las proteínas?",
+    "options": {
+      "a": "los tratamientos por debajo de los 0 grados.",
+      "b": "los tratamientos entre 100 y 200 grados.",
+      "c": "los tratamientos superiores a 50 o 60 grados.",
+      "d": "los tratamientos por debajo de los 30 grados."
+    },
+    "correct": "c",
+    "correct_text": "los tratamientos superiores a 50 o 60 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento térmico de los lípidos en presencia de oxígeno provoca…",
+    "options": {
+      "a": "el deterioro y la degradación de sus características organolépticas.",
+      "b": "la degradación y oxidación de las grasas trans.",
+      "c": "el deterioro y la oxidación de sus valores nutricionales.",
+      "d": "el deterioro, la degradación y la oxidación de los ácidos grasos."
+    },
+    "correct": "d",
+    "correct_text": "el deterioro, la degradación y la oxidación de los ácidos grasos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Desde el punto de vista microbiológico, se entiende por suelo…",
+    "options": {
+      "a": "al conjunto de superficies con las que deja de tener contacto el alimento.",
+      "b": "al conjunto de superficies con las que se pone en contacto el alimento.",
+      "c": "al conjunto de necesidades con las que se pone en contacto el alimento.",
+      "d": "al conjunto de subsuelos con las que se pone en contacto un alimento."
+    },
+    "correct": "b",
+    "correct_text": "al conjunto de superficies con las que se pone en contacto el alimento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de tratamiento en los alimentos protéicos, puede provocar la pérdida de su valor nutritivo?",
+    "options": {
+      "a": "los tratamientos a altas temperaturas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la cocción, únicamente.",
+      "d": "los tratamientos a bajas temperaturas."
+    },
+    "correct": "a",
+    "correct_text": "los tratamientos a altas temperaturas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La consecuencia inmediata en los aceites de fritura es…",
+    "options": {
+      "a": "la formación de compuestos polares tóxicos.",
+      "b": "la formación de compuestos vegetales.",
+      "c": "la formación de compuestos apolares.",
+      "d": "la desintegración de los compuestos polares tóxicos."
+    },
+    "correct": "a",
+    "correct_text": "la formación de compuestos polares tóxicos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los minerales son…",
+    "options": {
+      "a": "bastante estables en el procesado de los alimentos.",
+      "b": "poco estables en el procesado de los alimentos.",
+      "c": "totalmente estables en el procesado de los alimentos.",
+      "d": "nada estables en el procesado de los alimentos."
+    },
+    "correct": "a",
+    "correct_text": "bastante estables en el procesado de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El método que consiste en la degradación de los hidratos de carbono de un alimento en unas condiciones anaeróbicas, es…",
+    "options": {
+      "a": "la fermentación",
+      "b": "la deshidratación.",
+      "c": "la congelación.",
+      "d": "el ahumado."
+    },
+    "correct": "a",
+    "correct_text": "la fermentación",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de enfermedad se produce cuando se consumen alimentos con sustancias tóxicas de origen microbiano?",
+    "options": {
+      "a": "una toxoinfección alimentaria.",
+      "b": "una infección transmitida por los alimentos.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "una intoxicación alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "una intoxicación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Como producto de las reacciones del pardeamiento no enzimático se obtienen…",
+    "options": {
+      "a": "polímeros verdes.",
+      "b": "polímeros marrones.",
+      "c": "hidrólisis.",
+      "d": "polímeros azules."
+    },
+    "correct": "b",
+    "correct_text": "polímeros marrones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Cómo aparecen en el etiquetado los ácidos grasos trans?",
+    "options": {
+      "a": "no aparecen en el etiquetado.",
+      "b": "aparecen como grasa muy hidrogenada.",
+      "c": "aparecen como grasa hidrogenada.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "aparecen como grasa hidrogenada.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El pan, los yogures, el vino o la cerveza se originan a través del proceso de…",
+    "options": {
+      "a": "salazón.",
+      "b": "fermentación.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "ahumado."
+    },
+    "correct": "b",
+    "correct_text": "fermentación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de ácidos grasos se produce al hidrogenar los ácidos grasos poliinsaturados?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los ácidos grasos biinsaturados.",
+      "c": "los ácidos monoinsaturados.",
+      "d": "los ácidos grasos trans."
+    },
+    "correct": "d",
+    "correct_text": "los ácidos grasos trans.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de alimentos son los más alterables debido a su composición?",
+    "options": {
+      "a": "las verduras y las frutas.",
+      "b": "los cereales.",
+      "c": "las carnes.",
+      "d": "los aceites grasos."
+    },
+    "correct": "c",
+    "correct_text": "las carnes.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "En algunas ocasiones, los microorganismos son los responsables de…",
+    "options": {
+      "a": "el aumento del valor biológico de los alimentos.",
+      "b": "la mejora de la calidad del producto.",
+      "c": "la alteración de la calidad de los alimentos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la alteración de la calidad de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La hidrogenación origina…",
+    "options": {
+      "a": "un porcentaje bajo de ácidos grasos monoinsaturados.",
+      "b": "un porcentaje significativo ácidos grasos poliinsaturados.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un porcentaje significativo de ácidos grasos trans."
+    },
+    "correct": "d",
+    "correct_text": "un porcentaje significativo de ácidos grasos trans.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la reacción de pardeamiento no enzimático de las proteínas, se produce…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "una pérdida de nutrientes y aminoácidos esenciales.",
+      "c": "una ganancia de nutrientes.",
+      "d": "únicamente una pérdida de nutrientes."
+    },
+    "correct": "b",
+    "correct_text": "una pérdida de nutrientes y aminoácidos esenciales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los principales responsables de la autoxidación de los lípidos son…",
+    "options": {
+      "a": "la temperatura y el pH.",
+      "b": "la temperatura, el oxígeno y la luz.",
+      "c": "el oxígeno y el pH.",
+      "d": "la temperatura y el oxígeno."
+    },
+    "correct": "b",
+    "correct_text": "la temperatura, el oxígeno y la luz.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los compuestos que aparecen en las reacciones de pardeamiento no enzimático pueden proteger…",
+    "options": {
+      "a": "al alimento frente a las enzimas.",
+      "b": "al alimento de la oxidación lipídica.",
+      "c": "al alimento frente a los microorganismos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "al alimento de la oxidación lipídica.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Una de las causas principales del deterioro de los alimentos es…",
+    "options": {
+      "a": "la caramelización.",
+      "b": "el enracionamiento.",
+      "c": "la oxidación.",
+      "d": "la carbonización."
+    },
+    "correct": "c",
+    "correct_text": "la oxidación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El proceso de cocción de alimentos ricos en hidratos de carbono provoca…",
+    "options": {
+      "a": "la caramelización.",
+      "b": "la oxidación.",
+      "c": "la carbonización.",
+      "d": "la gelatinización y retrogradación."
+    },
+    "correct": "d",
+    "correct_text": "la gelatinización y retrogradación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La etapa donde “los aldehídos y las cetonas formadas en anteriores fases pueden desencadenar distintas reacciones” es…",
+    "options": {
+      "a": "la transposición de Amadori o de Heyns.",
+      "b": "la polimerización.",
+      "c": "la condensación de Maillard.",
+      "d": "la degradación de Strecker."
+    },
+    "correct": "b",
+    "correct_text": "la polimerización.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “la insolubilización y la precipitación, principalmente de las moléculas de amilasa de almidón, debido a que sus cadenas lineales se orientan paralelamente” a…",
+    "options": {
+      "a": "la caramelización.",
+      "b": "la oxidación.",
+      "c": "la gelatinización y la retrogradación.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la gelatinización y la retrogradación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La oxidación de un alimento puede provocar…",
+    "options": {
+      "a": "una pérdida de su calidad.",
+      "b": "generar compuestos tóxicos.",
+      "c": "una disminución de la vida útil.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se denomina como “el proceso donde al alimento se aplica un procesado de alta presión y temperatura durante un breve periodo de tiempo” a…",
+    "options": {
+      "a": "la fermentación.",
+      "b": "la extrusión.",
+      "c": "el secado.",
+      "d": "la oxidación."
+    },
+    "correct": "b",
+    "correct_text": "la extrusión.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los efectos favorables que se pueden dar en las reacciones que afectan a aminoácidos y proteínas, encontramos…",
+    "options": {
+      "a": "el incremento de la digestibilidad de las proteínas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la mejora de la textura de los alimentos.",
+      "d": "la inactivación de los factores antinutritivos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué micronutrientes lo conforman la hemicelulosa, la celulosa y las pectinas, entre otros?",
+    "options": {
+      "a": "los lípidos.",
+      "b": "los hidratos de carbono.",
+      "c": "las proteínas.",
+      "d": "la fibra."
+    },
+    "correct": "d",
+    "correct_text": "la fibra.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de enzima puede dar lugar a reacciones de pardeamiento no enzimático con los hidratos de carbono?",
+    "options": {
+      "a": "los azúcares simples.",
+      "b": "las proteínas.",
+      "c": "los lípidos.",
+      "d": "los azúcares complejos."
+    },
+    "correct": "a",
+    "correct_text": "los azúcares simples.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué pueden provocar las reacciones químicas en los procesos tecnológicos a los cuales se someten los alimentos?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "mejorar el sabor de los alimentos.",
+      "c": "las mejoras en los valores nutricionales del alimento.",
+      "d": "el deterioro del propio alimento."
+    },
+    "correct": "d",
+    "correct_text": "el deterioro del propio alimento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La calidad microbiológica del agua está vinculada a…",
+    "options": {
+      "a": "la fermentación de microorganismos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la calidad de los microorganismos.",
+      "d": "la contaminación de los alimentos."
+    },
+    "correct": "d",
+    "correct_text": "la contaminación de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los factores que pueden influenciar las alteraciones de los alimentos, podemos encontrarnos con…",
+    "options": {
+      "a": "la luz del sol y la vegetación.",
+      "b": "la cantidad de agua y de oxígeno, únicamente.",
+      "c": "el pH del alimento, la cantidad de agua o la temperatura.",
+      "d": "la cantidad de agua, únicamente."
+    },
+    "correct": "c",
+    "correct_text": "el pH del alimento, la cantidad de agua o la temperatura.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El procesado de los alimentos, puede provocar…",
+    "options": {
+      "a": "la pérdida de la cantidad de calorías.",
+      "b": "la pérdida de micronutrientes.",
+      "c": "la pérdida de vitaminas.",
+      "d": "la ganancia de valores nutricionales."
+    },
+    "correct": "c",
+    "correct_text": "la pérdida de vitaminas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Dónde están presentes los microorganismos entre nosotros?",
+    "options": {
+      "a": "solamente en las plantas y en el suelo.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "en todo el medio ambiente.",
+      "d": "solamente en el agua y el aire."
+    },
+    "correct": "c",
+    "correct_text": "en todo el medio ambiente.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La etapa del pardeamiento no enzimático donde “las glucosaminas formadas en la reacción, sufren diversas transformaciones hasta llegar a cetosaminas” es…",
+    "options": {
+      "a": "la polimerización.",
+      "b": "la formación de compuestos reactivos.",
+      "c": "la transposición de Amadori o de Heyns.",
+      "d": "la condensación de Maillard."
+    },
+    "correct": "c",
+    "correct_text": "la transposición de Amadori o de Heyns.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La oxidación de lípidos en los alimentos puede ocasionar pérdidas nutricionales de…",
+    "options": {
+      "a": "vitaminas liposolubles.",
+      "b": "antioxidantes.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "ácidos grasos esenciales."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las partes contaminadas de un alimento pueden ser…",
+    "options": {
+      "a": "la piel e intestino de los animales.",
+      "b": "la cáscara de huevo.",
+      "c": "la piel de frutas y verduras.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Durante qué otros procesos se pueden producir la pérdida de vitaminas…",
+    "options": {
+      "a": "la distribución.",
+      "b": "la comercialización del producto.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el almacenamiento."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los métodos más antiguos de conservación de los alimentos encontramos…",
+    "options": {
+      "a": "el secado.",
+      "b": "el tratamiento térmico.",
+      "c": "la refrigeración.",
+      "d": "la deshidratación."
+    },
+    "correct": "d",
+    "correct_text": "la deshidratación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los procesos de preparación que provocan la pérdida de minerales, podemos encontrarnos con…",
+    "options": {
+      "a": "la cocción y el hervido.",
+      "b": "la molienda.",
+      "c": "la lixiviación.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se denominan como “los ácidos orgánicos ricos en fósforo que se encuentran de forma natural en muchos alimentos vegetales” ...",
+    "options": {
+      "a": "los homomatos.",
+      "b": "los filatos.",
+      "c": "los fosforofatos.",
+      "d": "los hematos."
+    },
+    "correct": "b",
+    "correct_text": "los filatos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El proceso que consiste en “un conjunto de reacciones que hacen que aparezcan polimeros pardos que alteran el olor y el sabor de los alimentos” es…",
+    "options": {
+      "a": "hidrólisis.",
+      "b": "pardeamiento enzimático.",
+      "c": "pardeamiento no enzimático.",
+      "d": "hidroxidación."
+    },
+    "correct": "c",
+    "correct_text": "pardeamiento no enzimático.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La actividad del agua influye en…",
+    "options": {
+      "a": "la necesidad del pardeamiento.",
+      "b": "la velocidad del pardeamiento.",
+      "c": "la calidad del pardeamiento.",
+      "d": "la cantidad del pardeamiento."
+    },
+    "correct": "b",
+    "correct_text": "la velocidad del pardeamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las reacciones de degradación lipídica más frecuentes en los alimentos son por…",
+    "options": {
+      "a": "la oxidación debido a la fritura.",
+      "b": "ambas respuestas anteriores son correctas.",
+      "c": "ninguna de las respuestas anteriores son correctas.",
+      "d": "el almacenamiento inadecuado."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "En los pescados, se producen reacciones entre…",
+    "options": {
+      "a": "proteínas e hidratos de carbono.",
+      "b": "proteínas y aminoácidos.",
+      "c": "proteínas y lípidos.",
+      "d": "aminoácidos y vitaminas."
+    },
+    "correct": "c",
+    "correct_text": "proteínas y lípidos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Si se produce una desnaturalización de las proteínas, todo ello da como resultado…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la disminución de las calorías en la proteína.",
+      "c": "el aumento de las calorías en la proteína.",
+      "d": "la disminución del valor nutritivo."
+    },
+    "correct": "d",
+    "correct_text": "la disminución del valor nutritivo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los hidróxidos producidos en el proceso de oxidación son responsables de…",
+    "options": {
+      "a": "el enranciamiento de las proteínas.",
+      "b": "de lograr un mejor aprovechamiento de los lípidos.",
+      "c": "del olor y sabor característico del enranciamiento.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "del olor y sabor característico del enranciamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las causas del deterioro de los alimentos, podemos encontrarnos con…",
+    "options": {
+      "a": "las reacciones químicas de los alimentos.",
+      "b": "los agentes tecnológicos.",
+      "c": "el crecimiento de pocos microorganismos deseables.",
+      "d": "las oxidaciones de los lípidos."
+    },
+    "correct": "d",
+    "correct_text": "las oxidaciones de los lípidos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿En qué puede afectar el tratamiento culinario o tecnológico a la hora de cocinar los alimentos?",
+    "options": {
+      "a": "en la cantidad de calorías.",
+      "b": "en la disponibilidad de nutrientes y su valor nutricional.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "en las necesidades nutricionales."
+    },
+    "correct": "b",
+    "correct_text": "en la disponibilidad de nutrientes y su valor nutricional.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las bacterias más frecuentes de brotes epidemiológicos en España encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la Salmonella.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "el Campylobacter."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La trazabilidad hacia delante también es conocida como…",
+    "options": {
+      "a": "trazabilidad de clientes.",
+      "b": "trazabilidad de proveedores.",
+      "c": "trazabilidad interna.",
+      "d": "trazabilidad de proceso."
+    },
+    "correct": "a",
+    "correct_text": "trazabilidad de clientes.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la revisión periódica de los equipos medidores de temperatura, deben utilizarse…",
+    "options": {
+      "a": "material de la propia empresa.",
+      "b": "instrumentos calibrados.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "material propio de los técnicos."
+    },
+    "correct": "b",
+    "correct_text": "instrumentos calibrados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "La trazabilidad, que da la posibilidad de conocer qué productos entran en la empresa y quiénes son sus proveedores, es…",
+    "options": {
+      "a": "la trazabilidad hacia atrás.",
+      "b": "la trazabilidad interna.",
+      "c": "la trazabilidad hacia arriba.",
+      "d": "la trazabilidad hacia delante."
+    },
+    "correct": "a",
+    "correct_text": "la trazabilidad hacia atrás.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Uno de los objetivos fundamentales de la legislación vigente es…",
+    "options": {
+      "a": "garantizar que la empresa obtenga los mayores beneficios posibles.",
+      "b": "garantizar un nivel elevado de protección a los consumidores.",
+      "c": "garantizar el mínimo nivel de protección a los consumidores.",
+      "d": "garantizar que se incumplen los derechos de los consumidores."
+    },
+    "correct": "b",
+    "correct_text": "garantizar un nivel elevado de protección a los consumidores.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la toma de muestras, en el muestreo y control analíticos, implica…",
+    "options": {
+      "a": "la recogida de alimentos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la recogida de agua.",
+      "d": "la comprobación de las superficies."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El objetivo del plan de buenas prácticas de manipulación es…",
+    "options": {
+      "a": "lograr que las fases estén correctamente manipuladas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la descripción del conjunto de requisitos, actividades y controles correctos en cada fase del proceso productivo.",
+      "d": "lograr que los manipuladores de alimentos conozcan cómo tratar los mismos."
+    },
+    "correct": "c",
+    "correct_text": "la descripción del conjunto de requisitos, actividades y controles correctos en cada fase del proceso productivo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “el conjunto de procedimientos basados en el APPCC, que las empresas alimentarias, de forma obligatoria, ponen en práctica de forma permanente”",
+    "options": {
+      "a": "el sistema de autodisciplina.",
+      "b": "el sistema de autogestión.",
+      "c": "el sistema de autocontrol.",
+      "d": "el sistema de autolavado."
+    },
+    "correct": "c",
+    "correct_text": "el sistema de autocontrol.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué registro controla cualquier incidencia que tenga lugar tras haber entregado una mercancía?",
+    "options": {
+      "a": "el registro interno de la empresa.",
+      "b": "el registro externo de la empresa.",
+      "c": "el registro simbólico de la empresa.",
+      "d": "el registro de devoluciones o quejas de los clientes."
+    },
+    "correct": "d",
+    "correct_text": "el registro de devoluciones o quejas de los clientes.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El diagnóstico de la situación, en el plan de control de plagas, consiste en…",
+    "options": {
+      "a": "la valoración de las necesidades de limpieza de la empresa.",
+      "b": "la intuición de las características de la empresa y su entorno.",
+      "c": "la valoración de las características de la empresa y su entorno.",
+      "d": "la valoración interna y externa de la empresa."
+    },
+    "correct": "c",
+    "correct_text": "la valoración de las características de la empresa y su entorno.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En cuanto a la documentación requerida para certificar a los proveedores de un alimento, se necesita…",
+    "options": {
+      "a": "una declaración de conformidad de envases.",
+      "b": "un certificado de conformidad para vehículos isotermo.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "una copia de la inscripción del proveedor en el Registro General Sanitario."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el control de plagas, la empresa contratada debe realizar visitas…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "mensuales.",
+      "c": "diarias.",
+      "d": "programas de inspección y observación de signos de infestación."
+    },
+    "correct": "d",
+    "correct_text": "programas de inspección y observación de signos de infestación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los equipos de frío y tratamiento térmico, deben contar…",
+    "options": {
+      "a": "sin los instrumentos de medida.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "con los instrumentos de medida necesarios.",
+      "d": "con las necesidades de la empresa."
+    },
+    "correct": "c",
+    "correct_text": "con los instrumentos de medida necesarios.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Por suministros, podemos entender…",
+    "options": {
+      "a": "productos de limpieza y productos para el mantenimiento.",
+      "b": "utensilios en contacto con los alimentos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "materias primas, envases y embalajes."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “la capacidad de seguir el rastro o movimiento de un alimento a través de las etapas de producción, transformación y distribución” a…",
+    "options": {
+      "a": "el seguimiento interno del producto.",
+      "b": "la trazabilidad.",
+      "c": "las necesidades productivas.",
+      "d": "el seguimiento de la empresa."
+    },
+    "correct": "b",
+    "correct_text": "la trazabilidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El sistema de autocontrol, también se apoya en…",
+    "options": {
+      "a": "las Prácticas Correctas de Higiene.",
+      "b": "las Prácticas Correctas de los empleados.",
+      "c": "las Prácticas Correctas alimenticias.",
+      "d": "las Prácticas Correctas de manipulación."
+    },
+    "correct": "a",
+    "correct_text": "las Prácticas Correctas de Higiene.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el transporte de los alimentos, se debe…",
+    "options": {
+      "a": "si requiere frío se requiere un certificado de idoneidad.",
+      "b": "no aparecer aplastado el producto a su recepción.",
+      "c": "mantener las cajas estibadas sin tocar con las paredes o el suelo.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Todos los planes, en las prácticas de higiene, deben contemplar…",
+    "options": {
+      "a": "un sistema de corrección.",
+      "b": "un sistema de verificación.",
+      "c": "un sistema de vigilancia.",
+      "d": "un sistema de registros."
+    },
+    "correct": "d",
+    "correct_text": "un sistema de registros.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En las frutas y hortalizas, se consideran en buen estado cuando…",
+    "options": {
+      "a": "hay un grado de maduración adecuado.",
+      "b": "hay un brillo al corte.",
+      "c": "hay una existencia de parásitos.",
+      "d": "existe una consistencia firme."
+    },
+    "correct": "a",
+    "correct_text": "hay un grado de maduración adecuado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El mantenimiento preventivo de las instalaciones, equipos o utensilios, se realiza por…",
+    "options": {
+      "a": "para lograr un mejor rendimiento.",
+      "b": "averías y deficiencias en los mismos.",
+      "c": "la necesidad de la empresa.",
+      "d": "la obligación de los jefes."
+    },
+    "correct": "b",
+    "correct_text": "averías y deficiencias en los mismos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Además, como anexo al plan de control del agua, la empresa debe tener…",
+    "options": {
+      "a": "el plano de fontanería de sus establecimientos e instalaciones.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el contrato o recibo de la empresa abastecedora del agua.",
+      "d": "el plano numerado de grifos de muestreo."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el plan de control del agua, se debe tener en cuenta…",
+    "options": {
+      "a": "si el agua tiene un buen sabor.",
+      "b": "si la empresa hace un uso irresponsable del agua.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "si la gestión es autónoma o se abastece de la red municipal."
+    },
+    "correct": "d",
+    "correct_text": "si la gestión es autónoma o se abastece de la red municipal.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El plan de control de plagas, generalmente está realizado por…",
+    "options": {
+      "a": "ambas respuestas son correctas.",
+      "b": "el personal del establecimiento, únicamente.",
+      "c": "una empresa especializada en control de plagas, únicamente.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "ambas respuestas son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En general, las prácticas de higiene se suelen concretar en…",
+    "options": {
+      "a": "8 planes.",
+      "b": "10 planes.",
+      "c": "5 planes.",
+      "d": "12 planes."
+    },
+    "correct": "b",
+    "correct_text": "10 planes.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las instalaciones de frío de las industrias deben controlarse mediante registros de temperatura, al menos…",
+    "options": {
+      "a": "tres veces al día.",
+      "b": "una vez al día.",
+      "c": "dos veces al día.",
+      "d": "cuatro veces al día."
+    },
+    "correct": "c",
+    "correct_text": "dos veces al día.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El plan de limpieza y desinfección, tiene un objetivo, que es…",
+    "options": {
+      "a": "contratar a más personas para lograr generar un mayor empleo.",
+      "b": "mantener los útiles de la empresa limpios únicamente.",
+      "c": "mantener las instalaciones, equipos, mobiliario y útiles de la empresa en el estado adecuado.",
+      "d": "verificar las conexiones del agua de la empresa."
+    },
+    "correct": "c",
+    "correct_text": "mantener las instalaciones, equipos, mobiliario y útiles de la empresa en el estado adecuado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las características del sistema de autocontrol, encontramos…",
+    "options": {
+      "a": "los operadores alimentarios no son responsables de sus actos.",
+      "b": "el sistema de autocontrol debe dejar de garantizar la seguridad.",
+      "c": "la Autoridad Sanitaria establece un marco de exigencia mínimo.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la Autoridad Sanitaria establece un marco de exigencia mínimo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "La documentación de la parte general, en la información de la empresa, debe incluir…",
+    "options": {
+      "a": "el plano o croquis actualizado del establecimiento alimentario.",
+      "b": "los irresponsables del sistema de autocontrol.",
+      "c": "la razón legal y dirección del establecimiento.",
+      "d": "el número de identificación en el Registro de empresas."
+    },
+    "correct": "a",
+    "correct_text": "el plano o croquis actualizado del establecimiento alimentario.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el control de la recepción de la mercancía, si se trata de productos perecederos…",
+    "options": {
+      "a": "se comprueban las características organolépticas.",
+      "b": "se comprueba la temperatura a la recepción del lote.",
+      "c": "se comprueba la fecha de caducidad y el correcto etiquetado.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Para hacer un buen uso de los envases, se debe…",
+    "options": {
+      "a": "garantizar una eficaz protección del alimento.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "tener el material autorizado para el uso alimentario.",
+      "d": "estar exentos de suciedad o polvo, entre otros."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el plan de mantenimiento de la cadena de frío, es de suma importancia…",
+    "options": {
+      "a": "que la industria realice un control periódico de los equipos.",
+      "b": "contar con el género adecuado.",
+      "c": "que la industria realice un control periódico de las temperaturas.",
+      "d": "que no se tengan necesidades."
+    },
+    "correct": "c",
+    "correct_text": "que la industria realice un control periódico de las temperaturas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El documento donde se indica la composición y elaboración de cada producto, se denomina…",
+    "options": {
+      "a": "razón social de la empresa.",
+      "b": "ficha técnica del producto.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "documento de identificación del producto."
+    },
+    "correct": "b",
+    "correct_text": "ficha técnica del producto.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el documento de control de producción y loteado, se suele incluir…",
+    "options": {
+      "a": "la cantidad de materias primas y la fecha de recepción de las mismas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el control organoléptico previo a la utilización de las materias primas.",
+      "d": "las materias primas utilizadas."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las medidas, en el control de plagas, se recomienda…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "evitar los acúmulos de agua.",
+      "c": "el no uso de las trampas eléctricas.",
+      "d": "la no revisión de los embalajes y pales."
+    },
+    "correct": "b",
+    "correct_text": "evitar los acúmulos de agua.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las normas para la eliminación de desperdicios y basuras, nos encontramos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "mantener los contenedores exteriores cerrados.",
+      "c": "utilizar cubos o contenedores de basura dotados de tapa y apertura a pedal.",
+      "d": "lavarse y desinfectarse las manos tras la evacuación de la basura."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El objetivo del Plan de formación de los manipuladores es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "que éstos dispongan de una formación adecuada en atención al cliente.",
+      "c": "que éstos dispongan de una formación adecuada en higiene.",
+      "d": "lograr adquirir conocimientos."
+    },
+    "correct": "c",
+    "correct_text": "que éstos dispongan de una formación adecuada en higiene.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En los productos en refrigeración, la temperatura máxima debe ser de…",
+    "options": {
+      "a": "5 grados.",
+      "b": "8 grados.",
+      "c": "0 grados.",
+      "d": "3 grados."
+    },
+    "correct": "a",
+    "correct_text": "5 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las empresas que requieren una trazabilidad hacia atrás e interna, encontramos…",
+    "options": {
+      "a": "empresas que elaboran comidas preparadas y las suministran al consumidor final.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "empresas que únicamente distribuyen productos a otras empresas.",
+      "d": "empresas que elaboran comidas preparadas y las distribuyen a empresas."
+    },
+    "correct": "a",
+    "correct_text": "empresas que elaboran comidas preparadas y las suministran al consumidor final.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la verificación del plan de limpieza y desinfección, debe incluir…",
+    "options": {
+      "a": "la toma de muestras de las personas.",
+      "b": "el uso de lejía.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la toma de muestras de superficies de útiles y equipos."
+    },
+    "correct": "d",
+    "correct_text": "la toma de muestras de superficies de útiles y equipos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Todos los productos plaguicidas aplicados deben…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "ser conocidos dentro del mundo de la limpieza.",
+      "c": "estar comprados por la empresa.",
+      "d": "estar autorizados para el control y la eliminación de plagas."
+    },
+    "correct": "d",
+    "correct_text": "estar autorizados para el control y la eliminación de plagas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En las características del sistema de autocontrol, “el control de peligros debe estar basado en…”",
+    "options": {
+      "a": "lo que digan unas pocas personas.",
+      "b": "pautas y criterios legales.",
+      "c": "el pensamiento de los líderes de las empresas.",
+      "d": "el criterio de una sola persona."
+    },
+    "correct": "b",
+    "correct_text": "pautas y criterios legales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El objetivo del plan de certificación de los proveedores es…",
+    "options": {
+      "a": "asegurar que los suministros no incorporen peligros significativos.",
+      "b": "lograr contratar servicios de limpieza adecuados.",
+      "c": "lograr que la empresa tenga un gran renombre.",
+      "d": "lograr que la empresa crezca."
+    },
+    "correct": "a",
+    "correct_text": "asegurar que los suministros no incorporen peligros significativos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los responsables de la empresa deben realizar una inspección visual…",
+    "options": {
+      "a": "mensual.",
+      "b": "diaria.",
+      "c": "anual.",
+      "d": "trimestral."
+    },
+    "correct": "b",
+    "correct_text": "diaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las medidas en el plan de control de plagas, podemos encontrar…",
+    "options": {
+      "a": "el adecuado diseño y construcción de los locales.",
+      "b": "el empleo de mosquiteras en sus ventanas.",
+      "c": "el empleo de contenedores y recipientes.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Para desarrollar un sistema de autocontrol, se deben analizar inicialmente…",
+    "options": {
+      "a": "las necesidades de la empresa.",
+      "b": "los diagramas de flujo.",
+      "c": "los indicadores de la empresa.",
+      "d": "los diagramas de barras."
+    },
+    "correct": "b",
+    "correct_text": "los diagramas de flujo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Mediante qué documento se controlan documentalmente los lotes y productos elaborados diariamente?",
+    "options": {
+      "a": "mediante el documento requerido por las instituciones sanitarias.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "mediante el documento de salida del producto.",
+      "d": "mediante el documento de control de producción y loteado."
+    },
+    "correct": "d",
+    "correct_text": "mediante el documento de control de producción y loteado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los requisitos mínimos que deben cumplir los proveedores, encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los documentos acreditativos de nombre de empresa.",
+      "c": "las especificaciones de calidad y microbiológicas.",
+      "d": "las condiciones de vuelo de las materias primas."
+    },
+    "correct": "c",
+    "correct_text": "las especificaciones de calidad y microbiológicas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "La verificación, permite comprobar…",
+    "options": {
+      "a": "el sistema de evaluación de los productos.",
+      "b": "el sistema de ubicación de los productos.",
+      "c": "el sistema de autocontrol y que asegura la inocuidad de los alimentos.",
+      "d": "el sistema de organización de la empresa."
+    },
+    "correct": "c",
+    "correct_text": "el sistema de autocontrol y que asegura la inocuidad de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Cuando la formación se realice directamente por la empresa alimentaria, el programa de formación será diseñado o impartido…",
+    "options": {
+      "a": "por personal externo de la empresa acreditado documentalmente para ello.",
+      "b": "por personal externo a la empresa.",
+      "c": "por los jefes de la propia empresa.",
+      "d": "por personal interno de la empresa acreditado documentalmente para ello."
+    },
+    "correct": "d",
+    "correct_text": "por personal interno de la empresa acreditado documentalmente para ello.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En las carnes, las características organolépticas serán adecuadas en un producto en buen estado cuando…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "no se vea un brillo en el corte.",
+      "c": "la consistencia de la carne no sea firme.",
+      "d": "tenga un color y un olor propio de la carne."
+    },
+    "correct": "d",
+    "correct_text": "tenga un color y un olor propio de la carne.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la pegatina de control de recepción de un producto, debe aparecer…",
+    "options": {
+      "a": "la caducidad y la temperatura de salida.",
+      "b": "el nombre del producto y la recepción del lote.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la fecha de salida y el control organoléptico."
+    },
+    "correct": "b",
+    "correct_text": "el nombre del producto y la recepción del lote.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El sistema de autocontrol se divide en…",
+    "options": {
+      "a": "el análisis de peligros y puntos críticos de control.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el plan general de higiene.",
+      "d": "los aspectos generales."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El registro donde se controlan las salidas de productos o distribución, se denomina como…",
+    "options": {
+      "a": "registro interno.",
+      "b": "registro de salidas.",
+      "c": "registro de envío.",
+      "d": "registro de control de salidas."
+    },
+    "correct": "d",
+    "correct_text": "registro de control de salidas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El plan de control del agua, tiene como objetivo…",
+    "options": {
+      "a": "verificar el agua que bebemos.",
+      "b": "descontrolar el sistema de agua del establecimiento.",
+      "c": "garantizar que el agua utilizada no afecta a la salubridad y a la seguridad de las personas.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "garantizar que el agua utilizada no afecta a la salubridad y a la seguridad de las personas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "La auditoría interna tiene como objetivo…",
+    "options": {
+      "a": "determinar la organización de la empresa.",
+      "b": "determinar los beneficios de la empresa.",
+      "c": "determinar si el sistema APPCC se ha implantado correctamente.",
+      "d": "determinar si los productos alimenticios son tratados adecuadamente."
+    },
+    "correct": "c",
+    "correct_text": "determinar si el sistema APPCC se ha implantado correctamente.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El plan de mantenimiento de instalaciones y equipos, tiene como objetivo…",
+    "options": {
+      "a": "asegurar el correcto funcionamiento de las instalaciones, maquinaria y equipos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "dar conocimiento de los problemas en la maquinaria de la empresa.",
+      "d": "dejar obsoletos todos los útiles de la empresa."
+    },
+    "correct": "a",
+    "correct_text": "asegurar el correcto funcionamiento de las instalaciones, maquinaria y equipos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El conjunto de procedimientos y prácticas que cumplen los requisitos legales de higiene para controlar los riesgos alimentarios, es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el plan general de higiene.",
+      "c": "el plan legal de higiene.",
+      "d": "el plan social de higiene."
+    },
+    "correct": "b",
+    "correct_text": "el plan general de higiene.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el plan de eliminación de residuos, los residuos sólidos deben ser depositados en…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "cubos normales de limpieza.",
+      "c": "en el suelo.",
+      "d": "en bolsas de basura o en contenedores de basura con tapadera."
+    },
+    "correct": "d",
+    "correct_text": "en bolsas de basura o en contenedores de basura con tapadera.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las medidas de control e higiene, podemos encontrar…",
+    "options": {
+      "a": "analizar y evaluar los posibles riesgos.",
+      "b": "establecer procedimientos de verificación.",
+      "c": "determinar los puntos de control críticos.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El objetivo del plan de eliminación de residuos es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "evitar que los residuos o subproductos generados por la empresa produzcan contaminaciones cruzadas.",
+      "c": "lograr que los residuos no queden en la basura.",
+      "d": "lograr un mayor beneficio para la empresa y una mayor producción."
+    },
+    "correct": "b",
+    "correct_text": "evitar que los residuos o subproductos generados por la empresa produzcan contaminaciones cruzadas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "En caso de contratar algún servicio de recogida de residuos específicos, los albaranes de recogida, deberán ser archivados durante al menos…",
+    "options": {
+      "a": "1 año.",
+      "b": "2 años.",
+      "c": "5 años.",
+      "d": "7 años."
+    },
+    "correct": "b",
+    "correct_text": "2 años.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "El objetivo del plan de control de plagas es…",
+    "options": {
+      "a": "lograr la existencia de cualquier plaga.",
+      "b": "ver la contaminación de equipos y útiles de la empresa.",
+      "c": "desinfectar los equipos y útiles de la empresa.",
+      "d": "evitar la existencia de cualquier plaga en la industria."
+    },
+    "correct": "d",
+    "correct_text": "evitar la existencia de cualquier plaga en la industria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las medidas preventivas de higiene en función de la normativa legal y las guías del sector alimentario, se pueden dividir en…",
+    "options": {
+      "a": "criterios cuantitativos y cualitativos.",
+      "b": "criterios fijos y variables.",
+      "c": "criterios primarios y secundarios.",
+      "d": "criterios principales y no principales."
+    },
+    "correct": "a",
+    "correct_text": "criterios cuantitativos y cualitativos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Todas aquellas empresas que puedan aplicar un sistema de autocontrol, su aplicación se debe apoyar en…",
+    "options": {
+      "a": "un mecanismo informático.",
+      "b": "un mecanismo irreal.",
+      "c": "un mecanismo flexible.",
+      "d": "un mecanismo inflexible."
+    },
+    "correct": "c",
+    "correct_text": "un mecanismo flexible.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las características del sistema de autocontrol, encontramos que “los requisitos mínimos deben estar al alcance de…”",
+    "options": {
+      "a": "las pequeñas empresas, únicamente.",
+      "b": "las pequeñas empresas, además de las medianas y grandes empresas.",
+      "c": "grandes empresas, únicamente.",
+      "d": "todas las personas."
+    },
+    "correct": "b",
+    "correct_text": "las pequeñas empresas, además de las medianas y grandes empresas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Es necesario disponer de un plan de mantenimiento adecuado de locales, instalaciones y maquinaria…",
+    "options": {
+      "a": "adecuado al volumen de la empresa.",
+      "b": "adecuado al volumen de ventas de la empresa.",
+      "c": "adecuado al tamaño de las instalaciones de la empresa.",
+      "d": "adecuado a las necesidades de la empresa."
+    },
+    "correct": "c",
+    "correct_text": "adecuado al tamaño de las instalaciones de la empresa.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los contenidos de la formación para los manipuladores incluirán…",
+    "options": {
+      "a": "las prácticas incorrectas de higiene y sus consecuencias.",
+      "b": "los fundamentos y prácticas correctas de higiene.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "los conocimientos básicos en materia de higiene alimentaria."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las alteraciones más importantes en la leche comprenden…",
+    "options": {
+      "a": "la contaminación radiactiva y la presencia de pesticidas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la presencia de olores poco extraños.",
+      "d": "la presencia de nata en la leche."
+    },
+    "correct": "a",
+    "correct_text": "la contaminación radiactiva y la presencia de pesticidas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El aroma en los distintos tipos de pescados, está asociado a…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "a la oxidación de los lípidos del pescado.",
+      "c": "la heterogeneidad de los distintos tipos de pescado.",
+      "d": "a la cantidad de grasas que contiene cada pescado."
+    },
+    "correct": "b",
+    "correct_text": "a la oxidación de los lípidos del pescado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En general, ¿qué contenido en agua representa la carne fresca?",
+    "options": {
+      "a": "entre un 30 y un 40%.",
+      "b": "entre un 10 y un 20%.",
+      "c": "entre un 50 y un 60%.",
+      "d": "entre un 60 y un 80%."
+    },
+    "correct": "d",
+    "correct_text": "entre un 60 y un 80%.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La composición nutricional de la leche va a variar según…",
+    "options": {
+      "a": "la calidad de la leche.",
+      "b": "en función de si es entera, desnatada o semidesnatada.",
+      "c": "el tipo de animal del cual proceda la leche.",
+      "d": "las cantidades que tomemos diariamente."
+    },
+    "correct": "b",
+    "correct_text": "en función de si es entera, desnatada o semidesnatada.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El pescado, contiene una alta proporción de…",
+    "options": {
+      "a": "vitaminas hidrosolubles.",
+      "b": "proteínas.",
+      "c": "carbohidratos.",
+      "d": "grasas."
+    },
+    "correct": "b",
+    "correct_text": "proteínas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Al eliminar la grasa de la leche se pierden la mayor parte de…",
+    "options": {
+      "a": "lípidos.",
+      "b": "proteínas.",
+      "c": "vitaminas hidrosolubles.",
+      "d": "vitaminas liposolubles."
+    },
+    "correct": "d",
+    "correct_text": "vitaminas liposolubles.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de pescados tienen un bajo contenido en grasa pero alto en colesterol y ácido úrico?",
+    "options": {
+      "a": "los pescados blancos.",
+      "b": "los pescados azules.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "los crustáceos y los moluscos."
+    },
+    "correct": "d",
+    "correct_text": "los crustáceos y los moluscos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿En qué tipo de micronutrientes son ricos los cereales integrales?",
+    "options": {
+      "a": "en vitaminas y minerales.",
+      "b": "en hidratos de carbono.",
+      "c": "en lípidos.",
+      "d": "en proteínas."
+    },
+    "correct": "a",
+    "correct_text": "en vitaminas y minerales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los frutos secos, aportan cantidades apreciables de…",
+    "options": {
+      "a": "vitaminas B1 y B2.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "ácido fólico y niacina.",
+      "d": "vitamina B6."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipo de leche es la leche natural, entera, desnatada o semidesnatada sometida a una temperatura elevada durante un breve periodo de tiempo?",
+    "options": {
+      "a": "la leche esterilizada UHT.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la leche pasteurizada.",
+      "d": "la leche de vaca."
+    },
+    "correct": "c",
+    "correct_text": "la leche pasteurizada.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En los frutos secos, las características organolépticas son…",
+    "options": {
+      "a": "deber haber gran cantidad de humedad.",
+      "b": "debe haber ausencia de sabor y humedad.",
+      "c": "no debe haber ausencia de humedad.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "d",
+    "correct_text": "ninguna de las respuestas anteriores es correcta.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los equipos utilizados para valorar la calidad panadera son…",
+    "options": {
+      "a": "el alveógrafo de Brabender.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el farinógrafo de Chapin.",
+      "d": "el estiramiento de Chapin."
+    },
+    "correct": "b",
+    "correct_text": "ninguna de las respuestas anteriores es correcta.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La clara de un huevo debe ser…",
+    "options": {
+      "a": "firme, transparente y sin enturbiamiento.",
+      "b": "fuerte, homogénea y libre.",
+      "c": "firme, poco transparente y limpia.",
+      "d": "blanda, heterogénea y limpia."
+    },
+    "correct": "a",
+    "correct_text": "firme, transparente y sin enturbiamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las frutas y hortalizas, aportan una baja cantidad de…",
+    "options": {
+      "a": "nutrientes.",
+      "b": "calorías.",
+      "c": "agua.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "calorías.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los aspectos a tener en cuenta de los frutos secos, nos encontramos con…",
+    "options": {
+      "a": "su alto índice de valores nutricionales.",
+      "b": "su alto grado de alergenicidad.",
+      "c": "su gran índice de humedad.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "su alto grado de alergenicidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las normas del Códex Alimentarius, indican que, los granos de los cereales deberán estar exentos de…",
+    "options": {
+      "a": "color.",
+      "b": "sabores y olores anormales.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "textura."
+    },
+    "correct": "b",
+    "correct_text": "sabores y olores anormales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El Código Alimentario Español, establece que son huevos frescos aquellos que…",
+    "options": {
+      "a": "presenten una jugosidad característica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "presente un aroma y una textura característicos.",
+      "d": "presenten un color y un sabor característicos."
+    },
+    "correct": "d",
+    "correct_text": "presenten un color y un sabor característicos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los distintos tipos de azúcares, podemos incluir...",
+    "options": {
+      "a": "la glucosa",
+      "b": "la fructosa",
+      "c": "la maltosa",
+      "d": "todas las respuestas anteriores son correctas"
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Para el control analítico, los huevos se someten a…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "golpeteo, uso del ovoscopio y luz ultravioleta.",
+      "c": "la inspección externa no instrumental.",
+      "d": "una inspección interna del huevo."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué cantidad de humedad presenta la harina?",
+    "options": {
+      "a": "alrededor del 12%.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "alrededor del 2%.",
+      "d": "alrededor del 20%."
+    },
+    "correct": "a",
+    "correct_text": "alrededor del 12%.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El alimento que se entiende como “que procede de las partes blandas y comestibles de los animales y sus vísceras” es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "las grasas de los animales.",
+      "c": "el pescado.",
+      "d": "la carne."
+    },
+    "correct": "d",
+    "correct_text": "la carne.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué lugar ocupa la carne en el consumo mundial de productos alimenticios?",
+    "options": {
+      "a": "ocupa el cuarto lugar.",
+      "b": "ocupa el segundo lugar.",
+      "c": "ocupa el primer lugar.",
+      "d": "ocupa el tercer lugar."
+    },
+    "correct": "c",
+    "correct_text": "ocupa el primer lugar.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El queso es un derivado lácteo en el que se separa…",
+    "options": {
+      "a": "el sabor de la leche.",
+      "b": "la leche fermentada.",
+      "c": "el suero.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "el suero.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La valoración de la calidad panadera, se puede realizar mediante… ::",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la aplicación de técnicas que valoran las características reológicas.",
+      "c": "la determinación del gluten.",
+      "d": "ambas respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "De forma general, 100 gramos de legumbres, en crudo, aportan…",
+    "options": {
+      "a": "200 kcal.",
+      "b": "500 kcal.",
+      "c": "300 kcal.",
+      "d": "600 kcal."
+    },
+    "correct": "c",
+    "correct_text": "300 kcal.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se definen como “aquellas bebidas con cierto contenido en etanol procedente de la fermentación o la destilación” a las…",
+    "options": {
+      "a": "bebidas destiladas.",
+      "b": "bebidas alcohólicas.",
+      "c": "bebidas energéticas.",
+      "d": "bebidas no alcohólicas."
+    },
+    "correct": "b",
+    "correct_text": "bebidas alcohólicas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Para la determinación analítica de hortalizas y frutas, la muestra debe prepararse…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "recién salida de la bolsa.",
+      "c": "seca y húmeda.",
+      "d": "húmeda."
+    },
+    "correct": "c",
+    "correct_text": "seca y húmeda.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las frutas climatéricas aumentan…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el volumen de oxígeno.",
+      "c": "el bombeo del corazón.",
+      "d": "la intensidad respiratoria."
+    },
+    "correct": "d",
+    "correct_text": "la intensidad respiratoria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La mantequilla es un derivado lácteo con una alta proporción de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "vitaminas hidrosolubles.",
+      "c": "colesterol.",
+      "d": "ácidos grasos monoinsaturados."
+    },
+    "correct": "c",
+    "correct_text": "colesterol.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las características mínimas de calidad que se exigen a las legumbres son…",
+    "options": {
+      "a": "deben evitar la humedad.",
+      "b": "deben estar limpias y sin residuos.",
+      "c": "deben presentarse enteras, sanas y exentas de mohos y materias extrañas.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El efecto que se produce cuando, una vez descongelado el pescado presente una baja consistencia y apariencia de deshilachado, se denomina como…",
+    "options": {
+      "a": "El efecto porpoising.",
+      "b": "el efecto oxidativo.",
+      "c": "el efecto Harden.",
+      "d": "El efecto gaping."
+    },
+    "correct": "d",
+    "correct_text": "El efecto gaping.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El aporte energético de un huevo de la talla L, podemos situarlo en…",
+    "options": {
+      "a": "150 kcal por cada 100 gramos de producto.",
+      "b": "50 kcal por cada 100 gramos de producto.",
+      "c": "160 kcal por cada 100 gramos de producto.",
+      "d": "200 kcal por cada 100 gramos de producto."
+    },
+    "correct": "c",
+    "correct_text": "160 kcal por cada 100 gramos de producto.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El olor que presentan algunas frutas y hortalizas poco agradable se debe a…",
+    "options": {
+      "a": "su composición en compuestos azufrados.",
+      "b": "su composición en agua.",
+      "c": "su composición en proteínas.",
+      "d": "su mal tratamiento en algunos procesos."
+    },
+    "correct": "a",
+    "correct_text": "su composición en compuestos azufrados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La hormona de maduración es denominada como…",
+    "options": {
+      "a": "etileno.",
+      "b": "postílenos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "melitineno."
+    },
+    "correct": "a",
+    "correct_text": "etileno.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El azúcar, está compuesto por un 99’5% de…",
+    "options": {
+      "a": "glucosa.",
+      "b": "sacarosa.",
+      "c": "fructosa.",
+      "d": "maltosa."
+    },
+    "correct": "b",
+    "correct_text": "sacarosa.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los aceites aportan…",
+    "options": {
+      "a": "vitaminas liposolubles.",
+      "b": "vitaminas hidrosolubles.",
+      "c": "ácidos no grasos esenciales.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "vitaminas liposolubles.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En el pescado, ¿qué tipos de propiedades son las relacionadas con la calidad del mismo?",
+    "options": {
+      "a": "la textura y el aroma.",
+      "b": "la cantidad de agua.",
+      "c": "la jugosidad.",
+      "d": "únicamente, la textura."
+    },
+    "correct": "a",
+    "correct_text": "la textura y el aroma.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de cereales son los que llegan a nuestra mesa sin ser transformados?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los cereales del desayuno.",
+      "c": "el maíz y el arroz.",
+      "d": "el pan y la pasta."
+    },
+    "correct": "c",
+    "correct_text": "el maíz y el arroz.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los productos cocidos se obtienen…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "hirviendo las piezas.",
+      "c": "deshuesando las piezas.",
+      "d": "salando las piezas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de ácidos grasos se obtienen al hidrogenar los aceites vegetales?",
+    "options": {
+      "a": "los ácidos grasos monoinsaturados.",
+      "b": "los ácidos grasos poliinsaturados.",
+      "c": "los ácidos grasos trans.",
+      "d": "los ácidos grasos ureicos."
+    },
+    "correct": "c",
+    "correct_text": "los ácidos grasos trans.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de alimentos los podemos clasificar como de origen vegetal?",
+    "options": {
+      "a": "únicamente a los cereales, frutas y hortalizas.",
+      "b": "las legumbres, las hortalizas, las frutas y sus derivados.",
+      "c": "únicamente a las legumbres, frutas y hortalizas.",
+      "d": "los cereales y sus derivados, las legumbres y frutos secos, y las frutas y hortalizas."
+    },
+    "correct": "d",
+    "correct_text": "los cereales y sus derivados, las legumbres y frutos secos, y las frutas y hortalizas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las determinaciones básicas de las bebidas no alcohólicas comprenden…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "ambas respuestas anteriores son correctas.",
+      "c": "el pH y las cenizas.",
+      "d": "la acidez y los azúcares reductores."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de cereales son los más consumidos por la población?",
+    "options": {
+      "a": "el arroz y maíz.",
+      "b": "el trigo, el arroz y el maíz.",
+      "c": "el arroz, únicamente.",
+      "d": "el trigo y el maíz."
+    },
+    "correct": "b",
+    "correct_text": "el trigo, el arroz y el maíz.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El sabor dulce y el aroma de la miel, va a depender de…",
+    "options": {
+      "a": "la cantidad de carbohidratos que contenga.",
+      "b": "las flores que haya librado la abeja.",
+      "c": "la cantidad de agua que contenga.",
+      "d": "del tipo de azúcar que se use en su composición."
+    },
+    "correct": "b",
+    "correct_text": "las flores que haya librado la abeja.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El chocolate se elabora en base a…",
+    "options": {
+      "a": "cacao, azúcares y lácteos.",
+      "b": "cacao, azúcares, lácteos y otros compuestos.",
+      "c": "azúcares y lácteos.",
+      "d": "cacao, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "cacao, azúcares, lácteos y otros compuestos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En el control analítico de los embutidos, se determina...",
+    "options": {
+      "a": "los nitritos, la sal y el almidón.",
+      "b": "los fosfatos y el almidón.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "los nitritos y la sal."
+    },
+    "correct": "b",
+    "correct_text": "los fosfatos y el almidón.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Por término medio, el aporte energético de la nata es de…",
+    "options": {
+      "a": "510 kcal por cada 100 gramos de producto.",
+      "b": "100 kcal por cada 100 gramos de producto.",
+      "c": "250 kcal por cada 100 gramos de producto.",
+      "d": "380 kcal por cada 100 gramos de producto."
+    },
+    "correct": "d",
+    "correct_text": "380 kcal por cada 100 gramos de producto.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Cuáles pueden ser algunos de los derivados de los cereales?",
+    "options": {
+      "a": "la bollería y la pasta.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el muesli y los snacks.",
+      "d": "el pan y los cereales del desayuno."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipo de carne contiene un mayor contenido en grasas?",
+    "options": {
+      "a": "el tocino.",
+      "b": "la carne magra.",
+      "c": "la carne de pollo.",
+      "d": "la carne de cerdo."
+    },
+    "correct": "a",
+    "correct_text": "el tocino.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En relación al tipo de grasa de la carne, esta va a depender de…",
+    "options": {
+      "a": "el tipo de especie y su alimentación.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el tipo de agua que consuma el animal.",
+      "d": "la cantidad de agua que consuma el animal."
+    },
+    "correct": "a",
+    "correct_text": "el tipo de especie y su alimentación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los controles analíticos realizados en la leche, podemos encontrarnos con…",
+    "options": {
+      "a": "las sustancias con olores débiles.",
+      "b": "las oxidaciones o por excesivo calentamiento.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la presencia de olores extraños por lejanía."
+    },
+    "correct": "b",
+    "correct_text": "las oxidaciones o por excesivo calentamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La leche pasteurizada es…",
+    "options": {
+      "a": "la leche recién ordeñada.",
+      "b": "la leche fresca del día.",
+      "c": "la leche de vaca.",
+      "d": "la leche que se conserva a altas temperaturas."
+    },
+    "correct": "b",
+    "correct_text": "la leche fresca del día.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿A qué tipo de hemoproteína está asociada el color de la carne roja?",
+    "options": {
+      "a": "a la seroglobina.",
+      "b": "a la mioglobina.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "a la hemoglobina."
+    },
+    "correct": "b",
+    "correct_text": "a la mioglobina.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Para el análisis del color de la harina, se estima…",
+    "options": {
+      "a": "el grado de contaminación de la misma.",
+      "b": "la cantidad de aire de la misma.",
+      "c": "la cantidad de contaminación de la misma.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "el grado de contaminación de la misma.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las bases nitrogenadas que al metabolizarse producen ácido úrico, son denominadas como…",
+    "options": {
+      "a": "serotonina.",
+      "b": "purinas.",
+      "c": "riboflavina.",
+      "d": "ácido fólico."
+    },
+    "correct": "b",
+    "correct_text": "purinas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La textura de las frutas se debe a la presencia de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "contenido en agua, únicamente.",
+      "c": "contenido en geles proteicos.",
+      "d": "contenido en agua y en geles de almidón y pectinas."
+    },
+    "correct": "d",
+    "correct_text": "contenido en agua y en geles de almidón y pectinas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En las legumbres, además de las determinaciones básicas, se realiza…",
+    "options": {
+      "a": "un control de la cantidad.",
+      "b": "un calibrado de los granos.",
+      "c": "un calibrado de la cantidad.",
+      "d": "un conteo de la cantidad producida."
+    },
+    "correct": "b",
+    "correct_text": "un calibrado de los granos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La cualidad de la carne que está asociada a la capacidad de retención del agua y depende de otros factores, es…",
+    "options": {
+      "a": "la cantidad de masa grasa de la carne.",
+      "b": "la calidad de la carne.",
+      "c": "la textura de la carne.",
+      "d": "la jugosidad de la carne."
+    },
+    "correct": "d",
+    "correct_text": "la jugosidad de la carne.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las bebidas no alcohólicas, la más saludable es…",
+    "options": {
+      "a": "El agua.",
+      "b": "las bebidas refrescantes.",
+      "c": "los zumos y néctares.",
+      "d": "la Coca-Cola."
+    },
+    "correct": "a",
+    "correct_text": "El agua.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué se debe añadir a la harina para que forme una masa viscoelástica que permita el amasado para formar el pan?",
+    "options": {
+      "a": "levadura de panadería.",
+      "b": "agua.",
+      "c": "gluten.",
+      "d": "aceite."
+    },
+    "correct": "b",
+    "correct_text": "agua.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre el grupo de alimentos misceláneo, ubicamos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los aceites, grasas y azúcares y derivados.",
+      "c": "la leche y sus derivados lácteos.",
+      "d": "la carne y el pescado."
+    },
+    "correct": "b",
+    "correct_text": "los aceites, grasas y azúcares y derivados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de aceites son los utilizados a nivel industrial?",
+    "options": {
+      "a": "los aceites de oliva o girasol.",
+      "b": "los aceites vegetales.",
+      "c": "los aceites de coco, palma o palmiste.",
+      "d": "los aceites de soja o de maíz."
+    },
+    "correct": "c",
+    "correct_text": "los aceites de coco, palma o palmiste.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Para la valoración del estado de conservación de la harina, se determina…",
+    "options": {
+      "a": "la humedad y la acidez.",
+      "b": "la calidad de la harina.",
+      "c": "la cantidad de harina que contiene.",
+      "d": "la humedad relativa en el ambiente."
+    },
+    "correct": "a",
+    "correct_text": "la humedad y la acidez.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En el queso, se pierden parte de…",
+    "options": {
+      "a": "las vitaminas del grupo B.",
+      "b": "los nutrientes.",
+      "c": "las grasas y las proteínas.",
+      "d": "las vitaminas liposolubles."
+    },
+    "correct": "a",
+    "correct_text": "las vitaminas del grupo B.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El flavor asociado a los azúcares y aminoácidos es…",
+    "options": {
+      "a": "el básico.",
+      "b": "el específico.",
+      "c": "el natural.",
+      "d": "el premium."
+    },
+    "correct": "a",
+    "correct_text": "el básico.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de aminoácidos se presentan en bajas cantidades en los cereales?",
+    "options": {
+      "a": "la inmunoproteína.",
+      "b": "la melanina.",
+      "c": "la metionina.",
+      "d": "la lisina."
+    },
+    "correct": "d",
+    "correct_text": "la lisina.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las determinaciones físico-químicas más frecuentes realizadas en los granos de cereales, son…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "las cenizas.",
+      "c": "la grasa y fibra bruta.",
+      "d": "la humedad y las proteínas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las legumbres más consumidas en España, podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "los garbanzos y las judías.",
+      "c": "las lentejas.",
+      "d": "los guisantes y las habas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las determinaciones específicas que se hacen sobre un huevo, encontramos…",
+    "options": {
+      "a": "la de la vitamina K.",
+      "b": "la de las vitaminas y minerales.",
+      "c": "la de las proteínas.",
+      "d": "la del fósforo y colesterol."
+    },
+    "correct": "d",
+    "correct_text": "la del fósforo y colesterol.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La textura de las hortalizas, va a depender…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "de su contenido en fibra y el grado de humedad.",
+      "c": "de su contenido en agua y proteínas.",
+      "d": "su contenido en proteínas y lípidos."
+    },
+    "correct": "b",
+    "correct_text": "de su contenido en fibra y el grado de humedad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La denominación de leche comprende…",
+    "options": {
+      "a": "a la leche de vaca y de cabra.",
+      "b": "únicamente a la leche de vaca.",
+      "c": "a la leche de todos los mamíferos.",
+      "d": "a la leche de los mamíferos terrestres."
+    },
+    "correct": "b",
+    "correct_text": "únicamente a la leche de vaca.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las características organolépticas de los aceites, debemos encontrar en ellos…",
+    "options": {
+      "a": "que deben tener un aspecto limpio y transparente.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "que no deben tener impurezas.",
+      "d": "que tienen que tener un color, olor y sabor típicos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la miel, en su control analítico, se debe determinar…",
+    "options": {
+      "a": "el contenido en agua.",
+      "b": "el contenido solamente de azúcares.",
+      "c": "el contenido de humedad y en azúcares.",
+      "d": "las cenizas, la humedad y el pH."
+    },
+    "correct": "c",
+    "correct_text": "el contenido de humedad y en azúcares.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El contenido energético que aportan las grasas, podemos estimar que es…",
+    "options": {
+      "a": "300 kcal por cada 100 gramos.",
+      "b": "900 kcal por cada 100 gramos.",
+      "c": "700 gramos por cada 100 gramos.",
+      "d": "500 kcal por cada 100 gramos."
+    },
+    "correct": "b",
+    "correct_text": "900 kcal por cada 100 gramos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las excepciones en la composición de los frutos secos destaca…",
+    "options": {
+      "a": "los pistachos.",
+      "b": "las avellanas.",
+      "c": "las castañas.",
+      "d": "los anacardos."
+    },
+    "correct": "c",
+    "correct_text": "las castañas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El valor nutricional de los helados, depende de..",
+    "options": {
+      "a": "los ingredientes utilizados en su composición.",
+      "b": "la cantidad de calorías que aporten.",
+      "c": "la cantidad de agua que lleve el producto.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "los ingredientes utilizados en su composición.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipos de pescados son una importante fuente en ácidos grasos poliinsaturados omega-3?",
+    "options": {
+      "a": "los pescados blancos.",
+      "b": "los pescados azules.",
+      "c": "los pescados criados en piscifactorías.",
+      "d": "los pescados provenientes del mar."
+    },
+    "correct": "b",
+    "correct_text": "los pescados azules.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las determinaciones microbiológicas de los granos de cereales y de las harinas, se incluyen…",
+    "options": {
+      "a": "determinaciones de bacterias aerobias.",
+      "b": "determinaciones de enterobacterias.",
+      "c": "las levaduras.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El gusano responsable de la enfermedad parasitaria causada por el consumo de carne poco hecha, es…",
+    "options": {
+      "a": "la melanina.",
+      "b": "la bacteria E.Coli.",
+      "c": "los residuos antimicrobianos.",
+      "d": "la triquina."
+    },
+    "correct": "d",
+    "correct_text": "la triquina.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La diferencia entre la pasteurización y la leche esterilizada UHT es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "que la leche esterilizada se somete a un proceso de esterilización.",
+      "c": "que la pasteurizada se compra como leche entera, desnatada o semidesnatada.",
+      "d": "que la pasteurizada aguanta a altas temperaturas."
+    },
+    "correct": "b",
+    "correct_text": "que la leche esterilizada se somete a un proceso de esterilización.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La leche UHT, en envase cerrado, puede conservarse a temperatura ambiente hasta…",
+    "options": {
+      "a": "6 meses.",
+      "b": "3 meses.",
+      "c": "5 meses.",
+      "d": "1 mes."
+    },
+    "correct": "a",
+    "correct_text": "6 meses.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las frutas y hortalizas que presentan un contenido superior en grasa, encontramos…",
+    "options": {
+      "a": "el aguacate y las aceitunas.",
+      "b": "el brócoli y las coles.",
+      "c": "las naranjas y el aguacate.",
+      "d": "las fresas y el melón."
+    },
+    "correct": "a",
+    "correct_text": "el aguacate y las aceitunas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Según la pureza del azúcar, podemos distinguir entre…",
+    "options": {
+      "a": "azúcar blanco y azúcar negro.",
+      "b": "azúcar blanco, moreno y refinado.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "azúcar claro y azúcar oscuro."
+    },
+    "correct": "b",
+    "correct_text": "azúcar blanco, moreno y refinado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipo de propiedades permiten el estudio de la deformación de materiales fluidos al someterlos a esfuerzos físicos?",
+    "options": {
+      "a": "las inmunológicas.",
+      "b": "las reológicas.",
+      "c": "la reflotación.",
+      "d": "la refrigeración."
+    },
+    "correct": "b",
+    "correct_text": "las reológicas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Cuáles son las características organolépticas de la leche?",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "su aroma más o menos acentuado.",
+      "c": "un sabor ligeramente dulce.",
+      "d": "un color blanco opaco."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "En el grupo de alimentos de origen animal, podemos encasillar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la leche y sus derivados lácteos.",
+      "c": "las legumbres y los cereales.",
+      "d": "las frutas y las hortalizas."
+    },
+    "correct": "b",
+    "correct_text": "la leche y sus derivados lácteos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Al fruto, infrutescencia, semilla o partes carnosas de los órganos florales con un grado adecuado de madurez y propias para el consumo humano, se denominan…",
+    "options": {
+      "a": "frutas.",
+      "b": "verduras.",
+      "c": "hortalizas.",
+      "d": "frutos secos."
+    },
+    "correct": "a",
+    "correct_text": "frutas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los descensos de pH en la leche, debido a la proliferación de microorganismos en la misma puede provocar…",
+    "options": {
+      "a": "la presencia y desarrollo de mohos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la presencia de bacterias acidófilas anaerobias.",
+      "d": "la presencia de bacterias acidófilas aerobias."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las pruebas rápidas que existen para comprobar la frescura de un pescado, situamos…",
+    "options": {
+      "a": "el valor K.",
+      "b": "la hipoxantina.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El huevo es rico en…",
+    "options": {
+      "a": "vitaminas liposolubles.",
+      "b": "vitaminas hidrosolubles.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "colina y minerales."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se denominan legumbres a…",
+    "options": {
+      "a": "las semillas extraídas de los cereales.",
+      "b": "las semillas de algunos frutos.",
+      "c": "las semillas secas, limpias, sanas y separadas de la vaina.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "las semillas secas, limpias, sanas y separadas de la vaina.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "A la percepción de las sustancias aromáticas de un alimento después de ponerlo en la boca, se denomina como…",
+    "options": {
+      "a": "purinas.",
+      "b": "sustancias organolépticas.",
+      "c": "contenido organoléptico.",
+      "d": "flavor."
+    },
+    "correct": "d",
+    "correct_text": "flavor.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  }
+]

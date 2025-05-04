@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Los episodios de bulimia nerviosa de grandes ingestas de comida pueden ir seguidos de…",
+    "options": {
+      "a": "maniobras psicológicas.",
+      "b": "maniobras no compensatorias.",
+      "c": "maniobras de anorexia.",
+      "d": "maniobras compensatorias."
+    },
+    "correct": "d",
+    "correct_text": "maniobras compensatorias.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué macronutriente representa el 50 - 55% de la ingesta energética total?",
+    "options": {
+      "a": "los hidratos de carbono.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las proteínas.",
+      "d": "los lípidos."
+    },
+    "correct": "a",
+    "correct_text": "los hidratos de carbono.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se considera como carga glucémica alta, cuando se sitúa…",
+    "options": {
+      "a": "superior a 30.",
+      "b": "superior a 20.",
+      "c": "inferior a 20.",
+      "d": "inferior a 10."
+    },
+    "correct": "b",
+    "correct_text": "superior a 20.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los cereales que se deben evitar contra la diabetes, encontramos…",
+    "options": {
+      "a": "el arroz largo.",
+      "b": "las pastas y arroces precocinados.",
+      "c": "los cereales integrales.",
+      "d": "el arroz blanco."
+    },
+    "correct": "b",
+    "correct_text": "las pastas y arroces precocinados.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las pautas en las dietas para una cirugía, encontramos…",
+    "options": {
+      "a": "un aporte proteico extra.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las vitaminas del grupo B son necesarias para el aumento del metabolismo.",
+      "d": "el hierro es necesario para el desarrollo de los glóbulos rojos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿De dónde puede provenir el déficit de vitamina B9 en una persona?",
+    "options": {
+      "a": "de una concentración de eritrocitos disminuida.",
+      "b": "de la deficiencia de folato.",
+      "c": "de las enfermedades gastrointestinales.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Entre qué cantidades se deben reducir la ingesta diaria para bajar de peso?",
+    "options": {
+      "a": "entre 200 y 300 kcal.",
+      "b": "entre 100 y 200 kcal.",
+      "c": "entre 500 y 1000 kcal.",
+      "d": "entre 300 y 400 kcal."
+    },
+    "correct": "c",
+    "correct_text": "entre 500 y 1000 kcal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los problemas a tratar en una intervención nutricional, encontramos…",
+    "options": {
+      "a": "los factores de riesgo.",
+      "b": "los comportamientos inadecuados relacionados con la nutrición.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "los aspectos de la salud del paciente."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las sustancias usadas en la conservación de carnes y pescados, son…",
+    "options": {
+      "a": "los lípidos.",
+      "b": "las glucemias.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "los nitritos."
+    },
+    "correct": "d",
+    "correct_text": "los nitritos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Definida como “la prueba de sobrecarga oral de glucosa que mide la capacidad del organismo para metabolizar la glucosa y permite diagnosticar su intolerancia”, hace referencia a…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores son correctas.",
+      "b": "la dieta previa a la recta de glucemia.",
+      "c": "la dieta posterior a la recta de glucemia.",
+      "d": "la dieta previa a la curva de glucemia."
+    },
+    "correct": "d",
+    "correct_text": "la dieta previa a la curva de glucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La dieta progresiva está indicada para…",
+    "options": {
+      "a": "aquellas personas con graves síntomas de enfermedades.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las distintas etapas evolutivas de una enfermedad.",
+      "d": "aquellas personas sin ningún tipo de problema de salud."
+    },
+    "correct": "c",
+    "correct_text": "las distintas etapas evolutivas de una enfermedad.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las grasas, representan un porcentaje de la ingesta energética diaria de…",
+    "options": {
+      "a": "entre el 20 y 30%.",
+      "b": "entre el 10 y 15%.",
+      "c": "entre el 5 y 10%.",
+      "d": "entre el 30 y 35%."
+    },
+    "correct": "d",
+    "correct_text": "entre el 30 y 35%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Cuando se producen unos niveles de glucosa inferiores a 70 mg/dl, se considera como…",
+    "options": {
+      "a": "glucemia.",
+      "b": "normoglucemia.",
+      "c": "hiperglucemia.",
+      "d": "hipoglucemia."
+    },
+    "correct": "d",
+    "correct_text": "hipoglucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Aquella dieta donde se varía la cantidad de algún macronutriente es…",
+    "options": {
+      "a": "la dieta incompleta.",
+      "b": "la dieta cuantitativa.",
+      "c": "la dieta cualitativa.",
+      "d": "la dieta completa."
+    },
+    "correct": "b",
+    "correct_text": "la dieta cuantitativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El tratamiento dietético combinado o no con insulina o fármaco hipoglucemiantes orales, está indicado para…",
+    "options": {
+      "a": "la diabetes gestacional.",
+      "b": "la diabetes tipo 2.",
+      "c": "la diabetes tipo 1.",
+      "d": "la diabetes postparto."
+    },
+    "correct": "b",
+    "correct_text": "la diabetes tipo 2.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué dos formas de bulimia nerviosa podemos encontrarnos?",
+    "options": {
+      "a": "bulimia nerviosa purgativa y no purgativa.",
+      "b": "bulimia nerviosa mental y psicológica.",
+      "c": "bulimia nerviosa actual y pasada.",
+      "d": "bulimia nerviosa psicológica y psiquiátrica."
+    },
+    "correct": "a",
+    "correct_text": "bulimia nerviosa purgativa y no purgativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los síntomas de la diabetes podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "neuropatía.",
+      "c": "glucosuria,",
+      "d": "pérdida anormal de peso."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La esteatosis hepático no alcohólica, se produce por la acumulación de…",
+    "options": {
+      "a": "grasas en el hígado.",
+      "b": "grasas en el intestino.",
+      "c": "grasas en el páncreas.",
+      "d": "grasas en el estómago."
+    },
+    "correct": "a",
+    "correct_text": "grasas en el hígado.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las proteínas hidrolizadas, también son conocidas como…",
+    "options": {
+      "a": "nutrientes elementales.",
+      "b": "nutrientes peptídicas.",
+      "c": "nutrientes poliméricos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "nutrientes peptídicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las indicaciones en una dieta a través de una sonda nasogástrica, encontramos…",
+    "options": {
+      "a": "la anorexia leve.",
+      "b": "las enfermedades neurológicas con disfagia.",
+      "c": "el aumento del nivel de conciencia.",
+      "d": "las enfermedades que no afectan a la masticación."
+    },
+    "correct": "b",
+    "correct_text": "las enfermedades neurológicas con disfagia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  }
+]

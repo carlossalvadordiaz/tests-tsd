@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Test Interactivo - Fisiopatología</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				margin: 30px;
+				background-color: #f7f9fb;
+			}
+			.hidden {
+				display: none;
+			}
+			.question-box {
+				background-color: #e8f4fb;
+				padding: 20px;
+				border-radius: 8px;
+				margin-bottom: 20px;
+				border-left: 6px solid #0073aa;
+			}
+			.option {
+				margin: 10px 0;
+				display: block;
+				background-color: #fff;
+				border: 1px solid #ccc;
+				padding: 10px;
+				border-radius: 5px;
+				cursor: pointer;
+				text-align: left;
+			}
+			.result-correct {
+				color: green;
+				font-weight: bold;
+			}
+			.result-incorrect {
+				color: red;
+				font-weight: bold;
+			}
+			.feedback-box {
+				background-color: #fff3cd;
+				border-left: 5px solid #ffecb5;
+				padding: 15px;
+				border-radius: 5px;
+				margin-top: 10px;
+				font-size: 0.95em;
+			}
+			.answer-status {
+				float: right;
+				font-weight: bold;
+			}
+			.correct-icon {
+				color: green;
+			}
+			.incorrect-icon {
+				color: red;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Test Interactivo</h1>
+
+		<label for="tema">Selecciona un tema:</label>
+		<select id="tema">
+			<option value="temas/tema1_fisiopatologia.json">
+				Fisiopatología - Tema 1
+			</option>
+			<option value="temas/tema2_fisiopatologia.json">
+				Fisiopatología - Tema 2
+			</option>
+			<option value="temas/tema3_fisiopatologia.json">
+				Fisiopatología - Tema 3
+			</option>
+			<option value="temas/tema4_fisiopatologia.json">
+				Fisiopatología - Tema 4
+			</option>
+			<option value="temas/tema5_fisiopatologia.json">
+				Fisiopatología - Tema 5
+			</option>
+			<option value="temas/tema_fisiopatologia_general.json">
+				Fisiopatología - General
+			</option>
+			<option value="temas/tema1_control_alimentario.json">
+				Control Alimentario - Tema 1
+			</option>
+			<option value="temas/tema2_control_alimentario.json">
+				Control Alimentario - Tema 2
+			</option>
+			<option value="temas/tema3_control_alimentario.json">
+				Control Alimentario - Tema 3
+			</option>
+			<option value="temas/tema4_control_alimentario.json">
+				Control Alimentario - Tema 4
+			</option>
+			<option value="temas/tema5_control_alimentario.json">
+				Control Alimentario - Tema 5
+			</option>
+			<option value="temas/tema_control_alimentario_general.json">
+				Control Alimentario - General
+			</option>
+			<option value="temas/tema1_alimentacion_equilibrada.json">
+				Alimentación Equilibrada - Tema 1
+			</option>
+			<option value="temas/tema2_alimentacion_equilibrada.json">
+				Alimentación Equilibrada - Tema 2
+			</option>
+			<option value="temas/tema3_alimentacion_equilibrada.json">
+				Alimentación Equilibrada - Tema 3
+			</option>
+			<option value="temas/tema4_alimentacion_equilibrada.json">
+				Alimentación Equilibrada - Tema 4
+			</option>
+			<option value="temas/tema5_alimentacion_equilibrada.json">
+				Alimentación Equilibrada - Tema 5
+			</option>
+			<option value="temas/tema_alimentacion_equilibrada_general.json">
+				Alimentacion Equilibrada - General
+			</option>
+			<option value="temas/tema1_dietoterapia.json">
+				Dietoterapia - Tema 1
+			</option>
+			<option value="temas/tema2_dietoterapia.json">
+				Dietoterapia - Tema 2
+			</option>
+			<option value="temas/tema3_dietoterapia.json">
+				Dietoterapia - Tema 3
+			</option>
+			<option value="temas/tema4_dietoterapia.json">
+				Dietoterapia - Tema 4
+			</option>
+			<option value="temas/tema_dietoterapia_general.json">
+				Dietoterapia - General
+			</option>
+			<option value="temas/tema1_fol.json">fol - Tema 1</option>
+			<option value="temas/tema2_fol.json">fol - Tema 2</option>
+			<option value="temas/tema3_fol.json">fol - Tema 3</option>
+			<option value="temas/tema_fol_general.json">fol - General</option>
+		</select>
+		<br /><br />
+
+		<button onclick="startTest()">Comenzar Test</button>
+
+		<div id="quiz-container" class="hidden">
+			<div id="question-number"></div>
+			<div id="question-text" class="question-box"></div>
+			<div id="options-container"></div>
+		</div>
+
+		<div id="result-container" class="hidden">
+			<h2>Resultados</h2>
+			<p
+				id="score"
+				style="font-size: 1.2em; font-weight: bold; margin-bottom: 20px"
+			></p>
+			<div id="results"></div>
+		</div>
+
+		<script>
+			let selectedQuestions = [];
+			let currentQuestionIndex = 0;
+			let userAnswers = [];
+
+			async function startTest() {
+				const tema = document.getElementById("tema").value;
+				const res = await fetch(tema);
+				const data = await res.json();
+
+				if (tema.includes("general")) {
+					const porTema = {};
+					data.forEach((q) => {
+						if (!porTema[q.tema]) porTema[q.tema] = [];
+						porTema[q.tema].push(q);
+					});
+					selectedQuestions = [];
+					const numTemas = Object.keys(porTema).length;
+					const preguntasPorTema = Math.floor(20 / numTemas);
+
+					Object.values(porTema).forEach((arr) => {
+						selectedQuestions = selectedQuestions.concat(
+							arr.sort(() => 0.5 - Math.random()).slice(0, preguntasPorTema)
+						);
+					});
+					selectedQuestions = selectedQuestions.sort(() => 0.5 - Math.random());
+				} else {
+					selectedQuestions = data.sort(() => 0.5 - Math.random()).slice(0, 20);
+				}
+
+				currentQuestionIndex = 0;
+				userAnswers = [];
+
+				document.getElementById("quiz-container").classList.remove("hidden");
+				document.getElementById("result-container").classList.add("hidden");
+				showQuestion();
+			}
+
+			function showQuestion() {
+				const question = selectedQuestions[currentQuestionIndex];
+				document.getElementById("question-number").innerText =
+					"Pregunta " +
+					(currentQuestionIndex + 1) +
+					" de " +
+					selectedQuestions.length;
+				document.getElementById("question-text").innerText = question.question;
+
+				const options = Object.entries(question.options).sort(
+					() => 0.5 - Math.random()
+				);
+
+				const container = document.getElementById("options-container");
+				container.innerHTML = "";
+				options.forEach(([key, value]) => {
+					const btn = document.createElement("button");
+					btn.innerText = value;
+					btn.className = "option";
+					btn.onclick = () => {
+						userAnswers.push({ selected: key, question });
+						if (currentQuestionIndex + 1 < selectedQuestions.length) {
+							currentQuestionIndex++;
+							showQuestion();
+						} else {
+							showResults();
+						}
+					};
+					container.appendChild(btn);
+				});
+			}
+
+			function showResults() {
+				document.getElementById("quiz-container").classList.add("hidden");
+				document.getElementById("result-container").classList.remove("hidden");
+
+				const container = document.getElementById("results");
+				container.innerHTML = "";
+
+				let score = 0;
+				userAnswers.forEach((entry) => {
+					if (entry.selected === entry.question.correct) score += 0.5;
+				});
+				document.getElementById("score").innerText =
+					"Puntuación final: " + score.toFixed(1) + " / 10";
+
+				userAnswers.forEach((entry, index) => {
+					const isCorrect = entry.selected === entry.question.correct;
+					const icon = isCorrect ? "✔" : "✘";
+					const iconClass = isCorrect ? "correct-icon" : "incorrect-icon";
+					const statusText = isCorrect ? "Correcta" : "Incorrecta";
+
+					const div = document.createElement("div");
+					div.className = "question-box";
+					div.innerHTML = `
+          <div><strong>Pregunta ${
+						index + 1
+					}</strong> <span class="${iconClass} answer-status">${icon}</span></div>
+          <div style="margin-top:10px;">${entry.question.question}</div>
+          <div class="feedback-box">
+            <div><strong>${statusText}</strong></div>
+            <div>Tu respuesta: ${
+							entry.question.options[entry.selected] || "Sin respuesta"
+						}</div>
+            ${
+							isCorrect
+								? ""
+								: "<div>La respuesta correcta es: " +
+								  entry.question.correct_text +
+								  "</div>"
+						}
+          </div>
+        `;
+					container.appendChild(div);
+				});
+			}
+		</script>
+	</body>
+</html>

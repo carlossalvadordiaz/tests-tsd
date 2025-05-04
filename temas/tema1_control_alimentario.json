@@ -1,0 +1,938 @@
+[
+  {
+    "question": "¿Cómo se podrían definir de otra manera a las enfermedades neurodegenerativas provocadas por los priones?",
+    "options": {
+      "a": "el mal de las gallinas flacas.",
+      "b": "el mal de las vacas locas.",
+      "c": "el mal de las vacas flacas.",
+      "d": "el mal de las gallinas locas."
+    },
+    "correct": "b",
+    "correct_text": "el mal de las vacas locas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de alimentos tienen un mayor riesgo para la presencia de toxinas procedentes de hongos?",
+    "options": {
+      "a": "los frutos secos y el cacao.",
+      "b": "los cereales y las legumbres.",
+      "c": "las frutas y las especias.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacteria aparece en alimentos como comidas preparadas no refrigeradas o productos cárnicos y salsas?",
+    "options": {
+      "a": "la Clostridium perfrin-gens.",
+      "b": "la Listeria monocytogenes.",
+      "c": "la Escherichia coli.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "la Clostridium perfrin-gens.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Uno de los objetivos fundamentales de la legislación alimentaria vigente es…",
+    "options": {
+      "a": "proteger a los consumidores ante los riesgos en la elaboración de los alimentos.",
+      "b": "proteger a los consumidores ante la subida de precios de los alimentos.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "ambas respuestas son correctas."
+    },
+    "correct": "a",
+    "correct_text": "proteger a los consumidores ante los riesgos en la elaboración de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué Comité se encarga de la revisión de las propuestas de proyectos?",
+    "options": {
+      "a": "el Comité de Asuntos Generales.",
+      "b": "el Comité Central.",
+      "c": "el Comité General.",
+      "d": "el Comité Horizontal."
+    },
+    "correct": "a",
+    "correct_text": "el Comité de Asuntos Generales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La evaluación del riesgo en los alimentos debe llevarse a cabo de forma…",
+    "options": {
+      "a": "transparente, únicamente.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "independiente, únicamente.",
+      "d": "objetiva, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La vía más importante de la exposición humana a los COP es…",
+    "options": {
+      "a": "la quema de algunos tipos de árboles.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el consumo de agua.",
+      "d": "el consumo de alimentos."
+    },
+    "correct": "d",
+    "correct_text": "el consumo de alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Un aspecto relevante que se establece dentro de la legislación alimentaria actual es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "que los consumidores compren la comida necesaria para ellos.",
+      "c": "que los consumidores tengan un límite de compra.",
+      "d": "que las empresas alimentarias establezcan programas y procedimientos de seguridad alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "que las empresas alimentarias establezcan programas y procedimientos de seguridad alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de productos pueden causar alergias o intolerancias?",
+    "options": {
+      "a": "los huevos y los productos a base de huevo.",
+      "b": "los frutos de cáscara.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "los cacahuetes y los productos a base de cacahuete."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los efectos de las dioxinas y los PCBs a largo plazo, podemos encontrar…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el fallo cardíaco y del sistema nervioso.",
+      "c": "la falta de respiración y fiebre.",
+      "d": "el aumento del impulso sexual."
+    },
+    "correct": "b",
+    "correct_text": "el fallo cardíaco y del sistema nervioso.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Dentro de los principios generales de la legislación alimentaria, es necesario tener en cuenta que…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "ambas respuestas anteriores son correctas.",
+      "c": "las directivas son actos legislativos donde se establecen los objetivos de todos los países de la UE.",
+      "d": "los reglamentos son vinculantes para todos los países de la UE."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "A nivel nacional, ¿qué tipo de normas en materia alimentaria son de obligado cumplimiento?",
+    "options": {
+      "a": "los textos.",
+      "b": "las leyes, únicamente.",
+      "c": "las notas de prensa del Presidente.",
+      "d": "las leyes y los reales decretos."
+    },
+    "correct": "d",
+    "correct_text": "las leyes y los reales decretos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las medidas que se tomen por parte de los gestores dentro del principio de cautela, deben cumplir también con…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los principios normales de no discriminación y proporcionalidad.",
+      "c": "con el principio de no permitir la circulación de ese producto de manera europea.",
+      "d": "con el principio de no discriminación, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "los principios normales de no discriminación y proporcionalidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El Códex Alimentarius incluye normas sobre…",
+    "options": {
+      "a": "alimentos elaborados, sin elaborar y materias primas.",
+      "b": "alimentos elaborados y poco elaborados.",
+      "c": "alimentos elaborados, únicamente.",
+      "d": "materias primas, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "alimentos elaborados, sin elaborar y materias primas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se definen como “aquellas sustancias químicas que se caracterizan por ser persistentes, con una elevada permanencia en el medioambiente”...",
+    "options": {
+      "a": "los contaminantes medioambientales.",
+      "b": "los COP.",
+      "c": "los contaminantes físicos.",
+      "d": "los contaminantes agrícolas."
+    },
+    "correct": "b",
+    "correct_text": "los COP.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la posibilidad de poder seguir el rastro, a través de todas las etapas de producción, de los alimentos y piensos, y sus ingredientes” al principio de…",
+    "options": {
+      "a": "unión.",
+      "b": "seguimiento.",
+      "c": "trazabilidad.",
+      "d": "búsqueda."
+    },
+    "correct": "c",
+    "correct_text": "trazabilidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Quiénes están como observadores en la Comisión del Códex Alimentarius?",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "52 organizaciones intergubernamentales.",
+      "c": "162 comisiones no gubernamentales.",
+      "d": "16 organismos de las Naciones Unidas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Con el fin de asegurar que la utilización de productos fitosanitarios es segura para los consumidores se establecen…",
+    "options": {
+      "a": "límites máximos de residuos.",
+      "b": "límites intermedios de residuos.",
+      "c": "normas y leyes.",
+      "d": "límites mínimos de residuos."
+    },
+    "correct": "a",
+    "correct_text": "límites máximos de residuos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “aquel organismo que sobrevive habitando dentro de otro organismo, generalmente más grande” a…",
+    "options": {
+      "a": "los hongos.",
+      "b": "los virus.",
+      "c": "los parásitos.",
+      "d": "las bacterias."
+    },
+    "correct": "c",
+    "correct_text": "los parásitos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Uno de los principales principios de la legislación alimentaria es…",
+    "options": {
+      "a": "la de luchar frente a las guerras y la subida de los precios de la alimentación.",
+      "b": "la de velar por conseguir los más elevados niveles de seguridad alimentaria.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la de no necesitar velar por la seguridad de los alimentos."
+    },
+    "correct": "b",
+    "correct_text": "la de velar por conseguir los más elevados niveles de seguridad alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los contaminantes físicos, para una persona u animal, pueden suponer…",
+    "options": {
+      "a": "un riesgo para el consumidor.",
+      "b": "un daño y sanciones para la marca.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "unos costes por litigios."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de cereales no pueden causar alergias o intolerancias?",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "los jarabes de glucosa a base de cebada.",
+      "c": "la dextrosa y los jarabes de glucosa a base de trigo.",
+      "d": "las maltodextrinas a base de trigo."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuáles son las principales bacterias productoras de toxiinfecciones en alimentos?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la Salmonella.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "el Campylobacter."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se definen como “las sustancias que tienen una función tecnológica dentro de los alimentos” a…",
+    "options": {
+      "a": "los aditivos.",
+      "b": "los suplementos alimenticios.",
+      "c": "los propios alimentos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "los aditivos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se consideran como contaminantes agrícolas y de la pesca…",
+    "options": {
+      "a": "las sustancias tóxicas vegetales.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "los productos de la pesca que pueden contener o producir histamina.",
+      "d": "los nitratos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué principio se define como “relevante cuando se observa la posibilidad de que existan riesgos nocivos para la salud”?",
+    "options": {
+      "a": "el principio de seguridad.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el principio de cautela.",
+      "d": "el principio de no alimentación."
+    },
+    "correct": "c",
+    "correct_text": "el principio de cautela.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los distintos tipos de contaminantes industriales o medioambientales, podemos encontrar…",
+    "options": {
+      "a": "los nucleicos y la melamina.",
+      "b": "el arsénico y el falano.",
+      "c": "los radionucleicos y el estaño.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "los radionucleicos y el estaño.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la presencia de cualquier sustancia o componente extraño al alimento que comporte un riesgo real o potencial para la salud o el estado general del consumidor” a…",
+    "options": {
+      "a": "la contaminación de las materias primas.",
+      "b": "la producción de contaminación.",
+      "c": "la contaminación acústica.",
+      "d": "la contaminación alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "la contaminación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "A escala comunitaria, la legislación alimentaria tiene por objeto…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "no garantizar la libre circulación de los alimentos.",
+      "c": "cumplir algunos requisitos impuestos sobre la legislación.",
+      "d": "armonizar los requisitos nacionales con el fin de garantizar la libre circulación de los alimentos."
+    },
+    "correct": "d",
+    "correct_text": "armonizar los requisitos nacionales con el fin de garantizar la libre circulación de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la página web del Código Alimentario, podemos acceder a…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "las normas para los productos alimenticios.",
+      "c": "los límites máximos de residuos veterinarios.",
+      "d": "la normativa de los aditivos alimentarios."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Cuando una regla satisface todos los requisitos impuestos en el Códex, se denomina como…",
+    "options": {
+      "a": "aceptación completa.",
+      "b": "aceptación con exenciones específicas.",
+      "c": "aceptación diferida.",
+      "d": "aceptación por completar."
+    },
+    "correct": "a",
+    "correct_text": "aceptación completa.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los ámbitos que pueden suponer un riesgo de contaminación química para los alimentos, podemos encontrar…",
+    "options": {
+      "a": "los medicamentos para los humanos.",
+      "b": "los aditivos alimentarios.",
+      "c": "los productos de uso personal e higiene.",
+      "d": "los productos metasanitarios."
+    },
+    "correct": "b",
+    "correct_text": "los aditivos alimentarios.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cómo se inicia la elaboración de una norma o un texto para instaurarlo dentro del Códex Alimentarius?",
+    "options": {
+      "a": "con la aprobación por parte de la Comisión.",
+      "b": "con una propuesta de proyecto que examina el comité correspondiente.",
+      "c": "enviando una carta a los Estados miembros.",
+      "d": "con una votación previa."
+    },
+    "correct": "b",
+    "correct_text": "con una propuesta de proyecto que examina el comité correspondiente.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se entiende por residuo veterinario…",
+    "options": {
+      "a": "los materiales u objetos en contacto con los alimentos y los animales.",
+      "b": "el contenido de estos residuos de la utilización de un medicamento veterinario legalmente autorizado.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "todas las sustancias farmacológicamente activas."
+    },
+    "correct": "d",
+    "correct_text": "todas las sustancias farmacológicamente activas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de parásito se puede encontrar dentro del pescado?",
+    "options": {
+      "a": "el anisakis.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el bacterovirus.",
+      "d": "la triquinosis."
+    },
+    "correct": "a",
+    "correct_text": "el anisakis.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los tipos de contaminantes de los alimentos, podemos encontrar…",
+    "options": {
+      "a": "los físicos y metabólicos.",
+      "b": "los físicos, químicos y biológicos.",
+      "c": "los metafísicos y metabólicos.",
+      "d": "los químicos y biológicos."
+    },
+    "correct": "b",
+    "correct_text": "los físicos, químicos y biológicos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué parte del ser humano es fundamental la presencia de bacterias?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "en los jugos digestivos.",
+      "c": "en la flora intestinal.",
+      "d": "en la parte del páncreas y el hígado."
+    },
+    "correct": "c",
+    "correct_text": "en la flora intestinal.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las “entidades infecciosas microscópicas que sólo pueden multiplicarse dentro de las células y que tienen una alta capacidad infectiva” son…",
+    "options": {
+      "a": "los priones.",
+      "b": "los virus.",
+      "c": "las bacterias.",
+      "d": "los microorganismos."
+    },
+    "correct": "b",
+    "correct_text": "los virus.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tres componentes componen el análisis de riesgos en el Reglamento sobre la legislación alimentaria?",
+    "options": {
+      "a": "evaluación, razón y comunicación.",
+      "b": "gestión, razón y comunicación.",
+      "c": "evaluación, gestión y comunicación.",
+      "d": "comunicación, riesgos y evaluación."
+    },
+    "correct": "c",
+    "correct_text": "evaluación, gestión y comunicación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los parásitos suelen entrar en el organismo…",
+    "options": {
+      "a": "a través del agua que ingerimos.",
+      "b": "como producto de una intoxicación.",
+      "c": "a través de la boca.",
+      "d": "a través de las fosas nasales."
+    },
+    "correct": "c",
+    "correct_text": "a través de la boca.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuántas especies de hongos existen que puedan producir patología en el ser humano?",
+    "options": {
+      "a": "menos de 150 especies.",
+      "b": "más de 150 especies.",
+      "c": "más de 200 especies.",
+      "d": "menos de 200 especies."
+    },
+    "correct": "b",
+    "correct_text": "más de 150 especies.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El objetivo principal del Reglamento sobre la higiene en los productos de origen animal es…",
+    "options": {
+      "a": "garantizar la protección de los animales.",
+      "b": "garantizar la protección de los consumidores.",
+      "c": "garantizar la libre circulación de las materias primas.",
+      "d": "dejar de garantizar que se pueden producir grandes cantidades de productos."
+    },
+    "correct": "b",
+    "correct_text": "garantizar la protección de los consumidores.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La utilización de productos fitosanitarios es una práctica frecuente en la producción de…",
+    "options": {
+      "a": "suplementos alimenticios.",
+      "b": "productos agrícolas.",
+      "c": "alimentos vegetales.",
+      "d": "productos de origen animal."
+    },
+    "correct": "c",
+    "correct_text": "alimentos vegetales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Dentro de los contaminantes químicos, podemos distinguir entre…",
+    "options": {
+      "a": "contaminantes orgánicos no persistentes.",
+      "b": "contaminantes agrosanitarios.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "contaminantes industriales o medioambientales."
+    },
+    "correct": "d",
+    "correct_text": "contaminantes industriales o medioambientales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “el compendio de normas alimentarias y textos relacionados redactados por una Comisión Internacional” a…",
+    "options": {
+      "a": "el Código alimentario.",
+      "b": "las Leyes de los alimentos.",
+      "c": "la Constitución de los alimentos.",
+      "d": "el Código de alimentos."
+    },
+    "correct": "a",
+    "correct_text": "el Código alimentario.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El Reglamento en la legislación alimentaria, establece…",
+    "options": {
+      "a": "un marco para la mayor participación de los operadores.",
+      "b": "un hueco para la participación de los consumidores.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "una ley para la participación de las marcas."
+    },
+    "correct": "a",
+    "correct_text": "un marco para la mayor participación de los operadores.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿De qué debe disponer el operador alimentario cuando hay materiales en contacto con los alimentos?",
+    "options": {
+      "a": "de una declaración verbal que certifique la conformidad.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "de una declaración jurada.",
+      "d": "de una declaración por escrito que certifique su conformidad."
+    },
+    "correct": "d",
+    "correct_text": "de una declaración por escrito que certifique su conformidad.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los diferentes materiales y objetos que suelen estar en contacto con los alimentos, nos podemos encontrar…",
+    "options": {
+      "a": "corchos, aleaciones de metal o productos de impresión.",
+      "b": "vidrio, plástico, papel o cartón.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "madera, cera y productos activos."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de norma no es vinculante para los países de la UE?",
+    "options": {
+      "a": "el dictamen.",
+      "b": "las recomendaciones.",
+      "c": "las leyes.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "b",
+    "correct_text": "las recomendaciones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Del Plan de Acción sobre seguridad alimentaria, se ha derivado…",
+    "options": {
+      "a": "la Ley que protege al consumidor.",
+      "b": "la Ley Orgánica sobre seguridad alimentaria.",
+      "c": "el Reglamento base que recoge los Principios Generales de la Legislación alimentaria.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "el Reglamento base que recoge los Principios Generales de la Legislación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "En el principio de trazabilidad, es necesario…",
+    "options": {
+      "a": "poder identificar la adquisición y producción de cualquier alimento.",
+      "b": "poder identificar cualquier producto dentro de la empresa.",
+      "c": "poder lograr identificar la distribución de cualquier alimento.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La legislación alimentaria, ¿qué establece a escala nacional y comunitaria?",
+    "options": {
+      "a": "el derecho a la no decisión por parte de los consumidores.",
+      "b": "el derecho a la información con poca precisión sobre los alimentos.",
+      "c": "el derecho de veto de las decisiones de los consumidores.",
+      "d": "el derecho de los consumidores a la seguridad de los alimentos."
+    },
+    "correct": "d",
+    "correct_text": "el derecho de los consumidores a la seguridad de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los objetivos del Códex Alimentarius, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "desarrollar unos códigos en las prácticas de la producción de alimentos.",
+      "c": "desarrollar unos estándares en los alimentos, únicamente.",
+      "d": "desarrollar unas directrices en los alimentos, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las reglas del Códex Alimentarius, nos podemos encontrar con…",
+    "options": {
+      "a": "los límites mínimos de contaminantes en los alimentos.",
+      "b": "los procedimientos de elaboración y de no revisión.",
+      "c": "los límites máximos de residuos para pesticidas.",
+      "d": "los pocos riesgos para la inocuidad de los alimentos."
+    },
+    "correct": "c",
+    "correct_text": "los límites máximos de residuos para pesticidas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacterias son una de las principales causas de enfermedades humanas?",
+    "options": {
+      "a": "las bacterias patógenas.",
+      "b": "las bacterias alucinógenas.",
+      "c": "las bacterias compuestas.",
+      "d": "las bacterias simples."
+    },
+    "correct": "a",
+    "correct_text": "las bacterias patógenas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué se declara para lograr la aceptación dentro de la Comisión del Códex Alimentarius?",
+    "options": {
+      "a": "se declara la autoridad a todas las competencias.",
+      "b": "se declaran las obligaciones establecidas en los Estatutos del Códex.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "se declara el proceso de no coordinación con el resto de países."
+    },
+    "correct": "b",
+    "correct_text": "se declaran las obligaciones establecidas en los Estatutos del Códex.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuáles son los elementos fundamentales en la construcción de un mayor grado de confianza de los consumidores sobre las empresas?",
+    "options": {
+      "a": "la transparencia en la legislación.",
+      "b": "la consulta pública.",
+      "c": "la transparencia en la legislación y la consulta pública",
+      "d": "Todas las respuestas son incorrectas"
+    },
+    "correct": "c",
+    "correct_text": "la transparencia en la legislación y la consulta pública",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacteria aparece en el agua contaminada o en los mariscos?",
+    "options": {
+      "a": "la Salmonella spp.",
+      "b": "la Staphylococcus aureus.",
+      "c": "la Vibrio cholerae.",
+      "d": "la Shigella spp."
+    },
+    "correct": "c",
+    "correct_text": "la Vibrio cholerae.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué parte de la Comisión del Códex trabaja España?",
+    "options": {
+      "a": "España se encarga de repartir el excedente de los productos alimentarios.",
+      "b": "España no tiene una implicación muy directa dentro de esta Comisión.",
+      "c": "España no tiene suficiente repercusión como para tener un puesto dentro de la Comisión.",
+      "d": "España trabaja en los distintos comités horizontales y verticales."
+    },
+    "correct": "d",
+    "correct_text": "España trabaja en los distintos comités horizontales y verticales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de productos representan aproximadamente el 80% de la exposición total a contaminantes orgánicos persistentes?",
+    "options": {
+      "a": "los derivados cárnicos y otros productos de origen animal.",
+      "b": "los derivados de los lácteos.",
+      "c": "las grasas de origen vegetal.",
+      "d": "los derivados del pescado y otros productos de origen animal."
+    },
+    "correct": "d",
+    "correct_text": "los derivados del pescado y otros productos de origen animal.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se definen como “las proteínas modificadas que no presentan un material genético” a…",
+    "options": {
+      "a": "los hongos.",
+      "b": "las bacterias.",
+      "c": "los virus.",
+      "d": "los priones."
+    },
+    "correct": "d",
+    "correct_text": "los priones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Desde qué año concreto, España forma parte de los miembros del Códex Alimentarius?",
+    "options": {
+      "a": "desde el año 1960.",
+      "b": "desde el año 1980.",
+      "c": "desde el año 1963.",
+      "d": "desde el año 1972."
+    },
+    "correct": "c",
+    "correct_text": "desde el año 1963.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El carácter del Códex Alimentarius es…",
+    "options": {
+      "a": "totalmente obligatorio de cumplir.",
+      "b": "meramente consultivo.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "está hecho para quién quiera leerlo, nada más."
+    },
+    "correct": "b",
+    "correct_text": "meramente consultivo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la elaboración de una norma en el Códex Alimentarius, si logra pasar el examen crítico, el siguiente paso es…",
+    "options": {
+      "a": "la aprobación final de la norma.",
+      "b": "la consulta a los Estados y las partes interesadas.",
+      "c": "la revisión o el abandono de la norma.",
+      "d": "el debate interno."
+    },
+    "correct": "b",
+    "correct_text": "la consulta a los Estados y las partes interesadas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "El órgano encargado de la resistencia a los antimicrobianos o la buena alimentación animal, entre otros, es…",
+    "options": {
+      "a": "los grupos de acción intergubernamentales especiales.",
+      "b": "el comité de coordinadores regionales.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "el Comité sobre asuntos generales."
+    },
+    "correct": "a",
+    "correct_text": "los grupos de acción intergubernamentales especiales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuántos miembros conforman la Comisión del Códex Alimentarius?",
+    "options": {
+      "a": "189 miembros.",
+      "b": "186 miembros.",
+      "c": "180 miembros.",
+      "d": "150 miembros."
+    },
+    "correct": "b",
+    "correct_text": "186 miembros.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de bacteria puede provocar gastroenteritis y septicemia, entre otros síntomas?",
+    "options": {
+      "a": "la Campylobacter jejeuni.",
+      "b": "la Aeromonas hydrophila.",
+      "c": "la Clostridium perfrin-gens.",
+      "d": "la Bacillus cereus."
+    },
+    "correct": "b",
+    "correct_text": "la Aeromonas hydrophila.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los diferentes riesgos biológicos que están presentes en los alimentos, podemos encontrar…",
+    "options": {
+      "a": "la listeria en el pescado.",
+      "b": "la salmonella en productos lácteos y cárnicos.",
+      "c": "los parásitos como el Anisakis en el pescado.",
+      "d": "los priones en los productos cárnicos."
+    },
+    "correct": "c",
+    "correct_text": "los parásitos como el Anisakis en el pescado.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué componente exige la selección de las medidas apropiadas necesarias para prevenir, reducir o eliminar los peligros en los alimentos?",
+    "options": {
+      "a": "la toma de decisiones.",
+      "b": "la gestión.",
+      "c": "la comunicación.",
+      "d": "la evaluación."
+    },
+    "correct": "b",
+    "correct_text": "la gestión.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿A través de qué se puede generar un consumo excesivo de dioxinas para el ser humano?",
+    "options": {
+      "a": "a través de la quema de basuras.",
+      "b": "a partir del consumo de algunos alimentos.",
+      "c": "a través del agua en mal estado.",
+      "d": "a través de la quema de montes y montañas."
+    },
+    "correct": "a",
+    "correct_text": "a través de la quema de basuras.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los virus suelen transmitirse a través de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los derivados lácteos.",
+      "c": "los alimentos muy hechos.",
+      "d": "los alimentos crudos o poco cocinados."
+    },
+    "correct": "d",
+    "correct_text": "los alimentos crudos o poco cocinados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los compuestos orgánicos tricíclicos clorados, son…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los policloribifenilos.",
+      "c": "las dioxinas.",
+      "d": "los PCBs."
+    },
+    "correct": "c",
+    "correct_text": "las dioxinas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  }
+]

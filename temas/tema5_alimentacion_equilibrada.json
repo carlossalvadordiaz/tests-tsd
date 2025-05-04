@@ -1,0 +1,756 @@
+[
+  {
+    "question": "¿Qué debe evitarse en la etapa de lactación?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el consumo de alcohol y agua.",
+      "c": "el consumo de alcohol y bebidas excitantes.",
+      "d": "el consumo de agua."
+    },
+    "correct": "c",
+    "correct_text": "el consumo de alcohol y bebidas excitantes.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la etapa de lactación, el gasto energético se incrementa alrededor de…",
+    "options": {
+      "a": "un 10%.",
+      "b": "un 20%.",
+      "c": "un 5%.",
+      "d": "un 30%."
+    },
+    "correct": "b",
+    "correct_text": "un 20%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "El asesoramiento nutricional familiar, debe incluir…",
+    "options": {
+      "a": "debe incluir ambas.",
+      "b": "una educación nutricional.",
+      "c": "una asesoría dietética.",
+      "d": "no debe incluir ninguna de las dos."
+    },
+    "correct": "a",
+    "correct_text": "debe incluir ambas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales en la etapa de lactación, ¿cuál es la incorrecta?",
+    "options": {
+      "a": "se deben beber dos litros de agua al día.",
+      "b": "hay que hacer una dieta rica en alimentos drenantes.",
+      "c": "se produce un aumento del consumo de productos lácteos y enriquecidos en calcio.",
+      "d": "no hay que consumir carnes magras y pescados azules."
+    },
+    "correct": "d",
+    "correct_text": "no hay que consumir carnes magras y pescados azules.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La alimentación debe adaptarse a…",
+    "options": {
+      "a": "las funciones fisiológicas.",
+      "b": "las funciones psicológicas.",
+      "c": "las funciones motrices.",
+      "d": "las funciones madurativas."
+    },
+    "correct": "a",
+    "correct_text": "las funciones fisiológicas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los factores fisiológicos en la adolescencia, encontramos…",
+    "options": {
+      "a": "que se acelera el crecimiento en longitud.",
+      "b": "que se produce un atraso en la maduración sexual.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "que disminuye la masa corporal."
+    },
+    "correct": "a",
+    "correct_text": "que se acelera el crecimiento en longitud.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las características de la leche materna encontramos…",
+    "options": {
+      "a": "la temperatura y condiciones higiénicas no son óptimas.",
+      "b": "No protege al lactante de enfermedades infecciosas.",
+      "c": "es de difícil absorción y digestión.",
+      "d": "favorece el correcto desarrollo físico, sensorial y cognitivo del lactante."
+    },
+    "correct": "d",
+    "correct_text": "favorece el correcto desarrollo físico, sensorial y cognitivo del lactante.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las ingestas recomendadas en la adolescencia son similares a…",
+    "options": {
+      "a": "las ingestas de los niños.",
+      "b": "las ingestas de los lactantes.",
+      "c": "las ingestas de los adultos.",
+      "d": "las ingestas de los ancianos."
+    },
+    "correct": "c",
+    "correct_text": "las ingestas de los adultos.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La adolescencia, en cuanto a la nutrición se refiere, es un período que comprende…",
+    "options": {
+      "a": "entre los 8 y los 15 años.",
+      "b": "entre los 15 y 20 años.",
+      "c": "entre los 10 y los 16 años.",
+      "d": "entre los 10 y 19 años."
+    },
+    "correct": "d",
+    "correct_text": "entre los 10 y 19 años.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En cuanto a la nutrición en la gestación…",
+    "options": {
+      "a": "se produce una disminución en las necesidades nutricionales.",
+      "b": "las necesidades nutricionales son las mismas que en la adolescencia.",
+      "c": "se produce un aumento de las necesidades nutricionales.",
+      "d": "las necesidades nutricionales son iguales que en la vejez."
+    },
+    "correct": "c",
+    "correct_text": "se produce un aumento de las necesidades nutricionales.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los aspectos fundamentales en el asesoramiento nutricional familiar, es incorrecto…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "que no debe haber una adecuada preparación culinaria.",
+      "c": "que debe haber una adecuación de la dieta.",
+      "d": "que debe haber un aprovisionamiento correcto de alimentos."
+    },
+    "correct": "b",
+    "correct_text": "que no debe haber una adecuada preparación culinaria.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los aspectos fisiológicos diferenciales del lactante, en el sistema digestivo encontramos…",
+    "options": {
+      "a": "la secreción salival.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la secreción biliar.",
+      "d": "la secreción gástrica."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la planificación dietética, en la etapa de gestación, es recomendable efectuar…",
+    "options": {
+      "a": "5 ingestas diarias.",
+      "b": "4 ingestas diarias.",
+      "c": "2 ingestas diarias.",
+      "d": "3 ingestas diarias."
+    },
+    "correct": "a",
+    "correct_text": "5 ingestas diarias.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En los requerimientos nutricionales en la adolescencia, el hierro produce en las chicas…",
+    "options": {
+      "a": "el aumento de volumen sanguíneo.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el crecimiento óseo.",
+      "d": "la aparición de la menstruación."
+    },
+    "correct": "d",
+    "correct_text": "la aparición de la menstruación.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La ingesta recomendada de lípidos en los deportistas es de…",
+    "options": {
+      "a": "más del 30%.",
+      "b": "menos del 30%.",
+      "c": "más del 50%.",
+      "d": "menos del 10%."
+    },
+    "correct": "b",
+    "correct_text": "menos del 30%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos proteicos en la niñez encontramos…",
+    "options": {
+      "a": "que aumenta en del primer al segundo año.",
+      "b": "que aumenta a partir del cuarto año.",
+      "c": "que desciende a partir del segundo año.",
+      "d": "que desciende a partir del cuarto año."
+    },
+    "correct": "c",
+    "correct_text": "que desciende a partir del segundo año.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los cambios morfológicos y funcionales en la adolescencia, es incorrecto que…",
+    "options": {
+      "a": "se produzca un incremento de los niveles de grasa subcutánea.",
+      "b": "se produzca una maduración sexual.",
+      "c": "no se produzca un incremento de la masa muscular.",
+      "d": "haya una velocidad de crecimiento."
+    },
+    "correct": "c",
+    "correct_text": "no se produzca un incremento de la masa muscular.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los requerimientos nutricionales en la niñez…",
+    "options": {
+      "a": "aumentan debido a un menor crecimiento.",
+      "b": "disminuyen debido a un menor crecimiento.",
+      "c": "disminuyen debido a un mayor crecimiento.",
+      "d": "aumentan debido a un mayor crecimiento."
+    },
+    "correct": "b",
+    "correct_text": "disminuyen debido a un menor crecimiento.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la nutrición en la gestación, entre las características fisiológicas más relevantes, ¿cuál es la incorrecta?",
+    "options": {
+      "a": "se producen cambios metabólicos.",
+      "b": "se produce una ganancia de peso sobre 15 a 20 kg.",
+      "c": "se produce un aumento del volumen sanguíneo.",
+      "d": "se incrementa la sensación de hambre y sed."
+    },
+    "correct": "b",
+    "correct_text": "se produce una ganancia de peso sobre 15 a 20 kg.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se denomina como lactantes, a los niños comprendidos entre la edad…",
+    "options": {
+      "a": "de 0 a 12 meses.",
+      "b": "de 0 a 3 meses.",
+      "c": "de 1 año a 1 año y medio.",
+      "d": "de 1 a 2 años."
+    },
+    "correct": "a",
+    "correct_text": "de 0 a 12 meses.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La vitamina B12, se encuentra en productos…",
+    "options": {
+      "a": "de origen herbáceo.",
+      "b": "de origen animal.",
+      "c": "de origen marino.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "de origen animal.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La etapa de lactante, es la más importante en…",
+    "options": {
+      "a": "ambas respuestas anteriores son correctas.",
+      "b": "en la maduración de los órganos.",
+      "c": "ambas respuestas anteriores son incorrectas.",
+      "d": "el crecimiento."
+    },
+    "correct": "a",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Respecto a la nutrición en la niñez, se necesitará…",
+    "options": {
+      "a": "determinar unos hábitos nutricionales adecuados.",
+      "b": "no establecer hábitos nutricionales.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "el establecimiento de unas costumbres alimenticias poco saludables."
+    },
+    "correct": "a",
+    "correct_text": "determinar unos hábitos nutricionales adecuados.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las particularidades en las recomendaciones en el consumo de macro y micronutrientes en la vejez, encontramos…",
+    "options": {
+      "a": "existe el riesgo de padecer enfermedades carenciales.",
+      "b": "se produce un aumento en el requerimiento de hierro en las mujeres.",
+      "c": "especial atención al aporte de vitamina K.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "existe el riesgo de padecer enfermedades carenciales.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la dieta ovolactovegetariana, encontramos que se consumen productos, tales como…",
+    "options": {
+      "a": "los huevos.",
+      "b": "los derivados de la leche y huevos.",
+      "c": "la leche.",
+      "d": "no se consumen estos productos."
+    },
+    "correct": "b",
+    "correct_text": "los derivados de la leche y huevos.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales en la etapa de lactación encontramos…",
+    "options": {
+      "a": "se debe hacer una dieta alta en grasas.",
+      "b": "se debe hacer una dieta restringida en sodio.",
+      "c": "beber menos de dos litros de agua al día.",
+      "d": "la exposición al sol diaria, de más de una hora."
+    },
+    "correct": "b",
+    "correct_text": "se debe hacer una dieta restringida en sodio.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Una ingesta inadecuada de hidratos de carbono en la niñez, puede suponer…",
+    "options": {
+      "a": "problemas en el desarrollo del sistema nervioso.",
+      "b": "problemas en el desarrollo cognitivo.",
+      "c": "problemas psicológicos.",
+      "d": "problemas en el crecimiento."
+    },
+    "correct": "d",
+    "correct_text": "problemas en el crecimiento.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las formas alternativas de alimentación, la más extendida es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la dieta vegana.",
+      "c": "la dieta ovolactovegetariana.",
+      "d": "la dieta carnívora."
+    },
+    "correct": "c",
+    "correct_text": "la dieta ovolactovegetariana.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales en la gestación, se debe tener especial atención a…",
+    "options": {
+      "a": "el consumo de proteínas.",
+      "b": "el consumo de calcio, hierro y ácido fólico.",
+      "c": "el consumo de hidratos de carbono.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "el consumo de calcio, hierro y ácido fólico.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las ventajas del BLW y BLISS, ¿cuál es la incorrecta?",
+    "options": {
+      "a": "el comienzo debe ser a los 6 meses.",
+      "b": "favorece la preferencia por la comida sana y variada.",
+      "c": "favorece la alimentación perceptiva del niño.",
+      "d": "aumenta la percepción familiar del “mal comedor”."
+    },
+    "correct": "d",
+    "correct_text": "aumenta la percepción familiar del “mal comedor”.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la nutrición en la vejez, se comienza a producir…",
+    "options": {
+      "a": "en menor nivel de actividad física.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "una reducción de las secreciones digestivas.",
+      "d": "una disminución en el metabolismo basal."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las recomendaciones nutricionales en la niñez, es importante que el desayuno aporte…",
+    "options": {
+      "a": "el 15% del contenido energético diario.",
+      "b": "el 40% del contenido energético total diario.",
+      "c": "el 30% del contenido energético total diario.",
+      "d": "el 20 o 25% del contenido energético total diario."
+    },
+    "correct": "d",
+    "correct_text": "el 20 o 25% del contenido energético total diario.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "El catering, está considerado como un tipo de alimentación…",
+    "options": {
+      "a": "comercial.",
+      "b": "social.",
+      "c": "tradicional.",
+      "d": "no se considera en ninguna de las anteriores."
+    },
+    "correct": "a",
+    "correct_text": "comercial.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La OMS recomienda la lactancia materna exclusiva durante…",
+    "options": {
+      "a": "los primeros doce meses de vida.",
+      "b": "los primeros veinticuatro meses de vida.",
+      "c": "los primeros seis meses de vida.",
+      "d": "los primeros dieciocho meses de vida."
+    },
+    "correct": "c",
+    "correct_text": "los primeros seis meses de vida.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las aplicaciones informáticas para los expertos en la dietética, permiten…",
+    "options": {
+      "a": "se pueden incluir datos de variables antropométricas y bioquímicas.",
+      "b": "la confección de menús personalizados.",
+      "c": "valorar las ingestas dietéticas, aportando la cantidad de energía y nutrientes.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las recomendaciones nutricionales en la vejez, es incorrecto que…",
+    "options": {
+      "a": "se tenga que realizar actividad física moderada.",
+      "b": "hay que aumentar el consumo de fibra.",
+      "c": "se debe beber agua sin tener sed.",
+      "d": "no se deba prevenir el sobrepeso y la obesidad."
+    },
+    "correct": "d",
+    "correct_text": "no se deba prevenir el sobrepeso y la obesidad.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los cambios psicológicos que se pueden dar en la adolescencia, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "cambios en la personalidad.",
+      "c": "se produce una búsqueda de la propia personalidad.",
+      "d": "se produce un fortalecimiento del pensamiento lógico-abstracto."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las pautas generales, en la alimentación complementaria para un recién nacido encontramos…",
+    "options": {
+      "a": "el bebé no debe acostumbrarse a las nuevas comidas.",
+      "b": "es conveniente no añadir sal ni azúcar y edulcorantes a las comidas.",
+      "c": "los cambios de alimentos deben realizarse de forma rápida.",
+      "d": "cada alimento nuevo debe introducirse en grandes cantidades."
+    },
+    "correct": "b",
+    "correct_text": "es conveniente no añadir sal ni azúcar y edulcorantes a las comidas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la etapa de lactación, debe favorecerse una dieta rica en…",
+    "options": {
+      "a": "hidratos de carbono.",
+      "b": "hortalizas, verduras y frutas.",
+      "c": "lípidos.",
+      "d": "sales minerales."
+    },
+    "correct": "b",
+    "correct_text": "hortalizas, verduras y frutas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los hidratos de carbono de índice glucémico alto…",
+    "options": {
+      "a": "no son útiles para ningún ejercicio.",
+      "b": "son útiles para ejercicios relacionados con el cardio.",
+      "c": "son útiles durante el ejercicio cuando se realiza durante poco tiempo.",
+      "d": "son útiles para ejercicios relacionados con la fuerza."
+    },
+    "correct": "c",
+    "correct_text": "son útiles durante el ejercicio cuando se realiza durante poco tiempo.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales en la gestación, la ingesta energética debe aumentar…",
+    "options": {
+      "a": "sobre un 15 a un 20%.",
+      "b": "sobre un 5 a un 8%.",
+      "c": "sobre un 2 a un 4%.",
+      "d": "sobre un 10 a un 15%."
+    },
+    "correct": "d",
+    "correct_text": "sobre un 10 a un 15%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En los deportistas, el consumo de hidratos de carbono puede aumentar hasta…",
+    "options": {
+      "a": "el 40% de la ingesta energética diaria.",
+      "b": "el 80% de la ingesta energética diaria.",
+      "c": "el 50% de la ingesta energética diaria.",
+      "d": "el 60 o 70% de la ingesta energética diaria."
+    },
+    "correct": "d",
+    "correct_text": "el 60 o 70% de la ingesta energética diaria.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las características fisiológicas más relevantes, durante la gestación, la ganancia de peso medio es de…",
+    "options": {
+      "a": "8 a 15 kg.",
+      "b": "10 a 15 kg.",
+      "c": "10 a 12 kg.",
+      "d": "5 a 10kg."
+    },
+    "correct": "c",
+    "correct_text": "10 a 12 kg.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La dieta vegetariana favorece una menor incidencia de…",
+    "options": {
+      "a": "enfermedades cardiovasculares.",
+      "b": "Todas las respuestas anteriores son correctas.",
+      "c": "ciertos tipos de cáncer.",
+      "d": "diabetes tipo II."
+    },
+    "correct": "b",
+    "correct_text": "Todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la etapa de lactación, se caracteriza por ser una etapa fisiológica en la que las demandas nutricionales…",
+    "options": {
+      "a": "son nulas.",
+      "b": "se encuentran elevadas.",
+      "c": "se encuentran bajas.",
+      "d": "se encuentran intermedias."
+    },
+    "correct": "b",
+    "correct_text": "se encuentran elevadas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las recomendaciones nutricionales en la niñez encontramos…",
+    "options": {
+      "a": "una dieta variada en macronutrientes.",
+      "b": "estimar el consumo de legumbres, frutas, verduras y hortalizas.",
+      "c": "realizar al menos cuatro comidas diarias.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La suplementación masiva…",
+    "options": {
+      "a": "puede tener efectos perjudiciales para la salud.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "no tiene grandes efectos en la salud.",
+      "d": "tiene efectos leves en la salud."
+    },
+    "correct": "a",
+    "correct_text": "puede tener efectos perjudiciales para la salud.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los hábitos de consumo de los adolescentes encontramos…",
+    "options": {
+      "a": "acuden a la fast food.",
+      "b": "hábitos alimentarios poco saludables.",
+      "c": "consumo de snacks.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales de un lactante encontramos…",
+    "options": {
+      "a": "un alto requerimiento proteico.",
+      "b": "no necesita una gran cantidad de agua.",
+      "c": "menor requerimiento de vitaminas y minerales.",
+      "d": "bajos requerimientos de hidratos de carbono."
+    },
+    "correct": "a",
+    "correct_text": "un alto requerimiento proteico.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En cuanto a la proteína en la adolescencia, los chicos comprendidos entre la edad de 14 a 18 años, necesitan…",
+    "options": {
+      "a": "0’5g por kg de peso al día.",
+      "b": "2g por kg de peso al día.",
+      "c": "0’9g por kg de peso al día.",
+      "d": "1’5g por kg de peso al día."
+    },
+    "correct": "c",
+    "correct_text": "0’9g por kg de peso al día.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las recomendaciones nutricionales en la niñez, ¿cuál de las siguientes es la incorrecta?",
+    "options": {
+      "a": "tener una dieta rica en texturas.",
+      "b": "forzar al niño a comer.",
+      "c": "no añadir demasiada sal a las comidas.",
+      "d": "no utilizar los alimentos como medio de recompensa o castigo."
+    },
+    "correct": "b",
+    "correct_text": "forzar al niño a comer.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales para los deportistas…",
+    "options": {
+      "a": "dependen de la intensidad del ejercicio y su duración.",
+      "b": "en ejercicios de alta intensidad y corta duración, la energía la suministra inicialmente el sistema anaerobio.",
+      "c": "el uso de hidratos de carbono aumenta con la intensidad del ejercicio.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la gestación, es recomendable el consumo abundante de…",
+    "options": {
+      "a": "agua no embotellada.",
+      "b": "refrescos gaseosos.",
+      "c": "agua embotellada.",
+      "d": "agua poco potable."
+    },
+    "correct": "c",
+    "correct_text": "agua embotellada.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las pautas generales, en la alimentación complementaria, ¿A qué edad un lactante puede consumir el mismo tipo de alimentos que el resto de la familia?",
+    "options": {
+      "a": "a los 18 meses.",
+      "b": "a los 12 meses.",
+      "c": "a los 6 meses.",
+      "d": "a los 10 meses."
+    },
+    "correct": "b",
+    "correct_text": "a los 12 meses.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los principales tipos de alimentación colectiva encontramos…",
+    "options": {
+      "a": "la alimentación social.",
+      "b": "la alimentación comercial.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la alimentación tradicional."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La nutrición en la niñez comprende la etapa…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "desde la finalización de la juventud hasta la vejez.",
+      "c": "desde el embarazo hasta la lactancia.",
+      "d": "desde la finalización de la lactancia hasta llegar a la adolescencia."
+    },
+    "correct": "d",
+    "correct_text": "desde la finalización de la lactancia hasta llegar a la adolescencia.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los inconvenientes del BLW y BLISS, encontramos…",
+    "options": {
+      "a": "mayor posibilidad de presentar carencia en hierro.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "mayor riesgo de atragantamientos.",
+      "d": "riesgo de proporcionar al niño comida menos saludable."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué factores influyen en la cantidad y la composición de la leche materna?",
+    "options": {
+      "a": "ambas respuestas son correctas.",
+      "b": "el estado nutricional.",
+      "c": "el tipo de alimentación.",
+      "d": "ambas respuestas son incorrectas."
+    },
+    "correct": "a",
+    "correct_text": "ambas respuestas son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "question": "El tratamiento de la diabetes se inicia normalmente…",
+    "options": {
+      "a": "tras un análisis de sangre que indique la presencia de hipoglucemia.",
+      "b": "tras un análisis de orina.",
+      "c": "tras un análisis de sangre que indique la presencia de hiperglucemia.",
+      "d": "tras un análisis respiratorio."
+    },
+    "correct": "c",
+    "correct_text": "tras un análisis de sangre que indique la presencia de hiperglucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tipo de diabetes que puede ocurrir entre la semana decimosexta y la vigésimo octava de embarazo, se considera…",
+    "options": {
+      "a": "diabetes tipo 2.",
+      "b": "diabetes tipo 1.",
+      "c": "diabetes preparto.",
+      "d": "diabetes gestacional."
+    },
+    "correct": "d",
+    "correct_text": "diabetes gestacional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los cereales que se deben evitar contra la diabetes, encontramos…",
+    "options": {
+      "a": "el arroz largo.",
+      "b": "las pastas y arroces precocinados.",
+      "c": "los cereales integrales.",
+      "d": "el arroz blanco."
+    },
+    "correct": "b",
+    "correct_text": "las pastas y arroces precocinados.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La cantidad diaria que se debe consumir de azúcares simples debe ser…",
+    "options": {
+      "a": "baja, en torno al 20%.",
+      "b": "inferior al 20%.",
+      "c": "alta, en torno al 60%.",
+      "d": "normal, en torno al 30%."
+    },
+    "correct": "b",
+    "correct_text": "inferior al 20%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La glucemia al azar se diagnostica cuando el paciente…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "presenta una tasa menor a 100 mg/dl.",
+      "c": "presenta una tasa inferior a 100 mg/dl.",
+      "d": "presenta una tasa superior o igual a 200 mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "presenta una tasa superior o igual a 200 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El aspartamo aporta una cantidad de calorías…",
+    "options": {
+      "a": "10 kcal/g.",
+      "b": "5 kcal/g.",
+      "c": "1 kcal/g.",
+      "d": "4 kcal/g."
+    },
+    "correct": "d",
+    "correct_text": "4 kcal/g.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina a la sensación de sed excesiva?",
+    "options": {
+      "a": "polidipsia.",
+      "b": "glucosuria.",
+      "c": "daño vascular.",
+      "d": "poliuria."
+    },
+    "correct": "a",
+    "correct_text": "polidipsia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si se realiza ejercicio durante un total de 30 minutos a 1 hora, se debe…",
+    "options": {
+      "a": "aumentar la insulina un 10%.",
+      "b": "disminuir la insulina un 50%.",
+      "c": "disminuir la insulina entre un 10 y un 30%.",
+      "d": "aumentar la insulina en un 20%."
+    },
+    "correct": "c",
+    "correct_text": "disminuir la insulina entre un 10 y un 30%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si la cetoacidosis progresa sin tratarse, puede llegar a producir…",
+    "options": {
+      "a": "un ictus diabético.",
+      "b": "un aumento del colesterol.",
+      "c": "un parón cardíaco.",
+      "d": "un coma diabético."
+    },
+    "correct": "d",
+    "correct_text": "un coma diabético.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tratamiento dietético combinado o no con insulina o fármaco hipoglucemiantes orales, está indicado para…",
+    "options": {
+      "a": "la diabetes gestacional.",
+      "b": "la diabetes tipo 2.",
+      "c": "la diabetes tipo 1.",
+      "d": "la diabetes postparto."
+    },
+    "correct": "b",
+    "correct_text": "la diabetes tipo 2.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los cuerpos cetónicos se acumulan en la sangre y deben ser excretados a través…",
+    "options": {
+      "a": "de las heces.",
+      "b": "de la micción.",
+      "c": "del hígado.",
+      "d": "del sudor."
+    },
+    "correct": "b",
+    "correct_text": "de la micción.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipo de productos se deben priorizar para la obtención de proteínas?",
+    "options": {
+      "a": "la carne de cerdo.",
+      "b": "los pescados azules.",
+      "c": "los productos cárnicos.",
+      "d": "los pescados muy grasos."
+    },
+    "correct": "b",
+    "correct_text": "los pescados azules.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cuando el paciente no puede utilizar la glucosa para obtener energía y utiliza las grasas, se denomina como…",
+    "options": {
+      "a": "neuropatía.",
+      "b": "daño vascular.",
+      "c": "exceso de cuerpos cetónicos.",
+      "d": "ninguna de las respuestas anteriores son correctas."
+    },
+    "correct": "c",
+    "correct_text": "exceso de cuerpos cetónicos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si el nivel de glucosa en ayunas se sitúa entre 110 y 126 mg/dl , estamos ante…",
+    "options": {
+      "a": "un riesgo ínfimo de desarrollar diabetes.",
+      "b": "una glucemia basal alterada.",
+      "c": "un riesgo elevado de desarrollar diabetes.",
+      "d": "una intolerancia a la glucosa."
+    },
+    "correct": "b",
+    "correct_text": "una glucemia basal alterada.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los síntomas de la diabetes podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "neuropatía.",
+      "c": "glucosuria,",
+      "d": "pérdida anormal de peso."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cuando el sistema inmunológico del cuerpo destruye las células beta del páncreas, nos encontramos ante…",
+    "options": {
+      "a": "la diabetes tipo 4.",
+      "b": "la diabetes tipo 1.",
+      "c": "la diabetes tipo 2.",
+      "d": "la diabetes tipo 3."
+    },
+    "correct": "b",
+    "correct_text": "la diabetes tipo 1.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El daño oxidativo se produce como consecuencia de…",
+    "options": {
+      "a": "de una alta concentración de moléculas oxidantes.",
+      "b": "una concentración normal de moléculas oxidantes.",
+      "c": "de una inexistente concentración de moléculas oxidantes.",
+      "d": "de una baja concentración de moléculas oxidantes."
+    },
+    "correct": "a",
+    "correct_text": "de una alta concentración de moléculas oxidantes.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La diabetes tipo 2, es más frecuente a desarrollarse en…",
+    "options": {
+      "a": "menores de 5 años.",
+      "b": "menores de 20 años.",
+      "c": "mayores de 40 años.",
+      "d": "mayores de 10 años."
+    },
+    "correct": "c",
+    "correct_text": "mayores de 40 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las recomendaciones para el control de la diabetes, encontramos que la glucemia postprandial, se debe encontrar en unos rangos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "inferior a 300 mg/dl.",
+      "c": "superior a 180 mg/dl.",
+      "d": "inferior a 180 mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "inferior a 180 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipos de bombas no son aptas para todos los pacientes con diabetes?",
+    "options": {
+      "a": "los bolos prepandiales.",
+      "b": "las bombas de acción lenta.",
+      "c": "las bombas para la diabetes tipo 1.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "los bolos prepandiales.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Después de una comida, la cantidad de glucosa en sangre…",
+    "options": {
+      "a": "la cantidad de glucosa se eleva normalmente.",
+      "b": "la cantidad de glucosa aumenta un 1%.",
+      "c": "la cantidad de glucosa disminuye a mínimos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "la cantidad de glucosa se eleva normalmente.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Respecto al colesterol total, la cantidad de colesterol debe ser…",
+    "options": {
+      "a": "superior a 200 mg/dl.",
+      "b": "inferior a 30 mg/dl.",
+      "c": "inferior a 185 mg/dl.",
+      "d": "inferior a 70 mg/dl."
+    },
+    "correct": "c",
+    "correct_text": "inferior a 185 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué cantidad de berenjenas contienen 10 gramos de carbohidratos?",
+    "options": {
+      "a": "300 gramos.",
+      "b": "100 gramos.",
+      "c": "500 gramos.",
+      "d": "50 gramos."
+    },
+    "correct": "a",
+    "correct_text": "300 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tratamiento donde se estimula la secreción de insulina por las células beta del páncreas, se denomina como…",
+    "options": {
+      "a": "biguanidas.",
+      "b": "secretagogos de acción rápida y sulfonilureas.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "secretagogos de acción lenta."
+    },
+    "correct": "b",
+    "correct_text": "secretagogos de acción rápida y sulfonilureas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los factores de riesgo que pueden desarrollar una diabetes tipo 1, encontramos…",
+    "options": {
+      "a": "factores culturales y sociales.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el sistema inmunológico.",
+      "d": "la genética."
+    },
+    "correct": "d",
+    "correct_text": "la genética.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué alimento contiene un índice glucémico bajo?",
+    "options": {
+      "a": "el pan.",
+      "b": "el azúcar.",
+      "c": "los cereales integrales.",
+      "d": "las berenjenas."
+    },
+    "correct": "c",
+    "correct_text": "los cereales integrales.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La insulina promueve la síntesis de ácidos grasos en…",
+    "options": {
+      "a": "páncreas.",
+      "b": "hígado y tejido adiposo.",
+      "c": "intestino grueso.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "hígado y tejido adiposo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina a aquella hormona secretada por las células alfa de los islotes de Langerhans?",
+    "options": {
+      "a": "insulina.",
+      "b": "glucagón.",
+      "c": "glucógeno.",
+      "d": "glucólisis,"
+    },
+    "correct": "b",
+    "correct_text": "glucagón.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se denominan como “grupo de trastornos graves y crónicos que afectan al metabolismo de los hidratos de carbono” a…",
+    "options": {
+      "a": "hiperglucemia.",
+      "b": "hipoglucemia.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "diabetes."
+    },
+    "correct": "d",
+    "correct_text": "diabetes.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cuando se producen unos niveles de glucosa inferiores a 70 mg/dl, se considera como…",
+    "options": {
+      "a": "glucemia.",
+      "b": "normoglucemia.",
+      "c": "hiperglucemia.",
+      "d": "hipoglucemia."
+    },
+    "correct": "d",
+    "correct_text": "hipoglucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la diabetes tipo 2, la … puede estar presente como parte del síndrome metabólico.",
+    "options": {
+      "a": "monotensión.",
+      "b": "hipotensión.",
+      "c": "cardiotensión.",
+      "d": "hipertensión."
+    },
+    "correct": "d",
+    "correct_text": "hipertensión.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué cantidad de fibra se recomienda consumir diariamente?",
+    "options": {
+      "a": "entre 25 y 30 gramos.",
+      "b": "entre 35 y 40 gramos.",
+      "c": "entre 10 y 15 gramos.",
+      "d": "entre 40 y 50 gramos."
+    },
+    "correct": "a",
+    "correct_text": "entre 25 y 30 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El olvido de la dosis de insulina puede ser la causa de...",
+    "options": {
+      "a": "cetadisis.",
+      "b": "acidosis.",
+      "c": "cetidisis.",
+      "d": "cetoacidosis."
+    },
+    "correct": "d",
+    "correct_text": "cetoacidosis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipos de dietas no son recomendables para pacientes con diabetes?",
+    "options": {
+      "a": "dietas hipoprotéicas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "dietas hipoglucémicas.",
+      "d": "dietas hiperprotéicas."
+    },
+    "correct": "d",
+    "correct_text": "dietas hiperprotéicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los objetivos del control y tratamiento de la diabetes, encontramos…",
+    "options": {
+      "a": "adaptar la dieta a los objetivos concretos del control glucémico.",
+      "b": "aumentar la glucemia.",
+      "c": "dejar de modificar la ingesta de grasas de los pacientes.",
+      "d": "Evitar utilización de sal en la mesa"
+    },
+    "correct": "a",
+    "correct_text": "adaptar la dieta a los objetivos concretos del control glucémico.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué es importante que lleven encima siempre los pacientes que presenten diabetes?",
+    "options": {
+      "a": "productos con mucha fibra.",
+      "b": "unas galletas o fruta.",
+      "c": "una dosis de proteínas.",
+      "d": "azúcar puro."
+    },
+    "correct": "b",
+    "correct_text": "unas galletas o fruta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La diabetes que aparece en la edad jóven pero debería pertenecer a la edad madura, se denomina como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "diabetes secundaria a medicamentos.",
+      "c": "diabetes causada por enfermedades que afectan al páncreas.",
+      "d": "diabetes MODY."
+    },
+    "correct": "d",
+    "correct_text": "diabetes MODY.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Por qué órganos pasan la insulina y el glucagón?",
+    "options": {
+      "a": "el estómago y el hígado.",
+      "b": "el páncreas y el hígado.",
+      "c": "el estómago y los intestinos.",
+      "d": "el intestino delgado y grueso."
+    },
+    "correct": "b",
+    "correct_text": "el páncreas y el hígado.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina a la síntesis de glucosa el hígado?",
+    "options": {
+      "a": "neogénesis.",
+      "b": "glucólisis.",
+      "c": "glocugenosis.",
+      "d": "gluconeogénesis."
+    },
+    "correct": "d",
+    "correct_text": "gluconeogénesis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las insulinas a las cuales se les añade protamina, son…",
+    "options": {
+      "a": "las insulinas de acción muy rápida.",
+      "b": "las insulinas de acción rápida.",
+      "c": "las insulinas de acción intermedia.",
+      "d": "las insulinas de acción lenta."
+    },
+    "correct": "c",
+    "correct_text": "las insulinas de acción intermedia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cuál está considerado como el edulcorante más antiguo?",
+    "options": {
+      "a": "la sucralosa.",
+      "b": "la estevia.",
+      "c": "el ciclamato sódico.",
+      "d": "la sacarina sódica."
+    },
+    "correct": "d",
+    "correct_text": "la sacarina sódica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se denomina como “el tiempo durante el que la insulina sigue reduciendo los niveles de glucosa en sangre” a…",
+    "options": {
+      "a": "periodo de acción máxima.",
+      "b": "el tiempo de duración.",
+      "c": "pico de acción máxima.",
+      "d": "el tiempo de inicio."
+    },
+    "correct": "a",
+    "correct_text": "periodo de acción máxima.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La insulina …. de glucosa del hígado al torrente sanguíneo.",
+    "options": {
+      "a": "disminuye al mínimo la salida.",
+      "b": "reduce la salida.",
+      "c": "aumenta la entrada.",
+      "d": "aumenta al máximo."
+    },
+    "correct": "b",
+    "correct_text": "reduce la salida.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se considera como carga glucémica alta, cuando se sitúa…",
+    "options": {
+      "a": "superior a 30.",
+      "b": "superior a 20.",
+      "c": "inferior a 20.",
+      "d": "inferior a 10."
+    },
+    "correct": "b",
+    "correct_text": "superior a 20.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La diabetes gestacional…",
+    "options": {
+      "a": "no conlleva llevar una dieta adecuada.",
+      "b": "no debe controlarse el aumento del peso.",
+      "c": "no suele aparecer tras el embarazo.",
+      "d": "desaparece después del nacimiento del bebé."
+    },
+    "correct": "d",
+    "correct_text": "desaparece después del nacimiento del bebé.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La sacarina y otros edulcorantes artificiales pueden modificar…",
+    "options": {
+      "a": "las enzimas digestivas.",
+      "b": "la cantidad de jugos gástricos.",
+      "c": "la forma de los jugos gástricos.",
+      "d": "la flora intestinal."
+    },
+    "correct": "d",
+    "correct_text": "la flora intestinal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los lácteos que se deben evitar contra la diabetes, encontramos…",
+    "options": {
+      "a": "los yogures de frutas.",
+      "b": "los quesos poco grasos.",
+      "c": "la leche semidesnatada.",
+      "d": "los yogures con nata o chocolate."
+    },
+    "correct": "d",
+    "correct_text": "los yogures con nata o chocolate.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Según la etiología de la diabetes, esta puede deberse a factores…",
+    "options": {
+      "a": "como la obesidad o el síndrome de Cushing.",
+      "b": "como la obesidad, únicamente.",
+      "c": "como el aumento de células alfa en el páncreas.",
+      "d": "como la disminución de células gamma en el hígado."
+    },
+    "correct": "a",
+    "correct_text": "como la obesidad o el síndrome de Cushing.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  }
+]

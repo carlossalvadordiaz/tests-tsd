@@ -1,0 +1,743 @@
+[
+  {
+    "question": "Durante el tratamiento tecnológico o procesamiento de los alimentos existe el riesgo de…",
+    "options": {
+      "a": "una oxidación de los propios alimentos.",
+      "b": "una contaminación por parte de manipuladores u otros.",
+      "c": "deteriorar los alimentos en el proceso.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "una contaminación por parte de manipuladores u otros.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de glúcido es el más reactivo?",
+    "options": {
+      "a": "los disacáridos.",
+      "b": "los monosacáridos.",
+      "c": "la maltosa.",
+      "d": "la ribosa."
+    },
+    "correct": "d",
+    "correct_text": "la ribosa.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las vitaminas más susceptibles a los distintos tratamientos, nos encontramos con…",
+    "options": {
+      "a": "la tiamina.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las vitaminas A, C y B.",
+      "d": "la vitamina B9."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué se produce cuando se somete a altas temperaturas a los hidratos de carbono?",
+    "options": {
+      "a": "la oxidación.",
+      "b": "la caramelización.",
+      "c": "la carbonización.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "la caramelización.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las bajas temperaturas en los alimentos retardan las reacciones de…",
+    "options": {
+      "a": "hidrólisis.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "pardeamiento.",
+      "d": "hidroxidación."
+    },
+    "correct": "c",
+    "correct_text": "pardeamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los alimentos son susceptibles de sufrir alteraciones por…",
+    "options": {
+      "a": "los procesos tecnológicos.",
+      "b": "los procesos industriales.",
+      "c": "las cadenas de almacenamiento de los mismos.",
+      "d": "los procesos metabólicos."
+    },
+    "correct": "a",
+    "correct_text": "los procesos tecnológicos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se definen como “biomoléculas muy sensibles a los aumentos de temperatura, pudiendo producirse su desnaturalización, reacciones de pardeamiento no enzimático y otras reacciones”, se trata de…",
+    "options": {
+      "a": "los hidratos de carbono.",
+      "b": "las proteínas.",
+      "c": "las vitaminas y minerales.",
+      "d": "los lípidos."
+    },
+    "correct": "b",
+    "correct_text": "las proteínas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué grupo de bacterias aparecen con mayor frecuencia en el deterioro de los alimentos?",
+    "options": {
+      "a": "el grupo Pseudomonas.",
+      "b": "el grupo Campylobacter.",
+      "c": "el grupo Pseudófolis.",
+      "d": "el grupo psicrófilas."
+    },
+    "correct": "a",
+    "correct_text": "el grupo Pseudomonas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El agua es…",
+    "options": {
+      "a": "un medio poco favorable para la proliferación y la propagación de los microorganismos.",
+      "b": "un medio favorable para la proliferación y la transmisión de microorganismos.",
+      "c": "un medio desfavorable para la proliferación y la transmisión de los microorganismos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "un medio favorable para la proliferación y la transmisión de microorganismos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de tratamientos térmicos producen la desnaturalización de las proteínas?",
+    "options": {
+      "a": "los tratamientos por debajo de los 0 grados.",
+      "b": "los tratamientos entre 100 y 200 grados.",
+      "c": "los tratamientos superiores a 50 o 60 grados.",
+      "d": "los tratamientos por debajo de los 30 grados."
+    },
+    "correct": "c",
+    "correct_text": "los tratamientos superiores a 50 o 60 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento térmico de los lípidos en presencia de oxígeno provoca…",
+    "options": {
+      "a": "el deterioro y la degradación de sus características organolépticas.",
+      "b": "la degradación y oxidación de las grasas trans.",
+      "c": "el deterioro y la oxidación de sus valores nutricionales.",
+      "d": "el deterioro, la degradación y la oxidación de los ácidos grasos."
+    },
+    "correct": "d",
+    "correct_text": "el deterioro, la degradación y la oxidación de los ácidos grasos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Desde el punto de vista microbiológico, se entiende por suelo…",
+    "options": {
+      "a": "al conjunto de superficies con las que deja de tener contacto el alimento.",
+      "b": "al conjunto de superficies con las que se pone en contacto el alimento.",
+      "c": "al conjunto de necesidades con las que se pone en contacto el alimento.",
+      "d": "al conjunto de subsuelos con las que se pone en contacto un alimento."
+    },
+    "correct": "b",
+    "correct_text": "al conjunto de superficies con las que se pone en contacto el alimento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de tratamiento en los alimentos protéicos, puede provocar la pérdida de su valor nutritivo?",
+    "options": {
+      "a": "los tratamientos a altas temperaturas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la cocción, únicamente.",
+      "d": "los tratamientos a bajas temperaturas."
+    },
+    "correct": "a",
+    "correct_text": "los tratamientos a altas temperaturas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La consecuencia inmediata en los aceites de fritura es…",
+    "options": {
+      "a": "la formación de compuestos polares tóxicos.",
+      "b": "la formación de compuestos vegetales.",
+      "c": "la formación de compuestos apolares.",
+      "d": "la desintegración de los compuestos polares tóxicos."
+    },
+    "correct": "a",
+    "correct_text": "la formación de compuestos polares tóxicos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los minerales son…",
+    "options": {
+      "a": "bastante estables en el procesado de los alimentos.",
+      "b": "poco estables en el procesado de los alimentos.",
+      "c": "totalmente estables en el procesado de los alimentos.",
+      "d": "nada estables en el procesado de los alimentos."
+    },
+    "correct": "a",
+    "correct_text": "bastante estables en el procesado de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El método que consiste en la degradación de los hidratos de carbono de un alimento en unas condiciones anaeróbicas, es…",
+    "options": {
+      "a": "la fermentación",
+      "b": "la deshidratación.",
+      "c": "la congelación.",
+      "d": "el ahumado."
+    },
+    "correct": "a",
+    "correct_text": "la fermentación",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de enfermedad se produce cuando se consumen alimentos con sustancias tóxicas de origen microbiano?",
+    "options": {
+      "a": "una toxoinfección alimentaria.",
+      "b": "una infección transmitida por los alimentos.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "una intoxicación alimentaria."
+    },
+    "correct": "d",
+    "correct_text": "una intoxicación alimentaria.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Como producto de las reacciones del pardeamiento no enzimático se obtienen…",
+    "options": {
+      "a": "polímeros verdes.",
+      "b": "polímeros marrones.",
+      "c": "hidrólisis.",
+      "d": "polímeros azules."
+    },
+    "correct": "b",
+    "correct_text": "polímeros marrones.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Cómo aparecen en el etiquetado los ácidos grasos trans?",
+    "options": {
+      "a": "no aparecen en el etiquetado.",
+      "b": "aparecen como grasa muy hidrogenada.",
+      "c": "aparecen como grasa hidrogenada.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "aparecen como grasa hidrogenada.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El pan, los yogures, el vino o la cerveza se originan a través del proceso de…",
+    "options": {
+      "a": "salazón.",
+      "b": "fermentación.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "ahumado."
+    },
+    "correct": "b",
+    "correct_text": "fermentación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de ácidos grasos se produce al hidrogenar los ácidos grasos poliinsaturados?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los ácidos grasos biinsaturados.",
+      "c": "los ácidos monoinsaturados.",
+      "d": "los ácidos grasos trans."
+    },
+    "correct": "d",
+    "correct_text": "los ácidos grasos trans.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de alimentos son los más alterables debido a su composición?",
+    "options": {
+      "a": "las verduras y las frutas.",
+      "b": "los cereales.",
+      "c": "las carnes.",
+      "d": "los aceites grasos."
+    },
+    "correct": "c",
+    "correct_text": "las carnes.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "En algunas ocasiones, los microorganismos son los responsables de…",
+    "options": {
+      "a": "el aumento del valor biológico de los alimentos.",
+      "b": "la mejora de la calidad del producto.",
+      "c": "la alteración de la calidad de los alimentos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la alteración de la calidad de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La hidrogenación origina…",
+    "options": {
+      "a": "un porcentaje bajo de ácidos grasos monoinsaturados.",
+      "b": "un porcentaje significativo ácidos grasos poliinsaturados.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un porcentaje significativo de ácidos grasos trans."
+    },
+    "correct": "d",
+    "correct_text": "un porcentaje significativo de ácidos grasos trans.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la reacción de pardeamiento no enzimático de las proteínas, se produce…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "una pérdida de nutrientes y aminoácidos esenciales.",
+      "c": "una ganancia de nutrientes.",
+      "d": "únicamente una pérdida de nutrientes."
+    },
+    "correct": "b",
+    "correct_text": "una pérdida de nutrientes y aminoácidos esenciales.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los principales responsables de la autoxidación de los lípidos son…",
+    "options": {
+      "a": "la temperatura y el pH.",
+      "b": "la temperatura, el oxígeno y la luz.",
+      "c": "el oxígeno y el pH.",
+      "d": "la temperatura y el oxígeno."
+    },
+    "correct": "b",
+    "correct_text": "la temperatura, el oxígeno y la luz.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los compuestos que aparecen en las reacciones de pardeamiento no enzimático pueden proteger…",
+    "options": {
+      "a": "al alimento frente a las enzimas.",
+      "b": "al alimento de la oxidación lipídica.",
+      "c": "al alimento frente a los microorganismos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "al alimento de la oxidación lipídica.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Una de las causas principales del deterioro de los alimentos es…",
+    "options": {
+      "a": "la caramelización.",
+      "b": "el enracionamiento.",
+      "c": "la oxidación.",
+      "d": "la carbonización."
+    },
+    "correct": "c",
+    "correct_text": "la oxidación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El proceso de cocción de alimentos ricos en hidratos de carbono provoca…",
+    "options": {
+      "a": "la caramelización.",
+      "b": "la oxidación.",
+      "c": "la carbonización.",
+      "d": "la gelatinización y retrogradación."
+    },
+    "correct": "d",
+    "correct_text": "la gelatinización y retrogradación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La etapa donde “los aldehídos y las cetonas formadas en anteriores fases pueden desencadenar distintas reacciones” es…",
+    "options": {
+      "a": "la transposición de Amadori o de Heyns.",
+      "b": "la polimerización.",
+      "c": "la condensación de Maillard.",
+      "d": "la degradación de Strecker."
+    },
+    "correct": "b",
+    "correct_text": "la polimerización.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “la insolubilización y la precipitación, principalmente de las moléculas de amilasa de almidón, debido a que sus cadenas lineales se orientan paralelamente” a…",
+    "options": {
+      "a": "la caramelización.",
+      "b": "la oxidación.",
+      "c": "la gelatinización y la retrogradación.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la gelatinización y la retrogradación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La oxidación de un alimento puede provocar…",
+    "options": {
+      "a": "una pérdida de su calidad.",
+      "b": "generar compuestos tóxicos.",
+      "c": "una disminución de la vida útil.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se denomina como “el proceso donde al alimento se aplica un procesado de alta presión y temperatura durante un breve periodo de tiempo” a…",
+    "options": {
+      "a": "la fermentación.",
+      "b": "la extrusión.",
+      "c": "el secado.",
+      "d": "la oxidación."
+    },
+    "correct": "b",
+    "correct_text": "la extrusión.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los efectos favorables que se pueden dar en las reacciones que afectan a aminoácidos y proteínas, encontramos…",
+    "options": {
+      "a": "el incremento de la digestibilidad de las proteínas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la mejora de la textura de los alimentos.",
+      "d": "la inactivación de los factores antinutritivos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué micronutrientes lo conforman la hemicelulosa, la celulosa y las pectinas, entre otros?",
+    "options": {
+      "a": "los lípidos.",
+      "b": "los hidratos de carbono.",
+      "c": "las proteínas.",
+      "d": "la fibra."
+    },
+    "correct": "d",
+    "correct_text": "la fibra.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de enzima puede dar lugar a reacciones de pardeamiento no enzimático con los hidratos de carbono?",
+    "options": {
+      "a": "los azúcares simples.",
+      "b": "las proteínas.",
+      "c": "los lípidos.",
+      "d": "los azúcares complejos."
+    },
+    "correct": "a",
+    "correct_text": "los azúcares simples.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué pueden provocar las reacciones químicas en los procesos tecnológicos a los cuales se someten los alimentos?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "mejorar el sabor de los alimentos.",
+      "c": "las mejoras en los valores nutricionales del alimento.",
+      "d": "el deterioro del propio alimento."
+    },
+    "correct": "d",
+    "correct_text": "el deterioro del propio alimento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La calidad microbiológica del agua está vinculada a…",
+    "options": {
+      "a": "la fermentación de microorganismos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la calidad de los microorganismos.",
+      "d": "la contaminación de los alimentos."
+    },
+    "correct": "d",
+    "correct_text": "la contaminación de los alimentos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los factores que pueden influenciar las alteraciones de los alimentos, podemos encontrarnos con…",
+    "options": {
+      "a": "la luz del sol y la vegetación.",
+      "b": "la cantidad de agua y de oxígeno, únicamente.",
+      "c": "el pH del alimento, la cantidad de agua o la temperatura.",
+      "d": "la cantidad de agua, únicamente."
+    },
+    "correct": "c",
+    "correct_text": "el pH del alimento, la cantidad de agua o la temperatura.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El procesado de los alimentos, puede provocar…",
+    "options": {
+      "a": "la pérdida de la cantidad de calorías.",
+      "b": "la pérdida de micronutrientes.",
+      "c": "la pérdida de vitaminas.",
+      "d": "la ganancia de valores nutricionales."
+    },
+    "correct": "c",
+    "correct_text": "la pérdida de vitaminas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Dónde están presentes los microorganismos entre nosotros?",
+    "options": {
+      "a": "solamente en las plantas y en el suelo.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "en todo el medio ambiente.",
+      "d": "solamente en el agua y el aire."
+    },
+    "correct": "c",
+    "correct_text": "en todo el medio ambiente.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La etapa del pardeamiento no enzimático donde “las glucosaminas formadas en la reacción, sufren diversas transformaciones hasta llegar a cetosaminas” es…",
+    "options": {
+      "a": "la polimerización.",
+      "b": "la formación de compuestos reactivos.",
+      "c": "la transposición de Amadori o de Heyns.",
+      "d": "la condensación de Maillard."
+    },
+    "correct": "c",
+    "correct_text": "la transposición de Amadori o de Heyns.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La oxidación de lípidos en los alimentos puede ocasionar pérdidas nutricionales de…",
+    "options": {
+      "a": "vitaminas liposolubles.",
+      "b": "antioxidantes.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "ácidos grasos esenciales."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las partes contaminadas de un alimento pueden ser…",
+    "options": {
+      "a": "la piel e intestino de los animales.",
+      "b": "la cáscara de huevo.",
+      "c": "la piel de frutas y verduras.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Durante qué otros procesos se pueden producir la pérdida de vitaminas…",
+    "options": {
+      "a": "la distribución.",
+      "b": "la comercialización del producto.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el almacenamiento."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los métodos más antiguos de conservación de los alimentos encontramos…",
+    "options": {
+      "a": "el secado.",
+      "b": "el tratamiento térmico.",
+      "c": "la refrigeración.",
+      "d": "la deshidratación."
+    },
+    "correct": "d",
+    "correct_text": "la deshidratación.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los procesos de preparación que provocan la pérdida de minerales, podemos encontrarnos con…",
+    "options": {
+      "a": "la cocción y el hervido.",
+      "b": "la molienda.",
+      "c": "la lixiviación.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se denominan como “los ácidos orgánicos ricos en fósforo que se encuentran de forma natural en muchos alimentos vegetales” ...",
+    "options": {
+      "a": "los homomatos.",
+      "b": "los filatos.",
+      "c": "los fosforofatos.",
+      "d": "los hematos."
+    },
+    "correct": "b",
+    "correct_text": "los filatos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "El proceso que consiste en “un conjunto de reacciones que hacen que aparezcan polimeros pardos que alteran el olor y el sabor de los alimentos” es…",
+    "options": {
+      "a": "hidrólisis.",
+      "b": "pardeamiento enzimático.",
+      "c": "pardeamiento no enzimático.",
+      "d": "hidroxidación."
+    },
+    "correct": "c",
+    "correct_text": "pardeamiento no enzimático.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "La actividad del agua influye en…",
+    "options": {
+      "a": "la necesidad del pardeamiento.",
+      "b": "la velocidad del pardeamiento.",
+      "c": "la calidad del pardeamiento.",
+      "d": "la cantidad del pardeamiento."
+    },
+    "correct": "b",
+    "correct_text": "la velocidad del pardeamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las reacciones de degradación lipídica más frecuentes en los alimentos son por…",
+    "options": {
+      "a": "la oxidación debido a la fritura.",
+      "b": "ambas respuestas anteriores son correctas.",
+      "c": "ninguna de las respuestas anteriores son correctas.",
+      "d": "el almacenamiento inadecuado."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "En los pescados, se producen reacciones entre…",
+    "options": {
+      "a": "proteínas e hidratos de carbono.",
+      "b": "proteínas y aminoácidos.",
+      "c": "proteínas y lípidos.",
+      "d": "aminoácidos y vitaminas."
+    },
+    "correct": "c",
+    "correct_text": "proteínas y lípidos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Si se produce una desnaturalización de las proteínas, todo ello da como resultado…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la disminución de las calorías en la proteína.",
+      "c": "el aumento de las calorías en la proteína.",
+      "d": "la disminución del valor nutritivo."
+    },
+    "correct": "d",
+    "correct_text": "la disminución del valor nutritivo.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los hidróxidos producidos en el proceso de oxidación son responsables de…",
+    "options": {
+      "a": "el enranciamiento de las proteínas.",
+      "b": "de lograr un mejor aprovechamiento de los lípidos.",
+      "c": "del olor y sabor característico del enranciamiento.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "del olor y sabor característico del enranciamiento.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las causas del deterioro de los alimentos, podemos encontrarnos con…",
+    "options": {
+      "a": "las reacciones químicas de los alimentos.",
+      "b": "los agentes tecnológicos.",
+      "c": "el crecimiento de pocos microorganismos deseables.",
+      "d": "las oxidaciones de los lípidos."
+    },
+    "correct": "d",
+    "correct_text": "las oxidaciones de los lípidos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿En qué puede afectar el tratamiento culinario o tecnológico a la hora de cocinar los alimentos?",
+    "options": {
+      "a": "en la cantidad de calorías.",
+      "b": "en la disponibilidad de nutrientes y su valor nutricional.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "en las necesidades nutricionales."
+    },
+    "correct": "b",
+    "correct_text": "en la disponibilidad de nutrientes y su valor nutricional.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las bacterias más frecuentes de brotes epidemiológicos en España encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la Salmonella.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "el Campylobacter."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3"
+  }
+]

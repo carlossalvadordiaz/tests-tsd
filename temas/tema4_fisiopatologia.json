@@ -1,0 +1,816 @@
+[
+  {
+    "question": "¿Qué tipo de diabetes es la más frecuente en todas las poblaciones?",
+    "options": {
+      "a": "la diabetes tipo 3.",
+      "b": "la diabetes tipo 5.",
+      "c": "la diabetes tipo 2.",
+      "d": "la diabetes tipo 1."
+    },
+    "correct": "c",
+    "correct_text": "la diabetes tipo 2."
+  },
+  {
+    "question": "El acumulo de glucógeno en un compartimento subcelular anormal o con una estructura anormal, se da en…",
+    "options": {
+      "a": "los tipos II y IV de glucogenosis.",
+      "b": "los tipos I y III de glucogenosis.",
+      "c": "los tipos V y VII de glucogenosis.",
+      "d": "el tipo IX de glucogenosis."
+    },
+    "correct": "a",
+    "correct_text": "los tipos II y IV de glucogenosis."
+  },
+  {
+    "question": "El magnesio, está implicado en…",
+    "options": {
+      "a": "el metabolismo óseo.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el metabolismo energético.",
+      "d": "en el transporte de nutrientes por el organismo."
+    },
+    "correct": "c",
+    "correct_text": "el metabolismo energético."
+  },
+  {
+    "question": "La clínica de la intolerancia hereditaria a la lactosa…",
+    "options": {
+      "a": "es totalmente precoz.",
+      "b": "es poco precoz.",
+      "c": "es muy precoz.",
+      "d": "es nada precoz."
+    },
+    "correct": "c",
+    "correct_text": "es muy precoz."
+  },
+  {
+    "question": "El diagnóstico de la diabetes en un paciente se configura esencialmente…",
+    "options": {
+      "a": "como la certificación de un estado permanente o crónico de hiperglucemia.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "como la certificación de un estado durante poco tiempo, de un estado de hiperglucemia.",
+      "d": "como la certificación de un estado crónico de glucólisis."
+    },
+    "correct": "a",
+    "correct_text": "como la certificación de un estado permanente o crónico de hiperglucemia."
+  },
+  {
+    "question": "La principal fuente de galactosa en los alimentos es…",
+    "options": {
+      "a": "la fruta.",
+      "b": "la leche.",
+      "c": "las legumbres.",
+      "d": "los cereales."
+    },
+    "correct": "b",
+    "correct_text": "la leche."
+  },
+  {
+    "question": "La función del glucagón, se realiza principalmente a través de mecanismos de nivel…",
+    "options": {
+      "a": "intestinal.",
+      "b": "estomacal.",
+      "c": "pancreático.",
+      "d": "hepático."
+    },
+    "correct": "d",
+    "correct_text": "hepático."
+  },
+  {
+    "question": "Las causas más características de la hiperfosfatemia, podemos encontrar…",
+    "options": {
+      "a": "la disminución del aporte de fosfato.",
+      "b": "el aumento de la excreción renal.",
+      "c": "la redistribución desde compartimentos intracelulares a extracelulares.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "c",
+    "correct_text": "la redistribución desde compartimentos intracelulares a extracelulares."
+  },
+  {
+    "question": "Entre los diferentes tipos de diabetes, se clasifican en…",
+    "options": {
+      "a": "tipos del 1 al 3.",
+      "b": "tipos del 1 al 4.",
+      "c": "solo existe un tipo de diabetes.",
+      "d": "tipos 1 y 2."
+    },
+    "correct": "d",
+    "correct_text": "tipos 1 y 2."
+  },
+  {
+    "question": "La hipovitaminosis, producida por un déficit vitamínico, suele estar causada por…",
+    "options": {
+      "a": "el no consumo de tabaco.",
+      "b": "poblaciones poco marginales.",
+      "c": "la enfermedad hepatobiliar.",
+      "d": "la ingesta suficiente cuando somos ancianos."
+    },
+    "correct": "c",
+    "correct_text": "la enfermedad hepatobiliar."
+  },
+  {
+    "question": "En el metabolismo de los aminoácidos, las alteraciones más frecuentes son…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la cistinuria.",
+      "c": "la enfermedad de Hartnup.",
+      "d": "la inmunoglicinuria."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "¿Qué porcentaje de proteínas ingeridas, son atacadas en el sistema digestivo y degradadas a aminoácidos?",
+    "options": {
+      "a": "un 50%.",
+      "b": "un 70 o 75%.",
+      "c": "un 90 o 95%.",
+      "d": "un 80 u 85%."
+    },
+    "correct": "c",
+    "correct_text": "un 90 o 95%."
+  },
+  {
+    "question": "La hipervitaminosis se produce cuando…",
+    "options": {
+      "a": "hay la falta de algún tipo de nutriente.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "hay falta de vitaminas.",
+      "d": "hay exceso de algún tipo de vitamina."
+    },
+    "correct": "d",
+    "correct_text": "hay exceso de algún tipo de vitamina."
+  },
+  {
+    "question": "¿Cuáles son los elementos minerales más abundantes en el organismo?",
+    "options": {
+      "a": "el calcio y fósforo, únicamente.",
+      "b": "el hidrógeno y el lítio.",
+      "c": "el calcio, fósforo y magnesio.",
+      "d": "el magnesio y fósforo, únicamente."
+    },
+    "correct": "c",
+    "correct_text": "el calcio, fósforo y magnesio."
+  },
+  {
+    "question": "El síndrome hipoglucémico se detecta cuando hay un descenso…",
+    "options": {
+      "a": "de la glucólisis por debajo de 20mg/dl.",
+      "b": "de la glucemia por debajo de 70mg/dl.",
+      "c": "de la glucemia por debajo de 60mg/dl.",
+      "d": "de la glucemia por debajo de 40mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "de la glucemia por debajo de 40mg/dl."
+  },
+  {
+    "question": "La hipervitaminosis de la vitamina D, se caracteriza por…",
+    "options": {
+      "a": "las infecciones de orina.",
+      "b": "las afecciones al corazón.",
+      "c": "la hiperglucolisis.",
+      "d": "la hipercalcemia."
+    },
+    "correct": "d",
+    "correct_text": "la hipercalcemia."
+  },
+  {
+    "question": "El contenido en el organismo de magnesio, se encuentra en un total de…",
+    "options": {
+      "a": "30 gramos.",
+      "b": "25 gramos.",
+      "c": "20 gramos.",
+      "d": "40 gramos."
+    },
+    "correct": "b",
+    "correct_text": "25 gramos."
+  },
+  {
+    "question": "A nivel del tejido adiposo, el glucagón va a favorecer…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la oxidación de hidratos de carbono.",
+      "c": "la lipolisis por activación de la lipasa.",
+      "d": "la activación de las proteínas."
+    },
+    "correct": "c",
+    "correct_text": "la lipolisis por activación de la lipasa."
+  },
+  {
+    "question": "Se definen como las “alteraciones congénitas de la galactosa” a…",
+    "options": {
+      "a": "la galactosemia.",
+      "b": "la galactogénesis.",
+      "c": "una alteración de la galactosa.",
+      "d": "la glucogenosis."
+    },
+    "correct": "a",
+    "correct_text": "la galactosemia."
+  },
+  {
+    "question": "La hidrólisis de las proteínas en el tracto gastrointestinal se efectúa mediante enzimas segregadas…",
+    "options": {
+      "a": "por el intestino.",
+      "b": "por los jugos gástricos y pancreáticos.",
+      "c": "por el jugo pancreático, únicamente.",
+      "d": "por el estómago."
+    },
+    "correct": "b",
+    "correct_text": "por los jugos gástricos y pancreáticos."
+  },
+  {
+    "question": "¿Cuál es la única enfermedad en la que existe deficiencia de glucógeno?",
+    "options": {
+      "a": "el tipo I de glucogenosis.",
+      "b": "el tipo IX de glucogenosis.",
+      "c": "el tipo VII de glucogenosis.",
+      "d": "el tipo III de glucogenosis."
+    },
+    "correct": "b",
+    "correct_text": "el tipo IX de glucogenosis."
+  },
+  {
+    "question": "Las vitaminas que se absorben más fácilmente por el cuerpo en la presencia de la grasa alimentaria son…",
+    "options": {
+      "a": "las vitaminas liposolubles.",
+      "b": "las vitaminas hidrosolubles.",
+      "c": "las vitaminas muy solubles.",
+      "d": "las vitaminas poco solubles."
+    },
+    "correct": "a",
+    "correct_text": "las vitaminas liposolubles."
+  },
+  {
+    "question": "Entre las consecuencias de la glucogenosis, encontramos…",
+    "options": {
+      "a": "los temblores, el mareo y la dificultad para hablar.",
+      "b": "la sensación de ansiedad o debilidad muscular.",
+      "c": "la confusión mental, las convulsiones o el coma.",
+      "d": "el aumento de tamaño y lesión de órganos como el hígado."
+    },
+    "correct": "d",
+    "correct_text": "el aumento de tamaño y lesión de órganos como el hígado."
+  },
+  {
+    "question": "Entre las formas de intolerancia a la lactosa, existen…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "únicamente la intolerancia hereditaria.",
+      "c": "únicamente se puede adquirir.",
+      "d": "se puede adquirir o ser hereditaria."
+    },
+    "correct": "d",
+    "correct_text": "se puede adquirir o ser hereditaria."
+  },
+  {
+    "question": "Estimular la glucolisis cuando hay un exceso de glucosa, es un efecto…",
+    "options": {
+      "a": "de los lípidos.",
+      "b": "de los hidratos de carbono.",
+      "c": "de las proteínas.",
+      "d": "de la glucosa."
+    },
+    "correct": "d",
+    "correct_text": "de la glucosa."
+  },
+  {
+    "question": "La absorción intestinal de aminoácidos se realiza por mecanismos de transporte…",
+    "options": {
+      "a": "terciario.",
+      "b": "primario.",
+      "c": "cuaternario.",
+      "d": "secundario."
+    },
+    "correct": "d",
+    "correct_text": "secundario."
+  },
+  {
+    "question": "Entre los procesos biológicos donde está presente el calcio, podemos encontrar…",
+    "options": {
+      "a": "la regulación de la excitabilidad nerviosa.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "en la permeabilidad de las membranas.",
+      "d": "el acoplamiento de la excitabilidad-contracción muscular."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "El descenso de los niveles de glucosa pone en marcha el conocido como…",
+    "options": {
+      "a": "sistema de filtración del estrés.",
+      "b": "sistema de antiestrés.",
+      "c": "sistema de estrés.",
+      "d": "sistema de activación del estrés."
+    },
+    "correct": "c",
+    "correct_text": "sistema de estrés."
+  },
+  {
+    "question": "En el efecto de la insulina sobre el metabolismo de las proteínas…",
+    "options": {
+      "a": "activa la oxidación de hidratos de carbono.",
+      "b": "estimula la síntesis proteica.",
+      "c": "activa la glucólisis.",
+      "d": "deja de estimular el efecto de la síntesis protéica."
+    },
+    "correct": "b",
+    "correct_text": "estimula la síntesis proteica."
+  },
+  {
+    "question": "¿A partir de qué edad es más frecuente y probable que se comience a desarrollar diabetes tipo 2?",
+    "options": {
+      "a": "a partir del nacimiento.",
+      "b": "a partir de los 60 años.",
+      "c": "a partir de los 25 años.",
+      "d": "a partir de los 40 años."
+    },
+    "correct": "d",
+    "correct_text": "a partir de los 40 años."
+  },
+  {
+    "question": "Entre los factores por los cuales son influenciables el metabolismo mineral y la fisiología ósea, podemos encontrar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el estado funcional hepático y renal.",
+      "c": "los hábitos alimentarios y el ejercicio físico.",
+      "d": "las variaciones en la absorción intestinal."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "En total, el organismo contiene unos… de fósforo…",
+    "options": {
+      "a": "600 gramos.",
+      "b": "400 gramos.",
+      "c": "800 gramos.",
+      "d": "900 gramos."
+    },
+    "correct": "a",
+    "correct_text": "600 gramos."
+  },
+  {
+    "question": "La digestión de las proteínas comienza en…",
+    "options": {
+      "a": "el esófago.",
+      "b": "el páncreas.",
+      "c": "el estómago.",
+      "d": "el intestino delgado."
+    },
+    "correct": "c",
+    "correct_text": "el estómago."
+  },
+  {
+    "question": "Las vitaminas son un grupo heterogéneo de sustancias orgánicas...",
+    "options": {
+      "a": "energético abstracto.",
+      "b": "sin valor energético propio.",
+      "c": "energético común.",
+      "d": "energético igual a otros aminoácidos."
+    },
+    "correct": "b",
+    "correct_text": "sin valor energético propio."
+  },
+  {
+    "question": "La actuación hormonal del síndrome hipoglucémico, además de aumentar el suministro de glucosa, provoca…",
+    "options": {
+      "a": "taquicardia y temblores, únicamente.",
+      "b": "temblores, ansiedad, hambre, hipertensión arterial, entre otros.",
+      "c": "hipertensión arterial, únicamente.",
+      "d": "ansiedad y hambre, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "temblores, ansiedad, hambre, hipertensión arterial, entre otros."
+  },
+  {
+    "question": "La glucosa es vertida a la sangre para que se utilicen en órganos como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores.",
+      "b": "el cerebro y el músculo.",
+      "c": "el estómago o el hígado.",
+      "d": "los intestinos delgado y grueso."
+    },
+    "correct": "b",
+    "correct_text": "el cerebro y el músculo."
+  },
+  {
+    "question": "Se define como “la alteración de la fructosa caracterizada por el déficit de fructocinasa” a…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la fructosuaria maligna.",
+      "c": "la intolerancia a la fructosa.",
+      "d": "la fructosuria benigna."
+    },
+    "correct": "d",
+    "correct_text": "la fructosuria benigna."
+  },
+  {
+    "question": "El almacenamiento de proteínas se detiene cuando…",
+    "options": {
+      "a": "hay un exceso de proteína.",
+      "b": "cuando hay un catabolismo acelerado.",
+      "c": "la insulina no está disponible.",
+      "d": "el catabolismo proteico disminuye."
+    },
+    "correct": "c",
+    "correct_text": "la insulina no está disponible."
+  },
+  {
+    "question": "Entre los efectos de la insulina sobre el metabolismo de los carbohidratos, encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "tras la absorción de agua, la glucosa absorbida en la sangre provoca una rápida secreción de insulina.",
+      "c": "tras una comida rica en hidratos de carbono, la glucosa absorbida a la sangre provoca una rápida secreción de insulina.",
+      "d": "tras una comida baja en hidratos de carbono, la glucosa absorbida a la sangre provoca una rápida secreción de insulina."
+    },
+    "correct": "c",
+    "correct_text": "tras una comida rica en hidratos de carbono, la glucosa absorbida a la sangre provoca una rápida secreción de insulina."
+  },
+  {
+    "question": "Entre los mecanismos a nivel hepático del glucagón…",
+    "options": {
+      "a": "aumenta la gluconeogénesis a la vez que aumenta la glucolísis.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "aumenta la disponibilidad de glucosa para el organismo.",
+      "d": "inhibe la degradación del glucógeno hepático."
+    },
+    "correct": "c",
+    "correct_text": "aumenta la disponibilidad de glucosa para el organismo."
+  },
+  {
+    "question": "En la hipocalcemia, se encuentra una concentración de calcio sérico inferior a…",
+    "options": {
+      "a": "15 mg por decilitro.",
+      "b": "8 mg por decilitro.",
+      "c": "10 mg por decilitro.",
+      "d": "20 mg por decilitro."
+    },
+    "correct": "b",
+    "correct_text": "8 mg por decilitro."
+  },
+  {
+    "question": "La insulina interviene en…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el aprovechamiento de los hidratos de carbono.",
+      "c": "el aprovechamiento de la glucólisis.",
+      "d": "en el aprovechamiento metabólico de los nutrientes."
+    },
+    "correct": "d",
+    "correct_text": "en el aprovechamiento metabólico de los nutrientes."
+  },
+  {
+    "question": "En el mineral óseo, podemos encontrar un total de… magnesio…",
+    "options": {
+      "a": "un 90%.",
+      "b": "un 60%.",
+      "c": "un 50%.",
+      "d": "un 75%."
+    },
+    "correct": "b",
+    "correct_text": "un 60%."
+  },
+  {
+    "question": "El principal glúcido de la dieta es…",
+    "options": {
+      "a": "las proteínas.",
+      "b": "los lípidos.",
+      "c": "el almidón.",
+      "d": "el glucógeno."
+    },
+    "correct": "c",
+    "correct_text": "el almidón."
+  },
+  {
+    "question": "En ausencia de la insulina, todos los mecanismos…",
+    "options": {
+      "a": "se invierten.",
+      "b": "aumentan.",
+      "c": "siguen igual.",
+      "d": "disminuyen."
+    },
+    "correct": "a",
+    "correct_text": "se invierten."
+  },
+  {
+    "question": "El almidón se encuentra presente en alimentos, tales como…",
+    "options": {
+      "a": "los cereales, únicamente.",
+      "b": "los tubérculos, únicamente.",
+      "c": "se encuentra en todos los alimentos mencionados anteriormente.",
+      "d": "la pasta, únicamente."
+    },
+    "correct": "c",
+    "correct_text": "se encuentra en todos los alimentos mencionados anteriormente."
+  },
+  {
+    "question": "Se define como “el aumento o disminución de alguno de los componentes del plasma sanguíneo”...",
+    "options": {
+      "a": "la albumina.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la disproteinemia.",
+      "d": "la prealbumina."
+    },
+    "correct": "c",
+    "correct_text": "la disproteinemia."
+  },
+  {
+    "question": "El desarrollo de la aterosclerosis, es un proceso…",
+    "options": {
+      "a": "rápido y muy ruidoso.",
+      "b": "lento, progresivo y silencioso.",
+      "c": "lento, pero muy sonoro.",
+      "d": "es muy ruidoso, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "lento, progresivo y silencioso."
+  },
+  {
+    "question": "Las alteraciones en el metabolismo de los disacáridos, son relacionadas con la digestión a nivel…",
+    "options": {
+      "a": "estomacal.",
+      "b": "intestinal.",
+      "c": "hepático.",
+      "d": "pancreático."
+    },
+    "correct": "b",
+    "correct_text": "intestinal."
+  },
+  {
+    "question": "La hiperglucemia para detectar una diabetes, debe ser confirmada…",
+    "options": {
+      "a": "después de una comida copiosa.",
+      "b": "transcurridas dos horas desde la última comida.",
+      "c": "en un estado de ayuno.",
+      "d": "después de una comida alta en carbohidratos."
+    },
+    "correct": "c",
+    "correct_text": "en un estado de ayuno."
+  },
+  {
+    "question": "Entre los sustratos alternativos que se utilizan como fuente energética cuando hay una menor disponibilidad de glucosa, encontramos…",
+    "options": {
+      "a": "los carbohidratos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "los ácidos grasos.",
+      "d": "las proteínas."
+    },
+    "correct": "c",
+    "correct_text": "los ácidos grasos."
+  },
+  {
+    "question": "Entre los trastornos más frecuentes relacionados con la galactosemia, encontramos…",
+    "options": {
+      "a": "la deficiencia de galactoquinasa.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la evolución de la galactosemia.",
+      "d": "el aumento de galactosa."
+    },
+    "correct": "a",
+    "correct_text": "la deficiencia de galactoquinasa."
+  },
+  {
+    "question": "La diabetes tipo 1, se distingue por…",
+    "options": {
+      "a": "ser causada por un aumento de las células beta pancreáticas.",
+      "b": "por aumentar con la edad o el sexo.",
+      "c": "ser causada por una destrucción de las células beta pancreáticas.",
+      "d": "por ser la más frecuente entre las distintas poblaciones."
+    },
+    "correct": "c",
+    "correct_text": "ser causada por una destrucción de las células beta pancreáticas."
+  },
+  {
+    "question": "¿Qué tipo de proteína tiene capacidad para fijar cobre?",
+    "options": {
+      "a": "la haptoglobina.",
+      "b": "la ceruloplasmina.",
+      "c": "la transferrina.",
+      "d": "las inmunoglobulinas."
+    },
+    "correct": "b",
+    "correct_text": "la ceruloplasmina."
+  },
+  {
+    "question": "¿A través de qué ciclo, los lípidos llegan a las células para proporcionar energía?",
+    "options": {
+      "a": "a través del ciclo de Kerbs.",
+      "b": "a través del ciclo de Einstein.",
+      "c": "a través del ciclo de Manhattan.",
+      "d": "a través del ciclo de Newton."
+    },
+    "correct": "a",
+    "correct_text": "a través del ciclo de Kerbs."
+  },
+  {
+    "question": "El síndrome hiperglucémico se caracteriza por…",
+    "options": {
+      "a": "aumentar la utilización de glucosa por las células del organismo.",
+      "b": "mantener estable la utilización de glucosa por las células del organismo.",
+      "c": "disminuir la utilización de glucosa por las células del organismo.",
+      "d": "la glucosa se mantiene siempre estable en el organismo."
+    },
+    "correct": "c",
+    "correct_text": "disminuir la utilización de glucosa por las células del organismo."
+  },
+  {
+    "question": "¿Dónde se almacenan grandes cantidades de glucosa?",
+    "options": {
+      "a": "en el estómago.",
+      "b": "en el hígado.",
+      "c": "en el páncreas.",
+      "d": "en los intestinos."
+    },
+    "correct": "b",
+    "correct_text": "en el hígado."
+  },
+  {
+    "question": "¿Cómo promueve la insulina la síntesis de ácidos grasos?",
+    "options": {
+      "a": "a partir de la falta de glucosa hepática.",
+      "b": "a partir de la glucólisis hepática.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "a través del exceso de glucosa hepática."
+    },
+    "correct": "d",
+    "correct_text": "a través del exceso de glucosa hepática."
+  },
+  {
+    "question": "¿Qué cantidad de proteínas contiene el plasma?",
+    "options": {
+      "a": "unos 5g por decilitro.",
+      "b": "unos 3g por decilitro.",
+      "c": "unos 10g por decilitro.",
+      "d": "unos 7g por decilitro."
+    },
+    "correct": "d",
+    "correct_text": "unos 7g por decilitro."
+  },
+  {
+    "question": "Entre los distintos tipos de glucogenosis, existen un total de…",
+    "options": {
+      "a": "10 tipos distintos.",
+      "b": "15 tipos distintos.",
+      "c": "9 tipos distintos.",
+      "d": "5 tipos distintos."
+    },
+    "correct": "c",
+    "correct_text": "9 tipos distintos."
+  },
+  {
+    "question": "En el metabolismo de las grasas, la insulina…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "estimula la síntesis de ácidos grasos.",
+      "c": "inhibe la lipólisis.",
+      "d": "facilita la aclaración de lipoproteínas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "¿Qué factores son los que influyen claramente en el desarrollo de diabetes tipo 2?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los factores ambientales.",
+      "c": "las factores humanos.",
+      "d": "los factores sociales."
+    },
+    "correct": "b",
+    "correct_text": "los factores ambientales."
+  },
+  {
+    "question": "¿Qué cantidad de calcio se absorbe en una dieta media?",
+    "options": {
+      "a": "100 mg.",
+      "b": "1000 mg.",
+      "c": "500 mg.",
+      "d": "800 mg."
+    },
+    "correct": "b",
+    "correct_text": "1000 mg."
+  },
+  {
+    "question": "Entre los efectos de la insulina encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "facilita la entrada de glucosa a la célula.",
+      "c": "hace actuar la gluconeogénesis hepática.",
+      "d": "deja de estimular la degradación tisular de la glucosa."
+    },
+    "correct": "b",
+    "correct_text": "facilita la entrada de glucosa a la célula."
+  },
+  {
+    "question": "La función más importante de los hidratos de carbono es…",
+    "options": {
+      "a": "ser fuente de energía mediante la hidrólisis.",
+      "b": "ser fuente de energía mediante la glucosa.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "no ser fuente de energía mediante la glucosa."
+    },
+    "correct": "b",
+    "correct_text": "ser fuente de energía mediante la glucosa."
+  },
+  {
+    "question": "El metabolismo de los compuestos nitrogenados implica el metabolismo de…",
+    "options": {
+      "a": "las proteínas y los ácidos nucleicos y nucleótidos.",
+      "b": "las proteínas y los hidratos de carbono.",
+      "c": "los hidratos de carbono y los lípidos.",
+      "d": "los lípidos y las proteínas."
+    },
+    "correct": "a",
+    "correct_text": "las proteínas y los ácidos nucleicos y nucleótidos."
+  },
+  {
+    "question": "El cuadro definido por un aumento del calcio sérico, se denomina como…",
+    "options": {
+      "a": "hipocalciuria.",
+      "b": "hipercalciuria.",
+      "c": "hipercalcemia.",
+      "d": "hipocalcemia."
+    },
+    "correct": "c",
+    "correct_text": "hipercalcemia."
+  },
+  {
+    "question": "Tras la ingestión de las grasas en el metabolismo lipídico, ¿dónde se mezclan con la secreción biliar?",
+    "options": {
+      "a": "en el duodeno.",
+      "b": "en el páncreas.",
+      "c": "en el íleon.",
+      "d": "en el yeyuno."
+    },
+    "correct": "a",
+    "correct_text": "en el duodeno."
+  },
+  {
+    "question": "El fósforo es fundamental para…",
+    "options": {
+      "a": "los importantes procesos bioquímicos celulares.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "la fosforilación de compuestos que participan en el metabolismo de las grasas."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas."
+  },
+  {
+    "question": "La glucosa se suele emplear para formar energía mediante…",
+    "options": {
+      "a": "la hidrogeneización.",
+      "b": "la glucolisis.",
+      "c": "la hidrólisis.",
+      "d": "la oxidación."
+    },
+    "correct": "b",
+    "correct_text": "la glucolisis."
+  },
+  {
+    "question": "Entre las manifestaciones más características de la hipocalcemia, podemos encontrar…",
+    "options": {
+      "a": "parestesias.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "los espasmos carpopedales.",
+      "d": "neuromusculares."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "La intolerancia a la sacarosa se caracteriza por…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "mejorar con la edad.",
+      "c": "deberse a un fallo genético.",
+      "d": "un déficit o ausencia en las microvellosidades de sacarosa-isomaltasa."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Entre las consecuencias de la gluconeuropenia, podemos encontrar…",
+    "options": {
+      "a": "cefaleas o visión borrosa.",
+      "b": "el hambre.",
+      "c": "la sensación de ansiedad o debilidad.",
+      "d": "la dificultad al hablar."
+    },
+    "correct": "a",
+    "correct_text": "cefaleas o visión borrosa."
+  },
+  {
+    "question": "Se define como “la hormona secretada por las células alfa de los islotes, cuando la concentración de glucosa desciende”...",
+    "options": {
+      "a": "lípido.",
+      "b": "lactosa.",
+      "c": "sacarosa.",
+      "d": "glucagón."
+    },
+    "correct": "d",
+    "correct_text": "glucagón."
+  }
+]

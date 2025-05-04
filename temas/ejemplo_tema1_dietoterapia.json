@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Entre los parámetros nutricionales que se registran en una dieta terapéutica, podemos encontrar…",
+    "options": {
+      "a": "la forma de cocinado y su textura.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la cantidad de alimentos.",
+      "d": "el tipo de alimentos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La evaluación nutricional es un proceso…",
+    "options": {
+      "a": "sistemático, continuo y dinámico.",
+      "b": "sistemático y continuo, únicamente.",
+      "c": "únicamente sistemático.",
+      "d": "únicamente dinámico."
+    },
+    "correct": "a",
+    "correct_text": "sistemático, continuo y dinámico.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La siguiente fórmula: \"KG/Estatura2” pertenece a…",
+    "options": {
+      "a": "el Índice de grasa corporal.",
+      "b": "el Índice de Cintura-Cadera.",
+      "c": "el Índice de masa corporal.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "el Índice de masa corporal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  }
+]

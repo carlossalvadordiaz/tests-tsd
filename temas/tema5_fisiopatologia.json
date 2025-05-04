@@ -1,0 +1,1036 @@
+[
+  {
+    "question": "La enfermedad que aparece en jóvenes al no estar cerradas las epífisis es…",
+    "options": {
+      "a": "el enanismo hipofisiario.",
+      "b": "el enanismo.",
+      "c": "el gigantismo hipofisiario.",
+      "d": "una infección."
+    },
+    "correct": "c",
+    "correct_text": "el gigantismo hipofisiario."
+  },
+  {
+    "question": "El síndrome nefrótico consiste en…",
+    "options": {
+      "a": "una lesión de la membrana filtrante.",
+      "b": "una lesión de un hueso.",
+      "c": "una lesión de una membrana no filtrante.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "una lesión de la membrana filtrante."
+  },
+  {
+    "question": "La patología neurológica que se manifiesta por temblores, rigidez muscular, lentitud en el movimiento y dificultad para mantener el equilibrio, es…",
+    "options": {
+      "a": "parkinson.",
+      "b": "el ictus.",
+      "c": "la esclerosis múltiple.",
+      "d": "el síndrome infeccioso febril."
+    },
+    "correct": "a",
+    "correct_text": "parkinson."
+  },
+  {
+    "question": "El asma bronquial se manifiesta por…",
+    "options": {
+      "a": "los hábitos tabáquicos.",
+      "b": "un estrechamiento en las fosas nasales.",
+      "c": "un estrechamiento difuso de las vias respiratorias.",
+      "d": "un estrechamiento de la laringe."
+    },
+    "correct": "c",
+    "correct_text": "un estrechamiento difuso de las vias respiratorias."
+  },
+  {
+    "question": "Las alteraciones en las proteínas transportadoras de hormonas, se deben a…",
+    "options": {
+      "a": "fármacos.",
+      "b": "factores genéticos.",
+      "c": "enfermedades no endocrinas.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Se define como la alteración a consecuencia de otra enfermedad…",
+    "options": {
+      "a": "ritmo cardíaco.",
+      "b": "patología cardíaca.",
+      "c": "insuficiencia cardíaca.",
+      "d": "alteración cardíaca."
+    },
+    "correct": "c",
+    "correct_text": "insuficiencia cardíaca."
+  },
+  {
+    "question": "La gónada masculina se encuentra situada en…",
+    "options": {
+      "a": "la testosterona",
+      "b": "el páncreas",
+      "c": "los testículos",
+      "d": "los riñones"
+    },
+    "correct": "c",
+    "correct_text": "los testículos"
+  },
+  {
+    "question": "La formación de orina comienza con la filtración de grandes cantidades de líquidos, en torno a…",
+    "options": {
+      "a": "entre 100 y 150 litros al día.",
+      "b": "entre 150 y 180 litros al día.",
+      "c": "300 litros al día.",
+      "d": "entre 200 y 250 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "entre 150 y 180 litros al día."
+  },
+  {
+    "question": "Se define como “la insuficiencia de la corteza suprarrenal causada por una producción insuficiente de hormonas” a…",
+    "options": {
+      "a": "la hiperfunción suprarrenal.",
+      "b": "a la hipofunción corticosuprarrenal.",
+      "c": "a la fisiopatología de las glándulas suprarrenales.",
+      "d": "al hiperparatiroidismo."
+    },
+    "correct": "b",
+    "correct_text": "a la hipofunción corticosuprarrenal."
+  },
+  {
+    "question": "La glándula tiroides se encuentra situada en…",
+    "options": {
+      "a": "la cabeza.",
+      "b": "el pecho.",
+      "c": "la parte posterior del cerebro.",
+      "d": "en el cuello."
+    },
+    "correct": "d",
+    "correct_text": "en el cuello."
+  },
+  {
+    "question": "A la materia expulsada y formada por secreciones propias del aparato respiratorio, se le denomina…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "esputo.",
+      "c": "disnea.",
+      "d": "rinitis."
+    },
+    "correct": "b",
+    "correct_text": "esputo."
+  },
+  {
+    "question": "El síndrome nefrótico, es un síndrome renal caracterizado por…",
+    "options": {
+      "a": "la proteinuria.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la hipoalbuminemia.",
+      "d": "la lipiduria y edema."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "En la poliuria, como alteración cuantitativa del aparato renal, encontramos la emisión de… orina al día.",
+    "options": {
+      "a": "más de 4 litros.",
+      "b": "más de 2 litros.",
+      "c": "más de 5 litros.",
+      "d": "menos de 2 litros."
+    },
+    "correct": "b",
+    "correct_text": "más de 2 litros."
+  },
+  {
+    "question": "La insuficiencia cardíaca es una situación patológica caracterizada por…",
+    "options": {
+      "a": "el aumento del ritmo cardíaco.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el aumento de manera continuada y excesiva de la actividad cardíaca.",
+      "d": "la disminución de la actividad funcional del corazón."
+    },
+    "correct": "d",
+    "correct_text": "la disminución de la actividad funcional del corazón."
+  },
+  {
+    "question": "El EPOC en la mayoría de los casos, está producido por…",
+    "options": {
+      "a": "los hábitos de consumo.",
+      "b": "los hábitos alcohólicos.",
+      "c": "los hábitos alimentarios.",
+      "d": "los hábitos tabáquicos."
+    },
+    "correct": "d",
+    "correct_text": "los hábitos tabáquicos."
+  },
+  {
+    "question": "La hormona prolactina es consecuencia de…",
+    "options": {
+      "a": "lesiones tumorales.",
+      "b": "lesiones musculares.",
+      "c": "lesiones destructivas de la hipófisis.",
+      "d": "lesiones óseas."
+    },
+    "correct": "c",
+    "correct_text": "lesiones destructivas de la hipófisis."
+  },
+  {
+    "question": "La hormona prolactina da lugar a…",
+    "options": {
+      "a": "iconorrea.",
+      "b": "galactorrea.",
+      "c": "isiorrea.",
+      "d": "gonorrea."
+    },
+    "correct": "b",
+    "correct_text": "galactorrea."
+  },
+  {
+    "question": "Los tres procesos básicos que se producen en el riñón son…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la filtración glomerular, la reabsorción tubular y la secreción tubular.",
+      "c": "la reabsorción glomerular, la reabsorción tubular y la secreción de agua.",
+      "d": "la secreción de líquidos, la reabsorción de estos líquidos y la filtración de los mismos."
+    },
+    "correct": "b",
+    "correct_text": "la filtración glomerular, la reabsorción tubular y la secreción tubular."
+  },
+  {
+    "question": "Se definen como “las prolongaciones cortas por donde entra el impulso nervioso”",
+    "options": {
+      "a": "las dendritas.",
+      "b": "el moma.",
+      "c": "el soma.",
+      "d": "el axón."
+    },
+    "correct": "a",
+    "correct_text": "las dendritas."
+  },
+  {
+    "question": "Las paratiroides son … pequeñas glándulas situadas en la cara posterior del tiroides.",
+    "options": {
+      "a": "tres.",
+      "b": "cuatro.",
+      "c": "cinco.",
+      "d": "dos."
+    },
+    "correct": "b",
+    "correct_text": "cuatro."
+  },
+  {
+    "question": "El término etiopatogenia hace referencia…",
+    "options": {
+      "a": "a la patología de una enfermedad concreta.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "únicamente a las causas de cómo se produce la alimentación humana.",
+      "d": "a las causas y mecanismos de cómo se produce una enfermedad concreta."
+    },
+    "correct": "d",
+    "correct_text": "a las causas y mecanismos de cómo se produce una enfermedad concreta."
+  },
+  {
+    "question": "Se define como “la retención de productos nitrogenados de desecho procedentes del catabolismo proteico en la sangre”, a…",
+    "options": {
+      "a": "la hipertensión renal.",
+      "b": "la alteración de la función estenúrica.",
+      "c": "la azoemia.",
+      "d": "no existe un término para esa definición."
+    },
+    "correct": "c",
+    "correct_text": "la azoemia."
+  },
+  {
+    "question": "Los procesos básicos en el aparato renal se llevan a cabo mediante la actividad de la unidad funcional denominada como…",
+    "options": {
+      "a": "leucocito.",
+      "b": "neurona.",
+      "c": "nefronas.",
+      "d": "hematocito."
+    },
+    "correct": "c",
+    "correct_text": "nefronas."
+  },
+  {
+    "question": "El control de la circulación está llevado a cabo por…",
+    "options": {
+      "a": "el sistema nervioso simpático y parasimpático.",
+      "b": "el sistema circulatorio.",
+      "c": "todas las respuestas anteriores son correctas..",
+      "d": "el sistema nervioso simpático, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "el sistema nervioso simpático y parasimpático."
+  },
+  {
+    "question": "Se define como “la secreción aumentada por alteraciones de las propias glándulas tiroideas”",
+    "options": {
+      "a": "hipofunción corticosuprarrenal.",
+      "b": "hiperparatiroidismo secundario.",
+      "c": "hipoparatiroidismo.",
+      "d": "hiperparatiroidismo primario."
+    },
+    "correct": "d",
+    "correct_text": "hiperparatiroidismo primario."
+  },
+  {
+    "question": "A los tumores malignos, se les denomina con el sufijo…",
+    "options": {
+      "a": "oma",
+      "b": "sarcoma o carcinoma",
+      "c": "ato o ata",
+      "d": "sardema"
+    },
+    "correct": "b",
+    "correct_text": "sarcoma o carcinoma"
+  },
+  {
+    "question": "Las hormonas, entre otras funciones, ejercen la de…",
+    "options": {
+      "a": "integración y coordinación, únicamente.",
+      "b": "regulación y coordinación, únicamente.",
+      "c": "integración y regulación, únicamente.",
+      "d": "integración, regulación y coordinación."
+    },
+    "correct": "d",
+    "correct_text": "integración, regulación y coordinación."
+  },
+  {
+    "question": "Entre los diferentes tipos de hormonas, podemos encontrar…",
+    "options": {
+      "a": "las hormonas no derivadas de los aminoácidos.",
+      "b": "las hormonas derivadas de los lípidos.",
+      "c": "las hormonas derivadas de las proteínas y péptidos.",
+      "d": "las hormonas no esteroideas."
+    },
+    "correct": "c",
+    "correct_text": "las hormonas derivadas de las proteínas y péptidos."
+  },
+  {
+    "question": "Cada glándula suprarrenal está compuesta por…",
+    "options": {
+      "a": "las hormonas adrenalina y noradrenalina.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la corteza suprarrenal.",
+      "d": "la médula suprarrenal."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Para lograr su cometido, el riñón necesita…",
+    "options": {
+      "a": "un gran aporte sanguíneo.",
+      "b": "un gran aporte de Ph del agua.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un gran aporte hidrológico."
+    },
+    "correct": "a",
+    "correct_text": "un gran aporte sanguíneo."
+  },
+  {
+    "question": "La temperatura corporal media se sitúa entre…",
+    "options": {
+      "a": "los 34º y los 35º.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "los 37º y los 38º.",
+      "d": "los 36’5º y los 37º."
+    },
+    "correct": "d",
+    "correct_text": "los 36’5º y los 37º."
+  },
+  {
+    "question": "Las gónadas femeninas se encuentran situadas en…",
+    "options": {
+      "a": "las neuronas.",
+      "b": "los ovarios.",
+      "c": "en todo el aparato reproductor femenino.",
+      "d": "los senos."
+    },
+    "correct": "b",
+    "correct_text": "los ovarios."
+  },
+  {
+    "question": "La hormona encargada de estimular la secreción de leche uterina, es…",
+    "options": {
+      "a": "los estrógenos.",
+      "b": "la progesterona.",
+      "c": "la testosterona.",
+      "d": "la insulina."
+    },
+    "correct": "b",
+    "correct_text": "la progesterona."
+  },
+  {
+    "question": "Entre las causas de la hipertensión podemos distinguir…",
+    "options": {
+      "a": "un aumento de la frecuencia cardíaca.",
+      "b": "una disminución del gasto cardíaco.",
+      "c": "un aumento de la elasticidad.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "un aumento de la frecuencia cardíaca."
+  },
+  {
+    "question": "El aparato respiratorio es el encargado de…",
+    "options": {
+      "a": "la no entrada de aire en las vías respiratorias.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el intercambio gaseoso entre nuestro organismo y el aire atmosférico.",
+      "d": "el intercambio de líquidos."
+    },
+    "correct": "c",
+    "correct_text": "el intercambio gaseoso entre nuestro organismo y el aire atmosférico."
+  },
+  {
+    "question": "¿Dónde se va a llevar a cabo la modificación metabólica de la totalidad de las hormonas?",
+    "options": {
+      "a": "el hígado.",
+      "b": "el páncreas.",
+      "c": "el estómago.",
+      "d": "el intestino."
+    },
+    "correct": "a",
+    "correct_text": "el hígado."
+  },
+  {
+    "question": "La hormona encargada de contraer el útero durante el parto es…",
+    "options": {
+      "a": "la aldosterona.",
+      "b": "la vasopresina.",
+      "c": "la oxitocina.",
+      "d": "el cortisol."
+    },
+    "correct": "c",
+    "correct_text": "la oxitocina."
+  },
+  {
+    "question": "Entre las causas principales de la insuficiencia cardíaca, encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la alteración de la contracción cardíaca.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "la estenosis valvular."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas."
+  },
+  {
+    "question": "En la zona media del riñón existe…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "una zona por donde las nefronas entran y salen del riñón.",
+      "c": "una corteza por donde los vasos sanguíneos, únicamente, entran y salen del riñón.",
+      "d": "una concavidad por donde el uréter, los vasos sanguíneos y linfáticos entran o salen del riñón."
+    },
+    "correct": "d",
+    "correct_text": "una concavidad por donde el uréter, los vasos sanguíneos y linfáticos entran o salen del riñón."
+  },
+  {
+    "question": "Entre las funciones del aparato renal, podemos encontrar…",
+    "options": {
+      "a": "aumentar los residuos y sustancias tóxicas del metabolismo.",
+      "b": "regular el volumen de Ph en el agua del organismo.",
+      "c": "regular el equilibrio osmótico y el balance iónico óptimo.",
+      "d": "dejar de elaborar sustancias de secreción interna."
+    },
+    "correct": "c",
+    "correct_text": "regular el equilibrio osmótico y el balance iónico óptimo."
+  },
+  {
+    "question": "En el aparato renal, los riñones pesan un total de…",
+    "options": {
+      "a": "150 gramos por cada riñón.",
+      "b": "150 gramos entre ambos riñones.",
+      "c": "200 gramos entre ambos riñones.",
+      "d": "200 gramos por cada riñón."
+    },
+    "correct": "a",
+    "correct_text": "150 gramos por cada riñón."
+  },
+  {
+    "question": "¿Qué dos hormonas son almacenadas en la glándula tiroides?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el sodio y el potasio.",
+      "c": "la tiroxina y la triyodotironina.",
+      "d": "la proteína y la calcitonina."
+    },
+    "correct": "c",
+    "correct_text": "la tiroxina y la triyodotironina."
+  },
+  {
+    "question": "La hiperfunción tiroidea puede ser…",
+    "options": {
+      "a": "grande o pequeña.",
+      "b": "excesiva o poco excesiva.",
+      "c": "primaria o secundaria.",
+      "d": "terciaria y cuaternaria."
+    },
+    "correct": "c",
+    "correct_text": "primaria o secundaria."
+  },
+  {
+    "question": "En la función tubular se procesa selectivamente el filtrado, permitiendo la excreción de…",
+    "options": {
+      "a": "0’5 a 1 litro al día.",
+      "b": "1 a 2 litros al día.",
+      "c": "2 a 3 litros al día.",
+      "d": "2 a 2’5 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "1 a 2 litros al día."
+  },
+  {
+    "question": "Se considera fiebre cuando la temperatura corporal sube a…",
+    "options": {
+      "a": "los 38’5º.",
+      "b": "los 36º.",
+      "c": "los 37º.",
+      "d": "los 39º."
+    },
+    "correct": "a",
+    "correct_text": "los 38’5º."
+  },
+  {
+    "question": "Cada nefrona está compuesta por…",
+    "options": {
+      "a": "un conjunto de neuronas.",
+      "b": "un conjunto de cortezas.",
+      "c": "por unos vasos sanguíneos.",
+      "d": "un corpúsculo renal."
+    },
+    "correct": "d",
+    "correct_text": "un corpúsculo renal."
+  },
+  {
+    "question": "Se define como una expansión imperfecta de los alvéolos pulmonares…",
+    "options": {
+      "a": "a la atelectasia.",
+      "b": "al cáncer de pulmón.",
+      "c": "al asma bronquial.",
+      "d": "a la insuficiencia respiratoria."
+    },
+    "correct": "a",
+    "correct_text": "a la atelectasia."
+  },
+  {
+    "question": "Las neuronas están conformadas por…",
+    "options": {
+      "a": "un soma, un axón y unas dendritas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "un doma, un adón y unas dendritas.",
+      "d": "un moma, un axón y unas dendritas."
+    },
+    "correct": "a",
+    "correct_text": "un soma, un axón y unas dendritas."
+  },
+  {
+    "question": "Entre las hormonas producidas por los testículos, podemos encontrar…",
+    "options": {
+      "a": "las hormonas de las glándulas paratiroides.",
+      "b": "la parathormona.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la testosterona."
+    },
+    "correct": "d",
+    "correct_text": "la testosterona."
+  },
+  {
+    "question": "La circulación sanguínea…",
+    "options": {
+      "a": "entra al corazón por las venas y sale de él por las arterias.",
+      "b": "entra por las arterias y sale por las venas.",
+      "c": "la sangre circula poco tiempo por el corazón.",
+      "d": "solo entra al corazón por las arterias."
+    },
+    "correct": "a",
+    "correct_text": "entra al corazón por las venas y sale de él por las arterias."
+  },
+  {
+    "question": "¿Qué tipo de hormona hace que la corteza suprarrenal secrete hormonas corticosuprarrenales?",
+    "options": {
+      "a": "la hormona folículo estimulante.",
+      "b": "la hormona prolactina.",
+      "c": "la hormona del crecimiento.",
+      "d": "la adrenocorticotropina."
+    },
+    "correct": "d",
+    "correct_text": "la adrenocorticotropina."
+  },
+  {
+    "question": "Se define como “la hipertensión producida por una insuficiencia aórtica y fístulas arterio-venosas…",
+    "options": {
+      "a": "hipertensión sistólica con bajada de la presión diastólica.",
+      "b": "hipertensión sistólica.",
+      "c": "hipertensión sistólicas y diastólica.",
+      "d": "hipertensión diastólica."
+    },
+    "correct": "a",
+    "correct_text": "hipertensión sistólica con bajada de la presión diastólica."
+  },
+  {
+    "question": "Se define como tos a…",
+    "options": {
+      "a": "la expulsión violenta, ruidosa y de forma súbita del aire de los pulmones.",
+      "b": "la materia expulsada de las vías respiratorias.",
+      "c": "la expulsión de contenido de las vías respiratorias o de los alvéolos pulmonares.",
+      "d": "la dificultad para respirar o una sensación subjetiva del paciente."
+    },
+    "correct": "a",
+    "correct_text": "la expulsión violenta, ruidosa y de forma súbita del aire de los pulmones."
+  },
+  {
+    "question": "Entre los conceptos clave para conocer la capacidad de nuestros pulmones, encontramos…",
+    "options": {
+      "a": "la capacidad inspiratoria.",
+      "b": "la capacidad funcional residual.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la capacidad pulmonar."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "El exceso de andrógenos, el cual produce virilización, es más conocido como…",
+    "options": {
+      "a": "dehidroepiandrosterona.",
+      "b": "hiperandrogenismo.",
+      "c": "síndrome de Cushing.",
+      "d": "hipersecreción de aldosterona."
+    },
+    "correct": "b",
+    "correct_text": "hiperandrogenismo."
+  },
+  {
+    "question": "El sistema nervioso, tras elaborar una respuesta adecuada, la transmite a través de…",
+    "options": {
+      "a": "las venas nerviosas.",
+      "b": "los sistemas nerviosos.",
+      "c": "los impulsos nerviosos.",
+      "d": "las arterias nerviosas."
+    },
+    "correct": "c",
+    "correct_text": "los impulsos nerviosos."
+  },
+  {
+    "question": "Entre las principales causas etiológicas del daño renal, podemos encontrar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "lesiones neoplásicas o vasculares.",
+      "c": "lesiones por toxinas.",
+      "d": "lesiones por inmunidad o por coagulopatías."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "La regulación de la función tiroidea corre a cargo de…",
+    "options": {
+      "a": "el hígado y los jugos gástricos.",
+      "b": "la hormona liberadora de la tirotropa.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el páncreas y el jugo pancreático."
+    },
+    "correct": "b",
+    "correct_text": "la hormona liberadora de la tirotropa."
+  },
+  {
+    "question": "El enanismo hipotalámico es causado por…",
+    "options": {
+      "a": "lesiones óseas.",
+      "b": "lesiones nerviosas.",
+      "c": "el aumento de células endocrinas.",
+      "d": "lesiones tumorales o isquémicas."
+    },
+    "correct": "d",
+    "correct_text": "lesiones tumorales o isquémicas."
+  },
+  {
+    "question": "Los defectos que provocan alteraciones en los mecanismos de secreción glandular, se conocen generalmente como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "Síndromes de Insuficiencia Endocrina.",
+      "c": "Alteraciones endocrinas.",
+      "d": "Síndromes de Aumento Endocrina."
+    },
+    "correct": "b",
+    "correct_text": "Síndromes de Insuficiencia Endocrina."
+  },
+  {
+    "question": "Entre las manifestaciones clínicas de la hiperfunción tiroidea podemos encontrar…",
+    "options": {
+      "a": "el adelgazamiento y la intolerancia al frío.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la obesidad y la piel es fría y seca.",
+      "d": "la piel es caliente y húmeda y el cabello es fino y poco resistente."
+    },
+    "correct": "d",
+    "correct_text": "la piel es caliente y húmeda y el cabello es fino y poco resistente."
+  },
+  {
+    "question": "Entre las sustancias que se reabsorben en los túbulos renales y que vuelven a la sangre, podemos destacar…",
+    "options": {
+      "a": "glucosa, calcio y potasio.",
+      "b": "sodio y potasio.",
+      "c": "cloro, agua y aminoácidos.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "En el control de la función testicular interviene…",
+    "options": {
+      "a": "el hipotálamo y la hipófisis.",
+      "b": "la hipófisis, únicamente.",
+      "c": "el hipotálamo, únicamente.",
+      "d": "las neuronas."
+    },
+    "correct": "a",
+    "correct_text": "el hipotálamo y la hipófisis."
+  },
+  {
+    "question": "La infección respiratoria que suele aparecer tras un resfriado común es…",
+    "options": {
+      "a": "la rinitis.",
+      "b": "la bronquitis crónica.",
+      "c": "la laringitis.",
+      "d": "la bronquitis aguda."
+    },
+    "correct": "d",
+    "correct_text": "la bronquitis aguda."
+  },
+  {
+    "question": "En los factores genéticos de los mecanismos patógenos, se produce una alteración de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "las proteínas expulsoras.",
+      "c": "las proteínas transportadoras.",
+      "d": "la sangre transportadora."
+    },
+    "correct": "c",
+    "correct_text": "las proteínas transportadoras."
+  },
+  {
+    "question": "El ictus está caracterizado por…",
+    "options": {
+      "a": "el aumento de oxígeno en las células de la zona cerebral.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el déficit de oxígeno en las células bronquiales.",
+      "d": "el déficit de oxígeno en las células de la zona cerebral."
+    },
+    "correct": "d",
+    "correct_text": "el déficit de oxígeno en las células de la zona cerebral."
+  },
+  {
+    "question": "Si después de una hiperfunción ovárica aparecen reglas muy irregulares, es como consecuencia de…",
+    "options": {
+      "a": "de un endometrio muy hiperplásico.",
+      "b": "la edad del paciente.",
+      "c": "el aumento del tamaño del órgano reproductor.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "de un endometrio muy hiperplásico."
+  },
+  {
+    "question": "La acromegalia en adultos está caracterizada por…",
+    "options": {
+      "a": "una disminución de la anchura de los huesos.",
+      "b": "una disminución excesiva de la piel.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un aumento de los huesos en anchura."
+    },
+    "correct": "d",
+    "correct_text": "un aumento de los huesos en anchura."
+  },
+  {
+    "question": "¿Qué hormonas no son sintetizadas y renovadas de forma continua por el organismo?",
+    "options": {
+      "a": "las hormonas tiroideas.",
+      "b": "las de la vitamina A.",
+      "c": "las hormonas no tiroideas.",
+      "d": "las de la vitamina K."
+    },
+    "correct": "a",
+    "correct_text": "las hormonas tiroideas."
+  },
+  {
+    "question": "En ocasiones, la enfermedad endocrina es la consecuencia de…",
+    "options": {
+      "a": "un descenso de receptores celulares.",
+      "b": "un aumento de receptores procariotas.",
+      "c": "un aumento de receptores celulares.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "un descenso de receptores celulares."
+  },
+  {
+    "question": "A la inflamación de la mucosa de los senos nasales, se le denomina…",
+    "options": {
+      "a": "laringitis.",
+      "b": "disnea.",
+      "c": "rinitis.",
+      "d": "sinusitis."
+    },
+    "correct": "d",
+    "correct_text": "sinusitis."
+  },
+  {
+    "question": "El término etiopatogenia viene de…",
+    "options": {
+      "a": "dos términos romanos.",
+      "b": "de los términos etiología y patogenia.",
+      "c": "de los términos patogenia y patología.",
+      "d": "dos términos griegos."
+    },
+    "correct": "b",
+    "correct_text": "de los términos etiología y patogenia."
+  },
+  {
+    "question": "La hiperfunción ovárica, se produce por…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la secreción de estrógenos normal y que se adecúa a la edad del paciente.",
+      "c": "el aumento o la excesiva secreción de estrógenos para la edad del paciente.",
+      "d": "la disminución de los estrógenos en un paciente."
+    },
+    "correct": "c",
+    "correct_text": "el aumento o la excesiva secreción de estrógenos para la edad del paciente."
+  },
+  {
+    "question": "El término médico que se conoce como desmayo es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la isquemia coronaria.",
+      "c": "el síncope.",
+      "d": "el ictus."
+    },
+    "correct": "c",
+    "correct_text": "el síncope."
+  },
+  {
+    "question": "Se define como “la cantidad de aire que queda en los pulmones tras una espiración”...",
+    "options": {
+      "a": "la capacidad inspiratoria.",
+      "b": "la capacidad funcional residual.",
+      "c": "la capacidad pulmonar.",
+      "d": "la capacidad pulmonar total."
+    },
+    "correct": "b",
+    "correct_text": "la capacidad funcional residual."
+  },
+  {
+    "question": "Las neoplasias más frecuentes en niños son…",
+    "options": {
+      "a": "el de huesos o el sarcoma de tejidos blandos.",
+      "b": "el de mama.",
+      "c": "el cutáneo o de próstata.",
+      "d": "la de pulmón y la colorrectal."
+    },
+    "correct": "a",
+    "correct_text": "el de huesos o el sarcoma de tejidos blandos."
+  },
+  {
+    "question": "Las hormonas que se encargan de aumentar la velocidad de las reacciones químicas en casi todas las células del organismo son…",
+    "options": {
+      "a": "el glucagón.",
+      "b": "la calcitonina.",
+      "c": "la insulina.",
+      "d": "la tiroxina y triyodotironina."
+    },
+    "correct": "d",
+    "correct_text": "la tiroxina y triyodotironina."
+  },
+  {
+    "question": "A la inflamación que se caracteriza por ser una enfermedad inflamatoria de la mucosa de la nariz, se le denomina…",
+    "options": {
+      "a": "laringitis.",
+      "b": "sinusitis.",
+      "c": "rinitis.",
+      "d": "nasitis."
+    },
+    "correct": "c",
+    "correct_text": "rinitis."
+  },
+  {
+    "question": "¿Cómo se pueden mejorar de manera eficaz y rápida las secuelas de un ictus?",
+    "options": {
+      "a": "con un tratamiento a través de un jarabe.",
+      "b": "con un tratamiento anticoagulante.",
+      "c": "con un tratamiento con pastillas.",
+      "d": "con un tratamiento intravenoso."
+    },
+    "correct": "b",
+    "correct_text": "con un tratamiento anticoagulante."
+  },
+  {
+    "question": "Entre las características más frecuentes de la esclerosis múltiple, podemos encontrar…",
+    "options": {
+      "a": "la alteración en los sentidos.",
+      "b": "el aumento de la sensibilidad.",
+      "c": "una mejor coordinación de los movimientos.",
+      "d": "la pérdida de fuerza y la parálisis en los miembros superiores."
+    },
+    "correct": "a",
+    "correct_text": "la alteración en los sentidos."
+  },
+  {
+    "question": "Al aumento del tamaño de la glándula tiroides se denomina como…",
+    "options": {
+      "a": "bocio.",
+      "b": "náusea.",
+      "c": "alteración de la síntesis de hormonas tiroideas.",
+      "d": "disnea."
+    },
+    "correct": "a",
+    "correct_text": "bocio."
+  },
+  {
+    "question": "Entre las diferentes patologías estudiadas, destacan…",
+    "options": {
+      "a": "las patologías del aparato renal y respiratorio.",
+      "b": "las patologías del sistema nervioso y endocrino.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "las patologías del sistema circulatorio."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "El déficit hormonal puede deberse a…",
+    "options": {
+      "a": "un déficit de hidrógeno líquido.",
+      "b": "un déficit de sales minerales.",
+      "c": "un déficit de yodo.",
+      "d": "un déficit de sodio."
+    },
+    "correct": "c",
+    "correct_text": "un déficit de yodo."
+  },
+  {
+    "question": "El seudohipoparatiroidismo se define como…",
+    "options": {
+      "a": "una enfermedad hereditaria causada por la deficiencia de la respuesta de los órganos diana a la PTH.",
+      "b": "la secreción aumentada como respuesta a situaciones de hipocalcemia.",
+      "c": "la secreción aumentada por alteraciones de las propias glándulas.",
+      "d": "la resección quirúrgica de todo el tejido paratiroideo."
+    },
+    "correct": "a",
+    "correct_text": "una enfermedad hereditaria causada por la deficiencia de la respuesta de los órganos diana a la PTH."
+  },
+  {
+    "question": "Se define como anemia renal a…",
+    "options": {
+      "a": "los factores que alteran la estructura de los huesos en la insuficiencia renal.",
+      "b": "la intervención del riñon decisiva en la promoción y mantenimiento del edema en general.",
+      "c": "la limitación y anulación de la capacidad para concentrar y diluir la orina.",
+      "d": "el resultado de la depresión eritropoyesis y de la exaltación de la eritrocatersis."
+    },
+    "correct": "d",
+    "correct_text": "el resultado de la depresión eritropoyesis y de la exaltación de la eritrocatersis."
+  },
+  {
+    "question": "La patología que consiste en un deterioro progresivo de las neuronas que implican una pérdida de las funciones cognitivas es…",
+    "options": {
+      "a": "el síndrome autista.",
+      "b": "el ictus.",
+      "c": "el alzheimer.",
+      "d": "el parkinson."
+    },
+    "correct": "c",
+    "correct_text": "el alzheimer."
+  },
+  {
+    "question": "Entre los diferentes tipos de ictus, según su etología, podemos distinguir…",
+    "options": {
+      "a": "el ataque isquémico transitorio.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el ictus isquémico.",
+      "d": "el ictus hemorrágico."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Se define como “la patología asociada a la formación de un trombo que no puede disolverse adecuadamente y se desplaza a otras localizaciones tisulares” a…",
+    "options": {
+      "a": "la insuficiencia cardíaca.",
+      "b": "la trombosis.",
+      "c": "el ictus.",
+      "d": "el parón cardíaco."
+    },
+    "correct": "b",
+    "correct_text": "la trombosis."
+  },
+  {
+    "question": "Entre las características del síndrome inmunodeficiente primario, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "que se han descrito más de 100.",
+      "c": "que es hereditario.",
+      "d": "que se dan infecciones de repetición."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "Los dos órganos encargados del intercambio de gases, son…",
+    "options": {
+      "a": "el esófago y estómago.",
+      "b": "el corazón y las arterias.",
+      "c": "los dos pulmones.",
+      "d": "el hígado y el páncreas."
+    },
+    "correct": "c",
+    "correct_text": "los dos pulmones."
+  },
+  {
+    "question": "Entre los síntomas más frecuentes del cáncer de pulmón, podemos encontrar…",
+    "options": {
+      "a": "la expectoración de esputos sanguinolentos.",
+      "b": "la tos y el dolor torácico que no desaparece.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "hinchazón en la cara y cuello."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas."
+  },
+  {
+    "question": "En las alteraciones cualitativas del aparato renal, podemos destacar…",
+    "options": {
+      "a": "la bacteriuria, únicamente.",
+      "b": "la proteinuria, la hematuria, la leucocituria y la bactecituria.",
+      "c": "la hematuria y proteinuria, únicamente.",
+      "d": "la leucocituria y la hematuria, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "la proteinuria, la hematuria, la leucocituria y la bactecituria."
+  },
+  {
+    "question": "La aldosterona reduce la excreción de…",
+    "options": {
+      "a": "hidrógeno.",
+      "b": "potasio.",
+      "c": "sodio.",
+      "d": "aminoácidos."
+    },
+    "correct": "c",
+    "correct_text": "sodio."
+  },
+  {
+    "question": "Se considera como la insuficiencia de secreción de testosterona por las células de leyding a…",
+    "options": {
+      "a": "minigonadismo.",
+      "b": "hipergonadismo.",
+      "c": "supergonadismo.",
+      "d": "hipogonadismo."
+    },
+    "correct": "d",
+    "correct_text": "hipogonadismo."
+  }
+]

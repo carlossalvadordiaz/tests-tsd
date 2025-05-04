@@ -1,0 +1,327 @@
+[
+  {
+    "question": "La bilis es secretada por el hígado, pero se almacena en…",
+    "options": {
+      "a": "el intestino grueso.",
+      "b": "la vesícula biliar.",
+      "c": "el yeyuno.",
+      "d": "el ílion."
+    },
+    "correct": "b",
+    "correct_text": "la vesícula biliar.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las tablas de composición de alimentos, se utilizan para…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "para la planificación de la dieta de un individuo.",
+      "c": "ambas respuestas son correctas.",
+      "d": "calcular la ingesta de nutrientes de un individuo."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "A nivel catabólico, entre las funciones de las proteínas encontramos la de aportar energía cuando…",
+    "options": {
+      "a": "el aporte de grasas es suficiente.",
+      "b": "el aporte de hidratos de carbono y grasas no es suficiente.",
+      "c": "el aporte de agua no es suficiente.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "el aporte de hidratos de carbono y grasas no es suficiente.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se definen como “aquellas bebidas con cierto contenido en etanol procedente de la fermentación o la destilación” a las…",
+    "options": {
+      "a": "bebidas destiladas.",
+      "b": "bebidas alcohólicas.",
+      "c": "bebidas energéticas.",
+      "d": "bebidas no alcohólicas."
+    },
+    "correct": "b",
+    "correct_text": "bebidas alcohólicas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las frutas climatéricas aumentan…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el volumen de oxígeno.",
+      "c": "el bombeo del corazón.",
+      "d": "la intensidad respiratoria."
+    },
+    "correct": "d",
+    "correct_text": "la intensidad respiratoria.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los requerimientos nutricionales de proteínas, marcan que un ser humano necesita…",
+    "options": {
+      "a": "0,8g por kg de peso al día.",
+      "b": "1,5g por kg de peso al día.",
+      "c": "0,5g por kg de peso al día.",
+      "d": "2g por kg de peso al día."
+    },
+    "correct": "a",
+    "correct_text": "0,8g por kg de peso al día.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los principales tipos de alimentación colectiva encontramos…",
+    "options": {
+      "a": "la alimentación social.",
+      "b": "la alimentación comercial.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la alimentación tradicional."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "El tejido graso afecta a…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el sistema metabólico.",
+      "c": "el sistema inmunológico.",
+      "d": "el sistema inflamatorio."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "Si definimos como “acción específica de enzimas y otras sustancias secretadas por las glándulas anejas y células especializadas”, nos referimos a…",
+    "options": {
+      "a": "digestión mecánica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "digestión gástrica.",
+      "d": "digestión química."
+    },
+    "correct": "d",
+    "correct_text": "digestión química.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las recomendaciones nutricionales en la niñez encontramos…",
+    "options": {
+      "a": "una dieta variada en macronutrientes.",
+      "b": "estimar el consumo de legumbres, frutas, verduras y hortalizas.",
+      "c": "realizar al menos cuatro comidas diarias.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En cuanto a los lípidos se refiere, en el intestino delgado se produce…",
+    "options": {
+      "a": "un inicio de la acción de la lipasa lingual.",
+      "b": "una emulsión de las gotas de grasa provenientes del estómago por parte de las sales biliares.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "una degradación por parte de la lipasa lingual y gástrica."
+    },
+    "correct": "b",
+    "correct_text": "una emulsión de las gotas de grasa provenientes del estómago por parte de las sales biliares.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Respecto a la nutrición en la niñez, se necesitará…",
+    "options": {
+      "a": "determinar unos hábitos nutricionales adecuados.",
+      "b": "no establecer hábitos nutricionales.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "el establecimiento de unas costumbres alimenticias poco saludables."
+    },
+    "correct": "a",
+    "correct_text": "determinar unos hábitos nutricionales adecuados.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los azúcares simples los podemos encontrar en…",
+    "options": {
+      "a": "los monosacáridos.",
+      "b": "los polisacáridos.",
+      "c": "en ninguna de las anteriores.",
+      "d": "los disacaridos."
+    },
+    "correct": "a",
+    "correct_text": "los monosacáridos.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En relación al tipo de grasa de la carne, esta va a depender de…",
+    "options": {
+      "a": "el tipo de especie y su alimentación.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el tipo de agua que consuma el animal.",
+      "d": "la cantidad de agua que consuma el animal."
+    },
+    "correct": "a",
+    "correct_text": "el tipo de especie y su alimentación.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se denomina como lactantes, a los niños comprendidos entre la edad…",
+    "options": {
+      "a": "de 0 a 12 meses.",
+      "b": "de 0 a 3 meses.",
+      "c": "de 1 año a 1 año y medio.",
+      "d": "de 1 a 2 años."
+    },
+    "correct": "a",
+    "correct_text": "de 0 a 12 meses.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Si miramos la cantidad diaria recomendada de potasio, encontramos que debe ser de…",
+    "options": {
+      "a": "9g por día.",
+      "b": "1g por día.",
+      "c": "3 a 4g por día.",
+      "d": "6g por día."
+    },
+    "correct": "c",
+    "correct_text": "3 a 4g por día.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los minerales se dividen en dos grandes grupos, pero en nuestra dieta, ¿qué cantidad se necesita de macrominerales?",
+    "options": {
+      "a": "entre 50 y 100 mg/día.",
+      "b": "más de 100 mg/día.",
+      "c": "menos de 50 mg/día.",
+      "d": "menos de 100 mg/día."
+    },
+    "correct": "b",
+    "correct_text": "más de 100 mg/día.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la evaluación clínica del estado nutricional, ¿qué signo puede mostrar que hay problemas en el sistema esquelético?",
+    "options": {
+      "a": "las hemorragias.",
+      "b": "la petequia.",
+      "c": "la osteomalacia.",
+      "d": "la cardiomegalia."
+    },
+    "correct": "c",
+    "correct_text": "la osteomalacia.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cuál es el objetivo de las guías alimentarias?",
+    "options": {
+      "a": "dar a conocer a la población el patrón de una alimentación saludable.",
+      "b": "todas las respuestas anteriores son incorrectas.",
+      "c": "no dar a conocer a la población el patrón de una alimentación saludable.",
+      "d": "dar a conocer a la población el patrón de una alimentación poco saludable."
+    },
+    "correct": "a",
+    "correct_text": "dar a conocer a la población el patrón de una alimentación saludable.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "Para comprender el metabolismo de los hidratos de carbono, es necesario distinguir entre dos fases, y estas son…",
+    "options": {
+      "a": "ambas respuestas son correctas.",
+      "b": "interdigestiva.",
+      "c": "situación postprandial.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "ambas respuestas son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las determinaciones específicas que se hacen sobre un huevo, encontramos…",
+    "options": {
+      "a": "la de la vitamina K.",
+      "b": "la de las vitaminas y minerales.",
+      "c": "la de las proteínas.",
+      "d": "la del fósforo y colesterol."
+    },
+    "correct": "d",
+    "correct_text": "la del fósforo y colesterol.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales de un lactante encontramos…",
+    "options": {
+      "a": "un alto requerimiento proteico.",
+      "b": "no necesita una gran cantidad de agua.",
+      "c": "menor requerimiento de vitaminas y minerales.",
+      "d": "bajos requerimientos de hidratos de carbono."
+    },
+    "correct": "a",
+    "correct_text": "un alto requerimiento proteico.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En una situación interdigestiva, la grasa movilizada desde el tejido adiposo, puede llegar a dos destinos, que son…",
+    "options": {
+      "a": "músculos y otros tejidos.",
+      "b": "ambas respuestas son correctas.",
+      "c": "el hígado.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas son correctas.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las bebidas no alcohólicas, la más saludable es…",
+    "options": {
+      "a": "El agua.",
+      "b": "las bebidas refrescantes.",
+      "c": "los zumos y néctares.",
+      "d": "la Coca-Cola."
+    },
+    "correct": "a",
+    "correct_text": "El agua.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "La absorción del calcio se produce mediante dos procesos, que son…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "transcelular y paracelular.",
+      "c": "únicamente paracelular.",
+      "d": "únicamente transcelular."
+    },
+    "correct": "b",
+    "correct_text": "transcelular y paracelular.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema3"
+  }
+]

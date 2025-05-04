@@ -1,0 +1,4142 @@
+[
+  {
+    "question": "Dentro de la displasia, encontramos…",
+    "options": {
+      "a": "Todas las respuestas anteriores son correctas.",
+      "b": "la atrofia.",
+      "c": "la hiperplasia.",
+      "d": "la hipertrofia."
+    },
+    "correct": "a",
+    "correct_text": "Todas las respuestas anteriores son correctas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Definición: “es una alteración reversible en la que un tipo de célula adulta es reemplazado por otro que se adapta mejor a una situación estresante constante capaz de iniciar una respuesta inflamatoria.”",
+    "options": {
+      "a": "hiperplasia.",
+      "b": "displasia.",
+      "c": "atrofia.",
+      "d": "metaplasia."
+    },
+    "correct": "d",
+    "correct_text": "metaplasia.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Dentro de los agentes físicos, encontramos…",
+    "options": {
+      "a": "únicamente las radiaciones y la electricidad.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la electricidad, las radiaciones y la temperatura.",
+      "d": "únicamente la temperatura."
+    },
+    "correct": "c",
+    "correct_text": "la electricidad, las radiaciones y la temperatura.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las causas más comunes por las cuales se produce un déficit en las células, encontramos…",
+    "options": {
+      "a": "la isquemia, únicamente.",
+      "b": "la isquemia y la hipoxia.",
+      "c": "la hipoxia, únicamente.",
+      "d": "la afección por un virus."
+    },
+    "correct": "b",
+    "correct_text": "la isquemia y la hipoxia.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las sustancias exógenas inocuas que se vuelven lesivas durante su metabolismo hepático previo a su eliminación, encontramos…",
+    "options": {
+      "a": "el paracetamol.",
+      "b": "la aspirina.",
+      "c": "el lorazepam.",
+      "d": "los antihistamínicos."
+    },
+    "correct": "a",
+    "correct_text": "el paracetamol.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La sarna es…",
+    "options": {
+      "a": "un artrópodo.",
+      "b": "un protozoo.",
+      "c": "un virus.",
+      "d": "una bacteria."
+    },
+    "correct": "a",
+    "correct_text": "un artrópodo.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿De qué tipos pueden ser los agentes químicos?",
+    "options": {
+      "a": "endógenos e intrínsecos.",
+      "b": "endógenos y extrínsecos.",
+      "c": "endógenos y exógenos.",
+      "d": "exógenos e intrínsecos."
+    },
+    "correct": "c",
+    "correct_text": "endógenos y exógenos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la actualidad, gran cantidad de enfermedades son consecuencia…",
+    "options": {
+      "a": "de la predisposición genética y los factores ambientales.",
+      "b": "de la predisposición genética, únicamente.",
+      "c": "de los malos hábitos.",
+      "d": "de la mala calidad del aire que respiramos."
+    },
+    "correct": "a",
+    "correct_text": "de la predisposición genética y los factores ambientales.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los protozoos son…",
+    "options": {
+      "a": "organismos unicelulares.",
+      "b": "organismos multicelulares.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "organismos pluricelulares."
+    },
+    "correct": "a",
+    "correct_text": "organismos unicelulares.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las alteraciones producidas por desorganización celular se definen como…",
+    "options": {
+      "a": "atrofia.",
+      "b": "metaplasia.",
+      "c": "displasia.",
+      "d": "hiperplasia."
+    },
+    "correct": "c",
+    "correct_text": "displasia.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué factores predisponen a la lesión celular?",
+    "options": {
+      "a": "la falta de madurez, entre otros.",
+      "b": "el no tener autocontrol.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "los excesos y las carencias alimentarias."
+    },
+    "correct": "d",
+    "correct_text": "los excesos y las carencias alimentarias.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La metaplasia patológica se produce en respuesta a…",
+    "options": {
+      "a": "un estímulo positivo.",
+      "b": "un estímulo inflamatorio.",
+      "c": "un estímulo lesivo.",
+      "d": "un estímulo aceptado."
+    },
+    "correct": "c",
+    "correct_text": "un estímulo lesivo.",
+    "tema": "tema1"
+  },
+  {
+    "question": "El estado de salud es…",
+    "options": {
+      "a": "aquel que no permite a una persona utilizar al completo sus capacidades.",
+      "b": "aquel que permite a una persona utilizar parcialmente sus capacidades.",
+      "c": "el estado y proceso consecuente de afección de un ser vivo.",
+      "d": "aquel que permite a una persona utilizar al completo sus capacidades."
+    },
+    "correct": "d",
+    "correct_text": "aquel que permite a una persona utilizar al completo sus capacidades.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La reacción específica inmunitaria pone en marcha…",
+    "options": {
+      "a": "la inflamación del sistema nervioso.",
+      "b": "la inflamación del tejido.",
+      "c": "la inflamación de los huesos.",
+      "d": "la inflamación de los órganos."
+    },
+    "correct": "b",
+    "correct_text": "la inflamación del tejido.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los signos que manifiestan las alteraciones morfofuncionales son…",
+    "options": {
+      "a": "no se pueden ser observadas en una exploración médica.",
+      "b": "no son clínicamente fiables.",
+      "c": "son fiables y objetivas.",
+      "d": "manifestaciones poco objetivas."
+    },
+    "correct": "c",
+    "correct_text": "son fiables y objetivas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La capacidad de adaptación eficiente depende de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la disponibilidad de respuestas.",
+      "c": "ambas respuestas son correctas.",
+      "d": "la correcta selección de la respuesta más apropiada."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas son correctas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las condiciones en las que se desarrolla un estado de salud, son…",
+    "options": {
+      "a": "genéticas y ambientales.",
+      "b": "ambientales, únicamente.",
+      "c": "genéticas, únicamente.",
+      "d": "climáticas."
+    },
+    "correct": "a",
+    "correct_text": "genéticas y ambientales.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La etiología se encarga de estudiar…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la historia actual y futura.",
+      "c": "las causas ambientales que desarrollan una inflamación.",
+      "d": "las causas subyacentes o desencadenantes, que originan una enfermedad."
+    },
+    "correct": "d",
+    "correct_text": "las causas subyacentes o desencadenantes, que originan una enfermedad.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué se diferencian los agentes biológicos de otros tipos de agentes?",
+    "options": {
+      "a": "en su capacidad de resistencia.",
+      "b": "en la capacidad de hacerse grandes.",
+      "c": "en tener capacidad de replicarse y continuar produciendo efectos adversos.",
+      "d": "en no tener ninguna capacidad."
+    },
+    "correct": "c",
+    "correct_text": "en tener capacidad de replicarse y continuar produciendo efectos adversos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los hongos son más lesivos cuando desarrollan infecciones oportunistas como…",
+    "options": {
+      "a": "gastroenteritis.",
+      "b": "fiebre.",
+      "c": "un dolor de garganta.",
+      "d": "el sida."
+    },
+    "correct": "d",
+    "correct_text": "el sida.",
+    "tema": "tema1"
+  },
+  {
+    "question": "En cuanto a la temperatura se refiere, la exposición al calor moderado da lugar al daño celular por…",
+    "options": {
+      "a": "por los rayos ultravioleta.",
+      "b": "la exposición a lesiones vasculares.",
+      "c": "por la vasoconstricción.",
+      "d": "por la inducción de lesiones vasculares, entre otros."
+    },
+    "correct": "d",
+    "correct_text": "por la inducción de lesiones vasculares, entre otros.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los signos que manifiestan las alteraciones morfofuncionales pueden ser consecuencia de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores son correctas.",
+      "b": "los mecanismos adaptativos que se activan para luchar contra la enfermedad.",
+      "c": "las dos primeras respuestas son correctas.",
+      "d": "de un proceso patológico original."
+    },
+    "correct": "c",
+    "correct_text": "las dos primeras respuestas son correctas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los agentes biológicos macroscópicos, encontramos…",
+    "options": {
+      "a": "los parásitos.",
+      "b": "los hongos y protozoos.",
+      "c": "los microplasmas.",
+      "d": "los virus y bacterias."
+    },
+    "correct": "a",
+    "correct_text": "los parásitos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Si las carencias celulares se deben a un fallo en la absorción son…",
+    "options": {
+      "a": "secundarias.",
+      "b": "primarias.",
+      "c": "cuaternarias.",
+      "d": "terciarias."
+    },
+    "correct": "a",
+    "correct_text": "secundarias.",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la definición del factor intrínseco, encontramos…",
+    "options": {
+      "a": "que es adquirido por el ambiente.",
+      "b": "que es propio o característico del organismo pero no depende de las circunstancias.",
+      "c": "que es propio o característico del organismo pero depende de las circunstancias.",
+      "d": "que es adquirido o ajeno a la naturaleza propia del organismo."
+    },
+    "correct": "b",
+    "correct_text": "que es propio o característico del organismo pero no depende de las circunstancias.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las radiaciones de alta energía, como las que igualan o superan el espectro ultravioleta, son…",
+    "options": {
+      "a": "artificiales.",
+      "b": "electromagnéticas naturales.",
+      "c": "de rayos gamma.",
+      "d": "ionizantes."
+    },
+    "correct": "d",
+    "correct_text": "ionizantes.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Definición: “es un proceso o estado consecuente de afección de un ser vivo, caracterizado por una alteración perjudicial en su estado de salud”.",
+    "options": {
+      "a": "etiología.",
+      "b": "salud.",
+      "c": "patología.",
+      "d": "enfermedad."
+    },
+    "correct": "d",
+    "correct_text": "enfermedad.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tienen los hongos?",
+    "options": {
+      "a": "únicamente una membrana rígida.",
+      "b": "un citoplasma.",
+      "c": "un núcleo, únicamente.",
+      "d": "un núcleo y una membrana rígida."
+    },
+    "correct": "d",
+    "correct_text": "un núcleo y una membrana rígida.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como el tratamiento de una enfermedad que actúa sobre la causa de la enfermedad cuando es efectiva…",
+    "options": {
+      "a": "patogénico.",
+      "b": "inhibidor.",
+      "c": "sintomático.",
+      "d": "etiológico."
+    },
+    "correct": "a",
+    "correct_text": "patogénico.",
+    "tema": "tema1"
+  },
+  {
+    "question": "El frío intenso…",
+    "options": {
+      "a": "disminuye la viscosidad sanguínea.",
+      "b": "mantiene igual la viscosidad sanguínea.",
+      "c": "disminuye la viscosidad acuática.",
+      "d": "aumenta la viscosidad sanguínea."
+    },
+    "correct": "d",
+    "correct_text": "aumenta la viscosidad sanguínea.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué constituye la inflamación?",
+    "options": {
+      "a": "la forma por la cual la naturaleza se defiende de las agresiones.",
+      "b": "la forma de dar respuesta inespecífica tisular frente a las agresiones.",
+      "c": "la forma de alimentarse tisularmente frente a las agresiones externas.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "la forma de dar respuesta inespecífica tisular frente a las agresiones.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las radiaciones ionizantes suelen generar daños…",
+    "options": {
+      "a": "con el paso de los años.",
+      "b": "en la mentalidad.",
+      "c": "con poca inmediatez.",
+      "d": "obvios e inmediatos."
+    },
+    "correct": "d",
+    "correct_text": "obvios e inmediatos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "El frío, además de otros, favorece la aparición de…",
+    "options": {
+      "a": "fenómenos capilares.",
+      "b": "fenómenos trombóticos.",
+      "c": "fenómenos articulares.",
+      "d": "fenómenos electromagnéticos."
+    },
+    "correct": "b",
+    "correct_text": "fenómenos trombóticos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Algunos ejemplos de los factores etiológicos exógenos son…",
+    "options": {
+      "a": "biológicos, físicos y químicos.",
+      "b": "biológicos, únicamente.",
+      "c": "físicos, únicamente.",
+      "d": "químicos únicamente."
+    },
+    "correct": "a",
+    "correct_text": "biológicos, físicos y químicos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Según la etiología de la enfermedad, podemos clasificarlas en…",
+    "options": {
+      "a": "genéticas, congénitas y adquiridas.",
+      "b": "genéticas, únicamente.",
+      "c": "congénitas, únicamente.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "genéticas, congénitas y adquiridas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Si se realiza una hipertrofia muscular en respuesta a una enfermedad, se denomina…",
+    "options": {
+      "a": "patológica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "compensatoria.",
+      "d": "fisiológica."
+    },
+    "correct": "a",
+    "correct_text": "patológica.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Definición: ”Son llamadas así por su reacción ante la tinción de Gram y que pueden elaborar exotoxinas que interfieren con la producción celular de ATP”",
+    "options": {
+      "a": "bacterias Gram negativas.",
+      "b": "hongos.",
+      "c": "virus.",
+      "d": "bacterias Gram positivas."
+    },
+    "correct": "d",
+    "correct_text": "bacterias Gram positivas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "El tratamiento de una enfermedad puede actuar sobre…",
+    "options": {
+      "a": "los mecanismos que causan la enfermedad.",
+      "b": "la causa.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "los síntomas."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los procesos inflamatorios se designan…",
+    "options": {
+      "a": "con el prefijo -itis.",
+      "b": "con el sufijo -emo.",
+      "c": "con el sufijo -azo.",
+      "d": "con el sufijo -itis."
+    },
+    "correct": "d",
+    "correct_text": "con el sufijo -itis.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Dónde es máxima la resistencia eléctrica?",
+    "options": {
+      "a": "en los huesos y tendones.",
+      "b": "en las articulaciones.",
+      "c": "en los nervios y la sangre.",
+      "d": "en el cerebro."
+    },
+    "correct": "a",
+    "correct_text": "en los huesos y tendones.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los agentes biológicos que pueden generar daño celular, van…",
+    "options": {
+      "a": "del mínimo al máximo.",
+      "b": "de los macroscópicos a los microscópicos.",
+      "c": "del máximo al mínimo.",
+      "d": "de los microscópicos a los macroscópicos."
+    },
+    "correct": "d",
+    "correct_text": "de los microscópicos a los macroscópicos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La hipertrofia es consecuencia de…",
+    "options": {
+      "a": "el descanso y el sueño.",
+      "b": "la excesiva carga calórica.",
+      "c": "la disminución de la carga de trabajo.",
+      "d": "el aumento de la carga de trabajo."
+    },
+    "correct": "d",
+    "correct_text": "el aumento de la carga de trabajo.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tratan de mantener las células?",
+    "options": {
+      "a": "su equilibrio epidemiológico.",
+      "b": "su equilibrio patológico.",
+      "c": "su equilibrio homeostático.",
+      "d": "su equilibrio corporal."
+    },
+    "correct": "c",
+    "correct_text": "su equilibrio homeostático.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Un síndrome se define como…",
+    "options": {
+      "a": "ninguna de las respuestas es correcta.",
+      "b": "no tiene que ver con la fisiopatología.",
+      "c": "un conjunto de signos y síntomas característicos de un estado patológico concreto.",
+      "d": "un conjunto de circunstancias de un estado concreto."
+    },
+    "correct": "c",
+    "correct_text": "un conjunto de signos y síntomas característicos de un estado patológico concreto.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Definición: “enfermedad adquirida o ajena a la naturaleza propia del organismo”.",
+    "options": {
+      "a": "factores extrínsecos.",
+      "b": "etiología.",
+      "c": "patología.",
+      "d": "factores intrínsecos."
+    },
+    "correct": "a",
+    "correct_text": "factores extrínsecos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "En situaciones de estrés que representan una amenaza para la salud, el cuerpo recurre a un mecanismo conocido como…",
+    "options": {
+      "a": "rechazo.",
+      "b": "inadaptación.",
+      "c": "aceptación.",
+      "d": "adaptación."
+    },
+    "correct": "d",
+    "correct_text": "adaptación.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las deficiencias calórico-proteicas producidas en condiciones de ayunas, inducen a…",
+    "options": {
+      "a": "lesiones nerviosas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "lesiones óseas.",
+      "d": "lesiones tisulares."
+    },
+    "correct": "d",
+    "correct_text": "lesiones tisulares.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La corriente eléctrica puede provocar…",
+    "options": {
+      "a": "daño irreversible.",
+      "b": "daño plasmático.",
+      "c": "daño articular.",
+      "d": "daño tisular extenso."
+    },
+    "correct": "d",
+    "correct_text": "daño tisular extenso.",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué tipos podemos clasificar los agentes causantes de la lesión celular?",
+    "options": {
+      "a": "agentes físicos y ambientales.",
+      "b": "agentes climatológicos y ambientales.",
+      "c": "agentes físicos, climatológicos y biológicos.",
+      "d": "agentes biológicos, químicos y físicos."
+    },
+    "correct": "d",
+    "correct_text": "agentes biológicos, químicos y físicos.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La displasia se define como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el aumento del número de células en un órgano o tejido.",
+      "c": "el crecimiento celular desorganizado que da lugar a nuevas células.",
+      "d": "la alteración reversible en la que una célula adulta es reemplazada por otra."
+    },
+    "correct": "c",
+    "correct_text": "el crecimiento celular desorganizado que da lugar a nuevas células.",
+    "tema": "tema1"
+  },
+  {
+    "question": "El aporte sanguíneo insuficiente, se define como…",
+    "options": {
+      "a": "deshidratación.",
+      "b": "isquemia.",
+      "c": "malnutrición.",
+      "d": "hipoxia."
+    },
+    "correct": "b",
+    "correct_text": "isquemia.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los métodos epidemiológicos se utilizan para…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "determinar cómo prevenir la enfermedad y lograr erradicarla.",
+      "c": "determinar cómo controlar una enfermedad.",
+      "d": "determinar la forma en la que se propaga una enfermedad."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los factores por los cuales puede estar provocado un estado de enfermedad, encontramos…",
+    "options": {
+      "a": "Intrínsecos y extrínsecos son correctas.",
+      "b": "los ultrínsecos.",
+      "c": "los extrínsecos.",
+      "d": "los intrínsecos."
+    },
+    "correct": "a",
+    "correct_text": "Intrínsecos y extrínsecos son correctas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "La hiperplasia…",
+    "options": {
+      "a": "no tiene lugar en respuesta a un estímulo apropiado.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "no se interrumpe cuando desaparece.",
+      "d": "no es un proceso controlado."
+    },
+    "correct": "b",
+    "correct_text": "ninguna de las respuestas anteriores es correcta.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Aunque la inflamación se trate de una reacción local, es importante…",
+    "options": {
+      "a": "advertir que en la inflamación también está presente una respuesta sistémica.",
+      "b": "prevenir que la inflamación también está presente en una respuesta inmunitaria.",
+      "c": "advertir que la enfermedad también está presente en los órganos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "advertir que en la inflamación también está presente una respuesta sistémica.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Definición: “Es el estudio de la enfermedad en las poblaciones y sus factores de riesgo en afecciones multifactoriales”...",
+    "options": {
+      "a": "patología.",
+      "b": "patogénico.",
+      "c": "fisiopatología.",
+      "d": "epidemiología."
+    },
+    "correct": "d",
+    "correct_text": "epidemiología.",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las consecuencias de la respuesta celular a una lesión celular, dependen de…",
+    "options": {
+      "a": "la intensidad del agente y su tipo, únicamente.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el tipo de lesión únicamente.",
+      "d": "la resistencia celular."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema1"
+  },
+  {
+    "question": "El intestino delgado recibe un cantidad total de fluidos diarios de…",
+    "options": {
+      "a": "3 litros al día.",
+      "b": "5 litros al día.",
+      "c": "10 litros al día.",
+      "d": "8 litros al día."
+    },
+    "correct": "d",
+    "correct_text": "8 litros al día.",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cuál constituye el principal mecanismo endocrino?…",
+    "options": {
+      "a": "la liberación de gastrina.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la liberación de pepsina.",
+      "d": "la liberación de amilasa."
+    },
+    "correct": "a",
+    "correct_text": "la liberación de gastrina.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El proceso que se encarga de reducir el tamaño del alimento y favorece su mezcla con la saliva iniciando la digestión del bolo alimenticio es…",
+    "options": {
+      "a": "la digestión.",
+      "b": "la secreción.",
+      "c": "la excreción.",
+      "d": "la masticación."
+    },
+    "correct": "a",
+    "correct_text": "la digestión.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los factores que pueden variar el tiempo del tránsito intestinal, encontramos…",
+    "options": {
+      "a": "la naturaleza.",
+      "b": "la composición en proteínas e hidratos de carbono.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la composición en grasas."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El páncreas es una víscera de pequeño tamaño situada entre…",
+    "options": {
+      "a": "El estómago, el duodeno, el colon y la columna vertebral.",
+      "b": "el estómago y el esófago.",
+      "c": "el colon y la columna vertebral.",
+      "d": "el estómago y el duodeno."
+    },
+    "correct": "c",
+    "correct_text": "el colon y la columna vertebral.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La saliva contiene enzimas como…",
+    "options": {
+      "a": "la amilasa.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "ambas respuestas son correctas.",
+      "d": "la lisozima."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tracto biliar permite el paso de la bilis producida por el hígado hasta…",
+    "options": {
+      "a": "el estómago.",
+      "b": "el páncreas.",
+      "c": "la vesícula biliar.",
+      "d": "el intestino."
+    },
+    "correct": "d",
+    "correct_text": "el intestino.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La principal función del sistema gastrointestinal es…",
+    "options": {
+      "a": "desechar los alimentos.",
+      "b": "protegernos ante agentes externos.",
+      "c": "no procesar las sustancias procedentes de los alimentos.",
+      "d": "procesar las sustancias procedentes de los alimentos y ofertarlos a las células."
+    },
+    "correct": "d",
+    "correct_text": "procesar las sustancias procedentes de los alimentos y ofertarlos a las células.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las formaciones tubulares muy profundas que se distinguen en el microscopio dentro de la mucosa gástrica, se denominan…",
+    "options": {
+      "a": "mucosas gástricas.",
+      "b": "epitelios celulares.",
+      "c": "células mucosas.",
+      "d": "glándulas gástricas."
+    },
+    "correct": "d",
+    "correct_text": "glándulas gástricas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina la formación originada tras el amasado del quimo y unido a las secreciones?…",
+    "options": {
+      "a": "bolo gástrico.",
+      "b": "quilo.",
+      "c": "bolo alimenticio.",
+      "d": "quino."
+    },
+    "correct": "b",
+    "correct_text": "quilo.",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué porcentaje de las sales biliares que llegan al intestino se reabsorben por transporte activo en el íleon distal?…",
+    "options": {
+      "a": "un 80%.",
+      "b": "un 99%.",
+      "c": "un 94%.",
+      "d": "un 60%."
+    },
+    "correct": "c",
+    "correct_text": "un 94%.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El colon, a su vez, está dividido en…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "tres partes, el colon transverso, descendente y sigmoideo.",
+      "c": "una sola parte, el colon transverso.",
+      "d": "tres partes, el colon ascendente, transverso y descendente."
+    },
+    "correct": "a",
+    "correct_text": "ninguna de las respuestas anteriores es correcta.",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se conduce el bolo alimenticio desde la boca al estómago?",
+    "options": {
+      "a": "sin mecanismos reflejos.",
+      "b": "con un mecanismo forzado.",
+      "c": "mediante mecanismos voluntarios y reflejos posteriores.",
+      "d": "mediante un proceso obligado."
+    },
+    "correct": "c",
+    "correct_text": "mediante mecanismos voluntarios y reflejos posteriores.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las funciones de la saliva encontramos…",
+    "options": {
+      "a": "la disolución de las sustancias.",
+      "b": "hacer posible la sensación gustativa.",
+      "c": "la actividad antimicrobiana.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se denomina como el proceso de escisión de los alimentos en sus componentes más elementales susceptibles de ser absorbidos…",
+    "options": {
+      "a": "la digestión",
+      "b": "la masticación",
+      "c": "la secreción",
+      "d": "la formación del bolo alimenticio"
+    },
+    "correct": "a",
+    "correct_text": "la digestión",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tejido hepático se organiza constituyendo…",
+    "options": {
+      "a": "los lobulillos.",
+      "b": "los hepatocitos.",
+      "c": "los enterocitos.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "los lobulillos.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los hepatocitos forman cordones de forma…",
+    "options": {
+      "a": "cuadrada.",
+      "b": "hexagonal.",
+      "c": "radiada.",
+      "d": "diagonal."
+    },
+    "correct": "c",
+    "correct_text": "radiada.",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la motilidad del intestino delgado, encontramos…",
+    "options": {
+      "a": "que se encarga de mezclar el quimo con las secreciones digestivas.",
+      "b": "que hace progresar el contenido intestinal en sentido laboral.",
+      "c": "que se encarga de mezclar el bolo alimenticio con las secreciones digestivas.",
+      "d": "que no renueva la superficie absortiva de la mucosa intestinal."
+    },
+    "correct": "a",
+    "correct_text": "que se encarga de mezclar el quimo con las secreciones digestivas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El trayecto en el tránsito intestinal puede durar entre…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "24 y 72 horas.",
+      "c": "6 y 36 horas.",
+      "d": "12 y 48 horas."
+    },
+    "correct": "d",
+    "correct_text": "12 y 48 horas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tracto gastrointestinal es el responsable de…",
+    "options": {
+      "a": "convertir la comida y absorber los nutrientes.",
+      "b": "únicamente de eliminar las sustancias de desecho.",
+      "c": "digerir y hacer la digestión de los alimentos.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El hígado junto con los riñones, ejerce una una función…",
+    "options": {
+      "a": "de absorción vital.",
+      "b": "detoxificante vital.",
+      "c": "de excreción vital.",
+      "d": "de secreción vital."
+    },
+    "correct": "b",
+    "correct_text": "detoxificante vital.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las encefalinas…",
+    "options": {
+      "a": "no inhiben la secreción estomacal.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "aumentan la velocidad del tránsito intestinal.",
+      "d": "disminuyen la velocidad del tránsito intestinal."
+    },
+    "correct": "d",
+    "correct_text": "disminuyen la velocidad del tránsito intestinal.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La principal función del factor intrínseco es…",
+    "options": {
+      "a": "introducir los nutrientes en la sangre.",
+      "b": "fijar la vitamina B12 en el íleon.",
+      "c": "transportar los hidratos de carbono.",
+      "d": "fijar las proteínas en el hígado."
+    },
+    "correct": "b",
+    "correct_text": "fijar la vitamina B12 en el íleon.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El segmento distal o íleon tiene entre sus funciones…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la absorción de las sales biliares.",
+      "c": "unas funciones selectivas.",
+      "d": "la absorción de la vitamina B12."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué parte del cuerpo humano es el más importante centro regulador del apetito?…",
+    "options": {
+      "a": "las fosas nasales.",
+      "b": "el hipotálamo.",
+      "c": "las glándulas salivales.",
+      "d": "el cerebro."
+    },
+    "correct": "b",
+    "correct_text": "el hipotálamo.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La célula enterocromafín también posee receptores para…",
+    "options": {
+      "a": "la acetilcolina y la gastrina.",
+      "b": "la amilasa.",
+      "c": "la pepsina.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "la acetilcolina y la gastrina.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La misión del tracto gastrointestinal inferior es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la formación y excreción de heces.",
+      "c": "la formación del bolo alimenticio.",
+      "d": "el conseguir los nutrientes necesarios."
+    },
+    "correct": "b",
+    "correct_text": "la formación y excreción de heces.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La enzima que facilita la digestión de los hidratos de carbono es…",
+    "options": {
+      "a": "la fosfolipasa.",
+      "b": "la pepsina.",
+      "c": "la amilasa.",
+      "d": "la quimiotripsina."
+    },
+    "correct": "c",
+    "correct_text": "la amilasa.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los objetivos de la motilidad gástrica encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "vaciar su contenido hacia el intestino delgado.",
+      "c": "permitir que el estómago realice su función de reserva.",
+      "d": "disminuir el tamaño de las partículas del alimento y mezclarlas con secreciones digestivas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La capa serosa está constituida por…",
+    "options": {
+      "a": "una primera capa circular y una segunda capa longitudinal.",
+      "b": "la reflexión del peritoneo sobre las vísceras.",
+      "c": "únicamente el meseterio.",
+      "d": "la cavidad peritoneal y el líquido seroso."
+    },
+    "correct": "b",
+    "correct_text": "la reflexión del peritoneo sobre las vísceras.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El control de la secreción pancreática es esencialmente…",
+    "options": {
+      "a": "involuntario.",
+      "b": "humoral.",
+      "c": "voluntario.",
+      "d": "vagal."
+    },
+    "correct": "b",
+    "correct_text": "humoral.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El ciego es…",
+    "options": {
+      "a": "un saco que se proyecta hacia abajo desde la unión entre íleon y colon.",
+      "b": "un saco que se proyecta hacia arriba en la unión entre el intestino delgado y grueso.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un saco que se proyecta hacia abajo desde la unión del hígado hasta el páncreas."
+    },
+    "correct": "a",
+    "correct_text": "un saco que se proyecta hacia abajo desde la unión entre íleon y colon.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La conexión entre el intestino delgado y el estómago, se realiza a través de…",
+    "options": {
+      "a": "el páncreas.",
+      "b": "el íleon.",
+      "c": "el duodeno.",
+      "d": "el yeyuno."
+    },
+    "correct": "c",
+    "correct_text": "el duodeno.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El principal neurotransmisor de las neuronas motoras de carácter excitador es…",
+    "options": {
+      "a": "la acetilcolina.",
+      "b": "la pepsina.",
+      "c": "la amilasa.",
+      "d": "la serotonina."
+    },
+    "correct": "a",
+    "correct_text": "la acetilcolina.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las glándulas salivares…",
+    "options": {
+      "a": "ayudan a dar sabor a la comida.",
+      "b": "logran tragar la comida.",
+      "c": "se encargan de masticar la comida.",
+      "d": "liberan enzimas digestivas para comenzar la digestión."
+    },
+    "correct": "d",
+    "correct_text": "liberan enzimas digestivas para comenzar la digestión.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La secreción biliar es imprescindible para…",
+    "options": {
+      "a": "la digestión y absorción adecuadas.",
+      "b": "la absorción, únicamente.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la excreción de las heces."
+    },
+    "correct": "a",
+    "correct_text": "la digestión y absorción adecuadas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El producto que se forma en la secreción gástrica se denomina y tiene una cantidad de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "jugo gástrico y 1’5 litros al día.",
+      "c": "amilasa y 1’5 litros al día.",
+      "d": "jugo mucoso y 2 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "jugo gástrico y 1’5 litros al día.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La serotonina, liberada por células enterocromafines epiteliales, en respuesta a estímulos luminales, desencadena…",
+    "options": {
+      "a": "actos reflejos peristálticos.",
+      "b": "actos voluntarios.",
+      "c": "actos involuntarios.",
+      "d": "actos no reflejos."
+    },
+    "correct": "a",
+    "correct_text": "actos reflejos peristálticos.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las principales enzimas digestivas implicadas que actúan sobre las proteínas…",
+    "options": {
+      "a": "la aminopeptidasa.",
+      "b": "la quimiotripsina.",
+      "c": "la pepsina y la tripsina.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La actuación coordinada y efectiva en todo el tracto digestivo se consigue mediante…",
+    "options": {
+      "a": "postneuronas conectadas entre sí a las neuronas entéricas.",
+      "b": "proneuronas conectadas entre sí.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "interneuronas conectadas entre sí a las neuronas entéricas."
+    },
+    "correct": "d",
+    "correct_text": "interneuronas conectadas entre sí a las neuronas entéricas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La mayor parte del proceso digestivo se lleva a cabo en…",
+    "options": {
+      "a": "el íleon.",
+      "b": "el hígado.",
+      "c": "el intestino grueso.",
+      "d": "el intestino delgado."
+    },
+    "correct": "d",
+    "correct_text": "el intestino delgado.",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipo de vitamina almacenan las células estrelladas o de Ito?…",
+    "options": {
+      "a": "la vitamina D.",
+      "b": "la vitamina A.",
+      "c": "la vitamina C.",
+      "d": "la vitamina K."
+    },
+    "correct": "b",
+    "correct_text": "la vitamina A.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La presencia de enteroquinasa y otras enzimas en el intestino va a transformar…",
+    "options": {
+      "a": "la amilasa.",
+      "b": "la catepsina.",
+      "c": "el tripsinógeno en tripsina.",
+      "d": "la fosfolipasa."
+    },
+    "correct": "c",
+    "correct_text": "el tripsinógeno en tripsina.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La motilidad del intestino grueso se consigue a través de…",
+    "options": {
+      "a": "contracciones del ciego y el colon descendente de tipo segmentario.",
+      "b": "contracciones del intestino de tipo grueso.",
+      "c": "contracciones del hígado y el páncreas de tipo inferior.",
+      "d": "contracciones del ciego y el colon ascendente de tipo segmentario."
+    },
+    "correct": "d",
+    "correct_text": "contracciones del ciego y el colon ascendente de tipo segmentario.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El hígado pesa aproximadamente…",
+    "options": {
+      "a": "3 kg.",
+      "b": "1 kg.",
+      "c": "2 kg.",
+      "d": "1’5 kg."
+    },
+    "correct": "d",
+    "correct_text": "1’5 kg.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El proceso mediante el cual el aparato digestivo transforma los nutrientes en moléculas se denomina…",
+    "options": {
+      "a": "motilidad.",
+      "b": "digestión.",
+      "c": "secreción.",
+      "d": "absorción."
+    },
+    "correct": "b",
+    "correct_text": "digestión.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tracto gastrointestinal, al igual que la piel, constituye…",
+    "options": {
+      "a": "una barrera entre el medio interno y el exterior.",
+      "b": "una pequeña porción del cuerpo humano.",
+      "c": "una barrera entre la piel y los órganos.",
+      "d": "una mucosa dentro de los órganos del ser humano."
+    },
+    "correct": "a",
+    "correct_text": "una barrera entre el medio interno y el exterior.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La histamina es responsable de…",
+    "options": {
+      "a": "controlar las moléculas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "controlar la mucosa gástrica.",
+      "d": "controlar la liberación basal de HCI."
+    },
+    "correct": "d",
+    "correct_text": "controlar la liberación basal de HCI.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las principales funciones que desarrolla el hígado encontramos…",
+    "options": {
+      "a": "dejar de actuar como regulador de la glucemia.",
+      "b": "degradar los hidratos de carbono.",
+      "c": "la oxidación de las proteínas.",
+      "d": "sintetizar los ácidos y las sales biliares."
+    },
+    "correct": "d",
+    "correct_text": "sintetizar los ácidos y las sales biliares.",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipo de motilidad presenta el intestino delgado al igual que el estómago?…",
+    "options": {
+      "a": "estomacal.",
+      "b": "gástrica.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "peristáltica."
+    },
+    "correct": "d",
+    "correct_text": "peristáltica.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las capas que conforman el tubo digestivo es…",
+    "options": {
+      "a": "la mucosa y el epitelio.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la lámina propia.",
+      "d": "la capa muscular de la mucosa."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La motilidad intestinal se define como…",
+    "options": {
+      "a": "el proceso que sirve para producir el desplazamiento de los nutrientes por el tracto digestivo.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el proceso mediante el cual el aparato digestivo transforma los nutrientes en moléculas.",
+      "d": "el proceso mediante el cual las moléculas son capaces de traspasar las paredes gastrointestinales hasta la sangre."
+    },
+    "correct": "a",
+    "correct_text": "el proceso que sirve para producir el desplazamiento de los nutrientes por el tracto digestivo.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los segmentos secretores del tracto gastrointestinal son…",
+    "options": {
+      "a": "la secreción intestinal.",
+      "b": "la secreción salival.",
+      "c": "la secreción gástrica.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las células oxínticas o parietales, son las principales productoras de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "moco y algo de pepsinógeno.",
+      "c": "hormonas péptidicas.",
+      "d": "HCI y factor intrínseco."
+    },
+    "correct": "d",
+    "correct_text": "HCI y factor intrínseco.",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los órganos accesorios del tracto gastrointestinal, encontramos…",
+    "options": {
+      "a": "el páncreas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el hígado.",
+      "d": "la vesícula biliar."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La secreción pancreática es capaz de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "transformar los alimentos en nutrientes y la excreción de las sustancias de deshecho.",
+      "c": "absorber los nutrientes provenientes del alimento.",
+      "d": "degradar los principios inmediatos hasta moléculas simples para su absorción en el enterocito."
+    },
+    "correct": "d",
+    "correct_text": "degradar los principios inmediatos hasta moléculas simples para su absorción en el enterocito.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La motilidad intestinal tiene por objeto…",
+    "options": {
+      "a": "promover la progresión ordenada de los alimentos por el tracto digestivo.",
+      "b": "la excreción de los restos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "nutrir a la sangre de los nutrientes necesarios."
+    },
+    "correct": "a",
+    "correct_text": "promover la progresión ordenada de los alimentos por el tracto digestivo.",
+    "tema": "tema2"
+  },
+  {
+    "question": "En los sinusoides se encuentran, además de las células endoteliales…",
+    "options": {
+      "a": "las células de Kupffer.",
+      "b": "las células de Meissner.",
+      "c": "las células de Advance.",
+      "d": "los hepatocitos."
+    },
+    "correct": "a",
+    "correct_text": "las células de Kupffer.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La ampolla de Vater, desemboca en el duodeno a través de la…",
+    "options": {
+      "a": "papila duodenal.",
+      "b": "papila intestinal.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "papila gástrica."
+    },
+    "correct": "a",
+    "correct_text": "papila duodenal.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La musculatura del tracto gastrointestinal es lisa salvo en…",
+    "options": {
+      "a": "el páncreas.",
+      "b": "el esófago.",
+      "c": "el estómago.",
+      "d": "el hígado."
+    },
+    "correct": "b",
+    "correct_text": "el esófago.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La estimulación vagal, se induce de forma refleja ante la presencia o el olor del alimento…",
+    "options": {
+      "a": "ambas respuestas anteriores son correctas.",
+      "b": "libera acetilcolina.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "activa la secreción ácida y la de gastrina."
+    },
+    "correct": "a",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "tema": "tema2"
+  },
+  {
+    "question": "La vesícula biliar es un reservorio donde se almacena…",
+    "options": {
+      "a": "la bilis.",
+      "b": "el quimo.",
+      "c": "el quilo.",
+      "d": "el bolo alimenticio."
+    },
+    "correct": "a",
+    "correct_text": "la bilis.",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tratamiento frente a la diarrea ha de ser…",
+    "options": {
+      "a": "fundamentalmente dietético.",
+      "b": "fundamentalmente farmacológico.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "fundamentalmente de tipo natural."
+    },
+    "correct": "a",
+    "correct_text": "fundamentalmente dietético.",
+    "tema": "tema3"
+  },
+  {
+    "question": "El mejor tratamiento ante la hepatopatia alcohólica, es…",
+    "options": {
+      "a": "la abstinencia del café.",
+      "b": "la consumición de café.",
+      "c": "la consumición de alcohol.",
+      "d": "la abstinencia alcohólica."
+    },
+    "correct": "d",
+    "correct_text": "la abstinencia alcohólica.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las medidas que se indican para los pacientes con estreñimiento, encontramos…",
+    "options": {
+      "a": "la realización de ejercicio físico de forma moderada y habitual.",
+      "b": "el aporte de líquidos.",
+      "c": "el aporte de alimentos ricos en fibra.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las patologías más habituales del tracto gastrointestinal se encuentran…",
+    "options": {
+      "a": "las náuseas.",
+      "b": "el vómito.",
+      "c": "el herpes labial y las caries dentales.",
+      "d": "el reflujo gastroesofágico."
+    },
+    "correct": "c",
+    "correct_text": "el herpes labial y las caries dentales.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las hepatitis agudas, son producidas, esencialmente por…",
+    "options": {
+      "a": "la cirrosis.",
+      "b": "los virus de las hepatitis A, B, B+D, C y E.",
+      "c": "el herpes agudo.",
+      "d": "los vómitos."
+    },
+    "correct": "b",
+    "correct_text": "los virus de las hepatitis A, B, B+D, C y E.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como la llegada a la faringe, o incluso a la boca de restos de alimentos o de un contenido de sabor ácido o amargo…",
+    "options": {
+      "a": "pirosis.",
+      "b": "regurgitación ácidda.",
+      "c": "vómito.",
+      "d": "náusea."
+    },
+    "correct": "b",
+    "correct_text": "regurgitación ácidda.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “el estreñimiento ligado a una patología o alteración fisiológica que, directa o indirectamente, afecta al tracto digestivo.”...",
+    "options": {
+      "a": "estreñimiento primario.",
+      "b": "estreñimiento iatrogénico.",
+      "c": "estreñimiento terciario.",
+      "d": "estreñimiento secundario."
+    },
+    "correct": "d",
+    "correct_text": "estreñimiento secundario.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “aquella situación en la que el individuo realiza menos de tres deposiciones por semana, siendo las heces duras y con un bajo contenido en agua.”...",
+    "options": {
+      "a": "úlcera.",
+      "b": "estreñimiento.",
+      "c": "vómito.",
+      "d": "dolor de tripa."
+    },
+    "correct": "b",
+    "correct_text": "estreñimiento.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los errores que encontramos en nuestros hábitos de alimentación y que",
+    "options": {
+      "a": "la poca consumición de tabaco.",
+      "b": "evitar el sedentarismo.",
+      "c": "hacer gran cantidad de ejercicio físico.",
+      "d": "una ingestión pobre en fibra dietética."
+    },
+    "correct": "d",
+    "correct_text": "una ingestión pobre en fibra dietética.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las patologías más frecuentes del páncreas exorcino son…",
+    "options": {
+      "a": "el cáncer de páncreas.",
+      "b": "la pancreatitis aguda.",
+      "c": "la pancreatitis crónica.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las precauciones que se recomiendan ante una úlcera gastroduodenal, encontramos…",
+    "options": {
+      "a": "tomar el fármaco junto con un café.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "tomar el fármaco junto con un buen vaso de agua.",
+      "d": "tomar alcohol todos los días."
+    },
+    "correct": "c",
+    "correct_text": "tomar el fármaco junto con un buen vaso de agua.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “los procesos no inflamatorios ni infecciosos y que afectan al hígado”...",
+    "options": {
+      "a": "procesos tóxicos-metabólicos.",
+      "b": "Hepatohepatia alcoholica.",
+      "c": "Hepatitis virales.",
+      "d": "Hepatitis crónica."
+    },
+    "correct": "a",
+    "correct_text": "procesos tóxicos-metabólicos.",
+    "tema": "tema3"
+  },
+  {
+    "question": "La presentación más frecuente de la úlcera gastrointestinal consiste en…",
+    "options": {
+      "a": "una sensación de ardor o molestia en el epigastrio.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "un dolor de cabeza.",
+      "d": "un herpes labial."
+    },
+    "correct": "a",
+    "correct_text": "una sensación de ardor o molestia en el epigastrio.",
+    "tema": "tema3"
+  },
+  {
+    "question": "El esfínter esofágico inferior tiene capacidad para adaptarse a cambios…",
+    "options": {
+      "a": "extrínsecos.",
+      "b": "externos.",
+      "c": "intrínsecos.",
+      "d": "fisiológicos."
+    },
+    "correct": "d",
+    "correct_text": "fisiológicos.",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Los pacientes con una úlcera gastroduodenal, pueden consumir café o alcohol?",
+    "options": {
+      "a": "Sí, en una cantidad moderada.",
+      "b": "Sí, en grandes cantidades.",
+      "c": "Sí, solo un sorbo.",
+      "d": "No, bajo ningún concepto."
+    },
+    "correct": "a",
+    "correct_text": "Sí, en una cantidad moderada.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los factores más importantes implicados en la etiología y en las recidivas de la úlcera peptica encontramos…",
+    "options": {
+      "a": "las comidas muy copiosas.",
+      "b": "el uso de antiinflamatorios esteroideos.",
+      "c": "el uso de alcohol.",
+      "d": "el uso de antiinflamatorios no esteroideos."
+    },
+    "correct": "d",
+    "correct_text": "el uso de antiinflamatorios no esteroideos.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los procesos que encontramos en las enfermedades que afectan al hígado podemos encontrarnos con…",
+    "options": {
+      "a": "lesiones tóxicas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "procesos inflamatorios o infecciosos.",
+      "d": "alteraciones vasculares y metabólicas."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las enfermedades que afectan al hepatocito, podemos encontrarnos con…",
+    "options": {
+      "a": "la úlcera gastroduodenal.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el reflujo gastroesofágico.",
+      "d": "la esteatohepatitis no alcohólica."
+    },
+    "correct": "d",
+    "correct_text": "la esteatohepatitis no alcohólica.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los tipos de diarrea que se establecen según su duración, son…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "diarrea aguda y crónica.",
+      "c": "diarrea corta y larga.",
+      "d": "diarrea corta y aguda."
+    },
+    "correct": "b",
+    "correct_text": "diarrea aguda y crónica.",
+    "tema": "tema3"
+  },
+  {
+    "question": "El objetivo de la rehidratación oral frente a las causas que originan la diarrea, es…",
+    "options": {
+      "a": "reemplazar la pérdida de agua y electrolitos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "reemplazar la pérdida de sangre.",
+      "d": "reintroducir ácidos grasos."
+    },
+    "correct": "a",
+    "correct_text": "reemplazar la pérdida de agua y electrolitos.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las patologías más frecuentes e importantes se suelen presentar en…",
+    "options": {
+      "a": "el hígado.",
+      "b": "el intestino delgado.",
+      "c": "la boca.",
+      "d": "el esófago y estómago."
+    },
+    "correct": "d",
+    "correct_text": "el esófago y estómago.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los iones que debe contener la rehidratación oral contra la diarrea encontramos…",
+    "options": {
+      "a": "potasio.",
+      "b": "cloruros.",
+      "c": "Todas las respuestas anteriores son correctas.",
+      "d": "bicarbonato."
+    },
+    "correct": "c",
+    "correct_text": "Todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los conceptos relacionados con el vómito que debemos conocer, se define como “los movimientos espasmódicos respiratorios con la glotis cerrada, acompañados de la contracción forzada de la musculatura respiratoria y abdominal”...",
+    "options": {
+      "a": "arcada.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "regurgitación.",
+      "d": "náusea."
+    },
+    "correct": "a",
+    "correct_text": "arcada.",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de dieta deben tener los pacientes con una úlcera gastroduodenal?",
+    "options": {
+      "a": "una dieta poco variada.",
+      "b": "una dieta rica en vitaminas.",
+      "c": "una dieta basada en la comida basura.",
+      "d": "no existe evidencia científica para recomendarles una dieta."
+    },
+    "correct": "d",
+    "correct_text": "no existe evidencia científica para recomendarles una dieta.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “el síndrome caracterizado por un incremento en la frecuencia, el peso o el contenido de agua en las heces.”...",
+    "options": {
+      "a": "úlcera gastroduodenal.",
+      "b": "diarrea.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "estreñimiento."
+    },
+    "correct": "b",
+    "correct_text": "diarrea.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para lograr reducir los efectos del reflujo gastroesofágico, tenemos que evitar…",
+    "options": {
+      "a": "el sobrepeso.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "los esfuerzos físicos.",
+      "d": "la ropa apretada."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se ha estimado que un… de la población adulta sufre pirosis…",
+    "options": {
+      "a": "un 20%.",
+      "b": "un 15%.",
+      "c": "un 1%.",
+      "d": "un 5 o 10%."
+    },
+    "correct": "d",
+    "correct_text": "un 5 o 10%.",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la capacidad para el transporte hidroelectrolítico del intestino, se estima que diariamente se vierten…",
+    "options": {
+      "a": "9 litros de líquidos al intestino para aumentar la digestión.",
+      "b": "2 litros de líquidos al intestino para facilitar la digestión.",
+      "c": "9 litros de líquidos al intestino para facilitar la digestión.",
+      "d": "9 litros de líquidos al intestino para dificultar la digestión."
+    },
+    "correct": "c",
+    "correct_text": "9 litros de líquidos al intestino para facilitar la digestión.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para disminuir los factores agresores en una úlcera gastrointestinal, se aplican…",
+    "options": {
+      "a": "ciertas cremas que alivian el quemazón.",
+      "b": "inhibidores de la secreción ácida.",
+      "c": "con un poco de agua se pasa la sensación de ardor.",
+      "d": "no se utiliza ningún tipo de pastilla."
+    },
+    "correct": "b",
+    "correct_text": "inhibidores de la secreción ácida.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “el paso del contenido gástrico, por lo común ácido, al esófago en ausencia de vómito”, a…",
+    "options": {
+      "a": "el reflujo gastroesofágico.",
+      "b": "las náuseas.",
+      "c": "la úlcera gastroduodenal.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "el reflujo gastroesofágico.",
+    "tema": "tema3"
+  },
+  {
+    "question": "La causa que parece fundamental de la ERGE es…",
+    "options": {
+      "a": "la rotura de la barrera espontánea.",
+      "b": "la prolongación de las relajaciones espontáneas.",
+      "c": "ninguna de las respuestas anteriores son correctas.",
+      "d": "la unión de las relajaciones espontáneas."
+    },
+    "correct": "b",
+    "correct_text": "la prolongación de las relajaciones espontáneas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los síntomas que suele presentar de forma brusca la diarrea aguda, podemos encontrarnos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "deshidratación.",
+      "c": "heces frecuentes y líquidas.",
+      "d": "debilidad y dolor abdominal."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el daño pancreático de la pancreatitis aguda cabe considerar varios protagonistas como…",
+    "options": {
+      "a": "una inflamación.",
+      "b": "radicales libres.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "enzimas pancreáticas."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Durante cuánto tiempo se suele extender una diarrea para empezar a considerarse crónica?",
+    "options": {
+      "a": "una semana.",
+      "b": "entre tres y cuatro semanas.",
+      "c": "dos meses.",
+      "d": "tres días."
+    },
+    "correct": "b",
+    "correct_text": "entre tres y cuatro semanas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "El mejor tratamiento ante la esteatohepatitis no alcoholica es…",
+    "options": {
+      "a": "la recomendación de una dieta por parte de un nutricionista.",
+      "b": "la realización de actividad sedentaria.",
+      "c": "inexistente, porque no hay un tratamiento farmacológico que mejore o frene el proceso.",
+      "d": "la consumición de alcohol."
+    },
+    "correct": "c",
+    "correct_text": "inexistente, porque no hay un tratamiento farmacológico que mejore o frene el proceso.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Finalmente, tras el tratamiento con sueroterapia, se reintroduce…",
+    "options": {
+      "a": "una gran cantidad de dieta sólida con muchas grasas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "una gran ingesta de comida.",
+      "d": "la ingesta oral, con ingesta líquida frecuente."
+    },
+    "correct": "d",
+    "correct_text": "la ingesta oral, con ingesta líquida frecuente.",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el tratamiento del reflujo gastroesofágico, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la remisión de los síntomas.",
+      "c": "las recomendaciones higiénico-dietéticas.",
+      "d": "la curación de lesiones esofágicas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las medidas posturales que encontramos para reducir los síntomas del reflujo gastroesofágico, tenemos…",
+    "options": {
+      "a": "bajar el cabecero de la cama.",
+      "b": "consumir tabaco.",
+      "c": "no acostarse hasta 2 o 3 horas después de la ingesta.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "no acostarse hasta 2 o 3 horas después de la ingesta.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las medidas dietéticas que se dictan para minimizar los síntomas del reflujo, encontramos…",
+    "options": {
+      "a": "realizar comidas con gran volumen.",
+      "b": "evitar las comidas copiosas.",
+      "c": "realizar comidas poco frecuentes.",
+      "d": "aumentar la ingesta de alimentos."
+    },
+    "correct": "b",
+    "correct_text": "evitar las comidas copiosas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “una lesión con pérdida de sustancia en cualquiera de las superficies del cuerpo humano” a…",
+    "options": {
+      "a": "una brecha.",
+      "b": "una úlcera.",
+      "c": "una herida.",
+      "d": "una rotura."
+    },
+    "correct": "b",
+    "correct_text": "una úlcera.",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento ante el vómito comprende actuaciones como…",
+    "options": {
+      "a": "el tratamiento específico de la enfermedad.",
+      "b": "la corrección del déficit hidroelectrolítico y calórico.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el tratamiento farmacológico del vómito."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “un cuadro histológico en que se aprecian las alteraciones que caracterizan la hepatitis alcohólica”...",
+    "options": {
+      "a": "la hepatopatia alcohólica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la esteatohepatitis no alcohólica.",
+      "d": "la hepatitis crónica autoinmune."
+    },
+    "correct": "c",
+    "correct_text": "la esteatohepatitis no alcohólica.",
+    "tema": "tema3"
+  },
+  {
+    "question": "La causa más conocida que origina el estreñimiento es…",
+    "options": {
+      "a": "la dieta con gran cantidad de calorías.",
+      "b": "ninguna porque no existe una causa conocida que lo origine.",
+      "c": "la dieta rica en fibra y vitaminas.",
+      "d": "la dieta alta en grasas y ácidos."
+    },
+    "correct": "b",
+    "correct_text": "ninguna porque no existe una causa conocida que lo origine.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “la inflamación crónica del hígado secundaria al desarrollo de fenómenos de autoinmunidad en su tejido”...",
+    "options": {
+      "a": "la esteatohepatitis no alcohólica.",
+      "b": "la hepatopatia alcohólica.",
+      "c": "la úlcera gastroduodenal.",
+      "d": "la hepatitis crónica autoinmune."
+    },
+    "correct": "d",
+    "correct_text": "la hepatitis crónica autoinmune.",
+    "tema": "tema3"
+  },
+  {
+    "question": "La alteración de… es la causa fundamental de producción de la ERGE.",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "bolsa antirreflujo.",
+      "c": "la línea antirreflujo.",
+      "d": "la barrera antirreflujo."
+    },
+    "correct": "d",
+    "correct_text": "la barrera antirreflujo.",
+    "tema": "tema3"
+  },
+  {
+    "question": "La forma más frecuente de la úlcera péptica es…",
+    "options": {
+      "a": "la estomacal.",
+      "b": "la intestinal.",
+      "c": "la duodenal.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la duodenal.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las patologías que hemos estudiado para las enfermedades que afectan al hígado encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la Hepatohepatia alcoholica.",
+      "c": "los procesos tóxicos-metabólicos.",
+      "d": "la hepatitis crónica autoinmune."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "La gravedad de la esofagitis se puede catalogar según…",
+    "options": {
+      "a": "el tiempo de lesión.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el tipo de lesión y su extensión.",
+      "d": "la forma de la lesión."
+    },
+    "correct": "c",
+    "correct_text": "el tipo de lesión y su extensión.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Los agentes normalmente no producen daños ni síntomas, puesto que existen unos mecanismos de defensa…",
+    "options": {
+      "a": "involuntarios.",
+      "b": "voluntarios.",
+      "c": "extrínsecos.",
+      "d": "intrínsecos."
+    },
+    "correct": "d",
+    "correct_text": "intrínsecos.",
+    "tema": "tema3"
+  },
+  {
+    "question": "En general, las personas con hepatitis virales, suelen presentar síntomas…",
+    "options": {
+      "a": "graves.",
+      "b": "leves.",
+      "c": "inespecíficos o bien son asintomáticas.",
+      "d": "muy comunes entre sí."
+    },
+    "correct": "c",
+    "correct_text": "inespecíficos o bien son asintomáticas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "El vómito, evolutivamente se desarrolló como…",
+    "options": {
+      "a": "un mecanismo para expulsar del cuerpo sustancias tóxicas ingeridas.",
+      "b": "ninguna de las respuestas anteriores son correctas.",
+      "c": "un mecanismo para hacer que se alejen enemigos de nosotros.",
+      "d": "un mecanismo de absorción de nutrientes."
+    },
+    "correct": "a",
+    "correct_text": "un mecanismo para expulsar del cuerpo sustancias tóxicas ingeridas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los síntomas más característicos de la ERGE encontramos…",
+    "options": {
+      "a": "la regurgitación ácida, únicamente.",
+      "b": "la pirosis, únicamente.",
+      "c": "el vómito.",
+      "d": "ambas respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las enfermedades que afectan al hígado, el cuadro final común es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "procesos tóxicos.",
+      "c": "la cirrosis hepática.",
+      "d": "enfermedades cardiovasculares."
+    },
+    "correct": "c",
+    "correct_text": "la cirrosis hepática.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las recomendaciones que se indican para los pacientes con estreñimiento crónico, encontramos…",
+    "options": {
+      "a": "mejorar los hábitos de evacuación del paciente.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "realizar ejercicio de manera continuada y diaria.",
+      "d": "mejorar los hábitos dietéticos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “la expulsión violenta y espasmódica del contenido del estómago a través de la boca”...",
+    "options": {
+      "a": "úlcera gastroduodenal.",
+      "b": "vómito.",
+      "c": "regurgitación.",
+      "d": "náusea."
+    },
+    "correct": "b",
+    "correct_text": "vómito.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “una intensa contracción de la musculatura abdominal diafragmática, al tiempo que el cardias permanece abierto y elevado y el píloro contraído”",
+    "options": {
+      "a": "arcada.",
+      "b": "náusea.",
+      "c": "regurgitación.",
+      "d": "vómito."
+    },
+    "correct": "d",
+    "correct_text": "vómito.",
+    "tema": "tema3"
+  },
+  {
+    "question": "Según la OMS, establece que existe diarrea cuando…",
+    "options": {
+      "a": "hay una o más deposiciones de gran consistencia al día.",
+      "b": "hay cinco o más deposiciones de baja consistencia al día.",
+      "c": "hay seis o más deposiciones de baja consistencia al día.",
+      "d": "hay tres o más deposiciones de baja consistencia al día."
+    },
+    "correct": "d",
+    "correct_text": "hay tres o más deposiciones de baja consistencia al día.",
+    "tema": "tema3"
+  },
+  {
+    "question": "El esfínter esofágico inferior está situado en la unión entre…",
+    "options": {
+      "a": "el esófago y el estómago.",
+      "b": "el esófago y la boca.",
+      "c": "el esófago y el páncreas.",
+      "d": "el esófago y la laringe."
+    },
+    "correct": "a",
+    "correct_text": "el esófago y el estómago.",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de diabetes es la más frecuente en todas las poblaciones?",
+    "options": {
+      "a": "la diabetes tipo 3.",
+      "b": "la diabetes tipo 5.",
+      "c": "la diabetes tipo 2.",
+      "d": "la diabetes tipo 1."
+    },
+    "correct": "c",
+    "correct_text": "la diabetes tipo 2.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El acumulo de glucógeno en un compartimento subcelular anormal o con una estructura anormal, se da en…",
+    "options": {
+      "a": "los tipos II y IV de glucogenosis.",
+      "b": "los tipos I y III de glucogenosis.",
+      "c": "los tipos V y VII de glucogenosis.",
+      "d": "el tipo IX de glucogenosis."
+    },
+    "correct": "a",
+    "correct_text": "los tipos II y IV de glucogenosis.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El magnesio, está implicado en…",
+    "options": {
+      "a": "el metabolismo óseo.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el metabolismo energético.",
+      "d": "en el transporte de nutrientes por el organismo."
+    },
+    "correct": "c",
+    "correct_text": "el metabolismo energético.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La clínica de la intolerancia hereditaria a la lactosa…",
+    "options": {
+      "a": "es totalmente precoz.",
+      "b": "es poco precoz.",
+      "c": "es muy precoz.",
+      "d": "es nada precoz."
+    },
+    "correct": "c",
+    "correct_text": "es muy precoz.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El diagnóstico de la diabetes en un paciente se configura esencialmente…",
+    "options": {
+      "a": "como la certificación de un estado permanente o crónico de hiperglucemia.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "como la certificación de un estado durante poco tiempo, de un estado de hiperglucemia.",
+      "d": "como la certificación de un estado crónico de glucólisis."
+    },
+    "correct": "a",
+    "correct_text": "como la certificación de un estado permanente o crónico de hiperglucemia.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La principal fuente de galactosa en los alimentos es…",
+    "options": {
+      "a": "la fruta.",
+      "b": "la leche.",
+      "c": "las legumbres.",
+      "d": "los cereales."
+    },
+    "correct": "b",
+    "correct_text": "la leche.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La función del glucagón, se realiza principalmente a través de mecanismos de nivel…",
+    "options": {
+      "a": "intestinal.",
+      "b": "estomacal.",
+      "c": "pancreático.",
+      "d": "hepático."
+    },
+    "correct": "d",
+    "correct_text": "hepático.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las causas más características de la hiperfosfatemia, podemos encontrar…",
+    "options": {
+      "a": "la disminución del aporte de fosfato.",
+      "b": "el aumento de la excreción renal.",
+      "c": "la redistribución desde compartimentos intracelulares a extracelulares.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "c",
+    "correct_text": "la redistribución desde compartimentos intracelulares a extracelulares.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los diferentes tipos de diabetes, se clasifican en…",
+    "options": {
+      "a": "tipos del 1 al 3.",
+      "b": "tipos del 1 al 4.",
+      "c": "solo existe un tipo de diabetes.",
+      "d": "tipos 1 y 2."
+    },
+    "correct": "d",
+    "correct_text": "tipos 1 y 2.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La hipovitaminosis, producida por un déficit vitamínico, suele estar causada por…",
+    "options": {
+      "a": "el no consumo de tabaco.",
+      "b": "poblaciones poco marginales.",
+      "c": "la enfermedad hepatobiliar.",
+      "d": "la ingesta suficiente cuando somos ancianos."
+    },
+    "correct": "c",
+    "correct_text": "la enfermedad hepatobiliar.",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el metabolismo de los aminoácidos, las alteraciones más frecuentes son…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la cistinuria.",
+      "c": "la enfermedad de Hartnup.",
+      "d": "la inmunoglicinuria."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué porcentaje de proteínas ingeridas, son atacadas en el sistema digestivo y degradadas a aminoácidos?",
+    "options": {
+      "a": "un 50%.",
+      "b": "un 70 o 75%.",
+      "c": "un 90 o 95%.",
+      "d": "un 80 u 85%."
+    },
+    "correct": "c",
+    "correct_text": "un 90 o 95%.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La hipervitaminosis se produce cuando…",
+    "options": {
+      "a": "hay la falta de algún tipo de nutriente.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "hay falta de vitaminas.",
+      "d": "hay exceso de algún tipo de vitamina."
+    },
+    "correct": "d",
+    "correct_text": "hay exceso de algún tipo de vitamina.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cuáles son los elementos minerales más abundantes en el organismo?",
+    "options": {
+      "a": "el calcio y fósforo, únicamente.",
+      "b": "el hidrógeno y el lítio.",
+      "c": "el calcio, fósforo y magnesio.",
+      "d": "el magnesio y fósforo, únicamente."
+    },
+    "correct": "c",
+    "correct_text": "el calcio, fósforo y magnesio.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El síndrome hipoglucémico se detecta cuando hay un descenso…",
+    "options": {
+      "a": "de la glucólisis por debajo de 20mg/dl.",
+      "b": "de la glucemia por debajo de 70mg/dl.",
+      "c": "de la glucemia por debajo de 60mg/dl.",
+      "d": "de la glucemia por debajo de 40mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "de la glucemia por debajo de 40mg/dl.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La hipervitaminosis de la vitamina D, se caracteriza por…",
+    "options": {
+      "a": "las infecciones de orina.",
+      "b": "las afecciones al corazón.",
+      "c": "la hiperglucolisis.",
+      "d": "la hipercalcemia."
+    },
+    "correct": "d",
+    "correct_text": "la hipercalcemia.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El contenido en el organismo de magnesio, se encuentra en un total de…",
+    "options": {
+      "a": "30 gramos.",
+      "b": "25 gramos.",
+      "c": "20 gramos.",
+      "d": "40 gramos."
+    },
+    "correct": "b",
+    "correct_text": "25 gramos.",
+    "tema": "tema4"
+  },
+  {
+    "question": "A nivel del tejido adiposo, el glucagón va a favorecer…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la oxidación de hidratos de carbono.",
+      "c": "la lipolisis por activación de la lipasa.",
+      "d": "la activación de las proteínas."
+    },
+    "correct": "c",
+    "correct_text": "la lipolisis por activación de la lipasa.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se definen como las “alteraciones congénitas de la galactosa” a…",
+    "options": {
+      "a": "la galactosemia.",
+      "b": "la galactogénesis.",
+      "c": "una alteración de la galactosa.",
+      "d": "la glucogenosis."
+    },
+    "correct": "a",
+    "correct_text": "la galactosemia.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La hidrólisis de las proteínas en el tracto gastrointestinal se efectúa mediante enzimas segregadas…",
+    "options": {
+      "a": "por el intestino.",
+      "b": "por los jugos gástricos y pancreáticos.",
+      "c": "por el jugo pancreático, únicamente.",
+      "d": "por el estómago."
+    },
+    "correct": "b",
+    "correct_text": "por los jugos gástricos y pancreáticos.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cuál es la única enfermedad en la que existe deficiencia de glucógeno?",
+    "options": {
+      "a": "el tipo I de glucogenosis.",
+      "b": "el tipo IX de glucogenosis.",
+      "c": "el tipo VII de glucogenosis.",
+      "d": "el tipo III de glucogenosis."
+    },
+    "correct": "b",
+    "correct_text": "el tipo IX de glucogenosis.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las vitaminas que se absorben más fácilmente por el cuerpo en la presencia de la grasa alimentaria son…",
+    "options": {
+      "a": "las vitaminas liposolubles.",
+      "b": "las vitaminas hidrosolubles.",
+      "c": "las vitaminas muy solubles.",
+      "d": "las vitaminas poco solubles."
+    },
+    "correct": "a",
+    "correct_text": "las vitaminas liposolubles.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las consecuencias de la glucogenosis, encontramos…",
+    "options": {
+      "a": "los temblores, el mareo y la dificultad para hablar.",
+      "b": "la sensación de ansiedad o debilidad muscular.",
+      "c": "la confusión mental, las convulsiones o el coma.",
+      "d": "el aumento de tamaño y lesión de órganos como el hígado."
+    },
+    "correct": "d",
+    "correct_text": "el aumento de tamaño y lesión de órganos como el hígado.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las formas de intolerancia a la lactosa, existen…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "únicamente la intolerancia hereditaria.",
+      "c": "únicamente se puede adquirir.",
+      "d": "se puede adquirir o ser hereditaria."
+    },
+    "correct": "d",
+    "correct_text": "se puede adquirir o ser hereditaria.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Estimular la glucolisis cuando hay un exceso de glucosa, es un efecto…",
+    "options": {
+      "a": "de los lípidos.",
+      "b": "de los hidratos de carbono.",
+      "c": "de las proteínas.",
+      "d": "de la glucosa."
+    },
+    "correct": "d",
+    "correct_text": "de la glucosa.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La absorción intestinal de aminoácidos se realiza por mecanismos de transporte…",
+    "options": {
+      "a": "terciario.",
+      "b": "primario.",
+      "c": "cuaternario.",
+      "d": "secundario."
+    },
+    "correct": "d",
+    "correct_text": "secundario.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los procesos biológicos donde está presente el calcio, podemos encontrar…",
+    "options": {
+      "a": "la regulación de la excitabilidad nerviosa.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "en la permeabilidad de las membranas.",
+      "d": "el acoplamiento de la excitabilidad-contracción muscular."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El descenso de los niveles de glucosa pone en marcha el conocido como…",
+    "options": {
+      "a": "sistema de filtración del estrés.",
+      "b": "sistema de antiestrés.",
+      "c": "sistema de estrés.",
+      "d": "sistema de activación del estrés."
+    },
+    "correct": "c",
+    "correct_text": "sistema de estrés.",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el efecto de la insulina sobre el metabolismo de las proteínas…",
+    "options": {
+      "a": "activa la oxidación de hidratos de carbono.",
+      "b": "estimula la síntesis proteica.",
+      "c": "activa la glucólisis.",
+      "d": "deja de estimular el efecto de la síntesis protéica."
+    },
+    "correct": "b",
+    "correct_text": "estimula la síntesis proteica.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿A partir de qué edad es más frecuente y probable que se comience a desarrollar diabetes tipo 2?",
+    "options": {
+      "a": "a partir del nacimiento.",
+      "b": "a partir de los 60 años.",
+      "c": "a partir de los 25 años.",
+      "d": "a partir de los 40 años."
+    },
+    "correct": "d",
+    "correct_text": "a partir de los 40 años.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los factores por los cuales son influenciables el metabolismo mineral y la fisiología ósea, podemos encontrar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el estado funcional hepático y renal.",
+      "c": "los hábitos alimentarios y el ejercicio físico.",
+      "d": "las variaciones en la absorción intestinal."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "En total, el organismo contiene unos… de fósforo…",
+    "options": {
+      "a": "600 gramos.",
+      "b": "400 gramos.",
+      "c": "800 gramos.",
+      "d": "900 gramos."
+    },
+    "correct": "a",
+    "correct_text": "600 gramos.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La digestión de las proteínas comienza en…",
+    "options": {
+      "a": "el esófago.",
+      "b": "el páncreas.",
+      "c": "el estómago.",
+      "d": "el intestino delgado."
+    },
+    "correct": "c",
+    "correct_text": "el estómago.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las vitaminas son un grupo heterogéneo de sustancias orgánicas...",
+    "options": {
+      "a": "energético abstracto.",
+      "b": "sin valor energético propio.",
+      "c": "energético común.",
+      "d": "energético igual a otros aminoácidos."
+    },
+    "correct": "b",
+    "correct_text": "sin valor energético propio.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La actuación hormonal del síndrome hipoglucémico, además de aumentar el suministro de glucosa, provoca…",
+    "options": {
+      "a": "taquicardia y temblores, únicamente.",
+      "b": "temblores, ansiedad, hambre, hipertensión arterial, entre otros.",
+      "c": "hipertensión arterial, únicamente.",
+      "d": "ansiedad y hambre, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "temblores, ansiedad, hambre, hipertensión arterial, entre otros.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La glucosa es vertida a la sangre para que se utilicen en órganos como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores.",
+      "b": "el cerebro y el músculo.",
+      "c": "el estómago o el hígado.",
+      "d": "los intestinos delgado y grueso."
+    },
+    "correct": "b",
+    "correct_text": "el cerebro y el músculo.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “la alteración de la fructosa caracterizada por el déficit de fructocinasa” a…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la fructosuaria maligna.",
+      "c": "la intolerancia a la fructosa.",
+      "d": "la fructosuria benigna."
+    },
+    "correct": "d",
+    "correct_text": "la fructosuria benigna.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El almacenamiento de proteínas se detiene cuando…",
+    "options": {
+      "a": "hay un exceso de proteína.",
+      "b": "cuando hay un catabolismo acelerado.",
+      "c": "la insulina no está disponible.",
+      "d": "el catabolismo proteico disminuye."
+    },
+    "correct": "c",
+    "correct_text": "la insulina no está disponible.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los efectos de la insulina sobre el metabolismo de los carbohidratos, encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "tras la absorción de agua, la glucosa absorbida en la sangre provoca una rápida secreción de insulina.",
+      "c": "tras una comida rica en hidratos de carbono, la glucosa absorbida a la sangre provoca una rápida secreción de insulina.",
+      "d": "tras una comida baja en hidratos de carbono, la glucosa absorbida a la sangre provoca una rápida secreción de insulina."
+    },
+    "correct": "c",
+    "correct_text": "tras una comida rica en hidratos de carbono, la glucosa absorbida a la sangre provoca una rápida secreción de insulina.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los mecanismos a nivel hepático del glucagón…",
+    "options": {
+      "a": "aumenta la gluconeogénesis a la vez que aumenta la glucolísis.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "aumenta la disponibilidad de glucosa para el organismo.",
+      "d": "inhibe la degradación del glucógeno hepático."
+    },
+    "correct": "c",
+    "correct_text": "aumenta la disponibilidad de glucosa para el organismo.",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la hipocalcemia, se encuentra una concentración de calcio sérico inferior a…",
+    "options": {
+      "a": "15 mg por decilitro.",
+      "b": "8 mg por decilitro.",
+      "c": "10 mg por decilitro.",
+      "d": "20 mg por decilitro."
+    },
+    "correct": "b",
+    "correct_text": "8 mg por decilitro.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La insulina interviene en…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el aprovechamiento de los hidratos de carbono.",
+      "c": "el aprovechamiento de la glucólisis.",
+      "d": "en el aprovechamiento metabólico de los nutrientes."
+    },
+    "correct": "d",
+    "correct_text": "en el aprovechamiento metabólico de los nutrientes.",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el mineral óseo, podemos encontrar un total de… magnesio…",
+    "options": {
+      "a": "un 90%.",
+      "b": "un 60%.",
+      "c": "un 50%.",
+      "d": "un 75%."
+    },
+    "correct": "b",
+    "correct_text": "un 60%.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El principal glúcido de la dieta es…",
+    "options": {
+      "a": "las proteínas.",
+      "b": "los lípidos.",
+      "c": "el almidón.",
+      "d": "el glucógeno."
+    },
+    "correct": "c",
+    "correct_text": "el almidón.",
+    "tema": "tema4"
+  },
+  {
+    "question": "En ausencia de la insulina, todos los mecanismos…",
+    "options": {
+      "a": "se invierten.",
+      "b": "aumentan.",
+      "c": "siguen igual.",
+      "d": "disminuyen."
+    },
+    "correct": "a",
+    "correct_text": "se invierten.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El almidón se encuentra presente en alimentos, tales como…",
+    "options": {
+      "a": "los cereales, únicamente.",
+      "b": "los tubérculos, únicamente.",
+      "c": "se encuentra en todos los alimentos mencionados anteriormente.",
+      "d": "la pasta, únicamente."
+    },
+    "correct": "c",
+    "correct_text": "se encuentra en todos los alimentos mencionados anteriormente.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “el aumento o disminución de alguno de los componentes del plasma sanguíneo”...",
+    "options": {
+      "a": "la albumina.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la disproteinemia.",
+      "d": "la prealbumina."
+    },
+    "correct": "c",
+    "correct_text": "la disproteinemia.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El desarrollo de la aterosclerosis, es un proceso…",
+    "options": {
+      "a": "rápido y muy ruidoso.",
+      "b": "lento, progresivo y silencioso.",
+      "c": "lento, pero muy sonoro.",
+      "d": "es muy ruidoso, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "lento, progresivo y silencioso.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las alteraciones en el metabolismo de los disacáridos, son relacionadas con la digestión a nivel…",
+    "options": {
+      "a": "estomacal.",
+      "b": "intestinal.",
+      "c": "hepático.",
+      "d": "pancreático."
+    },
+    "correct": "b",
+    "correct_text": "intestinal.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La hiperglucemia para detectar una diabetes, debe ser confirmada…",
+    "options": {
+      "a": "después de una comida copiosa.",
+      "b": "transcurridas dos horas desde la última comida.",
+      "c": "en un estado de ayuno.",
+      "d": "después de una comida alta en carbohidratos."
+    },
+    "correct": "c",
+    "correct_text": "en un estado de ayuno.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los sustratos alternativos que se utilizan como fuente energética cuando hay una menor disponibilidad de glucosa, encontramos…",
+    "options": {
+      "a": "los carbohidratos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "los ácidos grasos.",
+      "d": "las proteínas."
+    },
+    "correct": "c",
+    "correct_text": "los ácidos grasos.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los trastornos más frecuentes relacionados con la galactosemia, encontramos…",
+    "options": {
+      "a": "la deficiencia de galactoquinasa.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la evolución de la galactosemia.",
+      "d": "el aumento de galactosa."
+    },
+    "correct": "a",
+    "correct_text": "la deficiencia de galactoquinasa.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La diabetes tipo 1, se distingue por…",
+    "options": {
+      "a": "ser causada por un aumento de las células beta pancreáticas.",
+      "b": "por aumentar con la edad o el sexo.",
+      "c": "ser causada por una destrucción de las células beta pancreáticas.",
+      "d": "por ser la más frecuente entre las distintas poblaciones."
+    },
+    "correct": "c",
+    "correct_text": "ser causada por una destrucción de las células beta pancreáticas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipo de proteína tiene capacidad para fijar cobre?",
+    "options": {
+      "a": "la haptoglobina.",
+      "b": "la ceruloplasmina.",
+      "c": "la transferrina.",
+      "d": "las inmunoglobulinas."
+    },
+    "correct": "b",
+    "correct_text": "la ceruloplasmina.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿A través de qué ciclo, los lípidos llegan a las células para proporcionar energía?",
+    "options": {
+      "a": "a través del ciclo de Kerbs.",
+      "b": "a través del ciclo de Einstein.",
+      "c": "a través del ciclo de Manhattan.",
+      "d": "a través del ciclo de Newton."
+    },
+    "correct": "a",
+    "correct_text": "a través del ciclo de Kerbs.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El síndrome hiperglucémico se caracteriza por…",
+    "options": {
+      "a": "aumentar la utilización de glucosa por las células del organismo.",
+      "b": "mantener estable la utilización de glucosa por las células del organismo.",
+      "c": "disminuir la utilización de glucosa por las células del organismo.",
+      "d": "la glucosa se mantiene siempre estable en el organismo."
+    },
+    "correct": "c",
+    "correct_text": "disminuir la utilización de glucosa por las células del organismo.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Dónde se almacenan grandes cantidades de glucosa?",
+    "options": {
+      "a": "en el estómago.",
+      "b": "en el hígado.",
+      "c": "en el páncreas.",
+      "d": "en los intestinos."
+    },
+    "correct": "b",
+    "correct_text": "en el hígado.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cómo promueve la insulina la síntesis de ácidos grasos?",
+    "options": {
+      "a": "a partir de la falta de glucosa hepática.",
+      "b": "a partir de la glucólisis hepática.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "a través del exceso de glucosa hepática."
+    },
+    "correct": "d",
+    "correct_text": "a través del exceso de glucosa hepática.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué cantidad de proteínas contiene el plasma?",
+    "options": {
+      "a": "unos 5g por decilitro.",
+      "b": "unos 3g por decilitro.",
+      "c": "unos 10g por decilitro.",
+      "d": "unos 7g por decilitro."
+    },
+    "correct": "d",
+    "correct_text": "unos 7g por decilitro.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los distintos tipos de glucogenosis, existen un total de…",
+    "options": {
+      "a": "10 tipos distintos.",
+      "b": "15 tipos distintos.",
+      "c": "9 tipos distintos.",
+      "d": "5 tipos distintos."
+    },
+    "correct": "c",
+    "correct_text": "9 tipos distintos.",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el metabolismo de las grasas, la insulina…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "estimula la síntesis de ácidos grasos.",
+      "c": "inhibe la lipólisis.",
+      "d": "facilita la aclaración de lipoproteínas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué factores son los que influyen claramente en el desarrollo de diabetes tipo 2?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "los factores ambientales.",
+      "c": "las factores humanos.",
+      "d": "los factores sociales."
+    },
+    "correct": "b",
+    "correct_text": "los factores ambientales.",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué cantidad de calcio se absorbe en una dieta media?",
+    "options": {
+      "a": "100 mg.",
+      "b": "1000 mg.",
+      "c": "500 mg.",
+      "d": "800 mg."
+    },
+    "correct": "b",
+    "correct_text": "1000 mg.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los efectos de la insulina encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "facilita la entrada de glucosa a la célula.",
+      "c": "hace actuar la gluconeogénesis hepática.",
+      "d": "deja de estimular la degradación tisular de la glucosa."
+    },
+    "correct": "b",
+    "correct_text": "facilita la entrada de glucosa a la célula.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La función más importante de los hidratos de carbono es…",
+    "options": {
+      "a": "ser fuente de energía mediante la hidrólisis.",
+      "b": "ser fuente de energía mediante la glucosa.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "no ser fuente de energía mediante la glucosa."
+    },
+    "correct": "b",
+    "correct_text": "ser fuente de energía mediante la glucosa.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El metabolismo de los compuestos nitrogenados implica el metabolismo de…",
+    "options": {
+      "a": "las proteínas y los ácidos nucleicos y nucleótidos.",
+      "b": "las proteínas y los hidratos de carbono.",
+      "c": "los hidratos de carbono y los lípidos.",
+      "d": "los lípidos y las proteínas."
+    },
+    "correct": "a",
+    "correct_text": "las proteínas y los ácidos nucleicos y nucleótidos.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El cuadro definido por un aumento del calcio sérico, se denomina como…",
+    "options": {
+      "a": "hipocalciuria.",
+      "b": "hipercalciuria.",
+      "c": "hipercalcemia.",
+      "d": "hipocalcemia."
+    },
+    "correct": "c",
+    "correct_text": "hipercalcemia.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Tras la ingestión de las grasas en el metabolismo lipídico, ¿dónde se mezclan con la secreción biliar?",
+    "options": {
+      "a": "en el duodeno.",
+      "b": "en el páncreas.",
+      "c": "en el íleon.",
+      "d": "en el yeyuno."
+    },
+    "correct": "a",
+    "correct_text": "en el duodeno.",
+    "tema": "tema4"
+  },
+  {
+    "question": "El fósforo es fundamental para…",
+    "options": {
+      "a": "los importantes procesos bioquímicos celulares.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "la fosforilación de compuestos que participan en el metabolismo de las grasas."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La glucosa se suele emplear para formar energía mediante…",
+    "options": {
+      "a": "la hidrogeneización.",
+      "b": "la glucolisis.",
+      "c": "la hidrólisis.",
+      "d": "la oxidación."
+    },
+    "correct": "b",
+    "correct_text": "la glucolisis.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las manifestaciones más características de la hipocalcemia, podemos encontrar…",
+    "options": {
+      "a": "parestesias.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "los espasmos carpopedales.",
+      "d": "neuromusculares."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La intolerancia a la sacarosa se caracteriza por…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "mejorar con la edad.",
+      "c": "deberse a un fallo genético.",
+      "d": "un déficit o ausencia en las microvellosidades de sacarosa-isomaltasa."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las consecuencias de la gluconeuropenia, podemos encontrar…",
+    "options": {
+      "a": "cefaleas o visión borrosa.",
+      "b": "el hambre.",
+      "c": "la sensación de ansiedad o debilidad.",
+      "d": "la dificultad al hablar."
+    },
+    "correct": "a",
+    "correct_text": "cefaleas o visión borrosa.",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “la hormona secretada por las células alfa de los islotes, cuando la concentración de glucosa desciende”...",
+    "options": {
+      "a": "lípido.",
+      "b": "lactosa.",
+      "c": "sacarosa.",
+      "d": "glucagón."
+    },
+    "correct": "d",
+    "correct_text": "glucagón.",
+    "tema": "tema4"
+  },
+  {
+    "question": "La enfermedad que aparece en jóvenes al no estar cerradas las epífisis es…",
+    "options": {
+      "a": "el enanismo hipofisiario.",
+      "b": "el enanismo.",
+      "c": "el gigantismo hipofisiario.",
+      "d": "una infección."
+    },
+    "correct": "c",
+    "correct_text": "el gigantismo hipofisiario.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El síndrome nefrótico consiste en…",
+    "options": {
+      "a": "una lesión de la membrana filtrante.",
+      "b": "una lesión de un hueso.",
+      "c": "una lesión de una membrana no filtrante.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "una lesión de la membrana filtrante.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La patología neurológica que se manifiesta por temblores, rigidez muscular, lentitud en el movimiento y dificultad para mantener el equilibrio, es…",
+    "options": {
+      "a": "parkinson.",
+      "b": "el ictus.",
+      "c": "la esclerosis múltiple.",
+      "d": "el síndrome infeccioso febril."
+    },
+    "correct": "a",
+    "correct_text": "parkinson.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El asma bronquial se manifiesta por…",
+    "options": {
+      "a": "los hábitos tabáquicos.",
+      "b": "un estrechamiento en las fosas nasales.",
+      "c": "un estrechamiento difuso de las vias respiratorias.",
+      "d": "un estrechamiento de la laringe."
+    },
+    "correct": "c",
+    "correct_text": "un estrechamiento difuso de las vias respiratorias.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las alteraciones en las proteínas transportadoras de hormonas, se deben a…",
+    "options": {
+      "a": "fármacos.",
+      "b": "factores genéticos.",
+      "c": "enfermedades no endocrinas.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como la alteración a consecuencia de otra enfermedad…",
+    "options": {
+      "a": "ritmo cardíaco.",
+      "b": "patología cardíaca.",
+      "c": "insuficiencia cardíaca.",
+      "d": "alteración cardíaca."
+    },
+    "correct": "c",
+    "correct_text": "insuficiencia cardíaca.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La gónada masculina se encuentra situada en…",
+    "options": {
+      "a": "la testosterona",
+      "b": "el páncreas",
+      "c": "los testículos",
+      "d": "los riñones"
+    },
+    "correct": "c",
+    "correct_text": "los testículos",
+    "tema": "tema5"
+  },
+  {
+    "question": "La formación de orina comienza con la filtración de grandes cantidades de líquidos, en torno a…",
+    "options": {
+      "a": "entre 100 y 150 litros al día.",
+      "b": "entre 150 y 180 litros al día.",
+      "c": "300 litros al día.",
+      "d": "entre 200 y 250 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "entre 150 y 180 litros al día.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como “la insuficiencia de la corteza suprarrenal causada por una producción insuficiente de hormonas” a…",
+    "options": {
+      "a": "la hiperfunción suprarrenal.",
+      "b": "a la hipofunción corticosuprarrenal.",
+      "c": "a la fisiopatología de las glándulas suprarrenales.",
+      "d": "al hiperparatiroidismo."
+    },
+    "correct": "b",
+    "correct_text": "a la hipofunción corticosuprarrenal.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La glándula tiroides se encuentra situada en…",
+    "options": {
+      "a": "la cabeza.",
+      "b": "el pecho.",
+      "c": "la parte posterior del cerebro.",
+      "d": "en el cuello."
+    },
+    "correct": "d",
+    "correct_text": "en el cuello.",
+    "tema": "tema5"
+  },
+  {
+    "question": "A la materia expulsada y formada por secreciones propias del aparato respiratorio, se le denomina…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "esputo.",
+      "c": "disnea.",
+      "d": "rinitis."
+    },
+    "correct": "b",
+    "correct_text": "esputo.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El síndrome nefrótico, es un síndrome renal caracterizado por…",
+    "options": {
+      "a": "la proteinuria.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la hipoalbuminemia.",
+      "d": "la lipiduria y edema."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la poliuria, como alteración cuantitativa del aparato renal, encontramos la emisión de… orina al día.",
+    "options": {
+      "a": "más de 4 litros.",
+      "b": "más de 2 litros.",
+      "c": "más de 5 litros.",
+      "d": "menos de 2 litros."
+    },
+    "correct": "b",
+    "correct_text": "más de 2 litros.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La insuficiencia cardíaca es una situación patológica caracterizada por…",
+    "options": {
+      "a": "el aumento del ritmo cardíaco.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el aumento de manera continuada y excesiva de la actividad cardíaca.",
+      "d": "la disminución de la actividad funcional del corazón."
+    },
+    "correct": "d",
+    "correct_text": "la disminución de la actividad funcional del corazón.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El EPOC en la mayoría de los casos, está producido por…",
+    "options": {
+      "a": "los hábitos de consumo.",
+      "b": "los hábitos alcohólicos.",
+      "c": "los hábitos alimentarios.",
+      "d": "los hábitos tabáquicos."
+    },
+    "correct": "d",
+    "correct_text": "los hábitos tabáquicos.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La hormona prolactina es consecuencia de…",
+    "options": {
+      "a": "lesiones tumorales.",
+      "b": "lesiones musculares.",
+      "c": "lesiones destructivas de la hipófisis.",
+      "d": "lesiones óseas."
+    },
+    "correct": "c",
+    "correct_text": "lesiones destructivas de la hipófisis.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La hormona prolactina da lugar a…",
+    "options": {
+      "a": "iconorrea.",
+      "b": "galactorrea.",
+      "c": "isiorrea.",
+      "d": "gonorrea."
+    },
+    "correct": "b",
+    "correct_text": "galactorrea.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los tres procesos básicos que se producen en el riñón son…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la filtración glomerular, la reabsorción tubular y la secreción tubular.",
+      "c": "la reabsorción glomerular, la reabsorción tubular y la secreción de agua.",
+      "d": "la secreción de líquidos, la reabsorción de estos líquidos y la filtración de los mismos."
+    },
+    "correct": "b",
+    "correct_text": "la filtración glomerular, la reabsorción tubular y la secreción tubular.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se definen como “las prolongaciones cortas por donde entra el impulso nervioso”",
+    "options": {
+      "a": "las dendritas.",
+      "b": "el moma.",
+      "c": "el soma.",
+      "d": "el axón."
+    },
+    "correct": "a",
+    "correct_text": "las dendritas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las paratiroides son … pequeñas glándulas situadas en la cara posterior del tiroides.",
+    "options": {
+      "a": "tres.",
+      "b": "cuatro.",
+      "c": "cinco.",
+      "d": "dos."
+    },
+    "correct": "b",
+    "correct_text": "cuatro.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El término etiopatogenia hace referencia…",
+    "options": {
+      "a": "a la patología de una enfermedad concreta.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "únicamente a las causas de cómo se produce la alimentación humana.",
+      "d": "a las causas y mecanismos de cómo se produce una enfermedad concreta."
+    },
+    "correct": "d",
+    "correct_text": "a las causas y mecanismos de cómo se produce una enfermedad concreta.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como “la retención de productos nitrogenados de desecho procedentes del catabolismo proteico en la sangre”, a…",
+    "options": {
+      "a": "la hipertensión renal.",
+      "b": "la alteración de la función estenúrica.",
+      "c": "la azoemia.",
+      "d": "no existe un término para esa definición."
+    },
+    "correct": "c",
+    "correct_text": "la azoemia.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los procesos básicos en el aparato renal se llevan a cabo mediante la actividad de la unidad funcional denominada como…",
+    "options": {
+      "a": "leucocito.",
+      "b": "neurona.",
+      "c": "nefronas.",
+      "d": "hematocito."
+    },
+    "correct": "c",
+    "correct_text": "nefronas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El control de la circulación está llevado a cabo por…",
+    "options": {
+      "a": "el sistema nervioso simpático y parasimpático.",
+      "b": "el sistema circulatorio.",
+      "c": "todas las respuestas anteriores son correctas..",
+      "d": "el sistema nervioso simpático, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "el sistema nervioso simpático y parasimpático.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como “la secreción aumentada por alteraciones de las propias glándulas tiroideas”",
+    "options": {
+      "a": "hipofunción corticosuprarrenal.",
+      "b": "hiperparatiroidismo secundario.",
+      "c": "hipoparatiroidismo.",
+      "d": "hiperparatiroidismo primario."
+    },
+    "correct": "d",
+    "correct_text": "hiperparatiroidismo primario.",
+    "tema": "tema5"
+  },
+  {
+    "question": "A los tumores malignos, se les denomina con el sufijo…",
+    "options": {
+      "a": "oma",
+      "b": "sarcoma o carcinoma",
+      "c": "ato o ata",
+      "d": "sardema"
+    },
+    "correct": "b",
+    "correct_text": "sarcoma o carcinoma",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las hormonas, entre otras funciones, ejercen la de…",
+    "options": {
+      "a": "integración y coordinación, únicamente.",
+      "b": "regulación y coordinación, únicamente.",
+      "c": "integración y regulación, únicamente.",
+      "d": "integración, regulación y coordinación."
+    },
+    "correct": "d",
+    "correct_text": "integración, regulación y coordinación.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los diferentes tipos de hormonas, podemos encontrar…",
+    "options": {
+      "a": "las hormonas no derivadas de los aminoácidos.",
+      "b": "las hormonas derivadas de los lípidos.",
+      "c": "las hormonas derivadas de las proteínas y péptidos.",
+      "d": "las hormonas no esteroideas."
+    },
+    "correct": "c",
+    "correct_text": "las hormonas derivadas de las proteínas y péptidos.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Cada glándula suprarrenal está compuesta por…",
+    "options": {
+      "a": "las hormonas adrenalina y noradrenalina.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la corteza suprarrenal.",
+      "d": "la médula suprarrenal."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Para lograr su cometido, el riñón necesita…",
+    "options": {
+      "a": "un gran aporte sanguíneo.",
+      "b": "un gran aporte de Ph del agua.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un gran aporte hidrológico."
+    },
+    "correct": "a",
+    "correct_text": "un gran aporte sanguíneo.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La temperatura corporal media se sitúa entre…",
+    "options": {
+      "a": "los 34º y los 35º.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "los 37º y los 38º.",
+      "d": "los 36’5º y los 37º."
+    },
+    "correct": "d",
+    "correct_text": "los 36’5º y los 37º.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las gónadas femeninas se encuentran situadas en…",
+    "options": {
+      "a": "las neuronas.",
+      "b": "los ovarios.",
+      "c": "en todo el aparato reproductor femenino.",
+      "d": "los senos."
+    },
+    "correct": "b",
+    "correct_text": "los ovarios.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La hormona encargada de estimular la secreción de leche uterina, es…",
+    "options": {
+      "a": "los estrógenos.",
+      "b": "la progesterona.",
+      "c": "la testosterona.",
+      "d": "la insulina."
+    },
+    "correct": "b",
+    "correct_text": "la progesterona.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las causas de la hipertensión podemos distinguir…",
+    "options": {
+      "a": "un aumento de la frecuencia cardíaca.",
+      "b": "una disminución del gasto cardíaco.",
+      "c": "un aumento de la elasticidad.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "a",
+    "correct_text": "un aumento de la frecuencia cardíaca.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El aparato respiratorio es el encargado de…",
+    "options": {
+      "a": "la no entrada de aire en las vías respiratorias.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el intercambio gaseoso entre nuestro organismo y el aire atmosférico.",
+      "d": "el intercambio de líquidos."
+    },
+    "correct": "c",
+    "correct_text": "el intercambio gaseoso entre nuestro organismo y el aire atmosférico.",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Dónde se va a llevar a cabo la modificación metabólica de la totalidad de las hormonas?",
+    "options": {
+      "a": "el hígado.",
+      "b": "el páncreas.",
+      "c": "el estómago.",
+      "d": "el intestino."
+    },
+    "correct": "a",
+    "correct_text": "el hígado.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La hormona encargada de contraer el útero durante el parto es…",
+    "options": {
+      "a": "la aldosterona.",
+      "b": "la vasopresina.",
+      "c": "la oxitocina.",
+      "d": "el cortisol."
+    },
+    "correct": "c",
+    "correct_text": "la oxitocina.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las causas principales de la insuficiencia cardíaca, encontramos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la alteración de la contracción cardíaca.",
+      "c": "ambas respuestas anteriores son correctas.",
+      "d": "la estenosis valvular."
+    },
+    "correct": "c",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la zona media del riñón existe…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "una zona por donde las nefronas entran y salen del riñón.",
+      "c": "una corteza por donde los vasos sanguíneos, únicamente, entran y salen del riñón.",
+      "d": "una concavidad por donde el uréter, los vasos sanguíneos y linfáticos entran o salen del riñón."
+    },
+    "correct": "d",
+    "correct_text": "una concavidad por donde el uréter, los vasos sanguíneos y linfáticos entran o salen del riñón.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las funciones del aparato renal, podemos encontrar…",
+    "options": {
+      "a": "aumentar los residuos y sustancias tóxicas del metabolismo.",
+      "b": "regular el volumen de Ph en el agua del organismo.",
+      "c": "regular el equilibrio osmótico y el balance iónico óptimo.",
+      "d": "dejar de elaborar sustancias de secreción interna."
+    },
+    "correct": "c",
+    "correct_text": "regular el equilibrio osmótico y el balance iónico óptimo.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En el aparato renal, los riñones pesan un total de…",
+    "options": {
+      "a": "150 gramos por cada riñón.",
+      "b": "150 gramos entre ambos riñones.",
+      "c": "200 gramos entre ambos riñones.",
+      "d": "200 gramos por cada riñón."
+    },
+    "correct": "a",
+    "correct_text": "150 gramos por cada riñón.",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué dos hormonas son almacenadas en la glándula tiroides?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el sodio y el potasio.",
+      "c": "la tiroxina y la triyodotironina.",
+      "d": "la proteína y la calcitonina."
+    },
+    "correct": "c",
+    "correct_text": "la tiroxina y la triyodotironina.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La hiperfunción tiroidea puede ser…",
+    "options": {
+      "a": "grande o pequeña.",
+      "b": "excesiva o poco excesiva.",
+      "c": "primaria o secundaria.",
+      "d": "terciaria y cuaternaria."
+    },
+    "correct": "c",
+    "correct_text": "primaria o secundaria.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la función tubular se procesa selectivamente el filtrado, permitiendo la excreción de…",
+    "options": {
+      "a": "0’5 a 1 litro al día.",
+      "b": "1 a 2 litros al día.",
+      "c": "2 a 3 litros al día.",
+      "d": "2 a 2’5 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "1 a 2 litros al día.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se considera fiebre cuando la temperatura corporal sube a…",
+    "options": {
+      "a": "los 38’5º.",
+      "b": "los 36º.",
+      "c": "los 37º.",
+      "d": "los 39º."
+    },
+    "correct": "a",
+    "correct_text": "los 38’5º.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Cada nefrona está compuesta por…",
+    "options": {
+      "a": "un conjunto de neuronas.",
+      "b": "un conjunto de cortezas.",
+      "c": "por unos vasos sanguíneos.",
+      "d": "un corpúsculo renal."
+    },
+    "correct": "d",
+    "correct_text": "un corpúsculo renal.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como una expansión imperfecta de los alvéolos pulmonares…",
+    "options": {
+      "a": "a la atelectasia.",
+      "b": "al cáncer de pulmón.",
+      "c": "al asma bronquial.",
+      "d": "a la insuficiencia respiratoria."
+    },
+    "correct": "a",
+    "correct_text": "a la atelectasia.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las neuronas están conformadas por…",
+    "options": {
+      "a": "un soma, un axón y unas dendritas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "un doma, un adón y unas dendritas.",
+      "d": "un moma, un axón y unas dendritas."
+    },
+    "correct": "a",
+    "correct_text": "un soma, un axón y unas dendritas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las hormonas producidas por los testículos, podemos encontrar…",
+    "options": {
+      "a": "las hormonas de las glándulas paratiroides.",
+      "b": "la parathormona.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la testosterona."
+    },
+    "correct": "d",
+    "correct_text": "la testosterona.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La circulación sanguínea…",
+    "options": {
+      "a": "entra al corazón por las venas y sale de él por las arterias.",
+      "b": "entra por las arterias y sale por las venas.",
+      "c": "la sangre circula poco tiempo por el corazón.",
+      "d": "solo entra al corazón por las arterias."
+    },
+    "correct": "a",
+    "correct_text": "entra al corazón por las venas y sale de él por las arterias.",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué tipo de hormona hace que la corteza suprarrenal secrete hormonas corticosuprarrenales?",
+    "options": {
+      "a": "la hormona folículo estimulante.",
+      "b": "la hormona prolactina.",
+      "c": "la hormona del crecimiento.",
+      "d": "la adrenocorticotropina."
+    },
+    "correct": "d",
+    "correct_text": "la adrenocorticotropina.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como “la hipertensión producida por una insuficiencia aórtica y fístulas arterio-venosas…",
+    "options": {
+      "a": "hipertensión sistólica con bajada de la presión diastólica.",
+      "b": "hipertensión sistólica.",
+      "c": "hipertensión sistólicas y diastólica.",
+      "d": "hipertensión diastólica."
+    },
+    "correct": "a",
+    "correct_text": "hipertensión sistólica con bajada de la presión diastólica.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como tos a…",
+    "options": {
+      "a": "la expulsión violenta, ruidosa y de forma súbita del aire de los pulmones.",
+      "b": "la materia expulsada de las vías respiratorias.",
+      "c": "la expulsión de contenido de las vías respiratorias o de los alvéolos pulmonares.",
+      "d": "la dificultad para respirar o una sensación subjetiva del paciente."
+    },
+    "correct": "a",
+    "correct_text": "la expulsión violenta, ruidosa y de forma súbita del aire de los pulmones.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los conceptos clave para conocer la capacidad de nuestros pulmones, encontramos…",
+    "options": {
+      "a": "la capacidad inspiratoria.",
+      "b": "la capacidad funcional residual.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la capacidad pulmonar."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El exceso de andrógenos, el cual produce virilización, es más conocido como…",
+    "options": {
+      "a": "dehidroepiandrosterona.",
+      "b": "hiperandrogenismo.",
+      "c": "síndrome de Cushing.",
+      "d": "hipersecreción de aldosterona."
+    },
+    "correct": "b",
+    "correct_text": "hiperandrogenismo.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El sistema nervioso, tras elaborar una respuesta adecuada, la transmite a través de…",
+    "options": {
+      "a": "las venas nerviosas.",
+      "b": "los sistemas nerviosos.",
+      "c": "los impulsos nerviosos.",
+      "d": "las arterias nerviosas."
+    },
+    "correct": "c",
+    "correct_text": "los impulsos nerviosos.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las principales causas etiológicas del daño renal, podemos encontrar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "lesiones neoplásicas o vasculares.",
+      "c": "lesiones por toxinas.",
+      "d": "lesiones por inmunidad o por coagulopatías."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La regulación de la función tiroidea corre a cargo de…",
+    "options": {
+      "a": "el hígado y los jugos gástricos.",
+      "b": "la hormona liberadora de la tirotropa.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el páncreas y el jugo pancreático."
+    },
+    "correct": "b",
+    "correct_text": "la hormona liberadora de la tirotropa.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El enanismo hipotalámico es causado por…",
+    "options": {
+      "a": "lesiones óseas.",
+      "b": "lesiones nerviosas.",
+      "c": "el aumento de células endocrinas.",
+      "d": "lesiones tumorales o isquémicas."
+    },
+    "correct": "d",
+    "correct_text": "lesiones tumorales o isquémicas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los defectos que provocan alteraciones en los mecanismos de secreción glandular, se conocen generalmente como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "Síndromes de Insuficiencia Endocrina.",
+      "c": "Alteraciones endocrinas.",
+      "d": "Síndromes de Aumento Endocrina."
+    },
+    "correct": "b",
+    "correct_text": "Síndromes de Insuficiencia Endocrina.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las manifestaciones clínicas de la hiperfunción tiroidea podemos encontrar…",
+    "options": {
+      "a": "el adelgazamiento y la intolerancia al frío.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la obesidad y la piel es fría y seca.",
+      "d": "la piel es caliente y húmeda y el cabello es fino y poco resistente."
+    },
+    "correct": "d",
+    "correct_text": "la piel es caliente y húmeda y el cabello es fino y poco resistente.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las sustancias que se reabsorben en los túbulos renales y que vuelven a la sangre, podemos destacar…",
+    "options": {
+      "a": "glucosa, calcio y potasio.",
+      "b": "sodio y potasio.",
+      "c": "cloro, agua y aminoácidos.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En el control de la función testicular interviene…",
+    "options": {
+      "a": "el hipotálamo y la hipófisis.",
+      "b": "la hipófisis, únicamente.",
+      "c": "el hipotálamo, únicamente.",
+      "d": "las neuronas."
+    },
+    "correct": "a",
+    "correct_text": "el hipotálamo y la hipófisis.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La infección respiratoria que suele aparecer tras un resfriado común es…",
+    "options": {
+      "a": "la rinitis.",
+      "b": "la bronquitis crónica.",
+      "c": "la laringitis.",
+      "d": "la bronquitis aguda."
+    },
+    "correct": "d",
+    "correct_text": "la bronquitis aguda.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En los factores genéticos de los mecanismos patógenos, se produce una alteración de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "las proteínas expulsoras.",
+      "c": "las proteínas transportadoras.",
+      "d": "la sangre transportadora."
+    },
+    "correct": "c",
+    "correct_text": "las proteínas transportadoras.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El ictus está caracterizado por…",
+    "options": {
+      "a": "el aumento de oxígeno en las células de la zona cerebral.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el déficit de oxígeno en las células bronquiales.",
+      "d": "el déficit de oxígeno en las células de la zona cerebral."
+    },
+    "correct": "d",
+    "correct_text": "el déficit de oxígeno en las células de la zona cerebral.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Si después de una hiperfunción ovárica aparecen reglas muy irregulares, es como consecuencia de…",
+    "options": {
+      "a": "de un endometrio muy hiperplásico.",
+      "b": "la edad del paciente.",
+      "c": "el aumento del tamaño del órgano reproductor.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "de un endometrio muy hiperplásico.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La acromegalia en adultos está caracterizada por…",
+    "options": {
+      "a": "una disminución de la anchura de los huesos.",
+      "b": "una disminución excesiva de la piel.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "un aumento de los huesos en anchura."
+    },
+    "correct": "d",
+    "correct_text": "un aumento de los huesos en anchura.",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Qué hormonas no son sintetizadas y renovadas de forma continua por el organismo?",
+    "options": {
+      "a": "las hormonas tiroideas.",
+      "b": "las de la vitamina A.",
+      "c": "las hormonas no tiroideas.",
+      "d": "las de la vitamina K."
+    },
+    "correct": "a",
+    "correct_text": "las hormonas tiroideas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En ocasiones, la enfermedad endocrina es la consecuencia de…",
+    "options": {
+      "a": "un descenso de receptores celulares.",
+      "b": "un aumento de receptores procariotas.",
+      "c": "un aumento de receptores celulares.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "un descenso de receptores celulares.",
+    "tema": "tema5"
+  },
+  {
+    "question": "A la inflamación de la mucosa de los senos nasales, se le denomina…",
+    "options": {
+      "a": "laringitis.",
+      "b": "disnea.",
+      "c": "rinitis.",
+      "d": "sinusitis."
+    },
+    "correct": "d",
+    "correct_text": "sinusitis.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El término etiopatogenia viene de…",
+    "options": {
+      "a": "dos términos romanos.",
+      "b": "de los términos etiología y patogenia.",
+      "c": "de los términos patogenia y patología.",
+      "d": "dos términos griegos."
+    },
+    "correct": "b",
+    "correct_text": "de los términos etiología y patogenia.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La hiperfunción ovárica, se produce por…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la secreción de estrógenos normal y que se adecúa a la edad del paciente.",
+      "c": "el aumento o la excesiva secreción de estrógenos para la edad del paciente.",
+      "d": "la disminución de los estrógenos en un paciente."
+    },
+    "correct": "c",
+    "correct_text": "el aumento o la excesiva secreción de estrógenos para la edad del paciente.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El término médico que se conoce como desmayo es…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la isquemia coronaria.",
+      "c": "el síncope.",
+      "d": "el ictus."
+    },
+    "correct": "c",
+    "correct_text": "el síncope.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como “la cantidad de aire que queda en los pulmones tras una espiración”...",
+    "options": {
+      "a": "la capacidad inspiratoria.",
+      "b": "la capacidad funcional residual.",
+      "c": "la capacidad pulmonar.",
+      "d": "la capacidad pulmonar total."
+    },
+    "correct": "b",
+    "correct_text": "la capacidad funcional residual.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las neoplasias más frecuentes en niños son…",
+    "options": {
+      "a": "el de huesos o el sarcoma de tejidos blandos.",
+      "b": "el de mama.",
+      "c": "el cutáneo o de próstata.",
+      "d": "la de pulmón y la colorrectal."
+    },
+    "correct": "a",
+    "correct_text": "el de huesos o el sarcoma de tejidos blandos.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Las hormonas que se encargan de aumentar la velocidad de las reacciones químicas en casi todas las células del organismo son…",
+    "options": {
+      "a": "el glucagón.",
+      "b": "la calcitonina.",
+      "c": "la insulina.",
+      "d": "la tiroxina y triyodotironina."
+    },
+    "correct": "d",
+    "correct_text": "la tiroxina y triyodotironina.",
+    "tema": "tema5"
+  },
+  {
+    "question": "A la inflamación que se caracteriza por ser una enfermedad inflamatoria de la mucosa de la nariz, se le denomina…",
+    "options": {
+      "a": "laringitis.",
+      "b": "sinusitis.",
+      "c": "rinitis.",
+      "d": "nasitis."
+    },
+    "correct": "c",
+    "correct_text": "rinitis.",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Cómo se pueden mejorar de manera eficaz y rápida las secuelas de un ictus?",
+    "options": {
+      "a": "con un tratamiento a través de un jarabe.",
+      "b": "con un tratamiento anticoagulante.",
+      "c": "con un tratamiento con pastillas.",
+      "d": "con un tratamiento intravenoso."
+    },
+    "correct": "b",
+    "correct_text": "con un tratamiento anticoagulante.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las características más frecuentes de la esclerosis múltiple, podemos encontrar…",
+    "options": {
+      "a": "la alteración en los sentidos.",
+      "b": "el aumento de la sensibilidad.",
+      "c": "una mejor coordinación de los movimientos.",
+      "d": "la pérdida de fuerza y la parálisis en los miembros superiores."
+    },
+    "correct": "a",
+    "correct_text": "la alteración en los sentidos.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Al aumento del tamaño de la glándula tiroides se denomina como…",
+    "options": {
+      "a": "bocio.",
+      "b": "náusea.",
+      "c": "alteración de la síntesis de hormonas tiroideas.",
+      "d": "disnea."
+    },
+    "correct": "a",
+    "correct_text": "bocio.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las diferentes patologías estudiadas, destacan…",
+    "options": {
+      "a": "las patologías del aparato renal y respiratorio.",
+      "b": "las patologías del sistema nervioso y endocrino.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "las patologías del sistema circulatorio."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El déficit hormonal puede deberse a…",
+    "options": {
+      "a": "un déficit de hidrógeno líquido.",
+      "b": "un déficit de sales minerales.",
+      "c": "un déficit de yodo.",
+      "d": "un déficit de sodio."
+    },
+    "correct": "c",
+    "correct_text": "un déficit de yodo.",
+    "tema": "tema5"
+  },
+  {
+    "question": "El seudohipoparatiroidismo se define como…",
+    "options": {
+      "a": "una enfermedad hereditaria causada por la deficiencia de la respuesta de los órganos diana a la PTH.",
+      "b": "la secreción aumentada como respuesta a situaciones de hipocalcemia.",
+      "c": "la secreción aumentada por alteraciones de las propias glándulas.",
+      "d": "la resección quirúrgica de todo el tejido paratiroideo."
+    },
+    "correct": "a",
+    "correct_text": "una enfermedad hereditaria causada por la deficiencia de la respuesta de los órganos diana a la PTH.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como anemia renal a…",
+    "options": {
+      "a": "los factores que alteran la estructura de los huesos en la insuficiencia renal.",
+      "b": "la intervención del riñon decisiva en la promoción y mantenimiento del edema en general.",
+      "c": "la limitación y anulación de la capacidad para concentrar y diluir la orina.",
+      "d": "el resultado de la depresión eritropoyesis y de la exaltación de la eritrocatersis."
+    },
+    "correct": "d",
+    "correct_text": "el resultado de la depresión eritropoyesis y de la exaltación de la eritrocatersis.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La patología que consiste en un deterioro progresivo de las neuronas que implican una pérdida de las funciones cognitivas es…",
+    "options": {
+      "a": "el síndrome autista.",
+      "b": "el ictus.",
+      "c": "el alzheimer.",
+      "d": "el parkinson."
+    },
+    "correct": "c",
+    "correct_text": "el alzheimer.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los diferentes tipos de ictus, según su etología, podemos distinguir…",
+    "options": {
+      "a": "el ataque isquémico transitorio.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el ictus isquémico.",
+      "d": "el ictus hemorrágico."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se define como “la patología asociada a la formación de un trombo que no puede disolverse adecuadamente y se desplaza a otras localizaciones tisulares” a…",
+    "options": {
+      "a": "la insuficiencia cardíaca.",
+      "b": "la trombosis.",
+      "c": "el ictus.",
+      "d": "el parón cardíaco."
+    },
+    "correct": "b",
+    "correct_text": "la trombosis.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las características del síndrome inmunodeficiente primario, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "que se han descrito más de 100.",
+      "c": "que es hereditario.",
+      "d": "que se dan infecciones de repetición."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los dos órganos encargados del intercambio de gases, son…",
+    "options": {
+      "a": "el esófago y estómago.",
+      "b": "el corazón y las arterias.",
+      "c": "los dos pulmones.",
+      "d": "el hígado y el páncreas."
+    },
+    "correct": "c",
+    "correct_text": "los dos pulmones.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los síntomas más frecuentes del cáncer de pulmón, podemos encontrar…",
+    "options": {
+      "a": "la expectoración de esputos sanguinolentos.",
+      "b": "la tos y el dolor torácico que no desaparece.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "hinchazón en la cara y cuello."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "tema": "tema5"
+  },
+  {
+    "question": "En las alteraciones cualitativas del aparato renal, podemos destacar…",
+    "options": {
+      "a": "la bacteriuria, únicamente.",
+      "b": "la proteinuria, la hematuria, la leucocituria y la bactecituria.",
+      "c": "la hematuria y proteinuria, únicamente.",
+      "d": "la leucocituria y la hematuria, únicamente."
+    },
+    "correct": "b",
+    "correct_text": "la proteinuria, la hematuria, la leucocituria y la bactecituria.",
+    "tema": "tema5"
+  },
+  {
+    "question": "La aldosterona reduce la excreción de…",
+    "options": {
+      "a": "hidrógeno.",
+      "b": "potasio.",
+      "c": "sodio.",
+      "d": "aminoácidos."
+    },
+    "correct": "c",
+    "correct_text": "sodio.",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se considera como la insuficiencia de secreción de testosterona por las células de leyding a…",
+    "options": {
+      "a": "minigonadismo.",
+      "b": "hipergonadismo.",
+      "c": "supergonadismo.",
+      "d": "hipogonadismo."
+    },
+    "correct": "d",
+    "correct_text": "hipogonadismo.",
+    "tema": "tema5"
+  }
+]

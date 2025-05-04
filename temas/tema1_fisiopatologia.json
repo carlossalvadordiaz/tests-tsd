@@ -1,0 +1,629 @@
+[
+	{
+		"question": "Dentro de la displasia, encontramos…",
+		"options": {
+			"a": "Todas las respuestas anteriores son correctas.",
+			"b": "la atrofia.",
+			"c": "la hiperplasia.",
+			"d": "la hipertrofia."
+		},
+		"correct": "a",
+		"correct_text": "Todas las respuestas anteriores son correctas."
+	},
+	{
+		"question": "Definición: “es una alteración reversible en la que un tipo de célula adulta es reemplazado por otro que se adapta mejor a una situación estresante constante capaz de iniciar una respuesta inflamatoria.”",
+		"options": {
+			"a": "hiperplasia.",
+			"b": "displasia.",
+			"c": "atrofia.",
+			"d": "metaplasia."
+		},
+		"correct": "d",
+		"correct_text": "metaplasia."
+	},
+	{
+		"question": "Dentro de los agentes físicos, encontramos…",
+		"options": {
+			"a": "únicamente las radiaciones y la electricidad.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "la electricidad, las radiaciones y la temperatura.",
+			"d": "únicamente la temperatura."
+		},
+		"correct": "c",
+		"correct_text": "la electricidad, las radiaciones y la temperatura."
+	},
+	{
+		"question": "Entre las causas más comunes por las cuales se produce un déficit en las células, encontramos…",
+		"options": {
+			"a": "la isquemia, únicamente.",
+			"b": "la isquemia y la hipoxia.",
+			"c": "la hipoxia, únicamente.",
+			"d": "la afección por un virus."
+		},
+		"correct": "b",
+		"correct_text": "la isquemia y la hipoxia."
+	},
+	{
+		"question": "Entre las sustancias exógenas inocuas que se vuelven lesivas durante su metabolismo hepático previo a su eliminación, encontramos…",
+		"options": {
+			"a": "el paracetamol.",
+			"b": "la aspirina.",
+			"c": "el lorazepam.",
+			"d": "los antihistamínicos."
+		},
+		"correct": "a",
+		"correct_text": "el paracetamol."
+	},
+	{
+		"question": "La sarna es…",
+		"options": {
+			"a": "un artrópodo.",
+			"b": "un protozoo.",
+			"c": "un virus.",
+			"d": "una bacteria."
+		},
+		"correct": "a",
+		"correct_text": "un artrópodo."
+	},
+	{
+		"question": "¿De qué tipos pueden ser los agentes químicos?",
+		"options": {
+			"a": "endógenos e intrínsecos.",
+			"b": "endógenos y extrínsecos.",
+			"c": "endógenos y exógenos.",
+			"d": "exógenos e intrínsecos."
+		},
+		"correct": "c",
+		"correct_text": "endógenos y exógenos."
+	},
+	{
+		"question": "En la actualidad, gran cantidad de enfermedades son consecuencia…",
+		"options": {
+			"a": "de la predisposición genética y los factores ambientales.",
+			"b": "de la predisposición genética, únicamente.",
+			"c": "de los malos hábitos.",
+			"d": "de la mala calidad del aire que respiramos."
+		},
+		"correct": "a",
+		"correct_text": "de la predisposición genética y los factores ambientales."
+	},
+	{
+		"question": "Los protozoos son…",
+		"options": {
+			"a": "organismos unicelulares.",
+			"b": "organismos multicelulares.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "organismos pluricelulares."
+		},
+		"correct": "a",
+		"correct_text": "organismos unicelulares."
+	},
+	{
+		"question": "Las alteraciones producidas por desorganización celular se definen como…",
+		"options": {
+			"a": "atrofia.",
+			"b": "metaplasia.",
+			"c": "displasia.",
+			"d": "hiperplasia."
+		},
+		"correct": "c",
+		"correct_text": "displasia."
+	},
+	{
+		"question": "¿Qué factores predisponen a la lesión celular?",
+		"options": {
+			"a": "la falta de madurez, entre otros.",
+			"b": "el no tener autocontrol.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "los excesos y las carencias alimentarias."
+		},
+		"correct": "d",
+		"correct_text": "los excesos y las carencias alimentarias."
+	},
+	{
+		"question": "La metaplasia patológica se produce en respuesta a…",
+		"options": {
+			"a": "un estímulo positivo.",
+			"b": "un estímulo inflamatorio.",
+			"c": "un estímulo lesivo.",
+			"d": "un estímulo aceptado."
+		},
+		"correct": "c",
+		"correct_text": "un estímulo lesivo."
+	},
+	{
+		"question": "El estado de salud es…",
+		"options": {
+			"a": "aquel que no permite a una persona utilizar al completo sus capacidades.",
+			"b": "aquel que permite a una persona utilizar parcialmente sus capacidades.",
+			"c": "el estado y proceso consecuente de afección de un ser vivo.",
+			"d": "aquel que permite a una persona utilizar al completo sus capacidades."
+		},
+		"correct": "d",
+		"correct_text": "aquel que permite a una persona utilizar al completo sus capacidades."
+	},
+	{
+		"question": "La reacción específica inmunitaria pone en marcha…",
+		"options": {
+			"a": "la inflamación del sistema nervioso.",
+			"b": "la inflamación del tejido.",
+			"c": "la inflamación de los huesos.",
+			"d": "la inflamación de los órganos."
+		},
+		"correct": "b",
+		"correct_text": "la inflamación del tejido."
+	},
+	{
+		"question": "Los signos que manifiestan las alteraciones morfofuncionales son…",
+		"options": {
+			"a": "no se pueden ser observadas en una exploración médica.",
+			"b": "no son clínicamente fiables.",
+			"c": "son fiables y objetivas.",
+			"d": "manifestaciones poco objetivas."
+		},
+		"correct": "c",
+		"correct_text": "son fiables y objetivas."
+	},
+	{
+		"question": "La capacidad de adaptación eficiente depende de…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "la disponibilidad de respuestas.",
+			"c": "ambas respuestas son correctas.",
+			"d": "la correcta selección de la respuesta más apropiada."
+		},
+		"correct": "c",
+		"correct_text": "ambas respuestas son correctas."
+	},
+	{
+		"question": "Las condiciones en las que se desarrolla un estado de salud, son…",
+		"options": {
+			"a": "genéticas y ambientales.",
+			"b": "ambientales, únicamente.",
+			"c": "genéticas, únicamente.",
+			"d": "climáticas."
+		},
+		"correct": "a",
+		"correct_text": "genéticas y ambientales."
+	},
+	{
+		"question": "La etiología se encarga de estudiar…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "la historia actual y futura.",
+			"c": "las causas ambientales que desarrollan una inflamación.",
+			"d": "las causas subyacentes o desencadenantes, que originan una enfermedad."
+		},
+		"correct": "d",
+		"correct_text": "las causas subyacentes o desencadenantes, que originan una enfermedad."
+	},
+	{
+		"question": "¿En qué se diferencian los agentes biológicos de otros tipos de agentes?",
+		"options": {
+			"a": "en su capacidad de resistencia.",
+			"b": "en la capacidad de hacerse grandes.",
+			"c": "en tener capacidad de replicarse y continuar produciendo efectos adversos.",
+			"d": "en no tener ninguna capacidad."
+		},
+		"correct": "c",
+		"correct_text": "en tener capacidad de replicarse y continuar produciendo efectos adversos."
+	},
+	{
+		"question": "Los hongos son más lesivos cuando desarrollan infecciones oportunistas como…",
+		"options": {
+			"a": "gastroenteritis.",
+			"b": "fiebre.",
+			"c": "un dolor de garganta.",
+			"d": "el sida."
+		},
+		"correct": "d",
+		"correct_text": "el sida."
+	},
+	{
+		"question": "En cuanto a la temperatura se refiere, la exposición al calor moderado da lugar al daño celular por…",
+		"options": {
+			"a": "por los rayos ultravioleta.",
+			"b": "la exposición a lesiones vasculares.",
+			"c": "por la vasoconstricción.",
+			"d": "por la inducción de lesiones vasculares, entre otros."
+		},
+		"correct": "d",
+		"correct_text": "por la inducción de lesiones vasculares, entre otros."
+	},
+	{
+		"question": "Los signos que manifiestan las alteraciones morfofuncionales pueden ser consecuencia de…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores son correctas.",
+			"b": "los mecanismos adaptativos que se activan para luchar contra la enfermedad.",
+			"c": "las dos primeras respuestas son correctas.",
+			"d": "de un proceso patológico original."
+		},
+		"correct": "c",
+		"correct_text": "las dos primeras respuestas son correctas."
+	},
+	{
+		"question": "Entre los agentes biológicos macroscópicos, encontramos…",
+		"options": {
+			"a": "los parásitos.",
+			"b": "los hongos y protozoos.",
+			"c": "los microplasmas.",
+			"d": "los virus y bacterias."
+		},
+		"correct": "a",
+		"correct_text": "los parásitos."
+	},
+	{
+		"question": "Si las carencias celulares se deben a un fallo en la absorción son…",
+		"options": {
+			"a": "secundarias.",
+			"b": "primarias.",
+			"c": "cuaternarias.",
+			"d": "terciarias."
+		},
+		"correct": "a",
+		"correct_text": "secundarias."
+	},
+	{
+		"question": "En la definición del factor intrínseco, encontramos…",
+		"options": {
+			"a": "que es adquirido por el ambiente.",
+			"b": "que es propio o característico del organismo pero no depende de las circunstancias.",
+			"c": "que es propio o característico del organismo pero depende de las circunstancias.",
+			"d": "que es adquirido o ajeno a la naturaleza propia del organismo."
+		},
+		"correct": "b",
+		"correct_text": "que es propio o característico del organismo pero no depende de las circunstancias."
+	},
+	{
+		"question": "Las radiaciones de alta energía, como las que igualan o superan el espectro ultravioleta, son…",
+		"options": {
+			"a": "artificiales.",
+			"b": "electromagnéticas naturales.",
+			"c": "de rayos gamma.",
+			"d": "ionizantes."
+		},
+		"correct": "d",
+		"correct_text": "ionizantes."
+	},
+	{
+		"question": "Definición: “es un proceso o estado consecuente de afección de un ser vivo, caracterizado por una alteración perjudicial en su estado de salud”.",
+		"options": {
+			"a": "etiología.",
+			"b": "salud.",
+			"c": "patología.",
+			"d": "enfermedad."
+		},
+		"correct": "d",
+		"correct_text": "enfermedad."
+	},
+	{
+		"question": "¿Qué tienen los hongos?",
+		"options": {
+			"a": "únicamente una membrana rígida.",
+			"b": "un citoplasma.",
+			"c": "un núcleo, únicamente.",
+			"d": "un núcleo y una membrana rígida."
+		},
+		"correct": "d",
+		"correct_text": "un núcleo y una membrana rígida."
+	},
+	{
+		"question": "Se define como el tratamiento de una enfermedad que actúa sobre la causa de la enfermedad cuando es efectiva…",
+		"options": {
+			"a": "patogénico.",
+			"b": "inhibidor.",
+			"c": "sintomático.",
+			"d": "etiológico."
+		},
+		"correct": "a",
+		"correct_text": "patogénico."
+	},
+	{
+		"question": "El frío intenso…",
+		"options": {
+			"a": "disminuye la viscosidad sanguínea.",
+			"b": "mantiene igual la viscosidad sanguínea.",
+			"c": "disminuye la viscosidad acuática.",
+			"d": "aumenta la viscosidad sanguínea."
+		},
+		"correct": "d",
+		"correct_text": "aumenta la viscosidad sanguínea."
+	},
+	{
+		"question": "¿Qué constituye la inflamación?",
+		"options": {
+			"a": "la forma por la cual la naturaleza se defiende de las agresiones.",
+			"b": "la forma de dar respuesta inespecífica tisular frente a las agresiones.",
+			"c": "la forma de alimentarse tisularmente frente a las agresiones externas.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "b",
+		"correct_text": "la forma de dar respuesta inespecífica tisular frente a las agresiones."
+	},
+	{
+		"question": "Las radiaciones ionizantes suelen generar daños…",
+		"options": {
+			"a": "con el paso de los años.",
+			"b": "en la mentalidad.",
+			"c": "con poca inmediatez.",
+			"d": "obvios e inmediatos."
+		},
+		"correct": "d",
+		"correct_text": "obvios e inmediatos."
+	},
+	{
+		"question": "El frío, además de otros, favorece la aparición de…",
+		"options": {
+			"a": "fenómenos capilares.",
+			"b": "fenómenos trombóticos.",
+			"c": "fenómenos articulares.",
+			"d": "fenómenos electromagnéticos."
+		},
+		"correct": "b",
+		"correct_text": "fenómenos trombóticos."
+	},
+	{
+		"question": "Algunos ejemplos de los factores etiológicos exógenos son…",
+		"options": {
+			"a": "biológicos, físicos y químicos.",
+			"b": "biológicos, únicamente.",
+			"c": "físicos, únicamente.",
+			"d": "químicos únicamente."
+		},
+		"correct": "a",
+		"correct_text": "biológicos, físicos y químicos."
+	},
+	{
+		"question": "Según la etiología de la enfermedad, podemos clasificarlas en…",
+		"options": {
+			"a": "genéticas, congénitas y adquiridas.",
+			"b": "genéticas, únicamente.",
+			"c": "congénitas, únicamente.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "a",
+		"correct_text": "genéticas, congénitas y adquiridas."
+	},
+	{
+		"question": "Si se realiza una hipertrofia muscular en respuesta a una enfermedad, se denomina…",
+		"options": {
+			"a": "patológica.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "compensatoria.",
+			"d": "fisiológica."
+		},
+		"correct": "a",
+		"correct_text": "patológica."
+	},
+	{
+		"question": "Definición: ”Son llamadas así por su reacción ante la tinción de Gram y que pueden elaborar exotoxinas que interfieren con la producción celular de ATP”",
+		"options": {
+			"a": "bacterias Gram negativas.",
+			"b": "hongos.",
+			"c": "virus.",
+			"d": "bacterias Gram positivas."
+		},
+		"correct": "d",
+		"correct_text": "bacterias Gram positivas."
+	},
+	{
+		"question": "El tratamiento de una enfermedad puede actuar sobre…",
+		"options": {
+			"a": "los mecanismos que causan la enfermedad.",
+			"b": "la causa.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "los síntomas."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas."
+	},
+	{
+		"question": "Los procesos inflamatorios se designan…",
+		"options": {
+			"a": "con el prefijo -itis.",
+			"b": "con el sufijo -emo.",
+			"c": "con el sufijo -azo.",
+			"d": "con el sufijo -itis."
+		},
+		"correct": "d",
+		"correct_text": "con el sufijo -itis."
+	},
+	{
+		"question": "¿Dónde es máxima la resistencia eléctrica?",
+		"options": {
+			"a": "en los huesos y tendones.",
+			"b": "en las articulaciones.",
+			"c": "en los nervios y la sangre.",
+			"d": "en el cerebro."
+		},
+		"correct": "a",
+		"correct_text": "en los huesos y tendones."
+	},
+	{
+		"question": "Los agentes biológicos que pueden generar daño celular, van…",
+		"options": {
+			"a": "del mínimo al máximo.",
+			"b": "de los macroscópicos a los microscópicos.",
+			"c": "del máximo al mínimo.",
+			"d": "de los microscópicos a los macroscópicos."
+		},
+		"correct": "d",
+		"correct_text": "de los microscópicos a los macroscópicos."
+	},
+	{
+		"question": "La hipertrofia es consecuencia de…",
+		"options": {
+			"a": "el descanso y el sueño.",
+			"b": "la excesiva carga calórica.",
+			"c": "la disminución de la carga de trabajo.",
+			"d": "el aumento de la carga de trabajo."
+		},
+		"correct": "d",
+		"correct_text": "el aumento de la carga de trabajo."
+	},
+	{
+		"question": "¿Qué tratan de mantener las células?",
+		"options": {
+			"a": "su equilibrio epidemiológico.",
+			"b": "su equilibrio patológico.",
+			"c": "su equilibrio homeostático.",
+			"d": "su equilibrio corporal."
+		},
+		"correct": "c",
+		"correct_text": "su equilibrio homeostático."
+	},
+	{
+		"question": "Un síndrome se define como…",
+		"options": {
+			"a": "ninguna de las respuestas es correcta.",
+			"b": "no tiene que ver con la fisiopatología.",
+			"c": "un conjunto de signos y síntomas característicos de un estado patológico concreto.",
+			"d": "un conjunto de circunstancias de un estado concreto."
+		},
+		"correct": "c",
+		"correct_text": "un conjunto de signos y síntomas característicos de un estado patológico concreto."
+	},
+	{
+		"question": "Definición: “enfermedad adquirida o ajena a la naturaleza propia del organismo”.",
+		"options": {
+			"a": "factores extrínsecos.",
+			"b": "etiología.",
+			"c": "patología.",
+			"d": "factores intrínsecos."
+		},
+		"correct": "a",
+		"correct_text": "factores extrínsecos."
+	},
+	{
+		"question": "En situaciones de estrés que representan una amenaza para la salud, el cuerpo recurre a un mecanismo conocido como…",
+		"options": {
+			"a": "rechazo.",
+			"b": "inadaptación.",
+			"c": "aceptación.",
+			"d": "adaptación."
+		},
+		"correct": "d",
+		"correct_text": "adaptación."
+	},
+	{
+		"question": "Las deficiencias calórico-proteicas producidas en condiciones de ayunas, inducen a…",
+		"options": {
+			"a": "lesiones nerviosas.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "lesiones óseas.",
+			"d": "lesiones tisulares."
+		},
+		"correct": "d",
+		"correct_text": "lesiones tisulares."
+	},
+	{
+		"question": "La corriente eléctrica puede provocar…",
+		"options": {
+			"a": "daño irreversible.",
+			"b": "daño plasmático.",
+			"c": "daño articular.",
+			"d": "daño tisular extenso."
+		},
+		"correct": "d",
+		"correct_text": "daño tisular extenso."
+	},
+	{
+		"question": "¿En qué tipos podemos clasificar los agentes causantes de la lesión celular?",
+		"options": {
+			"a": "agentes físicos y ambientales.",
+			"b": "agentes climatológicos y ambientales.",
+			"c": "agentes físicos, climatológicos y biológicos.",
+			"d": "agentes biológicos, químicos y físicos."
+		},
+		"correct": "d",
+		"correct_text": "agentes biológicos, químicos y físicos."
+	},
+	{
+		"question": "La displasia se define como…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "el aumento del número de células en un órgano o tejido.",
+			"c": "el crecimiento celular desorganizado que da lugar a nuevas células.",
+			"d": "la alteración reversible en la que una célula adulta es reemplazada por otra."
+		},
+		"correct": "c",
+		"correct_text": "el crecimiento celular desorganizado que da lugar a nuevas células."
+	},
+	{
+		"question": "El aporte sanguíneo insuficiente, se define como…",
+		"options": {
+			"a": "deshidratación.",
+			"b": "isquemia.",
+			"c": "malnutrición.",
+			"d": "hipoxia."
+		},
+		"correct": "b",
+		"correct_text": "isquemia."
+	},
+	{
+		"question": "Los métodos epidemiológicos se utilizan para…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "determinar cómo prevenir la enfermedad y lograr erradicarla.",
+			"c": "determinar cómo controlar una enfermedad.",
+			"d": "determinar la forma en la que se propaga una enfermedad."
+		},
+		"correct": "a",
+		"correct_text": "todas las respuestas anteriores son correctas."
+	},
+	{
+		"question": "Entre los factores por los cuales puede estar provocado un estado de enfermedad, encontramos…",
+		"options": {
+			"a": "Intrínsecos y extrínsecos son correctas.",
+			"b": "los ultrínsecos.",
+			"c": "los extrínsecos.",
+			"d": "los intrínsecos."
+		},
+		"correct": "a",
+		"correct_text": "Intrínsecos y extrínsecos son correctas."
+	},
+	{
+		"question": "La hiperplasia…",
+		"options": {
+			"a": "no tiene lugar en respuesta a un estímulo apropiado.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "no se interrumpe cuando desaparece.",
+			"d": "no es un proceso controlado."
+		},
+		"correct": "b",
+		"correct_text": "ninguna de las respuestas anteriores es correcta."
+	},
+	{
+		"question": "Aunque la inflamación se trate de una reacción local, es importante…",
+		"options": {
+			"a": "advertir que en la inflamación también está presente una respuesta sistémica.",
+			"b": "prevenir que la inflamación también está presente en una respuesta inmunitaria.",
+			"c": "advertir que la enfermedad también está presente en los órganos.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "a",
+		"correct_text": "advertir que en la inflamación también está presente una respuesta sistémica."
+	},
+	{
+		"question": "Definición: “Es el estudio de la enfermedad en las poblaciones y sus factores de riesgo en afecciones multifactoriales”...",
+		"options": {
+			"a": "patología.",
+			"b": "patogénico.",
+			"c": "fisiopatología.",
+			"d": "epidemiología."
+		},
+		"correct": "d",
+		"correct_text": "epidemiología."
+	},
+	{
+		"question": "Las consecuencias de la respuesta celular a una lesión celular, dependen de…",
+		"options": {
+			"a": "la intensidad del agente y su tipo, únicamente.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "el tipo de lesión únicamente.",
+			"d": "la resistencia celular."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas."
+	}
+]

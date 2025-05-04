@@ -1,0 +1,626 @@
+[
+  {
+    "question": "Entre los parámetros nutricionales que se registran en una dieta terapéutica, podemos encontrar…",
+    "options": {
+      "a": "la forma de cocinado y su textura.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la cantidad de alimentos.",
+      "d": "el tipo de alimentos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La evaluación nutricional es un proceso…",
+    "options": {
+      "a": "sistemático, continuo y dinámico.",
+      "b": "sistemático y continuo, únicamente.",
+      "c": "únicamente sistemático.",
+      "d": "únicamente dinámico."
+    },
+    "correct": "a",
+    "correct_text": "sistemático, continuo y dinámico.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La siguiente fórmula: \"KG/Estatura2” pertenece a…",
+    "options": {
+      "a": "el Índice de grasa corporal.",
+      "b": "el Índice de Cintura-Cadera.",
+      "c": "el Índice de masa corporal.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "el Índice de masa corporal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los posibles efectos de una reducción gástrica, podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la cetosis y las arritmias.",
+      "c": "la hiperuricemia.",
+      "d": "la acidosis láctica."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las cuatro categorías que se establecen en la intervención nutricional, encontramos…",
+    "options": {
+      "a": "la orientación nutricional.",
+      "b": "la coordinación en la atención a la actividad física.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la educación en actividad física."
+    },
+    "correct": "a",
+    "correct_text": "la orientación nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La salud es aquel proceso continuo que evoluciona desde…",
+    "options": {
+      "a": "no presentar una enfermedad crónica.",
+      "b": "tener un pensamiento de ser resistente a todas las enfermedades.",
+      "c": "tener una enfermedad terminal.",
+      "d": "dejar de presentar una enfermedad aguda."
+    },
+    "correct": "c",
+    "correct_text": "tener una enfermedad terminal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de alimentos se introducen en una dieta semilíquida?",
+    "options": {
+      "a": "alimentos con condimentos.",
+      "b": "alimentos líquidos.",
+      "c": "alimentos duros.",
+      "d": "alimentos de textura fluida."
+    },
+    "correct": "d",
+    "correct_text": "alimentos de textura fluida.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La edad, sexo, etapa fisiológica o las enfermedades, entre otros, se encuentran englobados en…",
+    "options": {
+      "a": "los factores sociales.",
+      "b": "en todos los anteriores.",
+      "c": "los factores culturales.",
+      "d": "los factores biológicos."
+    },
+    "correct": "d",
+    "correct_text": "los factores biológicos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de tratamiento farmacológico se define como “que disminuye el apetito, aumenta la sensación de saciedad y ralentiza el vaciado gástrico”?",
+    "options": {
+      "a": "la combinación de naltexona y bupropion.",
+      "b": "la liraglutida.",
+      "c": "el orlistat.",
+      "d": "es otro tipo de tratamiento."
+    },
+    "correct": "b",
+    "correct_text": "la liraglutida.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los ácidos grasos saturados…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "representan una cantidad inferior al 10% de la ingesta energética total.",
+      "c": "representan entre el 30 - 35% de la ingesta energética total.",
+      "d": "representan una cantidad superior al 10% de la ingesta energética total."
+    },
+    "correct": "b",
+    "correct_text": "representan una cantidad inferior al 10% de la ingesta energética total.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La dieta progresiva está indicada para…",
+    "options": {
+      "a": "aquellas personas con graves síntomas de enfermedades.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las distintas etapas evolutivas de una enfermedad.",
+      "d": "aquellas personas sin ningún tipo de problema de salud."
+    },
+    "correct": "c",
+    "correct_text": "las distintas etapas evolutivas de una enfermedad.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los factores internos y externos que engloban el estado nutricional de una persona, se encuentran…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el estilo de vida y las prácticas sociales y culturales.",
+      "c": "los factores del sistema de salud.",
+      "d": "el estudio de las necesidades."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál es una de las formas más importantes de tratamiento y manejo de una enfermedad nutricional?",
+    "options": {
+      "a": "la inversión nutricional.",
+      "b": "la intervención nutricional.",
+      "c": "el diagnóstico nutricional.",
+      "d": "la terapia nutricional."
+    },
+    "correct": "d",
+    "correct_text": "la terapia nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El diagnóstico nutricional consiste en…",
+    "options": {
+      "a": "la información que ayuda a determinar la salud y estado nutricional de una persona.",
+      "b": "un conjunto de actividades dirigidas a tratar el problema nutricional.",
+      "c": "la identificación y descripción del problema nutricional.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la identificación y descripción del problema nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la aplicación de conocimiento de la dietética en el tratamiento de los diferentes procesos patológicos” a…",
+    "options": {
+      "a": "la dieta farmacológica.",
+      "b": "la dieta oncológica.",
+      "c": "la dietoterapia.",
+      "d": "la dieta terapéutica."
+    },
+    "correct": "c",
+    "correct_text": "la dietoterapia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La dieta que tiene como objetivo el facilitar la digestión es…",
+    "options": {
+      "a": "la dieta líquida.",
+      "b": "la dieta blanda.",
+      "c": "la dieta basal.",
+      "d": "la dieta de fácil digestión."
+    },
+    "correct": "b",
+    "correct_text": "la dieta blanda.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de proteína se reactiva en sangre y se toma como marcador inflamatorio en las alteraciones cardiovasculares?",
+    "options": {
+      "a": "la proteína D.",
+      "b": "la proteína A",
+      "c": "la proteína B.",
+      "d": "la proteína C."
+    },
+    "correct": "d",
+    "correct_text": "la proteína C.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué cantidad recomendada de colesterol se debe consumir diariamente?",
+    "options": {
+      "a": "más de 100 mg por 100 kcal.",
+      "b": "menos de 100 mg por 100 kcal.",
+      "c": "más de 150 mg por 100 kcal.",
+      "d": "más de 200 mg por 100 kcal."
+    },
+    "correct": "b",
+    "correct_text": "menos de 100 mg por 100 kcal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Cuando se examina la amplia variedad de factores que influyen en la ingesta y en los requerimientos nutricionales, se realiza para…",
+    "options": {
+      "a": "conocer a un paciente.",
+      "b": "valorar el estado nutricional de una persona.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "dejarse llevar por un paciente."
+    },
+    "correct": "b",
+    "correct_text": "valorar el estado nutricional de una persona.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Para considerar a una persona con obesidad, el IMC debe ser?",
+    "options": {
+      "a": "mayor a 25.",
+      "b": "menor a 25.",
+      "c": "menor que 30.",
+      "d": "mayor o igual que 30."
+    },
+    "correct": "d",
+    "correct_text": "mayor o igual que 30.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué diferentes parámetros componen la masa corporal?",
+    "options": {
+      "a": "los fluidos y órganos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la grasa",
+      "d": "los músculos y los huesos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál es la causa fundamental del sobrepeso y la obesidad?",
+    "options": {
+      "a": "el desequilibrio energético entre calorías consumidas y gastadas.",
+      "b": "los alimentos bajos en calorías.",
+      "c": "el comer demasiados helados en verano.",
+      "d": "el hacer demasiado ejercicio."
+    },
+    "correct": "a",
+    "correct_text": "el desequilibrio energético entre calorías consumidas y gastadas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué macronutriente representa el 50 - 55% de la ingesta energética total?",
+    "options": {
+      "a": "los hidratos de carbono.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las proteínas.",
+      "d": "los lípidos."
+    },
+    "correct": "a",
+    "correct_text": "los hidratos de carbono.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de dieta está indicada para aquellos pacientes después de un posoperatorio?",
+    "options": {
+      "a": "la dieta líquida.",
+      "b": "la dieta absoluta.",
+      "c": "la dieta basal.",
+      "d": "la dieta blanda."
+    },
+    "correct": "b",
+    "correct_text": "la dieta absoluta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "En el ICC, en las mujeres, se considera un riesgo cardiovascular muy bajo cuando…",
+    "options": {
+      "a": "es igual o superior a 0.80.",
+      "b": "es inferior a 0.80.",
+      "c": "es igual o superior a 0.85.",
+      "d": "es superior a 0.90."
+    },
+    "correct": "b",
+    "correct_text": "es inferior a 0.80.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de índice indica la distribución de la grasa corporal?",
+    "options": {
+      "a": "con ambos se puede indicar esta distribución.",
+      "b": "el IMC.",
+      "c": "el ICC.",
+      "d": "con ninguno de los anteriores podría indicarse esta distribución."
+    },
+    "correct": "c",
+    "correct_text": "el ICC.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué cantidad de agua se recomienda beber al día?",
+    "options": {
+      "a": "15 vasos al día.",
+      "b": "8 vasos al día.",
+      "c": "10 vasos al día.",
+      "d": "5 vasos al día."
+    },
+    "correct": "b",
+    "correct_text": "8 vasos al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El control y atención en la evaluación nutricional, tiene como objetivo…",
+    "options": {
+      "a": "determinar el grado de los progresos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "determinar unos resultados.",
+      "d": "dejar al paciente que se desarrolle."
+    },
+    "correct": "a",
+    "correct_text": "determinar el grado de los progresos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “aquel tratamiento quirúrgico donde se coloca un cinturón de silicona reduciendo la capacidad del estómago”",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la banda gástrica.",
+      "c": "el balón gástrico.",
+      "d": "el bypass gástrico."
+    },
+    "correct": "b",
+    "correct_text": "la banda gástrica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La fase de una dieta progresiva donde se dan comidas bajas en grasas y fibra es…",
+    "options": {
+      "a": "la dieta basal.",
+      "b": "la dieta semiblanda.",
+      "c": "la dieta líquida.",
+      "d": "la dieta de fácil masticación."
+    },
+    "correct": "d",
+    "correct_text": "la dieta de fácil masticación.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la prevención, el tratamiento y/o la gestión de una enfermedad” a…",
+    "options": {
+      "a": "la prevención de una enfermedad.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el cuidado de la salud.",
+      "d": "la gestión de la salud."
+    },
+    "correct": "c",
+    "correct_text": "el cuidado de la salud.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la dieta líquida, si no se consumen sopas de carnes o levadura de cerveza, esta dieta será deficiente en…",
+    "options": {
+      "a": "proteínas y carbohidratos.",
+      "b": "folato, hierro y vitamina B6.",
+      "c": "sodio.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "folato, hierro y vitamina B6.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El objetivo de la atención nutricional consiste en…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "aumentar el equilibrio nutricional.",
+      "c": "restaurar un estado de equilibrio nutricional.",
+      "d": "disminuir el equilibrio nutricional."
+    },
+    "correct": "c",
+    "correct_text": "restaurar un estado de equilibrio nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Aquella dieta donde se varía la cantidad de algún macronutriente es…",
+    "options": {
+      "a": "la dieta incompleta.",
+      "b": "la dieta cuantitativa.",
+      "c": "la dieta cualitativa.",
+      "d": "la dieta completa."
+    },
+    "correct": "b",
+    "correct_text": "la dieta cuantitativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿A partir de qué edad se recomienda reducir la ingesta de calorías en un 5%?",
+    "options": {
+      "a": "a partir de los 40 años.",
+      "b": "a partir de los 50 años.",
+      "c": "a partir de los 20 años.",
+      "d": "a partir de los 10 años."
+    },
+    "correct": "b",
+    "correct_text": "a partir de los 50 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál de los siguientes forma parte del proceso de atención nutricional?",
+    "options": {
+      "a": "el diagnóstico nutricional.",
+      "b": "el pensamiento nutricional.",
+      "c": "el conocimiento nutricional.",
+      "d": "la no evaluación del estado nutricional."
+    },
+    "correct": "a",
+    "correct_text": "el diagnóstico nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de medicamentos se encuentran aprobados para un tratamiento farmacológico del sobrepeso y la obesidad?",
+    "options": {
+      "a": "la combinación de naltexona y bupropion.",
+      "b": "la liraglutida.",
+      "c": "el orlistat, únicamente.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La evaluación nutricional nos proporciona…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "información que ayuda a determinar la salud y estado nutricional de una persona.",
+      "c": "información confidencial sobre una persona.",
+      "d": "información sobre los parientes de una persona."
+    },
+    "correct": "b",
+    "correct_text": "información que ayuda a determinar la salud y estado nutricional de una persona.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La dieta líquida se puede dividir en dos tipos diferentes, que son…",
+    "options": {
+      "a": "completa e incompleta.",
+      "b": "primera y segunda.",
+      "c": "primaria y secundaria.",
+      "d": "líquida y no líquida."
+    },
+    "correct": "a",
+    "correct_text": "completa e incompleta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué tipo de dieta para evitar la deshidratación, se hace una reposición hidrosalina por vía endovenosa?",
+    "options": {
+      "a": "la dieta basal.",
+      "b": "la dieta absoluta.",
+      "c": "la dieta de fácil digestión.",
+      "d": "la dieta semiblanda."
+    },
+    "correct": "b",
+    "correct_text": "la dieta absoluta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué macronutriente se aconseja su disminución en la dieta para personas con insuficiencias renales?",
+    "options": {
+      "a": "en proteínas.",
+      "b": "en carbohidratos.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "en lípidos."
+    },
+    "correct": "a",
+    "correct_text": "en proteínas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Algunos consejos para evitar la obesidad son….",
+    "options": {
+      "a": "reducir la ingesta de carbohidratos complejos.",
+      "b": "aumentar las calorías en un 5%.",
+      "c": "reducir la ingesta de proteínas de carne de vacuno.",
+      "d": "aumentar la ingesta de grasa."
+    },
+    "correct": "c",
+    "correct_text": "reducir la ingesta de proteínas de carne de vacuno.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las distintas indicaciones para una buena dieta líquida, encontramos…",
+    "options": {
+      "a": "es para pacientes en una fase aguda.",
+      "b": "es útil en un posoperatorio.",
+      "c": "se pueden combinar con dilataciones en el tratamiento de la estenosis esofágica.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los problemas a tratar en una intervención nutricional, encontramos…",
+    "options": {
+      "a": "los factores de riesgo.",
+      "b": "los comportamientos inadecuados relacionados con la nutrición.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "los aspectos de la salud del paciente."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Entre qué cantidades se deben reducir la ingesta diaria para bajar de peso?",
+    "options": {
+      "a": "entre 200 y 300 kcal.",
+      "b": "entre 100 y 200 kcal.",
+      "c": "entre 500 y 1000 kcal.",
+      "d": "entre 300 y 400 kcal."
+    },
+    "correct": "c",
+    "correct_text": "entre 500 y 1000 kcal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Las indicaciones de una dieta blanda son…",
+    "options": {
+      "a": "para pacientes con dificultades para masticar.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "para pacientes expuestos a radioterapia o quimio.",
+      "d": "para personas con antecedentes de tos o ahogo."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué es necesario registrar para permitir la evaluación e introducir cambios en la evaluación nutricional?",
+    "options": {
+      "a": "unos números.",
+      "b": "los propios cambios.",
+      "c": "indicadores.",
+      "d": "los resultados."
+    },
+    "correct": "c",
+    "correct_text": "indicadores.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué puede ocasionar consecuencias importantes para la salud?",
+    "options": {
+      "a": "un desequilibrio nutricional.",
+      "b": "un conocimiento nutricional.",
+      "c": "la valoración nutricional.",
+      "d": "el equilibrio nutricional."
+    },
+    "correct": "a",
+    "correct_text": "un desequilibrio nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  }
+]
