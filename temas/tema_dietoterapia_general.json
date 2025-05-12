@@ -1,16 +1,289 @@
 [
   {
-    "question": "Los episodios de bulimia nerviosa de grandes ingestas de comida pueden ir seguidos de…",
+    "question": "Entre los parámetros nutricionales que se registran en una dieta terapéutica, podemos encontrar…",
     "options": {
-      "a": "maniobras psicológicas.",
-      "b": "maniobras no compensatorias.",
-      "c": "maniobras de anorexia.",
-      "d": "maniobras compensatorias."
+      "a": "la forma de cocinado y su textura.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la cantidad de alimentos.",
+      "d": "el tipo de alimentos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La evaluación nutricional es un proceso…",
+    "options": {
+      "a": "sistemático, continuo y dinámico.",
+      "b": "sistemático y continuo, únicamente.",
+      "c": "únicamente sistemático.",
+      "d": "únicamente dinámico."
+    },
+    "correct": "a",
+    "correct_text": "sistemático, continuo y dinámico.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La siguiente fórmula: \"KG/Estatura2” pertenece a…",
+    "options": {
+      "a": "el Índice de grasa corporal.",
+      "b": "el Índice de Cintura-Cadera.",
+      "c": "el Índice de masa corporal.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "el Índice de masa corporal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los posibles efectos de una reducción gástrica, podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la cetosis y las arritmias.",
+      "c": "la hiperuricemia.",
+      "d": "la acidosis láctica."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las cuatro categorías que se establecen en la intervención nutricional, encontramos…",
+    "options": {
+      "a": "la orientación nutricional.",
+      "b": "la coordinación en la atención a la actividad física.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la educación en actividad física."
+    },
+    "correct": "a",
+    "correct_text": "la orientación nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La salud es aquel proceso continuo que evoluciona desde…",
+    "options": {
+      "a": "no presentar una enfermedad crónica.",
+      "b": "tener un pensamiento de ser resistente a todas las enfermedades.",
+      "c": "tener una enfermedad terminal.",
+      "d": "dejar de presentar una enfermedad aguda."
+    },
+    "correct": "c",
+    "correct_text": "tener una enfermedad terminal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de alimentos se introducen en una dieta semilíquida?",
+    "options": {
+      "a": "alimentos con condimentos.",
+      "b": "alimentos líquidos.",
+      "c": "alimentos duros.",
+      "d": "alimentos de textura fluida."
     },
     "correct": "d",
-    "correct_text": "maniobras compensatorias.",
+    "correct_text": "alimentos de textura fluida.",
     "asignatura": "dietoterapia",
-    "tema": "tema4"
+    "tema": "tema1"
+  },
+  {
+    "question": "La edad, sexo, etapa fisiológica o las enfermedades, entre otros, se encuentran englobados en…",
+    "options": {
+      "a": "los factores sociales.",
+      "b": "en todos los anteriores.",
+      "c": "los factores culturales.",
+      "d": "los factores biológicos."
+    },
+    "correct": "d",
+    "correct_text": "los factores biológicos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de tratamiento farmacológico se define como “que disminuye el apetito, aumenta la sensación de saciedad y ralentiza el vaciado gástrico”?",
+    "options": {
+      "a": "la combinación de naltexona y bupropion.",
+      "b": "la liraglutida.",
+      "c": "el orlistat.",
+      "d": "es otro tipo de tratamiento."
+    },
+    "correct": "b",
+    "correct_text": "la liraglutida.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Los ácidos grasos saturados…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "representan una cantidad inferior al 10% de la ingesta energética total.",
+      "c": "representan entre el 30 - 35% de la ingesta energética total.",
+      "d": "representan una cantidad superior al 10% de la ingesta energética total."
+    },
+    "correct": "b",
+    "correct_text": "representan una cantidad inferior al 10% de la ingesta energética total.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La dieta progresiva está indicada para…",
+    "options": {
+      "a": "aquellas personas con graves síntomas de enfermedades.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las distintas etapas evolutivas de una enfermedad.",
+      "d": "aquellas personas sin ningún tipo de problema de salud."
+    },
+    "correct": "c",
+    "correct_text": "las distintas etapas evolutivas de una enfermedad.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los factores internos y externos que engloban el estado nutricional de una persona, se encuentran…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el estilo de vida y las prácticas sociales y culturales.",
+      "c": "los factores del sistema de salud.",
+      "d": "el estudio de las necesidades."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál es una de las formas más importantes de tratamiento y manejo de una enfermedad nutricional?",
+    "options": {
+      "a": "la inversión nutricional.",
+      "b": "la intervención nutricional.",
+      "c": "el diagnóstico nutricional.",
+      "d": "la terapia nutricional."
+    },
+    "correct": "d",
+    "correct_text": "la terapia nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El diagnóstico nutricional consiste en…",
+    "options": {
+      "a": "la información que ayuda a determinar la salud y estado nutricional de una persona.",
+      "b": "un conjunto de actividades dirigidas a tratar el problema nutricional.",
+      "c": "la identificación y descripción del problema nutricional.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "la identificación y descripción del problema nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la aplicación de conocimiento de la dietética en el tratamiento de los diferentes procesos patológicos” a…",
+    "options": {
+      "a": "la dieta farmacológica.",
+      "b": "la dieta oncológica.",
+      "c": "la dietoterapia.",
+      "d": "la dieta terapéutica."
+    },
+    "correct": "c",
+    "correct_text": "la dietoterapia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La dieta que tiene como objetivo el facilitar la digestión es…",
+    "options": {
+      "a": "la dieta líquida.",
+      "b": "la dieta blanda.",
+      "c": "la dieta basal.",
+      "d": "la dieta de fácil digestión."
+    },
+    "correct": "b",
+    "correct_text": "la dieta blanda.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de proteína se reactiva en sangre y se toma como marcador inflamatorio en las alteraciones cardiovasculares?",
+    "options": {
+      "a": "la proteína D.",
+      "b": "la proteína A",
+      "c": "la proteína B.",
+      "d": "la proteína C."
+    },
+    "correct": "d",
+    "correct_text": "la proteína C.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué cantidad recomendada de colesterol se debe consumir diariamente?",
+    "options": {
+      "a": "más de 100 mg por 100 kcal.",
+      "b": "menos de 100 mg por 100 kcal.",
+      "c": "más de 150 mg por 100 kcal.",
+      "d": "más de 200 mg por 100 kcal."
+    },
+    "correct": "b",
+    "correct_text": "menos de 100 mg por 100 kcal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Cuando se examina la amplia variedad de factores que influyen en la ingesta y en los requerimientos nutricionales, se realiza para…",
+    "options": {
+      "a": "conocer a un paciente.",
+      "b": "valorar el estado nutricional de una persona.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "dejarse llevar por un paciente."
+    },
+    "correct": "b",
+    "correct_text": "valorar el estado nutricional de una persona.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Para considerar a una persona con obesidad, el IMC debe ser?",
+    "options": {
+      "a": "mayor a 25.",
+      "b": "menor a 25.",
+      "c": "menor que 30.",
+      "d": "mayor o igual que 30."
+    },
+    "correct": "d",
+    "correct_text": "mayor o igual que 30.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué diferentes parámetros componen la masa corporal?",
+    "options": {
+      "a": "los fluidos y órganos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la grasa",
+      "d": "los músculos y los huesos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál es la causa fundamental del sobrepeso y la obesidad?",
+    "options": {
+      "a": "el desequilibrio energético entre calorías consumidas y gastadas.",
+      "b": "los alimentos bajos en calorías.",
+      "c": "el comer demasiados helados en verano.",
+      "d": "el hacer demasiado ejercicio."
+    },
+    "correct": "a",
+    "correct_text": "el desequilibrio energético entre calorías consumidas y gastadas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
   },
   {
     "question": "¿Qué macronutriente representa el 50 - 55% de la ingesta energética total?",
@@ -26,67 +299,262 @@
     "tema": "tema1"
   },
   {
-    "question": "Se considera como carga glucémica alta, cuando se sitúa…",
+    "question": "¿Qué tipo de dieta está indicada para aquellos pacientes después de un posoperatorio?",
     "options": {
-      "a": "superior a 30.",
-      "b": "superior a 20.",
-      "c": "inferior a 20.",
-      "d": "inferior a 10."
+      "a": "la dieta líquida.",
+      "b": "la dieta absoluta.",
+      "c": "la dieta basal.",
+      "d": "la dieta blanda."
     },
     "correct": "b",
-    "correct_text": "superior a 20.",
+    "correct_text": "la dieta absoluta.",
     "asignatura": "dietoterapia",
-    "tema": "tema2"
+    "tema": "tema1"
   },
   {
-    "question": "Entre los cereales que se deben evitar contra la diabetes, encontramos…",
+    "question": "En el ICC, en las mujeres, se considera un riesgo cardiovascular muy bajo cuando…",
     "options": {
-      "a": "el arroz largo.",
-      "b": "las pastas y arroces precocinados.",
-      "c": "los cereales integrales.",
-      "d": "el arroz blanco."
+      "a": "es igual o superior a 0.80.",
+      "b": "es inferior a 0.80.",
+      "c": "es igual o superior a 0.85.",
+      "d": "es superior a 0.90."
     },
     "correct": "b",
-    "correct_text": "las pastas y arroces precocinados.",
+    "correct_text": "es inferior a 0.80.",
     "asignatura": "dietoterapia",
-    "tema": "tema2"
+    "tema": "tema1"
   },
   {
-    "question": "Entre las pautas en las dietas para una cirugía, encontramos…",
+    "question": "¿Qué tipo de índice indica la distribución de la grasa corporal?",
     "options": {
-      "a": "un aporte proteico extra.",
+      "a": "con ambos se puede indicar esta distribución.",
+      "b": "el IMC.",
+      "c": "el ICC.",
+      "d": "con ninguno de los anteriores podría indicarse esta distribución."
+    },
+    "correct": "c",
+    "correct_text": "el ICC.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué cantidad de agua se recomienda beber al día?",
+    "options": {
+      "a": "15 vasos al día.",
+      "b": "8 vasos al día.",
+      "c": "10 vasos al día.",
+      "d": "5 vasos al día."
+    },
+    "correct": "b",
+    "correct_text": "8 vasos al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El control y atención en la evaluación nutricional, tiene como objetivo…",
+    "options": {
+      "a": "determinar el grado de los progresos.",
       "b": "todas las respuestas anteriores son correctas.",
-      "c": "las vitaminas del grupo B son necesarias para el aumento del metabolismo.",
-      "d": "el hierro es necesario para el desarrollo de los glóbulos rojos."
+      "c": "determinar unos resultados.",
+      "d": "dejar al paciente que se desarrolle."
     },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
+    "correct": "a",
+    "correct_text": "determinar el grado de los progresos.",
     "asignatura": "dietoterapia",
-    "tema": "tema3"
+    "tema": "tema1"
   },
   {
-    "question": "¿De dónde puede provenir el déficit de vitamina B9 en una persona?",
+    "question": "Se define como “aquel tratamiento quirúrgico donde se coloca un cinturón de silicona reduciendo la capacidad del estómago”",
     "options": {
-      "a": "de una concentración de eritrocitos disminuida.",
-      "b": "de la deficiencia de folato.",
-      "c": "de las enfermedades gastrointestinales.",
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la banda gástrica.",
+      "c": "el balón gástrico.",
+      "d": "el bypass gástrico."
+    },
+    "correct": "b",
+    "correct_text": "la banda gástrica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La fase de una dieta progresiva donde se dan comidas bajas en grasas y fibra es…",
+    "options": {
+      "a": "la dieta basal.",
+      "b": "la dieta semiblanda.",
+      "c": "la dieta líquida.",
+      "d": "la dieta de fácil masticación."
+    },
+    "correct": "d",
+    "correct_text": "la dieta de fácil masticación.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Se define como “la prevención, el tratamiento y/o la gestión de una enfermedad” a…",
+    "options": {
+      "a": "la prevención de una enfermedad.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el cuidado de la salud.",
+      "d": "la gestión de la salud."
+    },
+    "correct": "c",
+    "correct_text": "el cuidado de la salud.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la dieta líquida, si no se consumen sopas de carnes o levadura de cerveza, esta dieta será deficiente en…",
+    "options": {
+      "a": "proteínas y carbohidratos.",
+      "b": "folato, hierro y vitamina B6.",
+      "c": "sodio.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "folato, hierro y vitamina B6.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El objetivo de la atención nutricional consiste en…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "aumentar el equilibrio nutricional.",
+      "c": "restaurar un estado de equilibrio nutricional.",
+      "d": "disminuir el equilibrio nutricional."
+    },
+    "correct": "c",
+    "correct_text": "restaurar un estado de equilibrio nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Aquella dieta donde se varía la cantidad de algún macronutriente es…",
+    "options": {
+      "a": "la dieta incompleta.",
+      "b": "la dieta cuantitativa.",
+      "c": "la dieta cualitativa.",
+      "d": "la dieta completa."
+    },
+    "correct": "b",
+    "correct_text": "la dieta cuantitativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿A partir de qué edad se recomienda reducir la ingesta de calorías en un 5%?",
+    "options": {
+      "a": "a partir de los 40 años.",
+      "b": "a partir de los 50 años.",
+      "c": "a partir de los 20 años.",
+      "d": "a partir de los 10 años."
+    },
+    "correct": "b",
+    "correct_text": "a partir de los 50 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál de los siguientes forma parte del proceso de atención nutricional?",
+    "options": {
+      "a": "el diagnóstico nutricional.",
+      "b": "el pensamiento nutricional.",
+      "c": "el conocimiento nutricional.",
+      "d": "la no evaluación del estado nutricional."
+    },
+    "correct": "a",
+    "correct_text": "el diagnóstico nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipos de medicamentos se encuentran aprobados para un tratamiento farmacológico del sobrepeso y la obesidad?",
+    "options": {
+      "a": "la combinación de naltexona y bupropion.",
+      "b": "la liraglutida.",
+      "c": "el orlistat, únicamente.",
       "d": "todas las respuestas anteriores son correctas."
     },
     "correct": "d",
     "correct_text": "todas las respuestas anteriores son correctas.",
     "asignatura": "dietoterapia",
-    "tema": "tema4"
+    "tema": "tema1"
   },
   {
-    "question": "¿Entre qué cantidades se deben reducir la ingesta diaria para bajar de peso?",
+    "question": "La evaluación nutricional nos proporciona…",
     "options": {
-      "a": "entre 200 y 300 kcal.",
-      "b": "entre 100 y 200 kcal.",
-      "c": "entre 500 y 1000 kcal.",
-      "d": "entre 300 y 400 kcal."
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "información que ayuda a determinar la salud y estado nutricional de una persona.",
+      "c": "información confidencial sobre una persona.",
+      "d": "información sobre los parientes de una persona."
+    },
+    "correct": "b",
+    "correct_text": "información que ayuda a determinar la salud y estado nutricional de una persona.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La dieta líquida se puede dividir en dos tipos diferentes, que son…",
+    "options": {
+      "a": "completa e incompleta.",
+      "b": "primera y segunda.",
+      "c": "primaria y secundaria.",
+      "d": "líquida y no líquida."
+    },
+    "correct": "a",
+    "correct_text": "completa e incompleta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿En qué tipo de dieta para evitar la deshidratación, se hace una reposición hidrosalina por vía endovenosa?",
+    "options": {
+      "a": "la dieta basal.",
+      "b": "la dieta absoluta.",
+      "c": "la dieta de fácil digestión.",
+      "d": "la dieta semiblanda."
+    },
+    "correct": "b",
+    "correct_text": "la dieta absoluta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué macronutriente se aconseja su disminución en la dieta para personas con insuficiencias renales?",
+    "options": {
+      "a": "en proteínas.",
+      "b": "en carbohidratos.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "en lípidos."
+    },
+    "correct": "a",
+    "correct_text": "en proteínas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Algunos consejos para evitar la obesidad son….",
+    "options": {
+      "a": "reducir la ingesta de carbohidratos complejos.",
+      "b": "aumentar las calorías en un 5%.",
+      "c": "reducir la ingesta de proteínas de carne de vacuno.",
+      "d": "aumentar la ingesta de grasa."
     },
     "correct": "c",
-    "correct_text": "entre 500 y 1000 kcal.",
+    "correct_text": "reducir la ingesta de proteínas de carne de vacuno.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las distintas indicaciones para una buena dieta líquida, encontramos…",
+    "options": {
+      "a": "es para pacientes en una fase aguda.",
+      "b": "es útil en un posoperatorio.",
+      "c": "se pueden combinar con dilataciones en el tratamiento de la estenosis esofágica.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
     "asignatura": "dietoterapia",
     "tema": "tema1"
   },
@@ -104,82 +572,173 @@
     "tema": "tema1"
   },
   {
-    "question": "Las sustancias usadas en la conservación de carnes y pescados, son…",
+    "question": "¿Entre qué cantidades se deben reducir la ingesta diaria para bajar de peso?",
     "options": {
-      "a": "los lípidos.",
-      "b": "las glucemias.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "los nitritos."
-    },
-    "correct": "d",
-    "correct_text": "los nitritos.",
-    "asignatura": "dietoterapia",
-    "tema": "tema3"
-  },
-  {
-    "question": "Definida como “la prueba de sobrecarga oral de glucosa que mide la capacidad del organismo para metabolizar la glucosa y permite diagnosticar su intolerancia”, hace referencia a…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores son correctas.",
-      "b": "la dieta previa a la recta de glucemia.",
-      "c": "la dieta posterior a la recta de glucemia.",
-      "d": "la dieta previa a la curva de glucemia."
-    },
-    "correct": "d",
-    "correct_text": "la dieta previa a la curva de glucemia.",
-    "asignatura": "dietoterapia",
-    "tema": "tema4"
-  },
-  {
-    "question": "La dieta progresiva está indicada para…",
-    "options": {
-      "a": "aquellas personas con graves síntomas de enfermedades.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "las distintas etapas evolutivas de una enfermedad.",
-      "d": "aquellas personas sin ningún tipo de problema de salud."
+      "a": "entre 200 y 300 kcal.",
+      "b": "entre 100 y 200 kcal.",
+      "c": "entre 500 y 1000 kcal.",
+      "d": "entre 300 y 400 kcal."
     },
     "correct": "c",
-    "correct_text": "las distintas etapas evolutivas de una enfermedad.",
+    "correct_text": "entre 500 y 1000 kcal.",
     "asignatura": "dietoterapia",
     "tema": "tema1"
   },
   {
-    "question": "Las grasas, representan un porcentaje de la ingesta energética diaria de…",
+    "question": "Las indicaciones de una dieta blanda son…",
     "options": {
-      "a": "entre el 20 y 30%.",
-      "b": "entre el 10 y 15%.",
-      "c": "entre el 5 y 10%.",
-      "d": "entre el 30 y 35%."
+      "a": "para pacientes con dificultades para masticar.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "para pacientes expuestos a radioterapia o quimio.",
+      "d": "para personas con antecedentes de tos o ahogo."
     },
-    "correct": "d",
-    "correct_text": "entre el 30 y 35%.",
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
     "asignatura": "dietoterapia",
-    "tema": "tema3"
+    "tema": "tema1"
   },
   {
-    "question": "Cuando se producen unos niveles de glucosa inferiores a 70 mg/dl, se considera como…",
+    "question": "¿Qué es necesario registrar para permitir la evaluación e introducir cambios en la evaluación nutricional?",
     "options": {
-      "a": "glucemia.",
-      "b": "normoglucemia.",
-      "c": "hiperglucemia.",
-      "d": "hipoglucemia."
+      "a": "unos números.",
+      "b": "los propios cambios.",
+      "c": "indicadores.",
+      "d": "los resultados."
     },
-    "correct": "d",
-    "correct_text": "hipoglucemia.",
+    "correct": "c",
+    "correct_text": "indicadores.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué puede ocasionar consecuencias importantes para la salud?",
+    "options": {
+      "a": "un desequilibrio nutricional.",
+      "b": "un conocimiento nutricional.",
+      "c": "la valoración nutricional.",
+      "d": "el equilibrio nutricional."
+    },
+    "correct": "a",
+    "correct_text": "un desequilibrio nutricional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "El tratamiento de la diabetes se inicia normalmente…",
+    "options": {
+      "a": "tras un análisis de sangre que indique la presencia de hipoglucemia.",
+      "b": "tras un análisis de orina.",
+      "c": "tras un análisis de sangre que indique la presencia de hiperglucemia.",
+      "d": "tras un análisis respiratorio."
+    },
+    "correct": "c",
+    "correct_text": "tras un análisis de sangre que indique la presencia de hiperglucemia.",
     "asignatura": "dietoterapia",
     "tema": "tema2"
   },
   {
-    "question": "Aquella dieta donde se varía la cantidad de algún macronutriente es…",
+    "question": "El tipo de diabetes que puede ocurrir entre la semana decimosexta y la vigésimo octava de embarazo, se considera…",
     "options": {
-      "a": "la dieta incompleta.",
-      "b": "la dieta cuantitativa.",
-      "c": "la dieta cualitativa.",
-      "d": "la dieta completa."
+      "a": "diabetes tipo 2.",
+      "b": "diabetes tipo 1.",
+      "c": "diabetes preparto.",
+      "d": "diabetes gestacional."
+    },
+    "correct": "d",
+    "correct_text": "diabetes gestacional.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los cereales que se deben evitar contra la diabetes, encontramos…",
+    "options": {
+      "a": "el arroz largo.",
+      "b": "las pastas y arroces precocinados.",
+      "c": "los cereales integrales.",
+      "d": "el arroz blanco."
     },
     "correct": "b",
-    "correct_text": "la dieta cuantitativa.",
+    "correct_text": "las pastas y arroces precocinados.",
     "asignatura": "dietoterapia",
-    "tema": "tema1"
+    "tema": "tema2"
+  },
+  {
+    "question": "La cantidad diaria que se debe consumir de azúcares simples debe ser…",
+    "options": {
+      "a": "baja, en torno al 20%.",
+      "b": "inferior al 20%.",
+      "c": "alta, en torno al 60%.",
+      "d": "normal, en torno al 30%."
+    },
+    "correct": "b",
+    "correct_text": "inferior al 20%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La glucemia al azar se diagnostica cuando el paciente…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "presenta una tasa menor a 100 mg/dl.",
+      "c": "presenta una tasa inferior a 100 mg/dl.",
+      "d": "presenta una tasa superior o igual a 200 mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "presenta una tasa superior o igual a 200 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El aspartamo aporta una cantidad de calorías…",
+    "options": {
+      "a": "10 kcal/g.",
+      "b": "5 kcal/g.",
+      "c": "1 kcal/g.",
+      "d": "4 kcal/g."
+    },
+    "correct": "d",
+    "correct_text": "4 kcal/g.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina a la sensación de sed excesiva?",
+    "options": {
+      "a": "polidipsia.",
+      "b": "glucosuria.",
+      "c": "daño vascular.",
+      "d": "poliuria."
+    },
+    "correct": "a",
+    "correct_text": "polidipsia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si se realiza ejercicio durante un total de 30 minutos a 1 hora, se debe…",
+    "options": {
+      "a": "aumentar la insulina un 10%.",
+      "b": "disminuir la insulina un 50%.",
+      "c": "disminuir la insulina entre un 10 y un 30%.",
+      "d": "aumentar la insulina en un 20%."
+    },
+    "correct": "c",
+    "correct_text": "disminuir la insulina entre un 10 y un 30%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si la cetoacidosis progresa sin tratarse, puede llegar a producir…",
+    "options": {
+      "a": "un ictus diabético.",
+      "b": "un aumento del colesterol.",
+      "c": "un parón cardíaco.",
+      "d": "un coma diabético."
+    },
+    "correct": "d",
+    "correct_text": "un coma diabético.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
   },
   {
     "question": "El tratamiento dietético combinado o no con insulina o fármaco hipoglucemiantes orales, está indicado para…",
@@ -195,17 +754,56 @@
     "tema": "tema2"
   },
   {
-    "question": "¿Qué dos formas de bulimia nerviosa podemos encontrarnos?",
+    "question": "Los cuerpos cetónicos se acumulan en la sangre y deben ser excretados a través…",
     "options": {
-      "a": "bulimia nerviosa purgativa y no purgativa.",
-      "b": "bulimia nerviosa mental y psicológica.",
-      "c": "bulimia nerviosa actual y pasada.",
-      "d": "bulimia nerviosa psicológica y psiquiátrica."
+      "a": "de las heces.",
+      "b": "de la micción.",
+      "c": "del hígado.",
+      "d": "del sudor."
     },
-    "correct": "a",
-    "correct_text": "bulimia nerviosa purgativa y no purgativa.",
+    "correct": "b",
+    "correct_text": "de la micción.",
     "asignatura": "dietoterapia",
-    "tema": "tema4"
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipo de productos se deben priorizar para la obtención de proteínas?",
+    "options": {
+      "a": "la carne de cerdo.",
+      "b": "los pescados azules.",
+      "c": "los productos cárnicos.",
+      "d": "los pescados muy grasos."
+    },
+    "correct": "b",
+    "correct_text": "los pescados azules.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cuando el paciente no puede utilizar la glucosa para obtener energía y utiliza las grasas, se denomina como…",
+    "options": {
+      "a": "neuropatía.",
+      "b": "daño vascular.",
+      "c": "exceso de cuerpos cetónicos.",
+      "d": "ninguna de las respuestas anteriores son correctas."
+    },
+    "correct": "c",
+    "correct_text": "exceso de cuerpos cetónicos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si el nivel de glucosa en ayunas se sitúa entre 110 y 126 mg/dl , estamos ante…",
+    "options": {
+      "a": "un riesgo ínfimo de desarrollar diabetes.",
+      "b": "una glucemia basal alterada.",
+      "c": "un riesgo elevado de desarrollar diabetes.",
+      "d": "una intolerancia a la glucosa."
+    },
+    "correct": "b",
+    "correct_text": "una glucemia basal alterada.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
   },
   {
     "question": "Entre los síntomas de la diabetes podemos encontrarnos con…",
@@ -221,15 +819,756 @@
     "tema": "tema2"
   },
   {
-    "question": "La esteatosis hepático no alcohólica, se produce por la acumulación de…",
+    "question": "Cuando el sistema inmunológico del cuerpo destruye las células beta del páncreas, nos encontramos ante…",
     "options": {
-      "a": "grasas en el hígado.",
-      "b": "grasas en el intestino.",
-      "c": "grasas en el páncreas.",
-      "d": "grasas en el estómago."
+      "a": "la diabetes tipo 4.",
+      "b": "la diabetes tipo 1.",
+      "c": "la diabetes tipo 2.",
+      "d": "la diabetes tipo 3."
+    },
+    "correct": "b",
+    "correct_text": "la diabetes tipo 1.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El daño oxidativo se produce como consecuencia de…",
+    "options": {
+      "a": "de una alta concentración de moléculas oxidantes.",
+      "b": "una concentración normal de moléculas oxidantes.",
+      "c": "de una inexistente concentración de moléculas oxidantes.",
+      "d": "de una baja concentración de moléculas oxidantes."
     },
     "correct": "a",
-    "correct_text": "grasas en el hígado.",
+    "correct_text": "de una alta concentración de moléculas oxidantes.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La diabetes tipo 2, es más frecuente a desarrollarse en…",
+    "options": {
+      "a": "menores de 5 años.",
+      "b": "menores de 20 años.",
+      "c": "mayores de 40 años.",
+      "d": "mayores de 10 años."
+    },
+    "correct": "c",
+    "correct_text": "mayores de 40 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las recomendaciones para el control de la diabetes, encontramos que la glucemia postprandial, se debe encontrar en unos rangos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "inferior a 300 mg/dl.",
+      "c": "superior a 180 mg/dl.",
+      "d": "inferior a 180 mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "inferior a 180 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipos de bombas no son aptas para todos los pacientes con diabetes?",
+    "options": {
+      "a": "los bolos prepandiales.",
+      "b": "las bombas de acción lenta.",
+      "c": "las bombas para la diabetes tipo 1.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "los bolos prepandiales.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Después de una comida, la cantidad de glucosa en sangre…",
+    "options": {
+      "a": "la cantidad de glucosa se eleva normalmente.",
+      "b": "la cantidad de glucosa aumenta un 1%.",
+      "c": "la cantidad de glucosa disminuye a mínimos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "la cantidad de glucosa se eleva normalmente.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Respecto al colesterol total, la cantidad de colesterol debe ser…",
+    "options": {
+      "a": "superior a 200 mg/dl.",
+      "b": "inferior a 30 mg/dl.",
+      "c": "inferior a 185 mg/dl.",
+      "d": "inferior a 70 mg/dl."
+    },
+    "correct": "c",
+    "correct_text": "inferior a 185 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué cantidad de berenjenas contienen 10 gramos de carbohidratos?",
+    "options": {
+      "a": "300 gramos.",
+      "b": "100 gramos.",
+      "c": "500 gramos.",
+      "d": "50 gramos."
+    },
+    "correct": "a",
+    "correct_text": "300 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tratamiento donde se estimula la secreción de insulina por las células beta del páncreas, se denomina como…",
+    "options": {
+      "a": "biguanidas.",
+      "b": "secretagogos de acción rápida y sulfonilureas.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "secretagogos de acción lenta."
+    },
+    "correct": "b",
+    "correct_text": "secretagogos de acción rápida y sulfonilureas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los factores de riesgo que pueden desarrollar una diabetes tipo 1, encontramos…",
+    "options": {
+      "a": "factores culturales y sociales.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el sistema inmunológico.",
+      "d": "la genética."
+    },
+    "correct": "d",
+    "correct_text": "la genética.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué alimento contiene un índice glucémico bajo?",
+    "options": {
+      "a": "el pan.",
+      "b": "el azúcar.",
+      "c": "los cereales integrales.",
+      "d": "las berenjenas."
+    },
+    "correct": "c",
+    "correct_text": "los cereales integrales.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La insulina promueve la síntesis de ácidos grasos en…",
+    "options": {
+      "a": "páncreas.",
+      "b": "hígado y tejido adiposo.",
+      "c": "intestino grueso.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "hígado y tejido adiposo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina a aquella hormona secretada por las células alfa de los islotes de Langerhans?",
+    "options": {
+      "a": "insulina.",
+      "b": "glucagón.",
+      "c": "glucógeno.",
+      "d": "glucólisis,"
+    },
+    "correct": "b",
+    "correct_text": "glucagón.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se denominan como “grupo de trastornos graves y crónicos que afectan al metabolismo de los hidratos de carbono” a…",
+    "options": {
+      "a": "hiperglucemia.",
+      "b": "hipoglucemia.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "diabetes."
+    },
+    "correct": "d",
+    "correct_text": "diabetes.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cuando se producen unos niveles de glucosa inferiores a 70 mg/dl, se considera como…",
+    "options": {
+      "a": "glucemia.",
+      "b": "normoglucemia.",
+      "c": "hiperglucemia.",
+      "d": "hipoglucemia."
+    },
+    "correct": "d",
+    "correct_text": "hipoglucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la diabetes tipo 2, la … puede estar presente como parte del síndrome metabólico.",
+    "options": {
+      "a": "monotensión.",
+      "b": "hipotensión.",
+      "c": "cardiotensión.",
+      "d": "hipertensión."
+    },
+    "correct": "d",
+    "correct_text": "hipertensión.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué cantidad de fibra se recomienda consumir diariamente?",
+    "options": {
+      "a": "entre 25 y 30 gramos.",
+      "b": "entre 35 y 40 gramos.",
+      "c": "entre 10 y 15 gramos.",
+      "d": "entre 40 y 50 gramos."
+    },
+    "correct": "a",
+    "correct_text": "entre 25 y 30 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El olvido de la dosis de insulina puede ser la causa de...",
+    "options": {
+      "a": "cetadisis.",
+      "b": "acidosis.",
+      "c": "cetidisis.",
+      "d": "cetoacidosis."
+    },
+    "correct": "d",
+    "correct_text": "cetoacidosis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipos de dietas no son recomendables para pacientes con diabetes?",
+    "options": {
+      "a": "dietas hipoprotéicas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "dietas hipoglucémicas.",
+      "d": "dietas hiperprotéicas."
+    },
+    "correct": "d",
+    "correct_text": "dietas hiperprotéicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los objetivos del control y tratamiento de la diabetes, encontramos…",
+    "options": {
+      "a": "adaptar la dieta a los objetivos concretos del control glucémico.",
+      "b": "aumentar la glucemia.",
+      "c": "dejar de modificar la ingesta de grasas de los pacientes.",
+      "d": "Evitar utilización de sal en la mesa"
+    },
+    "correct": "a",
+    "correct_text": "adaptar la dieta a los objetivos concretos del control glucémico.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué es importante que lleven encima siempre los pacientes que presenten diabetes?",
+    "options": {
+      "a": "productos con mucha fibra.",
+      "b": "unas galletas o fruta.",
+      "c": "una dosis de proteínas.",
+      "d": "azúcar puro."
+    },
+    "correct": "b",
+    "correct_text": "unas galletas o fruta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La diabetes que aparece en la edad jóven pero debería pertenecer a la edad madura, se denomina como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "diabetes secundaria a medicamentos.",
+      "c": "diabetes causada por enfermedades que afectan al páncreas.",
+      "d": "diabetes MODY."
+    },
+    "correct": "d",
+    "correct_text": "diabetes MODY.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Por qué órganos pasan la insulina y el glucagón?",
+    "options": {
+      "a": "el estómago y el hígado.",
+      "b": "el páncreas y el hígado.",
+      "c": "el estómago y los intestinos.",
+      "d": "el intestino delgado y grueso."
+    },
+    "correct": "b",
+    "correct_text": "el páncreas y el hígado.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cómo se denomina a la síntesis de glucosa el hígado?",
+    "options": {
+      "a": "neogénesis.",
+      "b": "glucólisis.",
+      "c": "glocugenosis.",
+      "d": "gluconeogénesis."
+    },
+    "correct": "d",
+    "correct_text": "gluconeogénesis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Las insulinas a las cuales se les añade protamina, son…",
+    "options": {
+      "a": "las insulinas de acción muy rápida.",
+      "b": "las insulinas de acción rápida.",
+      "c": "las insulinas de acción intermedia.",
+      "d": "las insulinas de acción lenta."
+    },
+    "correct": "c",
+    "correct_text": "las insulinas de acción intermedia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Cuál está considerado como el edulcorante más antiguo?",
+    "options": {
+      "a": "la sucralosa.",
+      "b": "la estevia.",
+      "c": "el ciclamato sódico.",
+      "d": "la sacarina sódica."
+    },
+    "correct": "d",
+    "correct_text": "la sacarina sódica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se denomina como “el tiempo durante el que la insulina sigue reduciendo los niveles de glucosa en sangre” a…",
+    "options": {
+      "a": "periodo de acción máxima.",
+      "b": "el tiempo de duración.",
+      "c": "pico de acción máxima.",
+      "d": "el tiempo de inicio."
+    },
+    "correct": "a",
+    "correct_text": "periodo de acción máxima.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La insulina …. de glucosa del hígado al torrente sanguíneo.",
+    "options": {
+      "a": "disminuye al mínimo la salida.",
+      "b": "reduce la salida.",
+      "c": "aumenta la entrada.",
+      "d": "aumenta al máximo."
+    },
+    "correct": "b",
+    "correct_text": "reduce la salida.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se considera como carga glucémica alta, cuando se sitúa…",
+    "options": {
+      "a": "superior a 30.",
+      "b": "superior a 20.",
+      "c": "inferior a 20.",
+      "d": "inferior a 10."
+    },
+    "correct": "b",
+    "correct_text": "superior a 20.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La diabetes gestacional…",
+    "options": {
+      "a": "no conlleva llevar una dieta adecuada.",
+      "b": "no debe controlarse el aumento del peso.",
+      "c": "no suele aparecer tras el embarazo.",
+      "d": "desaparece después del nacimiento del bebé."
+    },
+    "correct": "d",
+    "correct_text": "desaparece después del nacimiento del bebé.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La sacarina y otros edulcorantes artificiales pueden modificar…",
+    "options": {
+      "a": "las enzimas digestivas.",
+      "b": "la cantidad de jugos gástricos.",
+      "c": "la forma de los jugos gástricos.",
+      "d": "la flora intestinal."
+    },
+    "correct": "d",
+    "correct_text": "la flora intestinal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre los lácteos que se deben evitar contra la diabetes, encontramos…",
+    "options": {
+      "a": "los yogures de frutas.",
+      "b": "los quesos poco grasos.",
+      "c": "la leche semidesnatada.",
+      "d": "los yogures con nata o chocolate."
+    },
+    "correct": "d",
+    "correct_text": "los yogures con nata o chocolate.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Según la etiología de la diabetes, esta puede deberse a factores…",
+    "options": {
+      "a": "como la obesidad o el síndrome de Cushing.",
+      "b": "como la obesidad, únicamente.",
+      "c": "como el aumento de células alfa en el páncreas.",
+      "d": "como la disminución de células gamma en el hígado."
+    },
+    "correct": "a",
+    "correct_text": "como la obesidad o el síndrome de Cushing.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La pérdida progresiva de la función renal durante un largo periodo de tiempo, es más conocida como…",
+    "options": {
+      "a": "nefronitis.",
+      "b": "nefritis.",
+      "c": "enfermedad renal crónica.",
+      "d": "riñonitis."
+    },
+    "correct": "c",
+    "correct_text": "enfermedad renal crónica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El síndrome que se produce como consecuencia de cirugía bariátrica es…",
+    "options": {
+      "a": "el síndrome de Dumping.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el síndrome de Crohn.",
+      "d": "el síndrome de Schumann."
+    },
+    "correct": "a",
+    "correct_text": "el síndrome de Dumping.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El último paso en una dieta baja en FODMAPs, es…",
+    "options": {
+      "a": "la reevaluación de la tolerancia.",
+      "b": "la fase de reintroducción.",
+      "c": "la fase de dieta adaptada.",
+      "d": "la fase de dieta más que adaptada."
+    },
+    "correct": "a",
+    "correct_text": "la reevaluación de la tolerancia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El sobrecrecimiento microbiano que provoca inflamación y dolor, es más conocido como…",
+    "options": {
+      "a": "diverticulitis.",
+      "b": "diverticulosis.",
+      "c": "diverticulolitis.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "diverticulitis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La dieta baja en FODMAPs, forma parte de las recomendaciones dietéticas para tratar…",
+    "options": {
+      "a": "la úlcera péptica.",
+      "b": "la hernia de hiato.",
+      "c": "la enfermedad inflamatoria intestinal.",
+      "d": "la diverticulosis."
+    },
+    "correct": "c",
+    "correct_text": "la enfermedad inflamatoria intestinal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las recomendaciones dietéticas para tratar la dispepsia, podemos encontrar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el evitar el consumo de alimentos picantes o café.",
+      "c": "comer despacio.",
+      "d": "no realizar comidas copiosas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el tratamiento dietético de la insuficiencia cardíaca congestiva, podemos encontrarnos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "la dieta restringida en fibra.",
+      "c": "el aumento del consumo de alimentos ricos en potasio.",
+      "d": "la administración de suplementos alimenticios."
+    },
+    "correct": "c",
+    "correct_text": "el aumento del consumo de alimentos ricos en potasio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La apertura del colon a la superficie del abdomen, es conocida como…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "colostomía.",
+      "c": "ileostomía.",
+      "d": "colonostomía."
+    },
+    "correct": "b",
+    "correct_text": "colostomía.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El efecto que retrasa el vaciamiento gástrico y calma el apetito es conocido como…",
+    "options": {
+      "a": "hipercalcemia.",
+      "b": "hipoglucemia.",
+      "c": "hipocalcemia.",
+      "d": "hiperglucemia."
+    },
+    "correct": "d",
+    "correct_text": "hiperglucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los efectos del tratamiento contra el cáncer, encontramos…",
+    "options": {
+      "a": "la dificultad para tragar o para masticar.",
+      "b": "la pérdida de apetito o náuseas, entre otros.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la colitis hemorrágica, entre otras enfermedades."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En cuanto al tratamiento dietético de la diálisis, se presentan recomendaciones, tales como…",
+    "options": {
+      "a": "la restricción de potasio.",
+      "b": "la restricción de los líquidos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "tomar proteínas de alto valor biológico."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las causas de la insuficiencia cardíaca congestiva, podemos encontrar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "los defectos cardíacos congénitos.",
+      "c": "la comida muy saludable.",
+      "d": "las necesidades de la persona."
+    },
+    "correct": "b",
+    "correct_text": "los defectos cardíacos congénitos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Definida como “la enfermedad progresiva crónica que afecta al intestino delgado y grueso” es…",
+    "options": {
+      "a": "las úlceras pépticas.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la colitis ulcerosa.",
+      "d": "la enfermedad de Crohn."
+    },
+    "correct": "d",
+    "correct_text": "la enfermedad de Crohn.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los factores de riesgo de un infarto, podemos encontrar…",
+    "options": {
+      "a": "el sedentarismo y los antecedentes familiares.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "la hiperlipidemia y la obesidad.",
+      "d": "la hipertensión y el tabaquismo."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento dietético de la pancreatitis…",
+    "options": {
+      "a": "no tiene una nutrición parenteral.",
+      "b": "se dejan de incorporar ciertos macronutrientes.",
+      "c": "está dirigido al aumento de las secreciones pancreáticas y biliares.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "d",
+    "correct_text": "ninguna de las respuestas anteriores es correcta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de dieta es la que provoca un aumento de las heces?",
+    "options": {
+      "a": "la dieta con gran cantidad de proteínas.",
+      "b": "la dieta rica en fibra.",
+      "c": "la dieta con gran cantidad de potasio.",
+      "d": "la dieta baja en fibra."
+    },
+    "correct": "b",
+    "correct_text": "la dieta rica en fibra.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El daño renal disminuye la producción de…",
+    "options": {
+      "a": "vitamina A.",
+      "b": "calcio.",
+      "c": "glucógeno.",
+      "d": "vitamina D."
+    },
+    "correct": "d",
+    "correct_text": "vitamina D.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se define como “la falta de aliento o la dificultad para respirar, que puede ocurrir cuando se realizan esfuerzos” a…",
+    "options": {
+      "a": "hipertrofia.",
+      "b": "valvulopatía.",
+      "c": "disnea.",
+      "d": "hipotrofia."
+    },
+    "correct": "c",
+    "correct_text": "disnea.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El cáncer en los tejidos blandos también es conocido como…",
+    "options": {
+      "a": "leucemia.",
+      "b": "carcinoma.",
+      "c": "sarcoma.",
+      "d": "linfoma."
+    },
+    "correct": "c",
+    "correct_text": "sarcoma.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El consumo excesivo de… provoca un aumento del tejido adiposo visceral…",
+    "options": {
+      "a": "fructosa.",
+      "b": "glucosa.",
+      "c": "triglicéridos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "fructosa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el plan DASH de alimentación, entre los alimentos que se deben limitar en su consumo, podemos encontrar a…",
+    "options": {
+      "a": "los vegetales y la fruta.",
+      "b": "el pescado y el pollo.",
+      "c": "los lácteos.",
+      "d": "los frutos secos."
+    },
+    "correct": "c",
+    "correct_text": "los lácteos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La hepatitis es un trastorno que afecta principalmente a…",
+    "options": {
+      "a": "el páncreas.",
+      "b": "el apéndice.",
+      "c": "el estómago.",
+      "d": "el hígado."
+    },
+    "correct": "d",
+    "correct_text": "el hígado.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento dietético para controlar la hepatitis consiste en…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "el aumento del consumo de hidratos de carbono.",
+      "c": "aumentar levemente el consumo de grasas.",
+      "d": "realizar grandes cantidades de comida."
+    },
+    "correct": "b",
+    "correct_text": "el aumento del consumo de hidratos de carbono.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las causas de la pancreatitis son…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la cirugía estomacal o intestinal.",
+      "c": "la ingesta de algunos medicamentos.",
+      "d": "los cálculos biliares."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La cantidad de proteínas diaria que se debe consumir cuando se padece pancreatitis es de…",
+    "options": {
+      "a": "2g por kg de peso al día.",
+      "b": "0’5g por kg de peso al día.",
+      "c": "3g por kg de peso al día.",
+      "d": "1’5g por kg de peso al día."
+    },
+    "correct": "d",
+    "correct_text": "1’5g por kg de peso al día.",
     "asignatura": "dietoterapia",
     "tema": "tema3"
   },
@@ -247,6 +1586,981 @@
     "tema": "tema3"
   },
   {
+    "question": "La inflamación que afecta a los capilares de los glomérulos, también se conoce como…",
+    "options": {
+      "a": "enfermedad renal poliquística.",
+      "b": "glomerulosis.",
+      "c": "nefroesclerosis.",
+      "d": "glomerulonefritis."
+    },
+    "correct": "d",
+    "correct_text": "glomerulonefritis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las características de la fibra dietética, podemos encontrar…",
+    "options": {
+      "a": "no es atacada por las enzimas digestivas.",
+      "b": "está formada por un conjunto heterogéneo de moléculas complejas.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "es parcialmente fermentable por las bacterias del intestino grueso."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La enfermedad del hígado en la que se produce la destrucción de las células hepáticas, es denominada como…",
+    "options": {
+      "a": "hepatitis.",
+      "b": "higaditis.",
+      "c": "pancreatitis.",
+      "d": "cirrosis."
+    },
+    "correct": "d",
+    "correct_text": "cirrosis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Para el tratamiento dietético de los infartos de miocardio, podemos encontrarnos con…",
+    "options": {
+      "a": "una dieta líquida unas horas después de producirse el infarto.",
+      "b": "alimentos fáciles de masticar y digerir.",
+      "c": "la limitación de cantidades de grasa.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los tipos de infarto, podemos encontrarnos con…",
+    "options": {
+      "a": "infarto leve.",
+      "b": "infarto vascular.",
+      "c": "infarto cerebral.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "infarto cerebral.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El malestar en la parte superior del abdomen, es más conocido como…",
+    "options": {
+      "a": "estomagitis.",
+      "b": "disepsia.",
+      "c": "esofagitis.",
+      "d": "laringitis."
+    },
+    "correct": "b",
+    "correct_text": "disepsia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se considera como hipertensión en fase 1, cuando hay unos niveles de presión arterial…",
+    "options": {
+      "a": "entre 140-159/90-99 mmHg.",
+      "b": "menores a 120/80 mmHg.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "entre 120-139/80-88 mmHg."
+    },
+    "correct": "a",
+    "correct_text": "entre 140-159/90-99 mmHg.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el tratamiento dietético de la cirrosis, encontramos…",
+    "options": {
+      "a": "no realizar comidas copiosas.",
+      "b": "no ingerir alcohol.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "comer despacio."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué órgano está formado por una rama descendente y una rama ascendente?",
+    "options": {
+      "a": "el túbulo contorneado distal.",
+      "b": "el túbulo colector.",
+      "c": "la asa de Henle.",
+      "d": "el túbulo contorneado proximal."
+    },
+    "correct": "c",
+    "correct_text": "la asa de Henle.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El cuadro de desnutrición y pérdida de peso que aparece en la fase final del cáncer, también es conocido como…",
+    "options": {
+      "a": "lipolisis.",
+      "b": "hipoxia.",
+      "c": "caquexia.",
+      "d": "metástasis."
+    },
+    "correct": "c",
+    "correct_text": "caquexia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Cuando un paciente recibe antibióticos para hacer frente a una enfermedad renal, se le recomienda…",
+    "options": {
+      "a": "tomar suplementos de proteínas.",
+      "b": "tomar suplementos de potasio.",
+      "c": "tomar suplementos de vitamina K.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "tomar suplementos de vitamina K.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las dietas en patologías específicas del aparato digestivo, se dividen en…",
+    "options": {
+      "a": "dietas de órganos primarios y secundarios.",
+      "b": "Dietas de órganos primarios y accesorios.",
+      "c": "dietas de órganos internos y externos.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "Dietas de órganos primarios y accesorios.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento dietético en la fase inicial de una dieta baja en FODMAPs, tiene una duración aproximada de…",
+    "options": {
+      "a": "2 a 3 semanas.",
+      "b": "6 a 8 semanas.",
+      "c": "4 a 6 semanas.",
+      "d": "1 a 2 semanas."
+    },
+    "correct": "c",
+    "correct_text": "4 a 6 semanas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el tratamiento dietético de la hiperlipidemia, se debe reducir el consumo…",
+    "options": {
+      "a": "de AGP omega-3.",
+      "b": "de los azúcares complejos.",
+      "c": "de los alimentos de origen vegetal.",
+      "d": "de grasas en la dieta."
+    },
+    "correct": "d",
+    "correct_text": "de grasas en la dieta.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las causas de la esofagitis, podemos encontrar…",
+    "options": {
+      "a": "el infrapeso.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la hernia de hiato.",
+      "d": "el dejar de fumar."
+    },
+    "correct": "c",
+    "correct_text": "la hernia de hiato.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El sentido del gusto del olfato se ven afectados cuando se sufre por…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "sobrepeso.",
+      "c": "anorexia.",
+      "d": "estrés metabólico."
+    },
+    "correct": "c",
+    "correct_text": "anorexia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento dietético para pacientes con enfermedad celíaca es…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "aumentar el consumo energético en pacientes bajos de peso.",
+      "c": "consumo abundante de frutas, verduras y hortalizas.",
+      "d": "aportes de suplementos vitamínicos."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La inflamación de la vesícula biliar, también es denominada como…",
+    "options": {
+      "a": "celotiasis.",
+      "b": "colecistitis.",
+      "c": "cometiasis.",
+      "d": "coleitiasis."
+    },
+    "correct": "b",
+    "correct_text": "colecistitis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las consecuencias de la enfermedad SIBO, podemos encontrar…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la malabsorción de macro y micronutrientes.",
+      "c": "la deficiencia de vitamina B12.",
+      "d": "los cálculos renales."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las purinas podemos encontrarlas en alimentos como…",
+    "options": {
+      "a": "carnes, pescado y aves de corral.",
+      "b": "yogures y quesos.",
+      "c": "en los cereales integrales.",
+      "d": "en cualquier tipo de verdura."
+    },
+    "correct": "a",
+    "correct_text": "carnes, pescado y aves de corral.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la población europea, el porcentaje de prevalencia de la enfermedad celíaca es del…",
+    "options": {
+      "a": "2%.",
+      "b": "3%.",
+      "c": "5%.",
+      "d": "1%."
+    },
+    "correct": "d",
+    "correct_text": "1%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los alimentos que excluye la dieta baja en FODMAPs, encontramos:",
+    "options": {
+      "a": "los oligosacáridos y los disacáridos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "leche y sus derivados.",
+      "d": "los pescados."
+    },
+    "correct": "a",
+    "correct_text": "los oligosacáridos y los disacáridos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la hemodiálisis…",
+    "options": {
+      "a": "se le extrae sangre al paciente y se conduce a una máquina.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "se le pide una muestra de heces al paciente.",
+      "d": "se le pide una muestra de orina al paciente."
+    },
+    "correct": "a",
+    "correct_text": "se le extrae sangre al paciente y se conduce a una máquina.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las distintas enfermedades renales, podemos encontrarnos con…",
+    "options": {
+      "a": "los cálculos renales y la enfermedad glomerular.",
+      "b": "la hipertensión arterial y la diabetes.",
+      "c": "la enfermedad renal poliquística.",
+      "d": "todas las respuestas anteriores son incorrectas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son incorrectas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Tras un trasplante de riñón, se debe realizar una dieta…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "no se deben evitar alimentos contaminados.",
+      "c": "donde desaparecen progresivamente las restricciones dietéticas.",
+      "d": "se debe aumentar el consumo de sal."
+    },
+    "correct": "c",
+    "correct_text": "donde desaparecen progresivamente las restricciones dietéticas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La desnutrición suele afectar a…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "los músculos digestivos.",
+      "c": "la parénquima pulmonar.",
+      "d": "el sistema nervioso."
+    },
+    "correct": "c",
+    "correct_text": "la parénquima pulmonar.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La litiasis renal, es una enfermedad renal causada por factores como…",
+    "options": {
+      "a": "las infecciones.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "una alimentación inadecuada.",
+      "d": "las enfermedades metabólicas."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las grasas, representan un porcentaje de la ingesta energética diaria de…",
+    "options": {
+      "a": "entre el 20 y 30%.",
+      "b": "entre el 10 y 15%.",
+      "c": "entre el 5 y 10%.",
+      "d": "entre el 30 y 35%."
+    },
+    "correct": "d",
+    "correct_text": "entre el 30 y 35%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El objetivo del tratamiento nutricional en los pacientes con EPÒC, es…",
+    "options": {
+      "a": "la ingesta de agua en abundancia.",
+      "b": "la prevención y control de la pérdida de peso.",
+      "c": "la ingesta de mucha fibra dietética.",
+      "d": "la ganancia de peso."
+    },
+    "correct": "b",
+    "correct_text": "la prevención y control de la pérdida de peso.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La enfermedad que dificulta el movimiento de los alimentos a lo largo del aparato digestivo es…",
+    "options": {
+      "a": "la úlcera péptica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la hernia de hiato.",
+      "d": "la dispepsia."
+    },
+    "correct": "c",
+    "correct_text": "la hernia de hiato.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la litiasis de ácido úrico, se debe reducir…",
+    "options": {
+      "a": "el consumo de lácteos y sus derivados.",
+      "b": "el consumo de alimentos ricos en fibra.",
+      "c": "el consumo de alimentos ricos en purinas.",
+      "d": "el consumo de alimentos ricos en carbohidratos."
+    },
+    "correct": "c",
+    "correct_text": "el consumo de alimentos ricos en purinas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la cirrosis avanzada, se debe aumentar el consumo de hidratos de carbono hasta…",
+    "options": {
+      "a": "el 60%.",
+      "b": "el 70%.",
+      "c": "el 50%.",
+      "d": "el 30%."
+    },
+    "correct": "a",
+    "correct_text": "el 60%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las recomendaciones dietéticas del síndrome de Dumping encontramos…",
+    "options": {
+      "a": "una dieta pobre en azúcares complejos.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la reintroducción gradual de hidratos de carbono complejos.",
+      "d": "valorar la intolerancia a los yogures."
+    },
+    "correct": "c",
+    "correct_text": "la reintroducción gradual de hidratos de carbono complejos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las sustancias usadas en la conservación de carnes y pescados, son…",
+    "options": {
+      "a": "los lípidos.",
+      "b": "las glucemias.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "los nitritos."
+    },
+    "correct": "d",
+    "correct_text": "los nitritos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿En qué casos se debe dar el uso de los antibióticos?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "cuando se dé dolor de cabeza.",
+      "c": "cuando exista una herida abierta.",
+      "d": "cuando exista una infección bacteriana."
+    },
+    "correct": "d",
+    "correct_text": "cuando exista una infección bacteriana.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La parte sólida de las heces, es más conocida como…",
+    "options": {
+      "a": "secreción.",
+      "b": "jugo.",
+      "c": "residuo.",
+      "d": "aumento."
+    },
+    "correct": "c",
+    "correct_text": "residuo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las funciones del riñón, podemos encontrarnos con…",
+    "options": {
+      "a": "secretan hormonas.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "participa en el metabolismo de la vitamina D.",
+      "d": "la filtración de la sangre."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La vesícula biliar almacena…",
+    "options": {
+      "a": "las grasas.",
+      "b": "la bilis producida por el hígado.",
+      "c": "los jugos gástricos.",
+      "d": "los jugos pancreáticos."
+    },
+    "correct": "b",
+    "correct_text": "la bilis producida por el hígado.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El aporte proteico adecuado aumenta…",
+    "options": {
+      "a": "el consumo de oxígeno.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el volumen respiratorio por minuto.",
+      "d": "la respuesta ventilatoria a la hipoxia y la hipercapnia."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué órgano está constituido por el corpúsculo renal y los túbulos renales?",
+    "options": {
+      "a": "los riñones.",
+      "b": "las nefronas.",
+      "c": "los glomérulos.",
+      "d": "las neuronas."
+    },
+    "correct": "b",
+    "correct_text": "las nefronas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La falta de alimento provoca la pérdida de masa pulmonar con disminución de surfactante, la cual es la reducción del metabolismo de los neumocitos…",
+    "options": {
+      "a": "de tipo II.",
+      "b": "pulmonares.",
+      "c": "de tipo III.",
+      "d": "de tipo I."
+    },
+    "correct": "a",
+    "correct_text": "de tipo II.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La desnutrición y la función inmunológica, pueden provocar…",
+    "options": {
+      "a": "el descenso de linfocitos tipo T.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la disminución del movimiento ciliar de las células epiteliales respiratorias.",
+      "d": "ambas respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Algunos alimentos que pueden tener funciones protectoras contra el cáncer son…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "las dietas altas en fibra.",
+      "c": "las dietas ricas en caroteno y vitamina A.",
+      "d": "las dietas ricas en vitamina C."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento por diálisis es necesario cuando…",
+    "options": {
+      "a": "la insuficiencia renal es intermedia.",
+      "b": "la insuficiencia renal es muy leve.",
+      "c": "la insuficiencia renal es leve.",
+      "d": "la insuficiencia renal se encuentra en una etapa avanzada."
+    },
+    "correct": "d",
+    "correct_text": "la insuficiencia renal se encuentra en una etapa avanzada.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las posibles causas de la enfermedad inflamatoria intestinal, podemos encontrar…",
+    "options": {
+      "a": "el aumento del metabolismo.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "el déficit en la ingesta.",
+      "d": "la malabsorción y las pérdidas proteicas intestinales."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las recomendaciones dietéticas en pacientes con cáncer, encontramos…",
+    "options": {
+      "a": "evitar alimentos ricos en grasa.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "consumir alimentos naturales poco suplementados.",
+      "d": "disminuir el consumo de líquidos."
+    },
+    "correct": "a",
+    "correct_text": "evitar alimentos ricos en grasa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el tratamiento dietético de los cálculos renales…",
+    "options": {
+      "a": "se deben comer grandes cantidades de frutas y verduras.",
+      "b": "Todas las respuestas anteriores son correctas.",
+      "c": "se debe reducir el consumo de sal.",
+      "d": "se debe beber gran cantidad de agua."
+    },
+    "correct": "b",
+    "correct_text": "Todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las pautas en las dietas para una cirugía, encontramos…",
+    "options": {
+      "a": "un aporte proteico extra.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las vitaminas del grupo B son necesarias para el aumento del metabolismo.",
+      "d": "el hierro es necesario para el desarrollo de los glóbulos rojos."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La condición en la que los productos finales del metabolismo de las proteínas se mantiene y circulan por la sangre, es más conocida como…",
+    "options": {
+      "a": "enfermedad renal crónica.",
+      "b": "insuficiencia renal grave.",
+      "c": "nefritis.",
+      "d": "uremia."
+    },
+    "correct": "d",
+    "correct_text": "uremia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el impacto en la función pulmonar de los micronutrientes, es frecuente que en los pacientes se produzca…",
+    "options": {
+      "a": "hipofosfatemia.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "hipopostatemia.",
+      "d": "hipomagnesemia."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La colecistitis y la colelitiasis está más presente en…",
+    "options": {
+      "a": "hombres.",
+      "b": "niños.",
+      "c": "ancianos.",
+      "d": "mujeres."
+    },
+    "correct": "d",
+    "correct_text": "mujeres.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La esteatosis hepático no alcohólica, se produce por la acumulación de…",
+    "options": {
+      "a": "grasas en el hígado.",
+      "b": "grasas en el intestino.",
+      "c": "grasas en el páncreas.",
+      "d": "grasas en el estómago."
+    },
+    "correct": "a",
+    "correct_text": "grasas en el hígado.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las soluciones parenterales con TG de cadena larga, provocan un aumento de hipoxemia y pueden ocasionar…",
+    "options": {
+      "a": "hipertrigliceridemia.",
+      "b": "hiperdimia.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "glucemia pulmonar."
+    },
+    "correct": "a",
+    "correct_text": "hipertrigliceridemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los principales cambios metabólicos en las dietas de una cirugía, podemos encontrarnos con casos como…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la hiperglucemia con hiperinsulinemia.",
+      "c": "el hipocatabolismo proteico.",
+      "d": "la disminución del gasto energético."
+    },
+    "correct": "b",
+    "correct_text": "la hiperglucemia con hiperinsulinemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La oliguria, es una producción de orina inferior a…",
+    "options": {
+      "a": "300 ml al día.",
+      "b": "700 ml al día.",
+      "c": "500 ml al día.",
+      "d": "600 ml al día."
+    },
+    "correct": "c",
+    "correct_text": "500 ml al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La enfermedad renal poliquística provoca un fracaso renal a la edad de...",
+    "options": {
+      "a": "20 años.",
+      "b": "30 años.",
+      "c": "50 años.",
+      "d": "70 años."
+    },
+    "correct": "c",
+    "correct_text": "50 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre los efectos que produce la úlcera péptica, podemos encontrar…",
+    "options": {
+      "a": "estreñimiento.",
+      "b": "dolor gástrico y hemorragias.",
+      "c": "únicamente, hemorragias.",
+      "d": "dolor de cabeza."
+    },
+    "correct": "b",
+    "correct_text": "dolor gástrico y hemorragias.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué enfermedad vascular está caracterizada por el endurecimiento, la pérdida de elasticidad y el aumento del grosor de las arterias?",
+    "options": {
+      "a": "la arteriosclerosis.",
+      "b": "la atomosclerosis.",
+      "c": "la aterosclerosis.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "la arteriosclerosis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La insuficiencia renal, puede estar causada por…",
+    "options": {
+      "a": "Todas las respuestas anteriores son correctas.",
+      "b": "las enfermedades cardiovasculares.",
+      "c": "infecciones.",
+      "d": "traumatismos o quemaduras."
+    },
+    "correct": "a",
+    "correct_text": "Todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tipo de fibra que está presente en cereales integrales es…",
+    "options": {
+      "a": "la fibra dietética.",
+      "b": "la fibra alimentaria.",
+      "c": "la fibra insoluble.",
+      "d": "la fibra soluble."
+    },
+    "correct": "c",
+    "correct_text": "la fibra insoluble.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento dietético de las enfermedades renales, tiene como objetivo…",
+    "options": {
+      "a": "aumentar la cantidad de residuos.",
+      "b": "frenar la cantidad de residuos en el torrente sanguíneo.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "tener un mayor trabajo en el aparato excretor."
+    },
+    "correct": "b",
+    "correct_text": "frenar la cantidad de residuos en el torrente sanguíneo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué micronutriente tiene importante relación con los trastornos digestivos?",
+    "options": {
+      "a": "los minerales.",
+      "b": "el sodio.",
+      "c": "la fibra.",
+      "d": "el potasio."
+    },
+    "correct": "c",
+    "correct_text": "la fibra.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las recomendaciones y los tratamientos dietéticos para mejorar la hernia de hiato, encontramos…",
+    "options": {
+      "a": "realizar grandes comidas.",
+      "b": "realizar comidas poco frecuentes.",
+      "c": "evitar alimentos que relajan el esfínter esofágico inferior.",
+      "d": "tomar café o tomate."
+    },
+    "correct": "c",
+    "correct_text": "evitar alimentos que relajan el esfínter esofágico inferior.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué cantidad de fibra se debe consumir en una dieta alta en este micronutriente?",
+    "options": {
+      "a": "entre 20 y 25 gramos.",
+      "b": "entre 30 y 35 gramos.",
+      "c": "entre 40 y 45 gramos.",
+      "d": "entre 30 y 50 gramos."
+    },
+    "correct": "b",
+    "correct_text": "entre 30 y 35 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La esofagitis, afecta a un porcentaje de la población de alrededor del…",
+    "options": {
+      "a": "20% de la población.",
+      "b": "7% de la población.",
+      "c": "40% de la población.",
+      "d": "3% de la población."
+    },
+    "correct": "b",
+    "correct_text": "7% de la población.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La hemodiálisis se realiza…",
+    "options": {
+      "a": "una vez a la semana.",
+      "b": "cinco veces a la semana.",
+      "c": "dos veces a la semana.",
+      "d": "tres veces a la semana."
+    },
+    "correct": "d",
+    "correct_text": "tres veces a la semana.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las recomendaciones dietéticas de la diverticulosis, podemos encontrar…",
+    "options": {
+      "a": "dejar de administrar analgésicos.",
+      "b": "la dieta baja en residuos.",
+      "c": "la dieta baja en fibra.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "la dieta baja en residuos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tipo de infarto causado por la obstrucción de una arteria coronaria que suministra sangre al corazón, es…",
+    "options": {
+      "a": "el infarto leve.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "el infarto de miocardio.",
+      "d": "el infarto crónico."
+    },
+    "correct": "c",
+    "correct_text": "el infarto de miocardio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el cuidado nutricional postquirúrgico, se debe dar un aumento del gasto energético recomendado de…",
+    "options": {
+      "a": "entre el 20 y 50%.",
+      "b": "el 60%.",
+      "c": "el 70%.",
+      "d": "entre el 10 y 20%."
+    },
+    "correct": "a",
+    "correct_text": "entre el 20 y 50%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El hígado, páncreas y la vesícula biliar, en sus trastornos, se encuentran ubicadas entre…",
+    "options": {
+      "a": "los órganos primarios.",
+      "b": "los órganos secundarios.",
+      "c": "los órganos terciarios.",
+      "d": "los órganos accesorios."
+    },
+    "correct": "d",
+    "correct_text": "los órganos accesorios.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La extensión de las células cancerosas a otros tejidos desde su lugar de origen, se denomina como…",
+    "options": {
+      "a": "linfoma.",
+      "b": "cáncer secundario.",
+      "c": "metástasis.",
+      "d": "carcoma."
+    },
+    "correct": "c",
+    "correct_text": "metástasis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La angina de pecho se suele detectar como…",
+    "options": {
+      "a": "un dolor que se produce en el pecho y se irradia hacia el brazo izquierdo.",
+      "b": "una inflamación de las anginas.",
+      "c": "un dolor de garganta muy agudo.",
+      "d": "un dolor que se irradia hacia el brazo derecho."
+    },
+    "correct": "a",
+    "correct_text": "un dolor que se produce en el pecho y se irradia hacia el brazo izquierdo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de dieta tiene que seguir el sujeto que vaya a pasar la prueba de sobrecarga oral?",
+    "options": {
+      "a": "dieta hipercalórica.",
+      "b": "dieta normocalórica.",
+      "c": "dieta hipocalórica.",
+      "d": "dieta vegana."
+    },
+    "correct": "b",
+    "correct_text": "dieta normocalórica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los alimentos que se deben evitar para detectar las catecolaminas, encontramos…",
+    "options": {
+      "a": "Todas las respuestas anteriores son correctas.",
+      "b": "quesos y café.",
+      "c": "plátano y frutas cítricas.",
+      "d": "nueces y aguacates."
+    },
+    "correct": "a",
+    "correct_text": "Todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipo de vitamina participa como coenzima en el metabolismo de las grasas?",
+    "options": {
+      "a": "la vitamina B12.",
+      "b": "la vitamina B3.",
+      "c": "la vitamina B9.",
+      "d": "la vitamina B6."
+    },
+    "correct": "a",
+    "correct_text": "la vitamina B12.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
     "question": "Entre las indicaciones en una dieta a través de una sonda nasogástrica, encontramos…",
     "options": {
       "a": "la anorexia leve.",
@@ -256,6 +2570,942 @@
     },
     "correct": "b",
     "correct_text": "las enfermedades neurológicas con disfagia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La vitamina A puede encontrarse…",
+    "options": {
+      "a": "necesitando un precursor que lo active.",
+      "b": "ambas respuestas anteriores son correctas.",
+      "c": "en estado activo en forma de retinol.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "ambas respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La ingesta recomendada diaria de vitamina D, se encuentra en…",
+    "options": {
+      "a": "5g por día.",
+      "b": "2g por día.",
+      "c": "15g por día.",
+      "d": "10g por día."
+    },
+    "correct": "c",
+    "correct_text": "15g por día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Cuando se informa al paciente del tratamiento nutricional ante un TCA, debe informarse de…",
+    "options": {
+      "a": "la situación clínica.",
+      "b": "de las consecuencias de la malnutrición.",
+      "c": "de las características de una alimentación equilibrada.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Para la prueba de ácido 5-OH-Indolactéico , se debe recoger la orina de…",
+    "options": {
+      "a": "12 horas.",
+      "b": "48 horas.",
+      "c": "24 horas.",
+      "d": "36 horas."
+    },
+    "correct": "c",
+    "correct_text": "24 horas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La diarrea con presencia excesiva de grasa en las heces, se define como…",
+    "options": {
+      "a": "esteorrea.",
+      "b": "gonorrea.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "esteatorrea."
+    },
+    "correct": "d",
+    "correct_text": "esteatorrea.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Cuando se ingiere alcohol, ¿dónde se absorbe una pequeña parte del mismo?",
+    "options": {
+      "a": "en el estómago.",
+      "b": "en el páncreas.",
+      "c": "en el yeyuno.",
+      "d": "en el hígado."
+    },
+    "correct": "a",
+    "correct_text": "en el estómago.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los problemas de coagulación sanguínea que puede producir la vitamina K, se encuentran…",
+    "options": {
+      "a": "la falta de calcio en los huesos.",
+      "b": "la destrucción de glóbulos blancos.",
+      "c": "las anemias.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "las anemias.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La anorexia nerviosa, tiene que ver con…",
+    "options": {
+      "a": "la gran disconformidad con la propia imagen y el peso corporal.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "con los factores éticos y sociales.",
+      "d": "con factores de tipo social, únicamente."
+    },
+    "correct": "a",
+    "correct_text": "la gran disconformidad con la propia imagen y el peso corporal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Definida como “la prueba de sobrecarga oral de glucosa que mide la capacidad del organismo para metabolizar la glucosa y permite diagnosticar su intolerancia”, hace referencia a…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores son correctas.",
+      "b": "la dieta previa a la recta de glucemia.",
+      "c": "la dieta posterior a la recta de glucemia.",
+      "d": "la dieta previa a la curva de glucemia."
+    },
+    "correct": "d",
+    "correct_text": "la dieta previa a la curva de glucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los objetivos del tratamiento nutricional de los TCA, encontramos…",
+    "options": {
+      "a": "restaurar el peso corporal.",
+      "b": "dejar de normalizar los hábitos dietéticos del paciente.",
+      "c": "tratar las alteraciones psicológicas.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "restaurar el peso corporal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En las mujeres, ¿cuál es el índice diario recomendado de consumo de vitamina K?",
+    "options": {
+      "a": "60 pg por día.",
+      "b": "90 pg por día.",
+      "c": "80 pg por día.",
+      "d": "120 pg por día."
+    },
+    "correct": "b",
+    "correct_text": "90 pg por día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la prueba para el estudio del metabolismo de calcio, se considera normal eliminar por la orina…",
+    "options": {
+      "a": "hasta 100 mg de agua en 24 horas.",
+      "b": "hasta 300 mg de agua en 24 horas.",
+      "c": "hasta 300 mg de calcio en 24 horas.",
+      "d": "hasta 300 mg de calcio en 12 horas."
+    },
+    "correct": "c",
+    "correct_text": "hasta 300 mg de calcio en 24 horas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La vitamina C, entre otros muchos beneficios, podemos encontrar…",
+    "options": {
+      "a": "que ayuda a evitar el envejecimiento prematuro, protegiendo los vasos sanguíneos.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "que participa en la síntesis de colágeno, ayudando a la cicatrización de las heridas.",
+      "d": "que potencia la absorción intestinal del hierro no hemo."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los episodios de bulimia nerviosa de grandes ingestas de comida pueden ir seguidos de…",
+    "options": {
+      "a": "maniobras psicológicas.",
+      "b": "maniobras no compensatorias.",
+      "c": "maniobras de anorexia.",
+      "d": "maniobras compensatorias."
+    },
+    "correct": "d",
+    "correct_text": "maniobras compensatorias.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La elaboración de un plan de alimentación para tratar un TCA, debe incluir…",
+    "options": {
+      "a": "el control de los atracones y las conductas compensatorias.",
+      "b": "valorar la conveniencia de raciones o gramaje.",
+      "c": "los grupos de alimentos a incluir.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué enfermedad se caracteriza por la falta de tiamina?",
+    "options": {
+      "a": "la osteomalacia.",
+      "b": "el escorbuto.",
+      "c": "la cefalopatía de Wernicke.",
+      "d": "el beriberi."
+    },
+    "correct": "d",
+    "correct_text": "el beriberi.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las causas de una hospitalización de un anciano referido a la malnutrición, encontramos…",
+    "options": {
+      "a": "el sentido del olfato y el apetito aumentan.",
+      "b": "el estreñimiento.",
+      "c": "las úlceras por inflamación.",
+      "d": "la anemia por la ingesta de hierro suficiente."
+    },
+    "correct": "b",
+    "correct_text": "el estreñimiento.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipos de personas pueden adquirir un déficit de vitamina K?",
+    "options": {
+      "a": "los bebés que no consumen la suficiente leche materna.",
+      "b": "las mujeres embarazadas si no consumen los productos lácteos indicados.",
+      "c": "los niños que no toman lo suficiente el sol.",
+      "d": "los adultos con tratamiento antibiótico a largo plazo."
+    },
+    "correct": "d",
+    "correct_text": "los adultos con tratamiento antibiótico a largo plazo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las distintas fuentes de niacina, encontramos…",
+    "options": {
+      "a": "las leches y los pescados.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "las carnes o los huevos.",
+      "d": "la levadura de cerveza y los cereales."
+    },
+    "correct": "b",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué puede producir en el paciente el paso del alimento a través de las vías respiratorias?",
+    "options": {
+      "a": "cáncer de pulmón.",
+      "b": "infecciones respiratorias.",
+      "c": "neumonía.",
+      "d": "pulmonía."
+    },
+    "correct": "c",
+    "correct_text": "neumonía.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué dos formas de bulimia nerviosa podemos encontrarnos?",
+    "options": {
+      "a": "bulimia nerviosa purgativa y no purgativa.",
+      "b": "bulimia nerviosa mental y psicológica.",
+      "c": "bulimia nerviosa actual y pasada.",
+      "d": "bulimia nerviosa psicológica y psiquiátrica."
+    },
+    "correct": "a",
+    "correct_text": "bulimia nerviosa purgativa y no purgativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El método para administrar la comida a través de sonda donde se administra controladamente la comida por gravedad o bomba de difusión, es…",
+    "options": {
+      "a": "la alimentación intermitente.",
+      "b": "la alimentación por partes.",
+      "c": "la alimentación continua.",
+      "d": "la alimentación por bolos."
+    },
+    "correct": "a",
+    "correct_text": "la alimentación intermitente.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cómo se llama a la malnutrición que se produce como resultado de la hospitalización?",
+    "options": {
+      "a": "malnutrición pregénica.",
+      "b": "malnutrición patogénica.",
+      "c": "malnutrición iaotrogénica.",
+      "d": "malnutrición pregénica."
+    },
+    "correct": "c",
+    "correct_text": "malnutrición iaotrogénica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué suele producir la intolerancia a un alimento?",
+    "options": {
+      "a": "un problema nervioso.",
+      "b": "un problema inmunológico.",
+      "c": "un problema psicológico.",
+      "d": "un problema digestivo."
+    },
+    "correct": "d",
+    "correct_text": "un problema digestivo.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipo de tratamiento se le puede dar a una persona con un déficit de cobalamina?",
+    "options": {
+      "a": "tratamiento con antibióticos.",
+      "b": "tratamiento con inyecciones.",
+      "c": "tratamiento con antivirales.",
+      "d": "tratamiento a través de suplementación."
+    },
+    "correct": "b",
+    "correct_text": "tratamiento con inyecciones.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las funciones de la vitamina D, podemos encontrarnos con…",
+    "options": {
+      "a": "la absorción de hierro.",
+      "b": "la absorción de hidrógeno.",
+      "c": "la absorción de calcio.",
+      "d": "la absorción de micronutrientes."
+    },
+    "correct": "c",
+    "correct_text": "la absorción de calcio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La densidad calórica de las fórmulas normocalóricas es…",
+    "options": {
+      "a": "inferior a 1’5 kcal/ml.",
+      "b": "superior a 2 kcal/ml.",
+      "c": "superior a 1’5 kcal/ml.",
+      "d": "igual a 1’25 kcal/ml."
+    },
+    "correct": "d",
+    "correct_text": "igual a 1’25 kcal/ml.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “la sequedad de la conjuntiva y opacidad de la córnea” a…",
+    "options": {
+      "a": "la flebotomía.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la ceguera nocturna.",
+      "d": "la xeroftalmía."
+    },
+    "correct": "d",
+    "correct_text": "la xeroftalmía.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La vitamina B1…",
+    "options": {
+      "a": "participa activamente en el metabolismo de los lípidos.",
+      "b": "participa en el correcto funcionamiento del sistema inmunitario.",
+      "c": "participa activamente en el metabolismo de los hidratos de carbono.",
+      "d": "participa activamente en la concentración de sangre."
+    },
+    "correct": "c",
+    "correct_text": "participa activamente en el metabolismo de los hidratos de carbono.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El tratamiento para la recuperación de vitamina C es…",
+    "options": {
+      "a": "la toma de más luz solar a lo largo del día.",
+      "b": "la ingesta de 100 mg de vitamina C tres veces al día.",
+      "c": "la ingesta de productos lácteos más de tres veces al día.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "la ingesta de 100 mg de vitamina C tres veces al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las contraindicaciones en una dieta a través de una sonda nasogástrica, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la preparación intestinal para pruebas diagnósticas o cirugía.",
+      "c": "el síndrome de malabsorción.",
+      "d": "la enfermedad inflamatoria intestinal aguda."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La malabsorción de nutrientes por culpa del alcohol en el intestino delgado, está causada por…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "alteraciones en la función pancreática exocrina.",
+      "c": "alteraciones en los procesos selectivos de absorción de ciertos nutrientes.",
+      "d": "alteraciones morfológicas y funcionales en la mucosa intestinal."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las fuentes de vitamina A, podemos encontrarnos con…",
+    "options": {
+      "a": "frutas y verduras.",
+      "b": "carnes de ternera y cerdo.",
+      "c": "pescados azules y blancos.",
+      "d": "cereales de todo tipo."
+    },
+    "correct": "a",
+    "correct_text": "frutas y verduras.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La ingesta diaria recomendada de ácido fólico es de…",
+    "options": {
+      "a": "200 mg al día.",
+      "b": "400 mg al día.",
+      "c": "100 mg al día.",
+      "d": "300 mg al día."
+    },
+    "correct": "b",
+    "correct_text": "400 mg al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿La ingesta insuficiente de qué producto alimenticio, puede ocasionar la osteomalacia?",
+    "options": {
+      "a": "la falta de ingesta de calcio.",
+      "b": "la falta de ingesta de hierro.",
+      "c": "la falta de ingesta de vitamina A.",
+      "d": "la falta de ingesta de minerales."
+    },
+    "correct": "a",
+    "correct_text": "la falta de ingesta de calcio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Cuando la restricción a la alimentación se asocia con la utilización de laxantes o diuréticos, estamos ante…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "una anorexia nerviosa.",
+      "c": "una anorexia nerviosa restrictiva.",
+      "d": "una anorexia nerviosa compulsivo-purgativa."
+    },
+    "correct": "d",
+    "correct_text": "una anorexia nerviosa compulsivo-purgativa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Son patológicos y sospechosos de tumor carcinoide, los valores de 5-OH-Indolactéico por encima de…",
+    "options": {
+      "a": "30 mg al día.",
+      "b": "20 mg al día.",
+      "c": "40 mg al día.",
+      "d": "10 mg al día."
+    },
+    "correct": "a",
+    "correct_text": "30 mg al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La disregulación de la temperatura corporal forma parte de las complicaciones…",
+    "options": {
+      "a": "neurológicas.",
+      "b": "metabólicas.",
+      "c": "dermatológicas.",
+      "d": "renales."
+    },
+    "correct": "b",
+    "correct_text": "metabólicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las distintas funciones del calcio, podemos encontrar…",
+    "options": {
+      "a": "el desarrollo de los huesos y dientes.",
+      "b": "la función muscular y nerviosa, entre otras funciones.",
+      "c": "el proceso de coagulación sanguínea.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El déficit de vitamina D, se puede producir por…",
+    "options": {
+      "a": "la falta de luz solar o enfermedades hepáticas y renales crónicas.",
+      "b": "la falta de ingesta de alimentos como la carne o el pescado.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la falta de otras vitaminas y del consumo de agua."
+    },
+    "correct": "a",
+    "correct_text": "la falta de luz solar o enfermedades hepáticas y renales crónicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los síntomas que puede provocar la ingesta superior a 2000 mg de vitamina C al día, encontramos…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "retortijones abdominales.",
+      "c": "diarrea.",
+      "d": "náuseas."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Cómo se define a la inflamación de las venas?",
+    "options": {
+      "a": "arteriosis.",
+      "b": "fiebrosis.",
+      "c": "venitis.",
+      "d": "flebitis."
+    },
+    "correct": "d",
+    "correct_text": "flebitis.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La enfermedad que se define como “el organismo es capaz de sintetizar niacina a partir de triptófano”, se denomina…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "osteomalacia.",
+      "c": "escorbuto.",
+      "d": "pelagra."
+    },
+    "correct": "d",
+    "correct_text": "pelagra.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la nutrición parenteral, pueden surgir alguna serie de complicaciones, como pueden ser…",
+    "options": {
+      "a": "las alteraciones metabólicas por una mala formulación.",
+      "b": "la infección de un catéter que da lugar a sepsis.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "la contaminación de una fórmula."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué distintas lesiones se pueden producir en el hígado por un consumo excesivo de alcohol?",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "la hepatitis alcohólica.",
+      "c": "el hígado graso.",
+      "d": "la cirrosis hepática."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los factores sociales de los trastornos de la conducta alimentaria, podemos encontrarnos con…",
+    "options": {
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el sexo, donde las mujeres tienen mayor riesgo.",
+      "c": "la edad, dada mayormente en la adolescencia.",
+      "d": "la presión social y cultural."
+    },
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué se debe realizar para identificar el alimento responsable de una alergia?",
+    "options": {
+      "a": "provocar esa alergia con la ingesta de algunos alimentos.",
+      "b": "dejar que se produzca la alergia con la ingesta de alimentos.",
+      "c": "realizar un diario de alimentación, registrando las comidas y bebidas.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "realizar un diario de alimentación, registrando las comidas y bebidas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las complicaciones óseas de la bulimia, nos encontramos con…",
+    "options": {
+      "a": "las convulsiones y los estados confusionales.",
+      "b": "la deshidratación y los edemas.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la osteoporosis y las fracturas patológicas."
+    },
+    "correct": "d",
+    "correct_text": "la osteoporosis y las fracturas patológicas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El retinol, suele participar en procesos, tales como…",
+    "options": {
+      "a": "la visión y formación de mucosas.",
+      "b": "la formación de tejidos blandos y piel.",
+      "c": "ayuda a prevenir infecciones y tiene funciones antioxidantes.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Si se da una dosis muy alta de ácido fólico, se puede producir…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "problemas en el hígado.",
+      "c": "problemas estomacales y trastornos del sueño.",
+      "d": "problemas en la respiración."
+    },
+    "correct": "c",
+    "correct_text": "problemas estomacales y trastornos del sueño.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los adolescentes comienzan a beber en una media de…",
+    "options": {
+      "a": "los 18 años.",
+      "b": "los 16 años.",
+      "c": "los 15 años.",
+      "d": "los 14 años."
+    },
+    "correct": "b",
+    "correct_text": "los 16 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las complicaciones gastrointestinales que podemos encontrar con los TCA, están…",
+    "options": {
+      "a": "la amenorrea y el aumento de cortisol.",
+      "b": "la leucopenia y la anemia.",
+      "c": "la hipertrofia salivar y las alteraciones hepáticas.",
+      "d": "la bradicardia e hipotensión."
+    },
+    "correct": "c",
+    "correct_text": "la hipertrofia salivar y las alteraciones hepáticas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿De dónde puede provenir el déficit de vitamina B9 en una persona?",
+    "options": {
+      "a": "de una concentración de eritrocitos disminuida.",
+      "b": "de la deficiencia de folato.",
+      "c": "de las enfermedades gastrointestinales.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “el aporte de nutrientes directamente en el aparato digestivo a través de una sonda nasogástrica” a…",
+    "options": {
+      "a": "la nutrición enteral.",
+      "b": "la nutrición parenteral.",
+      "c": "la nutrición postenteral.",
+      "d": "la nutrición preenteral."
+    },
+    "correct": "a",
+    "correct_text": "la nutrición enteral.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La proteína fibrosa que se encuentra en los huesos, la piel, los ligamentos o los cartílagos, entre otros, es…",
+    "options": {
+      "a": "la grasa.",
+      "b": "el colágeno.",
+      "c": "la glucemia.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "el colágeno.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las alteraciones metabólicas producidas por un exceso consumo de alcohol, podemos encontrar…",
+    "options": {
+      "a": "aumenta el glucógeno hepático.",
+      "b": "todas las respuestas anteriores son correctas.",
+      "c": "altera la homeostasis de glucemia.",
+      "d": "que disminuye la degradación protéica."
+    },
+    "correct": "c",
+    "correct_text": "altera la homeostasis de glucemia.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La fórmula que se define como “que contiene los macronutrientes intactos, sin hidrolizar” es…",
+    "options": {
+      "a": "la polimérica.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "la oligomérica.",
+      "d": "las especiales."
+    },
+    "correct": "a",
+    "correct_text": "la polimérica.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿A partir de qué edad, una persona empieza a perder en su piel cerca del 75% de la capacidad para fabricar vitamina D?",
+    "options": {
+      "a": "a partir de los 50 años.",
+      "b": "a partir de los 70 años.",
+      "c": "a partir de los 40 años.",
+      "d": "a partir de los 60 años."
+    },
+    "correct": "b",
+    "correct_text": "a partir de los 70 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “un tumor maligno que se desarrolla a partir del tejido nervioso” a..",
+    "options": {
+      "a": "catecolaminas.",
+      "b": "feocromocitoma.",
+      "c": "neuroblastoma.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "neuroblastoma.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “la administración de nutrientes al paciente a través de vía intravenosa” a…",
+    "options": {
+      "a": "la nutrición parenteral.",
+      "b": "la nutrición postenteral.",
+      "c": "la nutrición enteral.",
+      "d": "la nutrición preenteral."
+    },
+    "correct": "a",
+    "correct_text": "la nutrición parenteral.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Por qué se utiliza la vena cava en la nutrición parenteral?",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "debido a que el flujo arterial alto facilita la dilución rápida de la solución.",
+      "c": "debido a que el flujo arterial bajo dificulta la dilución rápida de la solución.",
+      "d": "debido a que el flujo arterial alto dificulta la dilución rápida de la solución."
+    },
+    "correct": "b",
+    "correct_text": "debido a que el flujo arterial alto facilita la dilución rápida de la solución.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los síntomas del déficit de cobalamina, se pueden presentar en…",
+    "options": {
+      "a": "el sistema nervioso y circulatorio.",
+      "b": "el sistema excretor.",
+      "c": "el aparato respiratorio.",
+      "d": "el aparato digestivo."
+    },
+    "correct": "a",
+    "correct_text": "el sistema nervioso y circulatorio.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las diferentes enfermedades que se pueden detectar en un examen de sangre oculta en las heces, encontramos…",
+    "options": {
+      "a": "enfermedad de Crohn.",
+      "b": "cáncer de hígado.",
+      "c": "úlcera péptica.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "enfermedad de Crohn.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipos de personas llegan a tener una mayor necesidad de ácido fólico?",
+    "options": {
+      "a": "las personas ancianas.",
+      "b": "los niños y los bebés.",
+      "c": "las mujeres embarazadas.",
+      "d": "los adultos."
+    },
+    "correct": "c",
+    "correct_text": "las mujeres embarazadas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las fórmulas modulares contienen…",
+    "options": {
+      "a": "un solo tipo de nutriente.",
+      "b": "varios tipos de nutrientes.",
+      "c": "cinco tipos de nutrientes.",
+      "d": "diferentes tipos de micronutrientes."
+    },
+    "correct": "a",
+    "correct_text": "un solo tipo de nutriente.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La limitación de la ingesta autoimpuesta, asociada y a veces, desencadenada, es la definición de…",
+    "options": {
+      "a": "anorexia restrictiva.",
+      "b": "anorexia glucémica.",
+      "c": "anorexia nerviosa.",
+      "d": "anorexia funcional."
+    },
+    "correct": "c",
+    "correct_text": "anorexia nerviosa.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Se define como “una sustancia líquida que es la concentración de partículas osmóticamente contenidas en una disolución” a…",
+    "options": {
+      "a": "osmocilaridad.",
+      "b": "osmotidad.",
+      "c": "osmolaringaridad.",
+      "d": "osmolalidad."
+    },
+    "correct": "d",
+    "correct_text": "osmolalidad.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Las principales fuentes de hierro no hemo en los alimentos son…",
+    "options": {
+      "a": "los frutos secos y el huevo.",
+      "b": "las legumbres y cereales.",
+      "c": "las verduras de hoja verde.",
+      "d": "todas las respuestas anteriores son correctas."
+    },
+    "correct": "d",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La renina suele aumentar en algunos casos de…",
+    "options": {
+      "a": "hipertensión arterial.",
+      "b": "hipotensión arterial.",
+      "c": "infartos de miocardio.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "a",
+    "correct_text": "hipertensión arterial.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre las funciones del ácido fólico, podemos encontrar…",
+    "options": {
+      "a": "ayuda a reducir los niveles de homocisteína.",
+      "b": "el proceso de eritropoyesis y la formación de leucocitos.",
+      "c": "todas las respuestas anteriores son correctas.",
+      "d": "el desarrollo neuronal y cerebral."
+    },
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La piridoxina participa en la síntesis de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "ácidos nucleicos y hormonas esteroideas.",
+      "c": "de hidratos de carbono y lípidos.",
+      "d": "proteínas y algunas vitaminas esenciales."
+    },
+    "correct": "b",
+    "correct_text": "ácidos nucleicos y hormonas esteroideas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué tipo de vitamina liposoluble es fundamental para el proceso de coagulación sanguínea?",
+    "options": {
+      "a": "la vitamina D.",
+      "b": "la vitamina E.",
+      "c": "la vitamina K.",
+      "d": "la vitamina C."
+    },
+    "correct": "c",
+    "correct_text": "la vitamina K.",
     "asignatura": "dietoterapia",
     "tema": "tema4"
   }
