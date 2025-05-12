@@ -1,115 +1,115 @@
 [
   {
-    "question": "Las alteraciones más importantes en la leche comprenden…",
+    "question": "El nivel de actividad física moderada se considera cuando…",
     "options": {
-      "a": "la contaminación radiactiva y la presencia de pesticidas.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "la presencia de olores poco extraños.",
-      "d": "la presencia de nata en la leche."
+      "a": "cuando realizamos actividades de intensidad moderada.",
+      "b": "somos personas que pasan varias horas al día en actividades sedentarias.",
+      "c": "cuando caminamos diariamente largas distancias.",
+      "d": "ninguna de las respuestas anteriores es correcta."
     },
     "correct": "a",
-    "correct_text": "la contaminación radiactiva y la presencia de pesticidas.",
+    "correct_text": "cuando realizamos actividades de intensidad moderada.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "El aroma en los distintos tipos de pescados, está asociado a…",
+    "question": "¿Qué ocurre si el balance energético no supera las -500 kcal/día?",
+    "options": {
+      "a": "la ganancia de masa muscular será de grasa.",
+      "b": "la pérdida de masa muscular será de grasa.",
+      "c": "no ocurre absolutamente nada.",
+      "d": "los efectos son casi imperceptibles para los humanos."
+    },
+    "correct": "b",
+    "correct_text": "la pérdida de masa muscular será de grasa.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál es el componente más variable entre las personas?",
+    "options": {
+      "a": "la termogénesis de los alimentos.",
+      "b": "la sarcopenia.",
+      "c": "el gasto por actividad física.",
+      "d": "el metabolismo basal."
+    },
+    "correct": "c",
+    "correct_text": "el gasto por actividad física.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "El metabolismo energético se define como…",
     "options": {
       "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "a la oxidación de los lípidos del pescado.",
-      "c": "la heterogeneidad de los distintos tipos de pescado.",
-      "d": "a la cantidad de grasas que contiene cada pescado."
+      "b": "el conjunto de reacciones químicas que experimentan los nutrientes en las células.",
+      "c": "el conjunto de reacciones físicas que experimentan las personas.",
+      "d": "el conjunto de reacciones físicas que experimentan los nutrientes en las células."
     },
     "correct": "b",
-    "correct_text": "a la oxidación de los lípidos del pescado.",
+    "correct_text": "el conjunto de reacciones químicas que experimentan los nutrientes en las células.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "En general, ¿qué contenido en agua representa la carne fresca?",
+    "question": "Se define como metabolismo basal a…",
     "options": {
-      "a": "entre un 30 y un 40%.",
-      "b": "entre un 10 y un 20%.",
-      "c": "entre un 50 y un 60%.",
-      "d": "entre un 60 y un 80%."
-    },
-    "correct": "d",
-    "correct_text": "entre un 60 y un 80%.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La composición nutricional de la leche va a variar según…",
-    "options": {
-      "a": "la calidad de la leche.",
-      "b": "en función de si es entera, desnatada o semidesnatada.",
-      "c": "el tipo de animal del cual proceda la leche.",
-      "d": "las cantidades que tomemos diariamente."
-    },
-    "correct": "b",
-    "correct_text": "en función de si es entera, desnatada o semidesnatada.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El pescado, contiene una alta proporción de…",
-    "options": {
-      "a": "vitaminas hidrosolubles.",
-      "b": "proteínas.",
-      "c": "carbohidratos.",
-      "d": "grasas."
-    },
-    "correct": "b",
-    "correct_text": "proteínas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Al eliminar la grasa de la leche se pierden la mayor parte de…",
-    "options": {
-      "a": "lípidos.",
-      "b": "proteínas.",
-      "c": "vitaminas hidrosolubles.",
-      "d": "vitaminas liposolubles."
-    },
-    "correct": "d",
-    "correct_text": "vitaminas liposolubles.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipos de pescados tienen un bajo contenido en grasa pero alto en colesterol y ácido úrico?",
-    "options": {
-      "a": "los pescados blancos.",
-      "b": "los pescados azules.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "los crustáceos y los moluscos."
-    },
-    "correct": "d",
-    "correct_text": "los crustáceos y los moluscos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿En qué tipo de micronutrientes son ricos los cereales integrales?",
-    "options": {
-      "a": "en vitaminas y minerales.",
-      "b": "en hidratos de carbono.",
-      "c": "en lípidos.",
-      "d": "en proteínas."
+      "a": "el gasto energético mínimo que un individuo necesita en una situación de reposo física y mental.",
+      "b": "el gasto energético mínimo que un individuo necesita en una situación de reposo solo física.",
+      "c": "el gasto energético máximo que un individuo necesita en una situación de reposo físico y mental.",
+      "d": "el gasto energético mínimo que un individuo necesita en una situación de reposo solo mental."
     },
     "correct": "a",
-    "correct_text": "en vitaminas y minerales.",
+    "correct_text": "el gasto energético mínimo que un individuo necesita en una situación de reposo física y mental.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "Los frutos secos, aportan cantidades apreciables de…",
+    "question": "En el método pal, se usa una fórmula distinta…",
     "options": {
-      "a": "vitaminas B1 y B2.",
+      "a": "entre niños y adultos.",
+      "b": "entre hombres y mujeres.",
+      "c": "entre niños y bebés.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "entre hombres y mujeres.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "En el proceso de catabolismo, los nutrientes…",
+    "options": {
+      "a": "aumentan a compuestos simples.",
+      "b": "se degradan a compuestos simples.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "evolucionan a compuestos simples."
+    },
+    "correct": "b",
+    "correct_text": "se degradan a compuestos simples.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "El ejercicio físico, ¿afecta al aumento o disminución del metabolismo basal?",
+    "options": {
+      "a": "Sí, aumenta a todos los individuos, sin distinguir.",
+      "b": "Sí, pero únicamente a ciertas personas.",
+      "c": "Sí, pero solamente a mujeres.",
+      "d": "No, no afecta a ningún individuo."
+    },
+    "correct": "a",
+    "correct_text": "Sí, aumenta a todos los individuos, sin distinguir.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "El apetito es influido por aspectos, tales como…",
+    "options": {
+      "a": "emocionales.",
       "b": "todas las respuestas anteriores son correctas.",
-      "c": "ácido fólico y niacina.",
-      "d": "vitamina B6."
+      "c": "gastronómicos.",
+      "d": "culturales."
     },
     "correct": "b",
     "correct_text": "todas las respuestas anteriores son correctas.",
@@ -117,129 +117,25 @@
     "tema": "tema1"
   },
   {
-    "question": "¿Qué tipo de leche es la leche natural, entera, desnatada o semidesnatada sometida a una temperatura elevada durante un breve periodo de tiempo?",
+    "question": "La categoría de actividad en reposo, tiene un factor de actividad en el factor compensado de…",
     "options": {
-      "a": "la leche esterilizada UHT.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "la leche pasteurizada.",
-      "d": "la leche de vaca."
-    },
-    "correct": "c",
-    "correct_text": "la leche pasteurizada.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "En los frutos secos, las características organolépticas son…",
-    "options": {
-      "a": "deber haber gran cantidad de humedad.",
-      "b": "debe haber ausencia de sabor y humedad.",
-      "c": "no debe haber ausencia de humedad.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "d",
-    "correct_text": "ninguna de las respuestas anteriores es correcta.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Los equipos utilizados para valorar la calidad panadera son…",
-    "options": {
-      "a": "el alveógrafo de Brabender.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "el farinógrafo de Chapin.",
-      "d": "el estiramiento de Chapin."
+      "a": "1,3.",
+      "b": "1.",
+      "c": "1,1.",
+      "d": "1,2."
     },
     "correct": "b",
-    "correct_text": "ninguna de las respuestas anteriores es correcta.",
+    "correct_text": "1.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "La clara de un huevo debe ser…",
-    "options": {
-      "a": "firme, transparente y sin enturbiamiento.",
-      "b": "fuerte, homogénea y libre.",
-      "c": "firme, poco transparente y limpia.",
-      "d": "blanda, heterogénea y limpia."
-    },
-    "correct": "a",
-    "correct_text": "firme, transparente y sin enturbiamiento.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Las frutas y hortalizas, aportan una baja cantidad de…",
-    "options": {
-      "a": "nutrientes.",
-      "b": "calorías.",
-      "c": "agua.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "calorías.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre los aspectos a tener en cuenta de los frutos secos, nos encontramos con…",
-    "options": {
-      "a": "su alto índice de valores nutricionales.",
-      "b": "su alto grado de alergenicidad.",
-      "c": "su gran índice de humedad.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "su alto grado de alergenicidad.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Las normas del Códex Alimentarius, indican que, los granos de los cereales deberán estar exentos de…",
-    "options": {
-      "a": "color.",
-      "b": "sabores y olores anormales.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "textura."
-    },
-    "correct": "b",
-    "correct_text": "sabores y olores anormales.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El Código Alimentario Español, establece que son huevos frescos aquellos que…",
-    "options": {
-      "a": "presenten una jugosidad característica.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "presente un aroma y una textura característicos.",
-      "d": "presenten un color y un sabor característicos."
-    },
-    "correct": "d",
-    "correct_text": "presenten un color y un sabor característicos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre los distintos tipos de azúcares, podemos incluir...",
-    "options": {
-      "a": "la glucosa",
-      "b": "la fructosa",
-      "c": "la maltosa",
-      "d": "todas las respuestas anteriores son correctas"
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Para el control analítico, los huevos se someten a…",
+    "question": "Entre los factores que afecta al metabolismo basal, encontramos…",
     "options": {
       "a": "todas las respuestas anteriores son correctas.",
-      "b": "golpeteo, uso del ovoscopio y luz ultravioleta.",
-      "c": "la inspección externa no instrumental.",
-      "d": "una inspección interna del huevo."
+      "b": "la composición corporal.",
+      "c": "el ciclo menstrual y el embarazo.",
+      "d": "el sexo y la edad."
     },
     "correct": "a",
     "correct_text": "todas las respuestas anteriores son correctas.",
@@ -247,951 +143,288 @@
     "tema": "tema1"
   },
   {
-    "question": "¿Qué cantidad de humedad presenta la harina?",
+    "question": "¿Qué tipo de ejercicio físico puede ayudar al desarrollo tardío del proceso denominado como sarcopenia?",
     "options": {
-      "a": "alrededor del 12%.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "alrededor del 2%.",
-      "d": "alrededor del 20%."
-    },
-    "correct": "a",
-    "correct_text": "alrededor del 12%.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El alimento que se entiende como “que procede de las partes blandas y comestibles de los animales y sus vísceras” es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "las grasas de los animales.",
-      "c": "el pescado.",
-      "d": "la carne."
-    },
-    "correct": "d",
-    "correct_text": "la carne.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué lugar ocupa la carne en el consumo mundial de productos alimenticios?",
-    "options": {
-      "a": "ocupa el cuarto lugar.",
-      "b": "ocupa el segundo lugar.",
-      "c": "ocupa el primer lugar.",
-      "d": "ocupa el tercer lugar."
-    },
-    "correct": "c",
-    "correct_text": "ocupa el primer lugar.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El queso es un derivado lácteo en el que se separa…",
-    "options": {
-      "a": "el sabor de la leche.",
-      "b": "la leche fermentada.",
-      "c": "el suero.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "el suero.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La valoración de la calidad panadera, se puede realizar mediante… ::",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "la aplicación de técnicas que valoran las características reológicas.",
-      "c": "la determinación del gluten.",
-      "d": "ambas respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "ambas respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "De forma general, 100 gramos de legumbres, en crudo, aportan…",
-    "options": {
-      "a": "200 kcal.",
-      "b": "500 kcal.",
-      "c": "300 kcal.",
-      "d": "600 kcal."
-    },
-    "correct": "c",
-    "correct_text": "300 kcal.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Se definen como “aquellas bebidas con cierto contenido en etanol procedente de la fermentación o la destilación” a las…",
-    "options": {
-      "a": "bebidas destiladas.",
-      "b": "bebidas alcohólicas.",
-      "c": "bebidas energéticas.",
-      "d": "bebidas no alcohólicas."
+      "a": "ningún tipo de entrenamiento lo puede evitar.",
+      "b": "el entrenamiento de fuerza.",
+      "c": "salir a andar.",
+      "d": "el entrenamiento mental."
     },
     "correct": "b",
-    "correct_text": "bebidas alcohólicas.",
+    "correct_text": "el entrenamiento de fuerza.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "Para la determinación analítica de hortalizas y frutas, la muestra debe prepararse…",
+    "question": "Entre las metodologías más utilizadas para calcular el gasto energético total, encontramos…",
     "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "recién salida de la bolsa.",
-      "c": "seca y húmeda.",
-      "d": "húmeda."
+      "a": "todas las respuestas anteriores son correctas.",
+      "b": "el factor recomendado.",
+      "c": "el factor compensado.",
+      "d": "el método PAL."
     },
-    "correct": "c",
-    "correct_text": "seca y húmeda.",
+    "correct": "a",
+    "correct_text": "todas las respuestas anteriores son correctas.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "Las frutas climatéricas aumentan…",
+    "question": "La unidad estándar para medir la energía es…",
     "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "el volumen de oxígeno.",
-      "c": "el bombeo del corazón.",
-      "d": "la intensidad respiratoria."
-    },
-    "correct": "d",
-    "correct_text": "la intensidad respiratoria.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La mantequilla es un derivado lácteo con una alta proporción de…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "vitaminas hidrosolubles.",
-      "c": "colesterol.",
-      "d": "ácidos grasos monoinsaturados."
-    },
-    "correct": "c",
-    "correct_text": "colesterol.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Las características mínimas de calidad que se exigen a las legumbres son…",
-    "options": {
-      "a": "deben evitar la humedad.",
-      "b": "deben estar limpias y sin residuos.",
-      "c": "deben presentarse enteras, sanas y exentas de mohos y materias extrañas.",
+      "a": "los julios.",
+      "b": "la célula.",
+      "c": "las calorías.",
       "d": "todas las respuestas anteriores son correctas."
     },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
+    "correct": "c",
+    "correct_text": "las calorías.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "El efecto que se produce cuando, una vez descongelado el pescado presente una baja consistencia y apariencia de deshilachado, se denomina como…",
+    "question": "¿Cómo se denomina al proceso que origina una disminución de la masa muscular, y está asociado a la edad?...",
     "options": {
-      "a": "El efecto porpoising.",
-      "b": "el efecto oxidativo.",
-      "c": "el efecto Harden.",
-      "d": "El efecto gaping."
-    },
-    "correct": "d",
-    "correct_text": "El efecto gaping.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El aporte energético de un huevo de la talla L, podemos situarlo en…",
-    "options": {
-      "a": "150 kcal por cada 100 gramos de producto.",
-      "b": "50 kcal por cada 100 gramos de producto.",
-      "c": "160 kcal por cada 100 gramos de producto.",
-      "d": "200 kcal por cada 100 gramos de producto."
+      "a": "meditapenia.",
+      "b": "iliopenia.",
+      "c": "sarcopenia.",
+      "d": "ninguna de las respuestas anteriores es correcta."
     },
     "correct": "c",
-    "correct_text": "160 kcal por cada 100 gramos de producto.",
+    "correct_text": "sarcopenia.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "El olor que presentan algunas frutas y hortalizas poco agradable se debe a…",
+    "question": "El metabolismo basal…",
     "options": {
-      "a": "su composición en compuestos azufrados.",
-      "b": "su composición en agua.",
-      "c": "su composición en proteínas.",
-      "d": "su mal tratamiento en algunos procesos."
+      "a": "sí que es universal.",
+      "b": "no es universal y no afecta a los individuos.",
+      "c": "no es universal y afecta a todos los individuos.",
+      "d": "no es universal pero solo afecta a unos pocos individuos."
+    },
+    "correct": "c",
+    "correct_text": "no es universal y afecta a todos los individuos.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cómo se denomina la energía proveniente del alcohol?…",
+    "options": {
+      "a": "calorías vacías.",
+      "b": "calorías rellenas.",
+      "c": "no son calorías.",
+      "d": "calorías llenas."
     },
     "correct": "a",
-    "correct_text": "su composición en compuestos azufrados.",
+    "correct_text": "calorías vacías.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "La hormona de maduración es denominada como…",
+    "question": "La categoría de actividad moderada, tiene un factor de actividad en el factor compensado de…",
     "options": {
-      "a": "etileno.",
-      "b": "postílenos.",
+      "a": "5.",
+      "b": "3.",
+      "c": "6.",
+      "d": "4."
+    },
+    "correct": "a",
+    "correct_text": "5.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la aplicación del factor recomendado, en primer lugar…",
+    "options": {
+      "a": "se mide la masa magra.",
+      "b": "se determina el gasto energético en reposo.",
+      "c": "se determina el gasto energético total.",
+      "d": "se determina la fórmula de la OMS."
+    },
+    "correct": "b",
+    "correct_text": "se determina el gasto energético en reposo.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Conocer los requerimientos energéticos individuales y cómo se gasta la energía nos ayuda a…",
+    "options": {
+      "a": "a conseguir un peso poco saludable.",
+      "b": "a conseguir un peso saludable.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "a lograr enfermedades asociadas al sobrepeso."
+    },
+    "correct": "b",
+    "correct_text": "a conseguir un peso saludable.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Para el cálculo del gasto energético en reposo, ¿qué fórmula es aplicable a niños y adultos?",
+    "options": {
+      "a": "la estimación rápida.",
+      "b": "la de Mifflin - St Jeor.",
+      "c": "la OMS.",
+      "d": "la de Harris Benedict."
+    },
+    "correct": "d",
+    "correct_text": "la de Harris Benedict.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Una kilocaloría equivale a…",
+    "options": {
+      "a": "1000 calorías.",
+      "b": "700 calorías.",
+      "c": "500 calorías.",
+      "d": "2000 calorías."
+    },
+    "correct": "a",
+    "correct_text": "1000 calorías.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la determinación del gasto energético total, en el factor recomendado, en los hombres se considera actividad moderada y se usa un factor…",
+    "options": {
+      "a": "1,90.",
+      "b": "1,78.",
+      "c": "1,4.",
+      "d": "1,10."
+    },
+    "correct": "b",
+    "correct_text": "1,78.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuál es el método de referencia en la determinación del gasto energético?",
+    "options": {
+      "a": "la calorimetría directa.",
+      "b": "la calorimetría indirecta.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "la calorimetría media."
+    },
+    "correct": "a",
+    "correct_text": "la calorimetría directa.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "El cálculo del balance energético se realiza…",
+    "options": {
+      "a": "sumando la energía ingerida y la gastada.",
+      "b": "dividiendo la energía gastada entre la energía ingerida.",
+      "c": "restando la energía ingerida menos la energía gastada.",
+      "d": "multiplicando la energía ingerida por la energía gastada."
+    },
+    "correct": "c",
+    "correct_text": "restando la energía ingerida menos la energía gastada.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "El proceso definido como “el gasto energético debido a todos aquellos procesos que tienen como fin la metabolización de los nutrientes” es:",
+    "options": {
+      "a": "la sarcopenia.",
+      "b": "el gasto por actividad física.",
+      "c": "la termogénesis de los alimentos.",
+      "d": "el gasto energético."
+    },
+    "correct": "c",
+    "correct_text": "la termogénesis de los alimentos.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué porcentaje se atribuye a las proteínas en la termogénesis de los alimentos?",
+    "options": {
+      "a": "entre un 30 y 40 por ciento.",
+      "b": "entre un 15 y un 20 por ciento.",
+      "c": "entre un 3 y un 5 por ciento.",
+      "d": "entre un 2 y un 3 por ciento."
+    },
+    "correct": "b",
+    "correct_text": "entre un 15 y un 20 por ciento.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué tipo de metabolismo necesita oxígeno para funcionar?",
+    "options": {
+      "a": "el metabolismo aeróbico.",
+      "b": "ninguna de las dos necesita oxígeno.",
+      "c": "el metabolismo anaeróbico.",
+      "d": "ambas necesitan oxígeno para funcionar."
+    },
+    "correct": "a",
+    "correct_text": "el metabolismo aeróbico.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre los cuatro grandes compuestos que tienen capacidad para aportar energía encontramos…",
+    "options": {
+      "a": "el alcohol.",
+      "b": "los hidratos de carbono y las proteínas.",
       "c": "todas las respuestas anteriores son correctas.",
-      "d": "melitineno."
+      "d": "los lípidos."
     },
-    "correct": "a",
-    "correct_text": "etileno.",
+    "correct": "c",
+    "correct_text": "todas las respuestas anteriores son correctas.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "El azúcar, está compuesto por un 99’5% de…",
+    "question": "Para el cálculo del gasto energético total, utilizamos la fórmula…",
     "options": {
-      "a": "glucosa.",
-      "b": "sacarosa.",
-      "c": "fructosa.",
-      "d": "maltosa."
+      "a": "GER + factor recomendado.",
+      "b": "GER x factor recomendado.",
+      "c": "GER x factor compensado.",
+      "d": "GER / factor recomendado."
     },
     "correct": "b",
-    "correct_text": "sacarosa.",
+    "correct_text": "GER x factor recomendado.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "Los aceites aportan…",
+    "question": "Las variaciones en el metabolismo basal que tienen lugar en la mujer, se deben a…",
     "options": {
-      "a": "vitaminas liposolubles.",
-      "b": "vitaminas hidrosolubles.",
-      "c": "ácidos no grasos esenciales.",
-      "d": "ninguna de las respuestas anteriores es correcta."
+      "a": "el embarazo.",
+      "b": "el entorno hormonal.",
+      "c": "el ciclo menstrual.",
+      "d": "todas las respuestas son correctas."
     },
-    "correct": "a",
-    "correct_text": "vitaminas liposolubles.",
+    "correct": "d",
+    "correct_text": "todas las respuestas son correctas.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "En el pescado, ¿qué tipos de propiedades son las relacionadas con la calidad del mismo?",
+    "question": "¿Qué nos indica el valor RER?",
     "options": {
-      "a": "la textura y el aroma.",
-      "b": "la cantidad de agua.",
-      "c": "la jugosidad.",
-      "d": "únicamente, la textura."
+      "a": "la contribución de proteínas al organismo.",
+      "b": "la contribución de agua al organismo.",
+      "c": "la contribución de hidratos de carbono y grasas al metabolismo.",
+      "d": "la contribución, únicamente, de hidratos de carbono al organismo."
     },
-    "correct": "a",
-    "correct_text": "la textura y el aroma.",
+    "correct": "c",
+    "correct_text": "la contribución de hidratos de carbono y grasas al metabolismo.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   },
   {
-    "question": "¿Qué tipos de cereales son los que llegan a nuestra mesa sin ser transformados?",
+    "question": "La regulación a corto plazo, se define como…",
     "options": {
       "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "los cereales del desayuno.",
-      "c": "el maíz y el arroz.",
-      "d": "el pan y la pasta."
-    },
-    "correct": "c",
-    "correct_text": "el maíz y el arroz.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Los productos cocidos se obtienen…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "hirviendo las piezas.",
-      "c": "deshuesando las piezas.",
-      "d": "salando las piezas."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipos de ácidos grasos se obtienen al hidrogenar los aceites vegetales?",
-    "options": {
-      "a": "los ácidos grasos monoinsaturados.",
-      "b": "los ácidos grasos poliinsaturados.",
-      "c": "los ácidos grasos trans.",
-      "d": "los ácidos grasos ureicos."
-    },
-    "correct": "c",
-    "correct_text": "los ácidos grasos trans.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipos de alimentos los podemos clasificar como de origen vegetal?",
-    "options": {
-      "a": "únicamente a los cereales, frutas y hortalizas.",
-      "b": "las legumbres, las hortalizas, las frutas y sus derivados.",
-      "c": "únicamente a las legumbres, frutas y hortalizas.",
-      "d": "los cereales y sus derivados, las legumbres y frutos secos, y las frutas y hortalizas."
-    },
-    "correct": "d",
-    "correct_text": "los cereales y sus derivados, las legumbres y frutos secos, y las frutas y hortalizas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Las determinaciones básicas de las bebidas no alcohólicas comprenden…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "ambas respuestas anteriores son correctas.",
-      "c": "el pH y las cenizas.",
-      "d": "la acidez y los azúcares reductores."
+      "b": "la serie de factores que determinan el inicio y final de la comida.",
+      "c": "la serie de señales encaminadas del peso corporal.",
+      "d": "la serie de factores que determinan el inicio y final de la actividad física."
     },
     "correct": "b",
-    "correct_text": "ambas respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipos de cereales son los más consumidos por la población?",
-    "options": {
-      "a": "el arroz y maíz.",
-      "b": "el trigo, el arroz y el maíz.",
-      "c": "el arroz, únicamente.",
-      "d": "el trigo y el maíz."
-    },
-    "correct": "b",
-    "correct_text": "el trigo, el arroz y el maíz.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El sabor dulce y el aroma de la miel, va a depender de…",
-    "options": {
-      "a": "la cantidad de carbohidratos que contenga.",
-      "b": "las flores que haya librado la abeja.",
-      "c": "la cantidad de agua que contenga.",
-      "d": "del tipo de azúcar que se use en su composición."
-    },
-    "correct": "b",
-    "correct_text": "las flores que haya librado la abeja.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El chocolate se elabora en base a…",
-    "options": {
-      "a": "cacao, azúcares y lácteos.",
-      "b": "cacao, azúcares, lácteos y otros compuestos.",
-      "c": "azúcares y lácteos.",
-      "d": "cacao, únicamente."
-    },
-    "correct": "b",
-    "correct_text": "cacao, azúcares, lácteos y otros compuestos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "En el control analítico de los embutidos, se determina...",
-    "options": {
-      "a": "los nitritos, la sal y el almidón.",
-      "b": "los fosfatos y el almidón.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "los nitritos y la sal."
-    },
-    "correct": "b",
-    "correct_text": "los fosfatos y el almidón.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Por término medio, el aporte energético de la nata es de…",
-    "options": {
-      "a": "510 kcal por cada 100 gramos de producto.",
-      "b": "100 kcal por cada 100 gramos de producto.",
-      "c": "250 kcal por cada 100 gramos de producto.",
-      "d": "380 kcal por cada 100 gramos de producto."
-    },
-    "correct": "d",
-    "correct_text": "380 kcal por cada 100 gramos de producto.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Cuáles pueden ser algunos de los derivados de los cereales?",
-    "options": {
-      "a": "la bollería y la pasta.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "el muesli y los snacks.",
-      "d": "el pan y los cereales del desayuno."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipo de carne contiene un mayor contenido en grasas?",
-    "options": {
-      "a": "el tocino.",
-      "b": "la carne magra.",
-      "c": "la carne de pollo.",
-      "d": "la carne de cerdo."
-    },
-    "correct": "a",
-    "correct_text": "el tocino.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "En relación al tipo de grasa de la carne, esta va a depender de…",
-    "options": {
-      "a": "el tipo de especie y su alimentación.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "el tipo de agua que consuma el animal.",
-      "d": "la cantidad de agua que consuma el animal."
-    },
-    "correct": "a",
-    "correct_text": "el tipo de especie y su alimentación.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre los controles analíticos realizados en la leche, podemos encontrarnos con…",
-    "options": {
-      "a": "las sustancias con olores débiles.",
-      "b": "las oxidaciones o por excesivo calentamiento.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "la presencia de olores extraños por lejanía."
-    },
-    "correct": "b",
-    "correct_text": "las oxidaciones o por excesivo calentamiento.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La leche pasteurizada es…",
-    "options": {
-      "a": "la leche recién ordeñada.",
-      "b": "la leche fresca del día.",
-      "c": "la leche de vaca.",
-      "d": "la leche que se conserva a altas temperaturas."
-    },
-    "correct": "b",
-    "correct_text": "la leche fresca del día.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿A qué tipo de hemoproteína está asociada el color de la carne roja?",
-    "options": {
-      "a": "a la seroglobina.",
-      "b": "a la mioglobina.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "a la hemoglobina."
-    },
-    "correct": "b",
-    "correct_text": "a la mioglobina.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Para el análisis del color de la harina, se estima…",
-    "options": {
-      "a": "el grado de contaminación de la misma.",
-      "b": "la cantidad de aire de la misma.",
-      "c": "la cantidad de contaminación de la misma.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "a",
-    "correct_text": "el grado de contaminación de la misma.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Las bases nitrogenadas que al metabolizarse producen ácido úrico, son denominadas como…",
-    "options": {
-      "a": "serotonina.",
-      "b": "purinas.",
-      "c": "riboflavina.",
-      "d": "ácido fólico."
-    },
-    "correct": "b",
-    "correct_text": "purinas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La textura de las frutas se debe a la presencia de…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "contenido en agua, únicamente.",
-      "c": "contenido en geles proteicos.",
-      "d": "contenido en agua y en geles de almidón y pectinas."
-    },
-    "correct": "d",
-    "correct_text": "contenido en agua y en geles de almidón y pectinas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "En las legumbres, además de las determinaciones básicas, se realiza…",
-    "options": {
-      "a": "un control de la cantidad.",
-      "b": "un calibrado de los granos.",
-      "c": "un calibrado de la cantidad.",
-      "d": "un conteo de la cantidad producida."
-    },
-    "correct": "b",
-    "correct_text": "un calibrado de los granos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La cualidad de la carne que está asociada a la capacidad de retención del agua y depende de otros factores, es…",
-    "options": {
-      "a": "la cantidad de masa grasa de la carne.",
-      "b": "la calidad de la carne.",
-      "c": "la textura de la carne.",
-      "d": "la jugosidad de la carne."
-    },
-    "correct": "d",
-    "correct_text": "la jugosidad de la carne.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las bebidas no alcohólicas, la más saludable es…",
-    "options": {
-      "a": "El agua.",
-      "b": "las bebidas refrescantes.",
-      "c": "los zumos y néctares.",
-      "d": "la Coca-Cola."
-    },
-    "correct": "a",
-    "correct_text": "El agua.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué se debe añadir a la harina para que forme una masa viscoelástica que permita el amasado para formar el pan?",
-    "options": {
-      "a": "levadura de panadería.",
-      "b": "agua.",
-      "c": "gluten.",
-      "d": "aceite."
-    },
-    "correct": "b",
-    "correct_text": "agua.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre el grupo de alimentos misceláneo, ubicamos…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "los aceites, grasas y azúcares y derivados.",
-      "c": "la leche y sus derivados lácteos.",
-      "d": "la carne y el pescado."
-    },
-    "correct": "b",
-    "correct_text": "los aceites, grasas y azúcares y derivados.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipos de aceites son los utilizados a nivel industrial?",
-    "options": {
-      "a": "los aceites de oliva o girasol.",
-      "b": "los aceites vegetales.",
-      "c": "los aceites de coco, palma o palmiste.",
-      "d": "los aceites de soja o de maíz."
-    },
-    "correct": "c",
-    "correct_text": "los aceites de coco, palma o palmiste.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Para la valoración del estado de conservación de la harina, se determina…",
-    "options": {
-      "a": "la humedad y la acidez.",
-      "b": "la calidad de la harina.",
-      "c": "la cantidad de harina que contiene.",
-      "d": "la humedad relativa en el ambiente."
-    },
-    "correct": "a",
-    "correct_text": "la humedad y la acidez.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "En el queso, se pierden parte de…",
-    "options": {
-      "a": "las vitaminas del grupo B.",
-      "b": "los nutrientes.",
-      "c": "las grasas y las proteínas.",
-      "d": "las vitaminas liposolubles."
-    },
-    "correct": "a",
-    "correct_text": "las vitaminas del grupo B.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El flavor asociado a los azúcares y aminoácidos es…",
-    "options": {
-      "a": "el básico.",
-      "b": "el específico.",
-      "c": "el natural.",
-      "d": "el premium."
-    },
-    "correct": "a",
-    "correct_text": "el básico.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipos de aminoácidos se presentan en bajas cantidades en los cereales?",
-    "options": {
-      "a": "la inmunoproteína.",
-      "b": "la melanina.",
-      "c": "la metionina.",
-      "d": "la lisina."
-    },
-    "correct": "d",
-    "correct_text": "la lisina.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Las determinaciones físico-químicas más frecuentes realizadas en los granos de cereales, son…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "las cenizas.",
-      "c": "la grasa y fibra bruta.",
-      "d": "la humedad y las proteínas."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las legumbres más consumidas en España, podemos encontrarnos con…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "los garbanzos y las judías.",
-      "c": "las lentejas.",
-      "d": "los guisantes y las habas."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las determinaciones específicas que se hacen sobre un huevo, encontramos…",
-    "options": {
-      "a": "la de la vitamina K.",
-      "b": "la de las vitaminas y minerales.",
-      "c": "la de las proteínas.",
-      "d": "la del fósforo y colesterol."
-    },
-    "correct": "d",
-    "correct_text": "la del fósforo y colesterol.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La textura de las hortalizas, va a depender…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "de su contenido en fibra y el grado de humedad.",
-      "c": "de su contenido en agua y proteínas.",
-      "d": "su contenido en proteínas y lípidos."
-    },
-    "correct": "b",
-    "correct_text": "de su contenido en fibra y el grado de humedad.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La denominación de leche comprende…",
-    "options": {
-      "a": "a la leche de vaca y de cabra.",
-      "b": "únicamente a la leche de vaca.",
-      "c": "a la leche de todos los mamíferos.",
-      "d": "a la leche de los mamíferos terrestres."
-    },
-    "correct": "b",
-    "correct_text": "únicamente a la leche de vaca.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las características organolépticas de los aceites, debemos encontrar en ellos…",
-    "options": {
-      "a": "que deben tener un aspecto limpio y transparente.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "que no deben tener impurezas.",
-      "d": "que tienen que tener un color, olor y sabor típicos."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "En la miel, en su control analítico, se debe determinar…",
-    "options": {
-      "a": "el contenido en agua.",
-      "b": "el contenido solamente de azúcares.",
-      "c": "el contenido de humedad y en azúcares.",
-      "d": "las cenizas, la humedad y el pH."
-    },
-    "correct": "c",
-    "correct_text": "el contenido de humedad y en azúcares.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El contenido energético que aportan las grasas, podemos estimar que es…",
-    "options": {
-      "a": "300 kcal por cada 100 gramos.",
-      "b": "900 kcal por cada 100 gramos.",
-      "c": "700 gramos por cada 100 gramos.",
-      "d": "500 kcal por cada 100 gramos."
-    },
-    "correct": "b",
-    "correct_text": "900 kcal por cada 100 gramos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las excepciones en la composición de los frutos secos destaca…",
-    "options": {
-      "a": "los pistachos.",
-      "b": "las avellanas.",
-      "c": "las castañas.",
-      "d": "los anacardos."
-    },
-    "correct": "c",
-    "correct_text": "las castañas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El valor nutricional de los helados, depende de..",
-    "options": {
-      "a": "los ingredientes utilizados en su composición.",
-      "b": "la cantidad de calorías que aporten.",
-      "c": "la cantidad de agua que lleve el producto.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "a",
-    "correct_text": "los ingredientes utilizados en su composición.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipos de pescados son una importante fuente en ácidos grasos poliinsaturados omega-3?",
-    "options": {
-      "a": "los pescados blancos.",
-      "b": "los pescados azules.",
-      "c": "los pescados criados en piscifactorías.",
-      "d": "los pescados provenientes del mar."
-    },
-    "correct": "b",
-    "correct_text": "los pescados azules.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las determinaciones microbiológicas de los granos de cereales y de las harinas, se incluyen…",
-    "options": {
-      "a": "determinaciones de bacterias aerobias.",
-      "b": "determinaciones de enterobacterias.",
-      "c": "las levaduras.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El gusano responsable de la enfermedad parasitaria causada por el consumo de carne poco hecha, es…",
-    "options": {
-      "a": "la melanina.",
-      "b": "la bacteria E.Coli.",
-      "c": "los residuos antimicrobianos.",
-      "d": "la triquina."
-    },
-    "correct": "d",
-    "correct_text": "la triquina.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La diferencia entre la pasteurización y la leche esterilizada UHT es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "que la leche esterilizada se somete a un proceso de esterilización.",
-      "c": "que la pasteurizada se compra como leche entera, desnatada o semidesnatada.",
-      "d": "que la pasteurizada aguanta a altas temperaturas."
-    },
-    "correct": "b",
-    "correct_text": "que la leche esterilizada se somete a un proceso de esterilización.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "La leche UHT, en envase cerrado, puede conservarse a temperatura ambiente hasta…",
-    "options": {
-      "a": "6 meses.",
-      "b": "3 meses.",
-      "c": "5 meses.",
-      "d": "1 mes."
-    },
-    "correct": "a",
-    "correct_text": "6 meses.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las frutas y hortalizas que presentan un contenido superior en grasa, encontramos…",
-    "options": {
-      "a": "el aguacate y las aceitunas.",
-      "b": "el brócoli y las coles.",
-      "c": "las naranjas y el aguacate.",
-      "d": "las fresas y el melón."
-    },
-    "correct": "a",
-    "correct_text": "el aguacate y las aceitunas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Según la pureza del azúcar, podemos distinguir entre…",
-    "options": {
-      "a": "azúcar blanco y azúcar negro.",
-      "b": "azúcar blanco, moreno y refinado.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "azúcar claro y azúcar oscuro."
-    },
-    "correct": "b",
-    "correct_text": "azúcar blanco, moreno y refinado.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Qué tipo de propiedades permiten el estudio de la deformación de materiales fluidos al someterlos a esfuerzos físicos?",
-    "options": {
-      "a": "las inmunológicas.",
-      "b": "las reológicas.",
-      "c": "la reflotación.",
-      "d": "la refrigeración."
-    },
-    "correct": "b",
-    "correct_text": "las reológicas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "¿Cuáles son las características organolépticas de la leche?",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "su aroma más o menos acentuado.",
-      "c": "un sabor ligeramente dulce.",
-      "d": "un color blanco opaco."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "En el grupo de alimentos de origen animal, podemos encasillar…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "la leche y sus derivados lácteos.",
-      "c": "las legumbres y los cereales.",
-      "d": "las frutas y las hortalizas."
-    },
-    "correct": "b",
-    "correct_text": "la leche y sus derivados lácteos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Al fruto, infrutescencia, semilla o partes carnosas de los órganos florales con un grado adecuado de madurez y propias para el consumo humano, se denominan…",
-    "options": {
-      "a": "frutas.",
-      "b": "verduras.",
-      "c": "hortalizas.",
-      "d": "frutos secos."
-    },
-    "correct": "a",
-    "correct_text": "frutas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Los descensos de pH en la leche, debido a la proliferación de microorganismos en la misma puede provocar…",
-    "options": {
-      "a": "la presencia y desarrollo de mohos.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "la presencia de bacterias acidófilas anaerobias.",
-      "d": "la presencia de bacterias acidófilas aerobias."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Entre las pruebas rápidas que existen para comprobar la frescura de un pescado, situamos…",
-    "options": {
-      "a": "el valor K.",
-      "b": "la hipoxantina.",
-      "c": "ambas respuestas anteriores son correctas.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "ambas respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "El huevo es rico en…",
-    "options": {
-      "a": "vitaminas liposolubles.",
-      "b": "vitaminas hidrosolubles.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "colina y minerales."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "Se denominan legumbres a…",
-    "options": {
-      "a": "las semillas extraídas de los cereales.",
-      "b": "las semillas de algunos frutos.",
-      "c": "las semillas secas, limpias, sanas y separadas de la vaina.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "las semillas secas, limpias, sanas y separadas de la vaina.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema1"
-  },
-  {
-    "question": "A la percepción de las sustancias aromáticas de un alimento después de ponerlo en la boca, se denomina como…",
-    "options": {
-      "a": "purinas.",
-      "b": "sustancias organolépticas.",
-      "c": "contenido organoléptico.",
-      "d": "flavor."
-    },
-    "correct": "d",
-    "correct_text": "flavor.",
+    "correct_text": "la serie de factores que determinan el inicio y final de la comida.",
     "asignatura": "alimentacion_equilibrada",
     "tema": "tema1"
   }
