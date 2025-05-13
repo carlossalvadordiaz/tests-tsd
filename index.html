@@ -56,14 +56,27 @@
 			.incorrect-icon {
 				color: red;
 			}
+			.footer {
+				margin-top: 3rem;
+				text-align: center;
+				font-size: 0.9rem;
+				color: #555;
+			}
 		</style>
 	</head>
 	<body>
+		<a href="index.html">🔘 Preguntas tipo test</a>
+		<!-- <a href="preguntas_desarrollo.html">📝 Preguntas de desarrollo</a> -->
+
 		<h1>Test Interactivo TSD v2</h1>
 		<p>
 			<span>Corregido Alimentación equilibrada 1 y Dietoterapia general.</span>
 		</p>
+		<p>
+			<span>Los test generales son de 40 preguntas.</span>
+		</p>
 		<p>Corregida pregunta Fisiopatología tema 2.</p>
+		<p>Test generales de más preguntas</p>
 		<h2>By Carlos Salvador</h2>
 		<p>Cualquier fallo o sugerencia -> 696 106 783</p>
 		<h4>
@@ -165,6 +178,9 @@
 			></p>
 			<div id="results"></div>
 		</div>
+		<div class="footer">
+			&copy; Carlos Salvador - Preparación TSD 1º interactivo
+		</div>
 
 		<script>
 			let selectedQuestions = [];
@@ -183,17 +199,48 @@
 						porTema[q.tema].push(q);
 					});
 					selectedQuestions = [];
+
 					const numTemas = Object.keys(porTema).length;
-					const preguntasPorTema = Math.floor(20 / numTemas);
+					const preguntasPorTema = Math.floor(40 / numTemas);
 
 					Object.values(porTema).forEach((arr) => {
+						const barajadas = arr.sort(() => 0.5 - Math.random());
 						selectedQuestions = selectedQuestions.concat(
-							arr.sort(() => 0.5 - Math.random()).slice(0, preguntasPorTema)
+							barajadas.slice(0, preguntasPorTema)
 						);
 					});
+
+					// Si no se han alcanzado 40 exactas, completar con más preguntas aleatorias del total
+					while (
+						selectedQuestions.length < 40 &&
+						data.length > selectedQuestions.length
+					) {
+						const faltan = 40 - selectedQuestions.length;
+						const barajadas = [...data].sort(() => 0.5 - Math.random());
+						for (
+							let i = 0;
+							i < barajadas.length && selectedQuestions.length < 40;
+							i++
+						) {
+							if (
+								!selectedQuestions.some(
+									(q) => q.question === barajadas[i].question
+								)
+							) {
+								selectedQuestions.push(barajadas[i]);
+							}
+						}
+					}
+
 					selectedQuestions = selectedQuestions.sort(() => 0.5 - Math.random());
 				} else {
-					selectedQuestions = data.sort(() => 0.5 - Math.random()).slice(0, 20);
+					const shuffled = [...data].sort(() => 0.5 - Math.random());
+					const questionSet = new Set();
+					while (questionSet.size < 20 && shuffled.length > 0) {
+						const q = shuffled.pop();
+						questionSet.add(JSON.stringify(q)); // Para evitar duplicados exactos
+					}
+					selectedQuestions = Array.from(questionSet).map((q) => JSON.parse(q));
 				}
 
 				currentQuestionIndex = 0;
@@ -245,10 +292,38 @@
 
 				let score = 0;
 				userAnswers.forEach((entry) => {
-					if (entry.selected === entry.question.correct) score += 0.5;
+					if (entry.selected === entry.question.correct) score++;
 				});
+
+				const finalScore = (score / selectedQuestions.length) * 10;
+
 				document.getElementById("score").innerText =
-					"Puntuación final: " + score.toFixed(1) + " / 10";
+					"Puntuación final: " + finalScore.toFixed(1) + " / 10";
+
+				/* let correct = 0;
+let incorrect = 0;
+
+userAnswers.forEach((entry) => {
+	if (entry.selected === entry.question.correct) {
+		correct++;
+	} else {
+		incorrect++;
+	}
+});
+
+// Por cada 3 errores, se resta 1 punto
+let penalizedCorrect = correct - Math.floor(incorrect / 3);
+
+// Aseguramos que no baje de 0
+penalizedCorrect = Math.max(penalizedCorrect, 0);
+
+// Escalamos la nota sobre 10
+const finalScore = (penalizedCorrect / selectedQuestions.length) * 10;
+
+document.getElementById("score").innerText =
+	"Puntuación final: " + finalScore.toFixed(1) + " / 10";
+	
+	Restsa 1 por cada 3, sustituir por 264 a 273*/
 
 				userAnswers.forEach((entry, index) => {
 					const isCorrect = entry.selected === entry.question.correct;
