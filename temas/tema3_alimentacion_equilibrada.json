@@ -1,847 +1,1004 @@
 [
-  {
-    "question": "¿Qué tipo de vitaminas son las absorbidas en el intestino delgado?",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "las liposolubles.",
-      "c": "las hidrosolubles.",
-      "d": "las intrasolubles."
-    },
-    "correct": "c",
-    "correct_text": "las hidrosolubles.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Si definimos como “el nutriente atraviesa la mucosa intestinal a favor de gradiente de concentración, y sin gasto energético”, nos referimos a…",
-    "options": {
-      "a": "la difusión facilitada.",
-      "b": "la pinocitosis.",
-      "c": "la difusión pasiva.",
-      "d": "el transporte pasivo."
-    },
-    "correct": "c",
-    "correct_text": "la difusión pasiva.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Entre las proteínas podemos encontrar 20 aminoácidos naturales, que se dividen en…:",
-    "options": {
-      "a": "10 esenciales y 10 no esenciales.",
-      "b": "9 esenciales, 9 no esenciales y 2 parcialmente esenciales.",
-      "c": "12 esenciales y 8 no esenciales.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "9 esenciales, 9 no esenciales y 2 parcialmente esenciales.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En cuanto al agua se refiere, ¿dónde representa un mínimo contenido en el cuerpo humano?",
-    "options": {
-      "a": "en los huesos.",
-      "b": "en los músculos.",
-      "c": "en el tejido adiposo y los tejidos calcificados.",
-      "d": "en las vísceras."
-    },
-    "correct": "c",
-    "correct_text": "en el tejido adiposo y los tejidos calcificados.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En cuanto a los electrolitos se refiere, se pueden definir como…",
-    "options": {
-      "a": "sustancias que al disolverse en aceite se convierten en iones.",
-      "b": "sustancias que al disolverse en agua se convierte en sales inorgánicas.",
-      "c": "sustancias que al disolverse en agua se convierten en cationes.",
-      "d": "sustancias que al disolverse en agua se convierten en iones."
-    },
-    "correct": "d",
-    "correct_text": "sustancias que al disolverse en agua se convierten en iones.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "La fibra insoluble se caracteriza por…",
-    "options": {
-      "a": "tener poca capacidad para retener agua.",
-      "b": "tener gran capacidad para retener agua.",
-      "c": "tener gran capacidad para retener grasas.",
-      "d": "tener poca capacidad para retener proteínas."
-    },
-    "correct": "a",
-    "correct_text": "tener poca capacidad para retener agua.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En el yeyuno, los péptidos se convierten en…",
-    "options": {
-      "a": "únicamente dipéptidos.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "tanto polipéptidos, como dipéptidos y tripéptidos.",
-      "d": "únicamente polipéptidos."
-    },
-    "correct": "c",
-    "correct_text": "tanto polipéptidos, como dipéptidos y tripéptidos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Dentro de los hidratos de carbono, diferenciamos entre monosacáridos, disacáridos y…",
-    "options": {
-      "a": "galactosacáridos.",
-      "b": "unisacáridos.",
-      "c": "polisacáridos.",
-      "d": "bisacáridos."
-    },
-    "correct": "c",
-    "correct_text": "polisacáridos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En los polisacáridos, podemos dividirlos en…",
-    "options": {
-      "a": "glucosa, fructosa y galactosa.",
-      "b": "maltodextrinas y almidón.",
-      "c": "lactosa y maltosa.",
-      "d": "sacarosa y lactosa."
-    },
-    "correct": "b",
-    "correct_text": "maltodextrinas y almidón.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Los hidratos de carbono son…",
-    "options": {
-      "a": "moléculas no orgánicas formadas por cadenas carbonadas portadores de grupos hidroxilo y funciones aldehílicas.",
-      "b": "moléculas orgánicas formadas por cadenas no carbonadas, portadoras de grupos hidroxilo y funciones no aldehílicas.",
-      "c": "moléculas orgánicas formadas por cadenas carbonadas, portadoras de grupos hidroxilo y funciones aldehílicas.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "moléculas orgánicas formadas por cadenas carbonadas, portadoras de grupos hidroxilo y funciones aldehílicas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En los hidratos de carbono podemos encontrar dos grupos…",
-    "options": {
-      "a": "celular y energética.",
-      "b": "energética y estructural.",
-      "c": "vegetal y estructural.",
-      "d": "orgánica y energética."
-    },
-    "correct": "b",
-    "correct_text": "energética y estructural.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Tras la ingesta de lípidos, en la situación postprandial, los quilomicrones depositan los triglicéridos en diferentes…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "tejidos.",
-      "c": "músculos.",
-      "d": "huesos."
-    },
-    "correct": "b",
-    "correct_text": "tejidos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "El aceite de oliva, es el principal componente del ácido…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "oleico.",
-      "c": "graso omega-3.",
-      "d": "araquidónico."
-    },
-    "correct": "b",
-    "correct_text": "oleico.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "La lipasa hidrolizada junto con los triglicéridos, dan lugar a…",
-    "options": {
-      "a": "3 monoglicéridos y 2 ácidos grasos.",
-      "b": "5 monoglicéridos y 4 ácidos grasos.",
-      "c": "4 monoglicéridos y 3 ácidos grasos.",
-      "d": "1 monoglicérido y 2 ácidos grasos."
-    },
-    "correct": "a",
-    "correct_text": "3 monoglicéridos y 2 ácidos grasos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En la fase postprandial, se produce un primer llenado de los depósitos hepáticos, este se produce cuando se llega a…",
-    "options": {
-      "a": "200 gramos.",
-      "b": "50 gramos.",
-      "c": "400 gramos.",
-      "d": "100 gramos."
-    },
-    "correct": "d",
-    "correct_text": "100 gramos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En la función de transporte de las proteínas, estas son transportadas por medio de…",
-    "options": {
-      "a": "la respiración.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "la sangre.",
-      "d": "las venas."
-    },
-    "correct": "c",
-    "correct_text": "la sangre.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "El intestino grueso es un conducto de aproximadamente…",
-    "options": {
-      "a": "2,5 metros.",
-      "b": "2 metros.",
-      "c": "1,5 metros.",
-      "d": "3 metros."
-    },
-    "correct": "c",
-    "correct_text": "1,5 metros.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En la digestión y la absorción de los hidratos de carbono, la inactivación enzimática se produce en…",
-    "options": {
-      "a": "el intestino grueso.",
-      "b": "el estómago.",
-      "c": "el intestino delgado.",
-      "d": "la cavidad bucal."
-    },
-    "correct": "b",
-    "correct_text": "el estómago.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Dentro de los transportadores a nivel intestinal, el GLUT-5, se define como…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "el transporte mediante difusión facilitada desde el lumen intestinal al enterocito.",
-      "c": "el paso de los monosacáridos asimilados en los enterocitos al torrente sanguíneo.",
-      "d": "el transporte activo de glucosa y galactosa desde el lumen intestinal hasta el enterocito."
-    },
-    "correct": "b",
-    "correct_text": "el transporte mediante difusión facilitada desde el lumen intestinal al enterocito.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Entre las hormonas que participan en el proceso digestivo, podemos encontrar…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "la gastrina.",
-      "c": "la secretina.",
-      "d": "la colecistoquinina."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Los procesos de absorción de las proteínas en los enterocitos se realizan mediante…",
-    "options": {
-      "a": "difusión simple y transporte activo.",
-      "b": "difusión compuesta y transporte activo.",
-      "c": "difusión pasiva y transporte activo.",
-      "d": "difusión simple y transporte pasivo."
-    },
-    "correct": "a",
-    "correct_text": "difusión simple y transporte activo.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Dentro de los hidratos de carbono para la obtención de energía, definimos la glucólisis como…",
-    "options": {
-      "a": "la ruta citoplasmática en la que se produce la degradación de una molécula de glucosa a dos moléculas de piruvato.",
-      "b": "la no ruta citoplasmática en la que se produce la degradación de una molécula de piruvato a dos moléculas de glucosa.",
-      "c": "la ruta citoplasmática en la que se produce la degradación de varias moléculas de glucosa a otras de piruvato.",
-      "d": "la no ruta citoplasmática en la que se produce la degradación de varias moléculas de glucosa a otras de piruvato."
-    },
-    "correct": "a",
-    "correct_text": "la ruta citoplasmática en la que se produce la degradación de una molécula de glucosa a dos moléculas de piruvato.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Si definimos como “acción específica de enzimas y otras sustancias secretadas por las glándulas anejas y células especializadas”, nos referimos a…",
-    "options": {
-      "a": "digestión mecánica.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "digestión gástrica.",
-      "d": "digestión química."
-    },
-    "correct": "d",
-    "correct_text": "digestión química.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En el almacenamiento de los nutrientes, los lípidos se almacenan en…",
-    "options": {
-      "a": "en los músculos esqueléticos.",
-      "b": "en los huesos.",
-      "c": "en la grasa.",
-      "d": "en el tejido adiposo."
-    },
-    "correct": "d",
-    "correct_text": "en el tejido adiposo.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Entre las funciones de los lípidos, encontramos…",
-    "options": {
-      "a": "almacenamiento y obtención de energía.",
-      "b": "protección.",
-      "c": "formación de estructuras.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Entre los factores que influyen en la capacidad y forma de absorción, encontramos…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "el tamaño y concentración de la molécula a transportar.",
-      "c": "la presencia de ciertos fármacos.",
-      "d": "el carácter hidrofóbico."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Para ayudar al buen funcionamiento intestinal, deberemos tomar…",
-    "options": {
-      "a": "proteínas.",
-      "b": "fibra insoluble.",
-      "c": "grasas.",
-      "d": "fibra soluble."
-    },
-    "correct": "d",
-    "correct_text": "fibra soluble.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Si miramos la cantidad diaria recomendada de potasio, encontramos que debe ser de…",
-    "options": {
-      "a": "9g por día.",
-      "b": "1g por día.",
-      "c": "3 a 4g por día.",
-      "d": "6g por día."
-    },
-    "correct": "c",
-    "correct_text": "3 a 4g por día.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "¿En que tamaño se requieren los minerales para el correcto funcionamiento humano?",
-    "options": {
-      "a": "no son necesarios para el ser humano.",
-      "b": "en cantidades medias.",
-      "c": "en pequeñas cantidades.",
-      "d": "en grandes cantidades."
-    },
-    "correct": "c",
-    "correct_text": "en pequeñas cantidades.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Los ácidos grasos son…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "componentes no fundamentales de los lípidos saponificables.",
-      "c": "componentes fundamentales de los lípidos saponificables.",
-      "d": "componentes no fundamentales de los lípidos no saponificables."
-    },
-    "correct": "c",
-    "correct_text": "componentes fundamentales de los lípidos saponificables.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Entre los signos de deshidratación, podemos encontrar, además de la escasa orina…",
-    "options": {
-      "a": "la flacidez en la piel.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "la taquicardia junto al fallo renal y circulatorio.",
-      "d": "la sequedad de las mucosas."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En los procesos digestivos de los nutrientes, encontramos que el tubo digestivo se encuentra conformado por…",
-    "options": {
-      "a": "el intestino delgado y el intestino grueso.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "la boca, la faringe y laringe.",
-      "d": "el estómago y el esófago."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Los azúcares simples los podemos encontrar en…",
-    "options": {
-      "a": "los monosacáridos.",
-      "b": "los polisacáridos.",
-      "c": "en ninguna de las anteriores.",
-      "d": "los disacaridos."
-    },
-    "correct": "a",
-    "correct_text": "los monosacáridos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "La absorción del calcio se produce mediante dos procesos, que son…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "transcelular y paracelular.",
-      "c": "únicamente paracelular.",
-      "d": "únicamente transcelular."
-    },
-    "correct": "b",
-    "correct_text": "transcelular y paracelular.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "El paso del quimo al intestino delgado se produce a través del…",
-    "options": {
-      "a": "píloro.",
-      "b": "cardias.",
-      "c": "páncreas.",
-      "d": "vesícula biliar."
-    },
-    "correct": "a",
-    "correct_text": "píloro.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "¿Dónde podemos encontrar la fibra soluble en los alimentos?",
-    "options": {
-      "a": "frutas y verduras, únicamente.",
-      "b": "cereales.",
-      "c": "frutas, verduras, hortalizas y legumbres.",
-      "d": "frutas, verduras y hortalizas, únicamente."
-    },
-    "correct": "c",
-    "correct_text": "frutas, verduras, hortalizas y legumbres.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "A nivel catabólico, entre las funciones de las proteínas encontramos la de aportar energía cuando…",
-    "options": {
-      "a": "el aporte de grasas es suficiente.",
-      "b": "el aporte de hidratos de carbono y grasas no es suficiente.",
-      "c": "el aporte de agua no es suficiente.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "el aporte de hidratos de carbono y grasas no es suficiente.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "¿Quiénes son los encargados de transportar fundamentalmente triglicéridos, colesterol y vitaminas liposolubles?",
-    "options": {
-      "a": "las lipoproteínas de baja densidad.",
-      "b": "los quilomicrones.",
-      "c": "las lipoproteínas de muy baja densidad.",
-      "d": "las lipoproteínas de alta densidad."
-    },
-    "correct": "b",
-    "correct_text": "los quilomicrones.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Si miramos las funciones del sodio en el cuerpo humano, encontramos que se encarga de regular…",
-    "options": {
-      "a": "el volumen de sal en sangre.",
-      "b": "el volumen de la sangre.",
-      "c": "todas las respuestas anteriores son incorrectas.",
-      "d": "el volumen de agua en sangre."
-    },
-    "correct": "b",
-    "correct_text": "el volumen de la sangre.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Los minerales se dividen en dos grandes grupos, pero en nuestra dieta, ¿qué cantidad se necesita de macrominerales?",
-    "options": {
-      "a": "entre 50 y 100 mg/día.",
-      "b": "más de 100 mg/día.",
-      "c": "menos de 50 mg/día.",
-      "d": "menos de 100 mg/día."
-    },
-    "correct": "b",
-    "correct_text": "más de 100 mg/día.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Los nutrientes son…",
-    "options": {
-      "a": "sustancias químicas indispensables que no están presentes en los alimentos.",
-      "b": "sustancias no químicas indispensables contenidas en los alimentos.",
-      "c": "sustancias químicas indispensables contenidas en los alimentos.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "sustancias químicas indispensables contenidas en los alimentos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "La siguiente definición (“estructuras formadas por triglicéridos y esteres de colesterol y rodeados de fosfolípidos, colesterol no esterificado y proteínas”) hace referencia a…",
-    "options": {
-      "a": "lípidos.",
-      "b": "proteínas.",
-      "c": "lipoproteínas.",
-      "d": "hidratos de carbono."
-    },
-    "correct": "c",
-    "correct_text": "lipoproteínas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Para comprender el metabolismo de los hidratos de carbono, es necesario distinguir entre dos fases, y estas son…",
-    "options": {
-      "a": "ambas respuestas son correctas.",
-      "b": "interdigestiva.",
-      "c": "situación postprandial.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "a",
-    "correct_text": "ambas respuestas son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Dentro de los lípidos no saponificables, encontramos…",
-    "options": {
-      "a": "tromboxanos.",
-      "b": "esteroides.",
-      "c": "eicosanoides.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "¿Dónde podemos encontrar la lactosa como fuente nutricional?",
-    "options": {
-      "a": "en los cereales.",
-      "b": "en la fruta y verdura.",
-      "c": "en la leche y sus derivados derivados.",
-      "d": "en las legumbre."
-    },
-    "correct": "c",
-    "correct_text": "en la leche y sus derivados derivados.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En cuanto a los lípidos se refiere, en el intestino delgado se produce…",
-    "options": {
-      "a": "un inicio de la acción de la lipasa lingual.",
-      "b": "una emulsión de las gotas de grasa provenientes del estómago por parte de las sales biliares.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "una degradación por parte de la lipasa lingual y gástrica."
-    },
-    "correct": "b",
-    "correct_text": "una emulsión de las gotas de grasa provenientes del estómago por parte de las sales biliares.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "A nivel anabólico, las proteínas son requeridas para funciones como…",
-    "options": {
-      "a": "el mantenimiento proteico.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "ambas respuestas son correctas.",
-      "d": "el crecimiento."
-    },
-    "correct": "c",
-    "correct_text": "ambas respuestas son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Según las necesidades, los nutrientes se clasifican en…",
-    "options": {
-      "a": "únicamente existen los macronutrientes.",
-      "b": "únicamente existen los micronutrientes.",
-      "c": "micronutrientes y macronutrientes.",
-      "d": "mininutrientes y macronutrientes."
-    },
-    "correct": "c",
-    "correct_text": "micronutrientes y macronutrientes.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En la definición de los nutrientes esenciales encontramos…",
-    "options": {
-      "a": "no pueden ser sintetizados por el organismo.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "algunos solo pueden ser sintetizados por el organismo.",
-      "d": "sí que pueden ser sintetizados por el organismo."
-    },
-    "correct": "a",
-    "correct_text": "no pueden ser sintetizados por el organismo.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Dentro del proceso de excreción, los fármacos o el colesterol, se eliminan a través de…",
-    "options": {
-      "a": "el hígado.",
-      "b": "la piel.",
-      "c": "los pulmones.",
-      "d": "los riñones."
-    },
-    "correct": "a",
-    "correct_text": "el hígado.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Las diferentes partes en las cuales se divide el intestino delgado son…",
-    "options": {
-      "a": "duodeno.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "ílion.",
-      "d": "yeyuno."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "La bilis es secretada por el hígado, pero se almacena en…",
-    "options": {
-      "a": "el intestino grueso.",
-      "b": "la vesícula biliar.",
-      "c": "el yeyuno.",
-      "d": "el ílion."
-    },
-    "correct": "b",
-    "correct_text": "la vesícula biliar.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "La degradación de las proteínas hasta convertirse en péptidos por acción de la pepsina, se produce en…",
-    "options": {
-      "a": "el intestino delgado.",
-      "b": "el estómago.",
-      "c": "el esófago.",
-      "d": "el hígado."
-    },
-    "correct": "b",
-    "correct_text": "el estómago.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Respecto a la ingesta de agua diaria, se considera que los adultos necesitan…",
-    "options": {
-      "a": "unos 50 ml/kg de peso.",
-      "b": "unos 20 ml/kg de peso.",
-      "c": "unos 25 ml/kg de peso.",
-      "d": "unos 35 ml/kg de peso."
-    },
-    "correct": "d",
-    "correct_text": "unos 35 ml/kg de peso.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Si definimos como “una vez que los nutrientes son absorbidos a través del epitelio intestinal, viajan por la sangre hasta los tejidos, donde pueden seguir distintos destinos metabólicos”, nos referimos a…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "el almacenamiento de los nutrientes.",
-      "c": "la absorción de nutrientes.",
-      "d": "la utilización metabólica de los nutrientes."
-    },
-    "correct": "d",
-    "correct_text": "la utilización metabólica de los nutrientes.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Las vitaminas podemos definirlas como…",
-    "options": {
-      "a": "sustancias no orgánicas simples requeridas en la dieta en grandes cantidades.",
-      "b": "sustancias orgánicas complejas requeridas en la dieta en grandes cantidades.",
-      "c": "sustancias orgánicas complejas requeridas en la dieta en pequeñas cantidades.",
-      "d": "sustancias orgánicas simples requeridas en la dieta en pequeñas cantidades."
-    },
-    "correct": "c",
-    "correct_text": "sustancias orgánicas complejas requeridas en la dieta en pequeñas cantidades.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En el peso corporal humano, ¿qué cantidad de agua representa la media?",
-    "options": {
-      "a": "un 40%,",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "un 80%.",
-      "d": "un 60%."
-    },
-    "correct": "d",
-    "correct_text": "un 60%.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "¿Cómo se denomina cuando el micronutriente del hierro se sitúa en deficiencia?",
-    "options": {
-      "a": "anemia ferropénica.",
-      "b": "anemia lipopénica.",
-      "c": "anemia hidropénica.",
-      "d": "anemia carbopénica."
-    },
-    "correct": "a",
-    "correct_text": "anemia ferropénica.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "El esfínter que comunica el esófago con el estómago se denomina…",
-    "options": {
-      "a": "píloro.",
-      "b": "cardias.",
-      "c": "páncreas.",
-      "d": "vesícula biliar."
-    },
-    "correct": "b",
-    "correct_text": "cardias.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En el ciclo de Krebs, se realiza la oxidación de las moléculas de acetil-CoA provenientes de…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "monosacáridos.",
-      "c": "disacáridos.",
-      "d": "polisacáridos."
-    },
-    "correct": "b",
-    "correct_text": "monosacáridos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "La absorción de calcio mediante el proceso paracelular, se produce mediante…",
-    "options": {
-      "a": "transporte activo.",
-      "b": "difusión activa.",
-      "c": "difusión pasiva.",
-      "d": "transporte pasivo."
-    },
-    "correct": "c",
-    "correct_text": "difusión pasiva.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "¿A través de que se obtienen bacterias beneficiosas que se obtienen mediante la dieta?",
-    "options": {
-      "a": "alimentos funcionales.",
-      "b": "probióticos.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "prebióticos."
-    },
-    "correct": "b",
-    "correct_text": "probióticos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "Los nutrientes que aportan mayor cantidad de energía al degradarse son…",
-    "options": {
-      "a": "los lípidos.",
-      "b": "los hidratos de carbono.",
-      "c": "las proteínas.",
-      "d": "el agua."
-    },
-    "correct": "a",
-    "correct_text": "los lípidos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "¿Qué parte de la cavidad bucal tiene una importante función digestiva mediante la producción de saliva?",
-    "options": {
-      "a": "las papilas gustativas.",
-      "b": "los dientes.",
-      "c": "los carrillos.",
-      "d": "el paladar duro."
-    },
-    "correct": "a",
-    "correct_text": "las papilas gustativas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  },
-  {
-    "question": "En una situación interdigestiva, la grasa movilizada desde el tejido adiposo, puede llegar a dos destinos, que son…",
-    "options": {
-      "a": "músculos y otros tejidos.",
-      "b": "ambas respuestas son correctas.",
-      "c": "el hígado.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "ambas respuestas son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema3"
-  }
+	{
+		"question": "En los cereales para el desayuno, su composición es…",
+		"options": {
+			"a": "igual de diversa que otros productos.",
+			"b": "nada diversa.",
+			"c": "poco diversa.",
+			"d": "muy diversa."
+		},
+		"correct": "d",
+		"correct_text": "muy diversa.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre las características de los cereales encontramos…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "bajo valor nutricional.",
+			"c": "alto contenido en fibra.",
+			"d": "proteínas de baja calidad."
+		},
+		"correct": "c",
+		"correct_text": "alto contenido en fibra.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se define como la planta herbácea hortícola, en sazón, que se puede utilizar como alimento, ya sea crudo o en cocina, a…",
+		"options": {
+			"a": "los pescados.",
+			"b": "las hortalizas.",
+			"c": "las verduras.",
+			"d": "las legumbres."
+		},
+		"correct": "b",
+		"correct_text": "las hortalizas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En 60 gramos de huevo, podemos encontrar un total de…",
+		"options": {
+			"a": "78 kcal.",
+			"b": "20 kcal.",
+			"c": "50 kcal.",
+			"d": "100 kcal."
+		},
+		"correct": "a",
+		"correct_text": "78 kcal.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En la clasificación de los pescados según su contenido en grasa, diferenciamos…",
+		"options": {
+			"a": "los magros, semigrasos y grasos.",
+			"b": "los de aguas dulces y marinos.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "los planos y redondos."
+		},
+		"correct": "a",
+		"correct_text": "los magros, semigrasos y grasos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La carne, en los pescados alterados es…",
+		"options": {
+			"a": "blanda y flácida.",
+			"b": "abierta y grisácea.",
+			"c": "consistente y firme.",
+			"d": "limpia y brillante."
+		},
+		"correct": "a",
+		"correct_text": "blanda y flácida.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Un huevo fresco debe venderse al consumidor en…",
+		"options": {
+			"a": "los 30 días posteriores a la fecha de puesta.",
+			"b": "los 50 días posteriores a la fecha de puesta.",
+			"c": "los 10 días posteriores a la fecha de puesta.",
+			"d": "los 21 días posteriores a la fecha de puesta."
+		},
+		"correct": "d",
+		"correct_text": "los 21 días posteriores a la fecha de puesta.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La materia prima para la elaboración de la mayoría de los cereales es…",
+		"options": {
+			"a": "harina de trigo.",
+			"b": "harina de macarrones.",
+			"c": "harina de avena.",
+			"d": "harina de arroz."
+		},
+		"correct": "a",
+		"correct_text": "harina de trigo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La definición de cereal es…",
+		"options": {
+			"a": "los frutos maduros, enteros y secos de las plantas.",
+			"b": "un único fruto maduro, entero y mojado de las plantas.",
+			"c": "varios frutos maduros, llenos y mojados de las plantas.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "a",
+		"correct_text": "los frutos maduros, enteros y secos de las plantas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los frutos secos, son aquellos frutos cuya parte comestible…",
+		"options": {
+			"a": "contiene más del 60% de agua.",
+			"b": "contiene menos del 50% de agua.",
+			"c": "contiene más del 50% de agua.",
+			"d": "contiene menos del 90% de agua."
+		},
+		"correct": "b",
+		"correct_text": "contiene menos del 50% de agua.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué código define el alimento como \"todas las sustancias o productos de cualquier naturaleza, sólidos o líquidos, naturales o transformados, que por sus características, aplicaciones, componentes, preparación y estado de conservación\"?",
+		"options": {
+			"a": "el código alimentario francés.",
+			"b": "el código alimentario internacional.",
+			"c": "el código alimentario europeo.",
+			"d": "el código alimentario español."
+		},
+		"correct": "d",
+		"correct_text": "el código alimentario español.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Dentro de los edulcorantes acalóricos naturales más importantes, encontramos a…",
+		"options": {
+			"a": "la soja.",
+			"b": "la stevia.",
+			"c": "el azúcar moreno.",
+			"d": "el azúcar blanco."
+		},
+		"correct": "b",
+		"correct_text": "la stevia.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué tipos de pescados tienen un mayor aporte energético?",
+		"options": {
+			"a": "los pescados azules.",
+			"b": "los crustáceos.",
+			"c": "los pescados blancos.",
+			"d": "los mariscos."
+		},
+		"correct": "a",
+		"correct_text": "los pescados azules.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La nata…",
+		"options": {
+			"a": "es un producto obtenido por coagulación de la leche.",
+			"b": "es un producto graso obtenido a partir de leche de vaca.",
+			"c": "es un producto derivado del suero obtenido al coagular la leche.",
+			"d": "es un producto lácteo rico en grasa, separado de la leche por centrifugación o reposo."
+		},
+		"correct": "d",
+		"correct_text": "es un producto lácteo rico en grasa, separado de la leche por centrifugación o reposo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los derivados de las frutas encontramos…",
+		"options": {
+			"a": "los zumos y néctares.",
+			"b": "las frutas en conserva.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "las frutas desecadas."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Dentro de la clasificación de los huevos, según su estado de conservación y aptitud, encontramos…",
+		"options": {
+			"a": "huevos conservados.",
+			"b": "huevos frescos.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "huevos averiados."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se definen como “aquellos animales vertebrados comestibles marinos o de agua dulce, frescos o conservados”, a…",
+		"options": {
+			"a": "la carne.",
+			"b": "el pescado y marisco.",
+			"c": "el pescado únicamente.",
+			"d": "el marisco únicamente."
+		},
+		"correct": "c",
+		"correct_text": "el pescado únicamente.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las hortalizas y las verduras, junto con las frutas, son las principales fuentes dietéticas de…",
+		"options": {
+			"a": "antioxidantes.",
+			"b": "hidratos de carbono.",
+			"c": "prooxidantes.",
+			"d": "proteínas."
+		},
+		"correct": "a",
+		"correct_text": "antioxidantes.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La leche, desde el punto de vista biológico, se define como…",
+		"options": {
+			"a": "la secreción de las hembras de los mamíferos, cuya misión es satisfacer los requerimientos nutricionales del recién nacido.",
+			"b": "la secreción de los machos de los anfibios, cuya misión es satisfacer los requerimientos nutricionales del recién nacido.",
+			"c": "la secreción de los machos de los mamíferos, cuya misión es satisfacer los requerimientos nutricionales del recién nacido.",
+			"d": "ninguna de las respuestas es correcta."
+		},
+		"correct": "a",
+		"correct_text": "la secreción de las hembras de los mamíferos, cuya misión es satisfacer los requerimientos nutricionales del recién nacido.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los pseudocereales, encontramos…",
+		"options": {
+			"a": "la quinoa.",
+			"b": "el trigo sarraceno.",
+			"c": "la chía.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Según en su contenido de ácidos grasos, los frutos secos se pueden clasificar en…",
+		"options": {
+			"a": "ricos en ácido oleico.",
+			"b": "ricos en ácido proteico.",
+			"c": "bajos en ácido oleico.",
+			"d": "bajos en ácido linoleico."
+		},
+		"correct": "a",
+		"correct_text": "ricos en ácido oleico.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En la clara, su mayor porcentaje es del macronutriente…",
+		"options": {
+			"a": "hidratos de carbono.",
+			"b": "agua.",
+			"c": "lípidos.",
+			"d": "proteína."
+		},
+		"correct": "b",
+		"correct_text": "agua.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre las características nutricionales más importantes de la fruta encontramos…",
+		"options": {
+			"a": "poco aporte de agua.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "alto valor energético.",
+			"d": "aporte de hidratos de carbono principalmente en forma de azúcares simples."
+		},
+		"correct": "d",
+		"correct_text": "aporte de hidratos de carbono principalmente en forma de azúcares simples.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Como definición, la sustancia química capaz de proporcionar sabor dulce a un alimento, es…",
+		"options": {
+			"a": "el azúcar.",
+			"b": "el alcohol.",
+			"c": "el edulcorante.",
+			"d": "el aceite."
+		},
+		"correct": "c",
+		"correct_text": "el edulcorante.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los lípidos, ¿en qué parte del cereal se presentan?",
+		"options": {
+			"a": "en el pericarpio.",
+			"b": "en el germen.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "en el endospermo."
+		},
+		"correct": "b",
+		"correct_text": "en el germen.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Cuál es la disciplina que se encarga del estudio de los alimentos?",
+		"options": {
+			"a": "la nutrición.",
+			"b": "la bromatología.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "la dietética."
+		},
+		"correct": "b",
+		"correct_text": "la bromatología.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se definen como huevos enteros, claras o yemas que han sido transformados mediante un proceso industrial, a los…",
+		"options": {
+			"a": "derivados de los huevos.",
+			"b": "ninguna de las respuestas es correcta.",
+			"c": "ovoproductos.",
+			"d": "ambas respuestas son correctas."
+		},
+		"correct": "c",
+		"correct_text": "ovoproductos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Según el valor nutricional, la caseína extraída de la leche favorece…",
+		"options": {
+			"a": "a la absorción pulmonar del calcio.",
+			"b": "a la absorción intestinal del calcio.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "a la hidratación del calcio."
+		},
+		"correct": "b",
+		"correct_text": "a la absorción intestinal del calcio.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En función a su contenido en nutrientes, podemos diferenciar entre alimentos…",
+		"options": {
+			"a": "las legumbres, verduras, hortalizas y sus derivados.",
+			"b": "los condimentos y las especias.",
+			"c": "la leche, sus derivados y los cereales y sus derivados.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las bebidas energéticas destacan por…",
+		"options": {
+			"a": "poseer altas cantidades de cafeína.",
+			"b": "no tener apenas hidratos.",
+			"c": "llevar alcohol.",
+			"d": "estar adaptadas para reponer las pérdidas de electrolitos y agua."
+		},
+		"correct": "a",
+		"correct_text": "poseer altas cantidades de cafeína.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las bebidas preparadas con agua potable a las que se le añaden ingredientes, es la definición de…",
+		"options": {
+			"a": "bebidas no alcohólicas.",
+			"b": "bebidas refrescantes de extractos.",
+			"c": "bebidas alcohólicas.",
+			"d": "bebidas refrescantes aromatizadas."
+		},
+		"correct": "a",
+		"correct_text": "bebidas no alcohólicas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Según su valor nutricional, el tipo de leche que contiene todos los nutrientes son…",
+		"options": {
+			"a": "la leche entera.",
+			"b": "la leche desnatada.",
+			"c": "la leche semidesnatada.",
+			"d": "la leche semientera."
+		},
+		"correct": "a",
+		"correct_text": "la leche entera.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué tipo de pescados suele contener un menor contenido en proteínas?",
+		"options": {
+			"a": "los de aguas saladas.",
+			"b": "los moluscos.",
+			"c": "los crustáceos.",
+			"d": "los de agua dulce."
+		},
+		"correct": "b",
+		"correct_text": "los moluscos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Aquellas plantas o partes de las mismas, destinadas a la preparación de alimentos y bebidas con el fin de aportar diferentes sabores, olores y colores, son…",
+		"options": {
+			"a": "condimentos.",
+			"b": "edulcorantes.",
+			"c": "especias.",
+			"d": "azúcares."
+		},
+		"correct": "c",
+		"correct_text": "especias.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los mariscos, son ese tipo de pescados protegidos…",
+		"options": {
+			"a": "por otros animales acuáticos.",
+			"b": "por el agua del mar.",
+			"c": "por la sal del mar.",
+			"d": "por su concha dura."
+		},
+		"correct": "d",
+		"correct_text": "por su concha dura.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se define como la parte del huevo que mantiene la integridad física y actúa como barrera, a…",
+		"options": {
+			"a": "la cáscara.",
+			"b": "la clara o albumen.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "la yema."
+		},
+		"correct": "a",
+		"correct_text": "la cáscara.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las legumbres…",
+		"options": {
+			"a": "tienen un alto coste de producción.",
+			"b": "están poco presentes en la dieta mediterránea.",
+			"c": "tienen un excelente valor nutricional.",
+			"d": "son poco importantes como proteína vegetal."
+		},
+		"correct": "c",
+		"correct_text": "tienen un excelente valor nutricional.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los distintos tipos de quesos, los que se pueden distinguir entre curados o madurados, son…",
+		"options": {
+			"a": "los quesos procesados.",
+			"b": "los quesos frescos.",
+			"c": "los quesos afinados.",
+			"d": "los quesos fundidos."
+		},
+		"correct": "c",
+		"correct_text": "los quesos afinados.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre las bebidas alcohólicas podemos diferenciar…",
+		"options": {
+			"a": "bebidas refrescantes de extractos.",
+			"b": "aguas carbonatadas o aromatizadas.",
+			"c": "sidra.",
+			"d": "gaseosas."
+		},
+		"correct": "c",
+		"correct_text": "sidra.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "El requesón, entre sus valores nutricionales, contiene…",
+		"options": {
+			"a": "un alto aporte proteico.",
+			"b": "un menor aporte graso que los quesos.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "una menor cantidad de Calcio que la leche de partida."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se considera como la parte central y anaranjada del huevo a…",
+		"options": {
+			"a": "la yema.",
+			"b": "la clara.",
+			"c": "tiene otro nombre, pero ninguno de los anteriores.",
+			"d": "la cáscara."
+		},
+		"correct": "a",
+		"correct_text": "la yema.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En la estructura de los granos de cereales encontramos…",
+		"options": {
+			"a": "las cubiertas externas y el endocarpio.",
+			"b": "el endocarpio y pericarpio.",
+			"c": "las cubiertas externas e internas.",
+			"d": "las cubiertas externas y el endospermo."
+		},
+		"correct": "d",
+		"correct_text": "las cubiertas externas y el endospermo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La denominación genérica de carne comprende…",
+		"options": {
+			"a": "todas las respuestas son correctas.",
+			"b": "la parte comestible y no comestible de diferentes animales.",
+			"c": "la parte comestible de los músculos de diferentes animales.",
+			"d": "la parte no comestible de las articulaciones de los diferentes animales."
+		},
+		"correct": "c",
+		"correct_text": "la parte comestible de los músculos de diferentes animales.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los tipos de carnes magras, podemos distinguir…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "el cerdo y el cordero.",
+			"c": "la ternera y el pollo.",
+			"d": "el pato y el vacuno."
+		},
+		"correct": "c",
+		"correct_text": "la ternera y el pollo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se definen como productos obtenidos a partir de las semillas y que son aptos para la alimentación humana, a…",
+		"options": {
+			"a": "los derivados de las legumbres.",
+			"b": "las hortalizas.",
+			"c": "las verduras.",
+			"d": "las legumbres."
+		},
+		"correct": "a",
+		"correct_text": "los derivados de las legumbres.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las bebidas espirituosas, son aquellas…",
+		"options": {
+			"a": "cuya fermentación es del mosto de la manzana.",
+			"b": "cuya fermentación es de la uva o de su mosto.",
+			"c": "cuyo alcohol es procedente de líquidos azucarados fermentados.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "c",
+		"correct_text": "cuyo alcohol es procedente de líquidos azucarados fermentados.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Definición: “aquel producto alimenticio preparado total o parcialmente con carnes o despojos de las especies autorizadas en el CAE.”",
+		"options": {
+			"a": "casquería.",
+			"b": "derivado cárnico.",
+			"c": "extracto de carne.",
+			"d": "derivado bovino."
+		},
+		"correct": "b",
+		"correct_text": "derivado cárnico.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los fitoquímicos, tienen…",
+		"options": {
+			"a": "no importan sus propiedades.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "malas propiedades para la salud.",
+			"d": "beneficiosas propiedades para la salud."
+		},
+		"correct": "d",
+		"correct_text": "beneficiosas propiedades para la salud.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Según la clasificación de la leche por el sistema de higienización, se considera leche fresca a…",
+		"options": {
+			"a": "la leche líquida.",
+			"b": "la leche pasteurizada.",
+			"c": "la leche UHT.",
+			"d": "la leche esterilizada."
+		},
+		"correct": "b",
+		"correct_text": "la leche pasteurizada.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los valores nutritivos de los huevos, encontramos…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "son la mejor fuente dietética de colina.",
+			"c": "tienen un elevado nivel de colesterol.",
+			"d": "tienen un buen aporte de vitaminas A, D, E y B12."
+		},
+		"correct": "a",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "El valor nutricional de los distintos tipos de leche depende de…",
+		"options": {
+			"a": "la temperatura de tratamiento.",
+			"b": "la modificación en su estructura.",
+			"c": "la leche de partida.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La carne, es comúnmente consumida por tener un alto contenido en…",
+		"options": {
+			"a": "lípidos.",
+			"b": "proteínas.",
+			"c": "hidratos de carbono.",
+			"d": "agua."
+		},
+		"correct": "b",
+		"correct_text": "proteínas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En los pescados frescos, las escamas…",
+		"options": {
+			"a": "se nota la piel seca sin brillo.",
+			"b": "son claras y sobresalientes.",
+			"c": "son cerradas y rosáceas, con olor a fresco.",
+			"d": "son brillantes y adheridas a la piel."
+		},
+		"correct": "d",
+		"correct_text": "son brillantes y adheridas a la piel.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los productos que se obtienen de la trituración completa de la semilla son…",
+		"options": {
+			"a": "las conservas de legumbres.",
+			"b": "los purés de legumbres.",
+			"c": "las harinas de legumbres.",
+			"d": "las legumbres mondadas."
+		},
+		"correct": "b",
+		"correct_text": "los purés de legumbres.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La carne que tiene un mayor aporte energético es…",
+		"options": {
+			"a": "el cordero.",
+			"b": "la ternera.",
+			"c": "el salchichón.",
+			"d": "el jamón serrano."
+		},
+		"correct": "c",
+		"correct_text": "el salchichón.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué tipos de huevos son los que están considerados como los indicados para el consumo humano?",
+		"options": {
+			"a": "los de categoría C.",
+			"b": "los de categoría D.",
+			"c": "los de categoría A.",
+			"d": "los de categoría B."
+		},
+		"correct": "c",
+		"correct_text": "los de categoría A.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los huevos de otras aves, ¿cómo se designan?",
+		"options": {
+			"a": "no hace falta indicar nada.",
+			"b": "con un nombre en griego.",
+			"c": "con un nombre en romano.",
+			"d": "indicando la especie de donde proceden."
+		},
+		"correct": "d",
+		"correct_text": "indicando la especie de donde proceden.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los diferentes tipos de grasas de origen vegetal, podemos diferenciar entre…",
+		"options": {
+			"a": "ambas respuestas son correctas.",
+			"b": "aceites de frutos.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "aceites de semillas."
+		},
+		"correct": "a",
+		"correct_text": "ambas respuestas son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En la estructura del huevo, esta está compuesta por…",
+		"options": {
+			"a": "4 partes.",
+			"b": "5 partes.",
+			"c": "3 partes.",
+			"d": "2 partes."
+		},
+		"correct": "c",
+		"correct_text": "3 partes.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En los criterios de frescura de los huevos, encontramos que la pérdida de anhídrido carbónico por el transcurso del tiempo, se debe a…",
+		"options": {
+			"a": "un mal estado de la clara.",
+			"b": "al estado de la cáscara.",
+			"c": "un aumento del PH de la clara.",
+			"d": "una disminución del PH de la clara."
+		},
+		"correct": "c",
+		"correct_text": "un aumento del PH de la clara.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "La fibra dietética de las legumbres…",
+		"options": {
+			"a": "es solo de alto contenido soluble.",
+			"b": "es de alto contenido, tanto soluble como insoluble.",
+			"c": "es de bajo contenido soluble.",
+			"d": "es de bajo contenido."
+		},
+		"correct": "b",
+		"correct_text": "es de alto contenido, tanto soluble como insoluble.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los diferentes tipos de aceite de oliva, existen…",
+		"options": {
+			"a": "el aceite de oliva virgen, virgen extra, de oliva y de orujo de oliva.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "el aceite de oliva virgen y virgen extra, únicamente.",
+			"d": "el aceite de orujo de oliva, oliva virgen y oliva virgen extra, únicamente."
+		},
+		"correct": "a",
+		"correct_text": "el aceite de oliva virgen, virgen extra, de oliva y de orujo de oliva.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Dentro de la definición de legumbres, encontramos…",
+		"options": {
+			"a": "que son semillas separadas de la vaina.",
+			"b": "que son semillas sanas.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "que son semillas secas y limpias."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las manzanas y las peras, según su clasificación botánica, se definen como frutas…",
+		"options": {
+			"a": "son pomos.",
+			"b": "son bayas.",
+			"c": "son hesperidios.",
+			"d": "son drupas."
+		},
+		"correct": "a",
+		"correct_text": "son pomos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Desde el punto de vista biológico, el huevo es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "es parte del proceso de reproducción de los animales mamíferos.",
+			"c": "es parte del proceso de reproducción de los animales ovíparos.",
+			"d": "es parte de la alimentación de los animales ovovivíparos."
+		},
+		"correct": "c",
+		"correct_text": "es parte del proceso de reproducción de los animales ovíparos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los diferentes tipos de aceites y grasas, los podemos clasificar en…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "grasas de origen animal, vegetal y artificiales.",
+			"c": "grasas de origen herbáceo.",
+			"d": "grasas de origen terrestre."
+		},
+		"correct": "b",
+		"correct_text": "grasas de origen animal, vegetal y artificiales.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre la clasificación de las frutas, por su naturaleza, podemos diferenciar…",
+		"options": {
+			"a": "secas.",
+			"b": "carnosas.",
+			"c": "oleaginosas.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "gtodas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué tipo de cereales son ricos en azúcares simples y grasa?",
+		"options": {
+			"a": "los cereales para el desayuno.",
+			"b": "las galletas y bizcochos.",
+			"c": "las pastas alimenticias.",
+			"d": "el pan."
+		},
+		"correct": "b",
+		"correct_text": "las galletas y bizcochos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "En cuanto al valor nutricional de los cereales, contienen una cantidad de hidratos de carbono…",
+		"options": {
+			"a": "entre el 30 y 40 por ciento.",
+			"b": "entre el 70 y 75 por ciento.",
+			"c": "entre el 60 y 70 por ciento.",
+			"d": "entre el 20 y 30 por ciento."
+		},
+		"correct": "b",
+		"correct_text": "entre el 70 y 75 por ciento.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2"
+	},
+	{
+		"question": "El valor nutricional de los derivados cárnicos, dependerá sobretodo de factores, tales como…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "los ingredientes añadidos.",
+			"c": "su proceso de elaboración.",
+			"d": "la carne usada como materia prima."
+		},
+		"correct": "a",
+		"correct_text": "todas las respuestas anteriores son correctas",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	},
+	{
+		"question": "En la estructura de huevo, está compuesta por…",
+		"options": {
+			"a": "4 partes.",
+			"b": "5 partes.",
+			"c": "3 partes.",
+			"d": "2 partes."
+		},
+		"correct": "c",
+		"correct_text": "3 partes",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	},
+
+	{
+		"question": "El aceite de orujo de oliva, es una mezcla de…",
+		"options": {
+			"a": "aceite de oliva sin refinar.",
+			"b": "aceite de orujo, refinado con aceite de oliva virgen.",
+			"c": "aceite de orujo, refinado con vinagre.",
+			"d": "aceite de oliva, refinado con agua."
+		},
+		"correct": "b",
+		"correct_text": "aceite de orujo, refinado con aceite de oliva virgen",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	},
+	{
+		"question": "¿Cuál es la forma más común de comerciar con la carne?",
+		"options": {
+			"a": "a través del boca a boca.",
+			"b": "a través del mercado negro.",
+			"c": "a través de la canal.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "c",
+		"correct_text": "a través de la canal",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	},
+	{
+		"question": "Entre las vitaminas que destacan en la leche, encontramos…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "la vitamina C.",
+			"c": "la vitamina E.",
+			"d": "la vitamina K."
+		},
+		"correct": "b",
+		"correct_text": "la vitamina C",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	},
+	{
+		"question": "Los pescados, son una buena fuente de vitaminas…",
+		"options": {
+			"a": "del complejo C.",
+			"b": "del complejo B.",
+			"c": "del complejo K.",
+			"d": "del complejo A."
+		},
+		"correct": "b",
+		"correct_text": "del complejo B",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	},
+	{
+		"question": "El aporte energético de las hortalizas y las verduras es…",
+		"options": {
+			"a": "Alto.",
+			"b": "Muy Alto.",
+			"c": "Bajo.",
+			"d": "Medio."
+		},
+		"correct": "c",
+		"correct_text": "Bajo",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	},
+	{
+		"question": "Los cereales integrales son una buena fuente de…",
+		"options": {
+			"a": "lípidos.",
+			"b": "fibra insoluble.",
+			"c": "agua.",
+			"d": "minerales."
+		},
+		"correct": "b",
+		"correct_text": "fibra insoluble",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3"
+	}
 ]

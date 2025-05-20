@@ -1,938 +1,977 @@
 [
-  {
-    "question": "El método electroquímico que mide la diferencia de potenciales en una disolución es…",
-    "options": {
-      "a": "la potenciometría.",
-      "b": "la polarometría.",
-      "c": "la refractometría.",
-      "d": "la electroforesis."
-    },
-    "correct": "a",
-    "correct_text": "la potenciometría.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Qué se utiliza como indicador de alteración o estabilidad de los alimentos y la contaminación de los microorganismos?",
-    "options": {
-      "a": "el pH.",
-      "b": "el CH.",
-      "c": "el HC.",
-      "d": "el WC."
-    },
-    "correct": "a",
-    "correct_text": "el pH.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Entre los métodos y técnicas empleadas en el control microbiológico, podemos encontrarnos…",
-    "options": {
-      "a": "las técnicas de conteo.",
-      "b": "la toma de diluciones.",
-      "c": "la preparación de muestras.",
-      "d": "los métodos de cultivo."
-    },
-    "correct": "a",
-    "correct_text": "las técnicas de conteo.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Cómo se denomina a la muestra de concentración conocida realizada para el análisis de muestras?",
-    "options": {
-      "a": "última dilución.",
-      "b": "dilución madre.",
-      "c": "dilución final.",
-      "d": "primera dilución."
-    },
-    "correct": "b",
-    "correct_text": "dilución madre.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En los alimentos elaborados, entre las diferentes inspecciones generales, comprenden…",
-    "options": {
-      "a": "el control del etiquetado.",
-      "b": "el adecuado muestreo del producto.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "comprobar la calidad de las materias primas."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La saponificación permite la formación de…",
-    "options": {
-      "a": "azúcares caseros.",
-      "b": "jabones.",
-      "c": "geles caseros.",
-      "d": "sales minerales."
-    },
-    "correct": "b",
-    "correct_text": "jabones.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Los métodos químicos, en la determinación básica de la composición de los alimentos, se suele utilizar…",
-    "options": {
-      "a": "con alimentos bajos en grasas.",
-      "b": "con alimentos bajos en agua.",
-      "c": "con alimentos bajos en proteínas.",
-      "d": "con alimentos altos en agua."
-    },
-    "correct": "b",
-    "correct_text": "con alimentos bajos en agua.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Entre las determinaciones de componentes propios relacionados con la calidad de las grasas, nos encontramos con…",
-    "options": {
-      "a": "el índice de saponificación.",
-      "b": "el índice de lípidos.",
-      "c": "el índice de igualación.",
-      "d": "el índice de nitrógeno."
-    },
-    "correct": "a",
-    "correct_text": "el índice de saponificación.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En el caso de una superficie, para la posterior siembra en placa, se pueden utilizar…",
-    "options": {
-      "a": "los palillos de los oídos.",
-      "b": "cualquier recipiente u objeto.",
-      "c": "los hisopos.",
-      "d": "objetos de cristal."
-    },
-    "correct": "c",
-    "correct_text": "los hisopos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Para poder comercializar productos bajo un sello de calidad, las empresas en la actualidad utilizan…",
-    "options": {
-      "a": "el Índice de Warner Bratzler.",
-      "b": "un Índice cualquiera.",
-      "c": "la Denominación de Origen poco Protegida.",
-      "d": "la Denominación de Origen Protegida."
-    },
-    "correct": "d",
-    "correct_text": "la Denominación de Origen Protegida.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Qué término indica que un producto consumido de forma esporádica o habitual no es susceptible de ocasionar trastornos en el consumidor?",
-    "options": {
-      "a": "inocuo.",
-      "b": "higienización.",
-      "c": "cualquiera de las respuestas anteriores es correcta.",
-      "d": "salubridad."
-    },
-    "correct": "a",
-    "correct_text": "inocuo.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La técnica donde “participan un gran número de personas no entrenadas en las técnicas de evaluación y se escogen entre la población general” es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "paneles de catadores.",
-      "c": "técnicas instrumentales.",
-      "d": "estudios de degustación o de mercado."
-    },
-    "correct": "d",
-    "correct_text": "estudios de degustación o de mercado.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En el método Dumas se realiza una combustión de la muestra, a una temperatura de…",
-    "options": {
-      "a": "entre 300 y 400 grados.",
-      "b": "entre 700 y 800 grados.",
-      "c": "entre 1000 y 2000 grados.",
-      "d": "entre 600 y 700 grados."
-    },
-    "correct": "b",
-    "correct_text": "entre 700 y 800 grados.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Entre los diferentes procedimientos de valoración de las características de un producto, podemos encontrarnos con…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "los análisis microbiológicos.",
-      "c": "los análisis físico-químicos.",
-      "d": "las evaluaciones organolépticas."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Un medio de cultivo, está conformado por…",
-    "options": {
-      "a": "un conjunto de sustancias nutritivas que facilitan el crecimiento de microorganismos.",
-      "b": "un conjunto de sustancias nutritivas que facilitan el crecimiento de enzimas.",
-      "c": "un conjunto de sales minerales que facilitan el crecimiento de microorganismos.",
-      "d": "un conjunto de sustancias poco nutritivas que facilitan el crecimiento de microorganismos."
-    },
-    "correct": "a",
-    "correct_text": "un conjunto de sustancias nutritivas que facilitan el crecimiento de microorganismos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El control de calidad físico-química comprende…",
-    "options": {
-      "a": "tanto inspecciones visuales como determinaciones analíticas.",
-      "b": "solo inspecciones visuales.",
-      "c": "otro tipo de inspecciones, como las gustativas.",
-      "d": "una inspección que nada tiene que ver con lo visual."
-    },
-    "correct": "a",
-    "correct_text": "tanto inspecciones visuales como determinaciones analíticas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿De qué dependen los componentes subjetivos para evaluar la calidad del alimento?",
-    "options": {
-      "a": "de si ese alimento le gusta o no a una persona.",
-      "b": "de la apreciación del consumidor.",
-      "c": "de las necesidades del consumidor.",
-      "d": "de si ese alimento produce intolerancias hacia un grupos de personas."
-    },
-    "correct": "b",
-    "correct_text": "de la apreciación del consumidor.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Qué método para determinar el contenido de agua se basa en el cálculo del porcentaje de agua por la pérdida de peso debido a su eliminación?",
-    "options": {
-      "a": "el método de secado.",
-      "b": "el método del vacío.",
-      "c": "el método de liquidez.",
-      "d": "el método de semisecado."
-    },
-    "correct": "a",
-    "correct_text": "el método de secado.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La presencia de microorganismos en un alimento puede deberse a…",
-    "options": {
-      "a": "una inadecuada manipulación higiénica.",
-      "b": "el carácter físico-químico del propio alimento.",
-      "c": "los tratamientos de higienización y conservación.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El método que se basa en “que cuando un haz de luz pasa de un medio a otro con densidades distintas, el haz de luz se desvía o se refracta, obteniéndose un índice de refracción” es…",
-    "options": {
-      "a": "el método eléctrico.",
-      "b": "el refractómetro.",
-      "c": "el método electrónico.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "el refractómetro.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Entre los métodos rápidos de control de calidad microbiológico, la técnica más empleada es…",
-    "options": {
-      "a": "la técnica inmunológica ELSA.",
-      "b": "la técnica inmunológica ALSA.",
-      "c": "la técnica inmunológica ELISA.",
-      "d": "la técnica inmunosupresora ELSA."
-    },
-    "correct": "c",
-    "correct_text": "la técnica inmunológica ELISA.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En las frutas, la inspección visual comprende…",
-    "options": {
-      "a": "la edad, la coloración y las deformaciones, entre otros.",
-      "b": "el porcentaje de rotos o el índice de líquido que incluyen.",
-      "c": "el ph, el aspecto o las grietas en las mismas.",
-      "d": "la madurez y la presencia de almidón."
-    },
-    "correct": "d",
-    "correct_text": "la madurez y la presencia de almidón.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La cromatografía se basa en el principio de…",
-    "options": {
-      "a": "retención selectiva.",
-      "b": "iniciación selectiva.",
-      "c": "protección selectiva.",
-      "d": "indicación selectiva."
-    },
-    "correct": "a",
-    "correct_text": "retención selectiva.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En el método directo para la extracción de grasa bruta, cuando el disolvente se evapora, se determina la cantidad de grasa a través de…",
-    "options": {
-      "a": "el método indirecto.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "el método gravimétrico.",
-      "d": "la gravimetría."
-    },
-    "correct": "d",
-    "correct_text": "la gravimetría.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La determinación de las características organolépticas tiene una gran importancia en la industria alimentaria porque…",
-    "options": {
-      "a": "sirve para conocer el sabor concreto de un producto.",
-      "b": "solo sirve para clasificar un producto.",
-      "c": "sirve para conocer cómo se va a vender ese producto concreto.",
-      "d": "se necesita clasificar y asegurar el nivel de calidad de los productos."
-    },
-    "correct": "d",
-    "correct_text": "se necesita clasificar y asegurar el nivel de calidad de los productos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Se define como “el proceso que consiste en cuantificar el número de bacterias vivas o el número de unidades formadoras de colonias en una cantidad determinada de alimentos”, es…",
-    "options": {
-      "a": "contador de microorganismos.",
-      "b": "contador de enzimas.",
-      "c": "recuento de microorganismos.",
-      "d": "recuento de bacterias."
-    },
-    "correct": "c",
-    "correct_text": "recuento de microorganismos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El valor nutritivo de un alimento está determinado por…",
-    "options": {
-      "a": "su composición.",
-      "b": "su peso en kg.",
-      "c": "la cantidad que las personas somos capaces de comer de ese alimento.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "a",
-    "correct_text": "su composición.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Los componentes más habituales resultantes de la alteración de los lípidos son…:",
-    "options": {
-      "a": "los compuestos de peroxidación e isomerización.",
-      "b": "los compuestas apolares.",
-      "c": "los ácidos grasos terminados.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "a",
-    "correct_text": "los compuestos de peroxidación e isomerización.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Se entiende por calidad…",
-    "options": {
-      "a": "a los atributos o funciones, únicamente que ofrece un producto o servicio.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "al conjunto de características, atributos o funciones que ofrece un producto o servicio.",
-      "d": "al conjunto únicamente de características que ofrece un producto o servicio."
-    },
-    "correct": "c",
-    "correct_text": "al conjunto de características, atributos o funciones que ofrece un producto o servicio.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En el sistema de calidad de las técnicas instrumentales básicas, es importante…",
-    "options": {
-      "a": "la protección de los equipos de medición.",
-      "b": "la adquisición de los equipos de medición.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "la gestión y el control de los equipos de medición."
-    },
-    "correct": "d",
-    "correct_text": "la gestión y el control de los equipos de medición.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El método que se caracteriza por la eliminación por medio de reactivos químicos de los distintos componentes de los alimentos, es…",
-    "options": {
-      "a": "el método químico.",
-      "b": "el método enzimático.",
-      "c": "el método glicólico.",
-      "d": "el método total."
-    },
-    "correct": "a",
-    "correct_text": "el método químico.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Las propiedades de un alimento se comparan con…",
-    "options": {
-      "a": "si su sabor es el adecuado para el producto en concreto.",
-      "b": "si se vende bien ese producto en concreto en diferentes supermercados.",
-      "c": "los gustos de un grupo determinado de consumidores.",
-      "d": "las características exigidas por la reglamentación alimentaria."
-    },
-    "correct": "d",
-    "correct_text": "las características exigidas por la reglamentación alimentaria.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El método Dye-Binding se basa en la utilización de…",
-    "options": {
-      "a": "colorantes que se fijan sobre los lípidos.",
-      "b": "enzimas que se fijan sobre las proteínas.",
-      "c": "sales minerales que se fijan sobre las proteínas.",
-      "d": "colorantes que se fijan sobre las proteínas."
-    },
-    "correct": "d",
-    "correct_text": "colorantes que se fijan sobre las proteínas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Qué método mide el volumen de agua liberada por una muestra?",
-    "options": {
-      "a": "el método de las lámparas infrarrojas.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "las estufas de desecación.",
-      "d": "el método de destilación."
-    },
-    "correct": "d",
-    "correct_text": "el método de destilación.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La humedad en los productos líquidos y en las leches condensadas se puede determinar con el uso…",
-    "options": {
-      "a": "de un medio electrónico.",
-      "b": "de un medio digital.",
-      "c": "el refractómetro.",
-      "d": "de un medio artesanal."
-    },
-    "correct": "c",
-    "correct_text": "el refractómetro.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El método Kjeldahl, se resume en las etapas de…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "adición de hidróxido sódico.",
-      "c": "valoración del amoniaco destilado en ácido bárico.",
-      "d": "digestión de la muestra con ácido sulfúrico concentrado."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En las propiedades funcionales y de estabilidad, están relacionadas…",
-    "options": {
-      "a": "los aspectos del deterioro del alimento en su consumo.",
-      "b": "los grandes aspectos de un alimento en su procesamiento.",
-      "c": "los aspectos de deterioro del alimento en su procesamiento.",
-      "d": "los aspectos de aumento del alimento en su procesamiento."
-    },
-    "correct": "c",
-    "correct_text": "los aspectos de deterioro del alimento en su procesamiento.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El análisis cuantitativo de la grasa bruta se basa en…",
-    "options": {
-      "a": "la extracción de la fracción acuosa del producto.",
-      "b": "la extracción de la fracción proteica del producto.",
-      "c": "la inserción de la fracción lipídica en el producto.",
-      "d": "la extracción de la fracción lipídica del producto."
-    },
-    "correct": "d",
-    "correct_text": "la extracción de la fracción lipídica del producto.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El contenido en cenizas representa el contenido total en…",
-    "options": {
-      "a": "en proteínas.",
-      "b": "en minerales.",
-      "c": "en grasa bruta.",
-      "d": "acciones enzimáticas."
-    },
-    "correct": "b",
-    "correct_text": "en minerales.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Para asegurar la calidad de los productos, los operadores de la industria alimentaria necesitan…",
-    "options": {
-      "a": "adquirir materia prima sin antes consultar sus especificaciones.",
-      "b": "adquirir materias primas con unas especificaciones de calidad adecuadas.",
-      "c": "adquirir comida adecuada.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "adquirir materias primas con unas especificaciones de calidad adecuadas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Se definen como “aquellas características apreciables a través de los sentidos”...",
-    "options": {
-      "a": "propiedades organolépticas.",
-      "b": "criterios de calidad.",
-      "c": "propiedades nutricionales.",
-      "d": "propiedades funcionales y de estabilidad."
-    },
-    "correct": "a",
-    "correct_text": "propiedades organolépticas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Qué se utiliza generalmente para poder medir las propiedades organolépticas de un alimento?",
-    "options": {
-      "a": "cualquier persona vale.",
-      "b": "paneles de personas.",
-      "c": "degustadores de alta cocina.",
-      "d": "paneles de catadores."
-    },
-    "correct": "d",
-    "correct_text": "paneles de catadores.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Cómo se debe realizar la toma de muestras en el control de calidad microbiológico?",
-    "options": {
-      "a": "sin el uso de recipientes estériles.",
-      "b": "sin ningún tipo de protección.",
-      "c": "de forma aséptica y utilizando recipientes estériles.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "de forma aséptica y utilizando recipientes estériles.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Por qué es difícil para los consumidores y las propias empresas conocer la aptitud adecuada de los alimentos?",
-    "options": {
-      "a": "porque son productos muy complejos.",
-      "b": "porque cada vez existen más empresas.",
-      "c": "por la gran evolución que ha sufrido la industria alimentaria.",
-      "d": "porque se dan pocos datos acerca de los alimentos."
-    },
-    "correct": "c",
-    "correct_text": "por la gran evolución que ha sufrido la industria alimentaria.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Entre los diferentes equipos más utilizados en las técnicas instrumentales para un control de calidad organoléptica, encontramos…",
-    "options": {
-      "a": "la nariz electrónica.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "los colorímetros.",
-      "d": "la Cizalla de Warner Bratzler."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Las especificaciones de calidad o especificaciones de compra se detallan…",
-    "options": {
-      "a": "en la parte superior de los productos.",
-      "b": "en un pliego de preinscripciones.",
-      "c": "en la página web de la empresa.",
-      "d": "en el reverso de los productos."
-    },
-    "correct": "b",
-    "correct_text": "en un pliego de preinscripciones.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El carácter de las propiedades nutricionales es…",
-    "options": {
-      "a": "subjetivo a cada uno.",
-      "b": "indiferente para todas las personas.",
-      "c": "individual a cada uno.",
-      "d": "objetivo a todos."
-    },
-    "correct": "d",
-    "correct_text": "objetivo a todos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Los resultados de la determinación básica de la composición del agua se suele expresar como…",
-    "options": {
-      "a": "humedad, sólidos totales y agua.",
-      "b": "humedad y sólidos totales.",
-      "c": "humedad.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "a",
-    "correct_text": "humedad, sólidos totales y agua.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En general, se consideran dentro de las propiedades funcionales y de estabilidad…",
-    "options": {
-      "a": "todas aquellas propiedades no nutricionales que influyen en el carácter sensorial del alimento.",
-      "b": "todas aquellas reglas nutricionales de los alimentos.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "todas aquellas propiedades nutricionales de los alimentos."
-    },
-    "correct": "a",
-    "correct_text": "todas aquellas propiedades no nutricionales que influyen en el carácter sensorial del alimento.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Las características de las especificaciones de calidad deben estar basadas en…",
-    "options": {
-      "a": "la legislación del país.",
-      "b": "ningún tipo de legislación.",
-      "c": "la legislación comunitaria.",
-      "d": "la legislación alimentaria."
-    },
-    "correct": "d",
-    "correct_text": "la legislación alimentaria.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El medio de cultivo definido como “llevan en su composición alguna sustancia que permite seleccionar los microorganismos que pueden crecer” es…",
-    "options": {
-      "a": "el medio selectivo.",
-      "b": "el medio de cultivo anaerobio.",
-      "c": "el medio diferencial.",
-      "d": "el medio de enriquecimiento."
-    },
-    "correct": "a",
-    "correct_text": "el medio selectivo.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Qué entidad es la encargada de acreditar la calidad de los productos…",
-    "options": {
-      "a": "el Ministerio de Consumo.",
-      "b": "la Entidad Nacional de Acreditación.",
-      "c": "la Agencia Estatal de Consumo.",
-      "d": "la Entidad Provincial de Acreditación."
-    },
-    "correct": "b",
-    "correct_text": "la Entidad Nacional de Acreditación.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El método de extracción caracterizado por realizarse con un disolvente apolar en continuo, es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "la extracción líquido-líquido.",
-      "c": "la extracción líquida-sólida.",
-      "d": "la extracción sólida-sólida."
-    },
-    "correct": "b",
-    "correct_text": "la extracción líquido-líquido.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Entre los equipos de medida directa, podemos encontrarnos con…",
-    "options": {
-      "a": "balanza analítica y medidor de radiación.",
-      "b": "todas las respuestas anteirores son correctas.",
-      "c": "espectofotómetro.",
-      "d": "polarógrafo y cromatógrafo."
-    },
-    "correct": "a",
-    "correct_text": "balanza analítica y medidor de radiación.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En los huevos, la inspección visual comprende…",
-    "options": {
-      "a": "el pH y el nitrógeno volátil.",
-      "b": "el porcentaje de rotos e índice de líquido que incluye.",
-      "c": "su aspecto, las grietas que existan o la cámara de aire, entre otros.",
-      "d": "la edad, la coloración, las deformaciones o su engrosamiento."
-    },
-    "correct": "c",
-    "correct_text": "su aspecto, las grietas que existan o la cámara de aire, entre otros.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Se definen como “aquello en lo cual está basada en la normativa vigente y se sitúan los requerimientos de la empresa o instituciones” a…",
-    "options": {
-      "a": "las especificaciones de cantidad.",
-      "b": "la especificación de los requerimientos energéticos.",
-      "c": "las especificaciones de calidad.",
-      "d": "la especificación del producto."
-    },
-    "correct": "c",
-    "correct_text": "las especificaciones de calidad.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Los principales componentes de los alimentos son…",
-    "options": {
-      "a": "el agua, la fibra bruta, las cenizas totales y el nitrógeno.",
-      "b": "el agua, las cenizas totales, la proteína pura y la fibra bruta.",
-      "c": "el agua, las cenizas totales, la fibra bruta, el nitrógeno y la proteína pura.",
-      "d": "el agua y las cenizas totales, únicamente."
-    },
-    "correct": "c",
-    "correct_text": "el agua, las cenizas totales, la fibra bruta, el nitrógeno y la proteína pura.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Cada equipo de medición debe contar con una identificación que en general consta de…",
-    "options": {
-      "a": "un código.",
-      "b": "un número de serie y una fecha de alta.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "una denominación de equipo."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La realización de las determinaciones en la composición de los alimentos es básica para…",
-    "options": {
-      "a": "conocer un poco más sobre los distintos tipos de alimentos.",
-      "b": "conocer con exactitud el contenido de los distintos macro y micronutrientes.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "conocer a medida los alimentos."
-    },
-    "correct": "b",
-    "correct_text": "conocer con exactitud el contenido de los distintos macro y micronutrientes.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "¿Qué método óptico se basa en la medida comparativa de intensidades luminosas mediante la acentuación de uno de los rayos o su transformación en energía eléctrica?",
-    "options": {
-      "a": "la fluormetría.",
-      "b": "la polarometría.",
-      "c": "la nanometría.",
-      "d": "la fotometría."
-    },
-    "correct": "d",
-    "correct_text": "la fotometría.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El método de referencia para calcular la proteína pura es…",
-    "options": {
-      "a": "el Método destilado.",
-      "b": "el Método sulfúrico.",
-      "c": "el Método Hammer.",
-      "d": "el Método Kjeldahl."
-    },
-    "correct": "d",
-    "correct_text": "el Método Kjeldahl.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La peroxidasa, es más conocida comúnmente como…",
-    "options": {
-      "a": "bicarbonato sódico.",
-      "b": "agua oxigenada.",
-      "c": "lejía.",
-      "d": "cloro."
-    },
-    "correct": "b",
-    "correct_text": "agua oxigenada.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El metanol es un reactivo deshidratante, por lo que la reacción debe protegerse…",
-    "options": {
-      "a": "frente al calor.",
-      "b": "frente a la humedad del aire.",
-      "c": "frente al frío.",
-      "d": "frente al aire."
-    },
-    "correct": "b",
-    "correct_text": "frente a la humedad del aire.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Los paneles de catadores están conformados por…",
-    "options": {
-      "a": "personas entrenadas y seleccionadas por su agudeza sensorial.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "personas cualquiera entre un público.",
-      "d": "expertos en gastronomía."
-    },
-    "correct": "a",
-    "correct_text": "personas entrenadas y seleccionadas por su agudeza sensorial.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Cuando un producto es originario de un lugar determinado, cuya calidad o características se deben fundamental o exclusivamente a un medio geográfico particular, se obtiene…",
-    "options": {
-      "a": "la Denominación de Origen Protegida.",
-      "b": "la Indicación Geográfica Protegida.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "la Denominación Provincial de Origen."
-    },
-    "correct": "a",
-    "correct_text": "la Denominación de Origen Protegida.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En la leche, la fosfatasa alcalina se inactiva progresivamente a temperaturas superiores a…",
-    "options": {
-      "a": "80 grados.",
-      "b": "30 grados.",
-      "c": "50 grados.",
-      "d": "60 grados."
-    },
-    "correct": "d",
-    "correct_text": "60 grados.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El residuo inorgánico que queda después de calcinar la materia orgánica es…",
-    "options": {
-      "a": "la proteína bruta.",
-      "b": "la fibra bruta.",
-      "c": "el nitrógeno.",
-      "d": "las cenizas."
-    },
-    "correct": "d",
-    "correct_text": "las cenizas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Las pruebas bioquímicas de caracterización pueden basarse en…",
-    "options": {
-      "a": "análisis proteicos.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "análisis grasos o enzimáticos.",
-      "d": "análisis glucídicos."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "Entre las técnicas de secado de los alimentos, podemos encontrarnos con…",
-    "options": {
-      "a": "estufas de sustancia inerte.",
-      "b": "con lámparas de suprarrojos.",
-      "c": "por desecación de sustancia inerte.",
-      "d": "por corriente de aire frío."
-    },
-    "correct": "c",
-    "correct_text": "por desecación de sustancia inerte.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "El polisacárido que se obtiene a partir de algas y que se utiliza como agente gelificante, es…",
-    "options": {
-      "a": "el algar.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "el agar.",
-      "d": "la algarosa."
-    },
-    "correct": "c",
-    "correct_text": "el agar.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "En los productos perecederos, ¿qué tipos de inspecciones se realizan?",
-    "options": {
-      "a": "inspecciones en la variedad o en la especie.",
-      "b": "inspecciones en la coloración o la homogeneidad.",
-      "c": "inspecciones sobre si existen defectos en la piel del producto.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  },
-  {
-    "question": "La fibra alimentaria, comprende…",
-    "options": {
-      "a": "el almidón resistente.",
-      "b": "los residuos no específicos.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "los polisacáridos no amiláceos."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema2"
-  }
+	{
+		"question": "El método electroquímico que mide la diferencia de potenciales en una disolución es…",
+		"options": {
+			"a": "la potenciometría.",
+			"b": "la polarometría.",
+			"c": "la refractometría.",
+			"d": "la electroforesis."
+		},
+		"correct": "a",
+		"correct_text": "la potenciometría.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué se utiliza como indicador de alteración o estabilidad de los alimentos y la contaminación de los microorganismos?",
+		"options": {
+			"a": "el pH.",
+			"b": "el CH.",
+			"c": "el HC.",
+			"d": "el WC."
+		},
+		"correct": "a",
+		"correct_text": "el pH.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los métodos y técnicas empleadas en el control microbiológico, podemos encontrarnos…",
+		"options": {
+			"a": "las técnicas de conteo.",
+			"b": "la toma de diluciones.",
+			"c": "la preparación de muestras.",
+			"d": "los métodos de cultivo."
+		},
+		"correct": "a",
+		"correct_text": "las técnicas de conteo.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Cómo se denomina a la muestra de concentración conocida realizada para el análisis de muestras?",
+		"options": {
+			"a": "última dilución.",
+			"b": "dilución madre.",
+			"c": "dilución final.",
+			"d": "primera dilución."
+		},
+		"correct": "b",
+		"correct_text": "dilución madre.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En los alimentos elaborados, entre las diferentes inspecciones generales, comprenden…",
+		"options": {
+			"a": "el control del etiquetado.",
+			"b": "el adecuado muestreo del producto.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "comprobar la calidad de las materias primas."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La saponificación permite la formación de…",
+		"options": {
+			"a": "azúcares caseros.",
+			"b": "jabones.",
+			"c": "geles caseros.",
+			"d": "sales minerales."
+		},
+		"correct": "b",
+		"correct_text": "jabones.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los métodos químicos, en la determinación básica de la composición de los alimentos, se suele utilizar…",
+		"options": {
+			"a": "con alimentos bajos en grasas.",
+			"b": "con alimentos bajos en agua.",
+			"c": "con alimentos bajos en proteínas.",
+			"d": "con alimentos altos en agua."
+		},
+		"correct": "b",
+		"correct_text": "con alimentos bajos en agua.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre las determinaciones de componentes propios relacionados con la calidad de las grasas, nos encontramos con…",
+		"options": {
+			"a": "el índice de saponificación.",
+			"b": "el índice de lípidos.",
+			"c": "el índice de igualación.",
+			"d": "el índice de nitrógeno."
+		},
+		"correct": "a",
+		"correct_text": "el índice de saponificación.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En el caso de una superficie, para la posterior siembra en placa, se pueden utilizar…",
+		"options": {
+			"a": "los palillos de los oídos.",
+			"b": "cualquier recipiente u objeto.",
+			"c": "los hisopos.",
+			"d": "objetos de cristal."
+		},
+		"correct": "c",
+		"correct_text": "los hisopos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Para poder comercializar productos bajo un sello de calidad, las empresas en la actualidad utilizan…",
+		"options": {
+			"a": "el Índice de Warner Bratzler.",
+			"b": "un Índice cualquiera.",
+			"c": "la Denominación de Origen poco Protegida.",
+			"d": "la Denominación de Origen Protegida."
+		},
+		"correct": "d",
+		"correct_text": "la Denominación de Origen Protegida.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué término indica que un producto consumido de forma esporádica o habitual no es susceptible de ocasionar trastornos en el consumidor?",
+		"options": {
+			"a": "inocuo.",
+			"b": "higienización.",
+			"c": "cualquiera de las respuestas anteriores es correcta.",
+			"d": "salubridad."
+		},
+		"correct": "a",
+		"correct_text": "inocuo.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La técnica donde “participan un gran número de personas no entrenadas en las técnicas de evaluación y se escogen entre la población general” es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "paneles de catadores.",
+			"c": "técnicas instrumentales.",
+			"d": "estudios de degustación o de mercado."
+		},
+		"correct": "d",
+		"correct_text": "estudios de degustación o de mercado.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En el método Dumas se realiza una combustión de la muestra, a una temperatura de…",
+		"options": {
+			"a": "entre 300 y 400 grados.",
+			"b": "entre 700 y 800 grados.",
+			"c": "entre 1000 y 2000 grados.",
+			"d": "entre 600 y 700 grados."
+		},
+		"correct": "b",
+		"correct_text": "entre 700 y 800 grados.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los diferentes procedimientos de valoración de las características de un producto, podemos encontrarnos con…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "los análisis microbiológicos.",
+			"c": "los análisis físico-químicos.",
+			"d": "las evaluaciones organolépticas."
+		},
+		"correct": "a",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Un medio de cultivo, está conformado por…",
+		"options": {
+			"a": "un conjunto de sustancias nutritivas que facilitan el crecimiento de microorganismos.",
+			"b": "un conjunto de sustancias nutritivas que facilitan el crecimiento de enzimas.",
+			"c": "un conjunto de sales minerales que facilitan el crecimiento de microorganismos.",
+			"d": "un conjunto de sustancias poco nutritivas que facilitan el crecimiento de microorganismos."
+		},
+		"correct": "a",
+		"correct_text": "un conjunto de sustancias nutritivas que facilitan el crecimiento de microorganismos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El control de calidad físico-química comprende…",
+		"options": {
+			"a": "tanto inspecciones visuales como determinaciones analíticas.",
+			"b": "solo inspecciones visuales.",
+			"c": "otro tipo de inspecciones, como las gustativas.",
+			"d": "una inspección que nada tiene que ver con lo visual."
+		},
+		"correct": "a",
+		"correct_text": "tanto inspecciones visuales como determinaciones analíticas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿De qué dependen los componentes subjetivos para evaluar la calidad del alimento?",
+		"options": {
+			"a": "de si ese alimento le gusta o no a una persona.",
+			"b": "de la apreciación del consumidor.",
+			"c": "de las necesidades del consumidor.",
+			"d": "de si ese alimento produce intolerancias hacia un grupos de personas."
+		},
+		"correct": "b",
+		"correct_text": "de la apreciación del consumidor.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué método para determinar el contenido de agua se basa en el cálculo del porcentaje de agua por la pérdida de peso debido a su eliminación?",
+		"options": {
+			"a": "el método de secado.",
+			"b": "el método del vacío.",
+			"c": "el método de liquidez.",
+			"d": "el método de semisecado."
+		},
+		"correct": "a",
+		"correct_text": "el método de secado.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La presencia de microorganismos en un alimento puede deberse a…",
+		"options": {
+			"a": "una inadecuada manipulación higiénica.",
+			"b": "el carácter físico-químico del propio alimento.",
+			"c": "los tratamientos de higienización y conservación.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El método que se basa en “que cuando un haz de luz pasa de un medio a otro con densidades distintas, el haz de luz se desvía o se refracta, obteniéndose un índice de refracción” es…",
+		"options": {
+			"a": "el método eléctrico.",
+			"b": "el refractómetro.",
+			"c": "el método electrónico.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "b",
+		"correct_text": "el refractómetro.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los métodos rápidos de control de calidad microbiológico, la técnica más empleada es…",
+		"options": {
+			"a": "la técnica inmunológica ELSA.",
+			"b": "la técnica inmunológica ALSA.",
+			"c": "la técnica inmunológica ELISA.",
+			"d": "la técnica inmunosupresora ELSA."
+		},
+		"correct": "c",
+		"correct_text": "la técnica inmunológica ELISA.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En las frutas, la inspección visual comprende…",
+		"options": {
+			"a": "la edad, la coloración y las deformaciones, entre otros.",
+			"b": "el porcentaje de rotos o el índice de líquido que incluyen.",
+			"c": "el ph, el aspecto o las grietas en las mismas.",
+			"d": "la madurez y la presencia de almidón."
+		},
+		"correct": "d",
+		"correct_text": "la madurez y la presencia de almidón.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La cromatografía se basa en el principio de…",
+		"options": {
+			"a": "retención selectiva.",
+			"b": "iniciación selectiva.",
+			"c": "protección selectiva.",
+			"d": "indicación selectiva."
+		},
+		"correct": "a",
+		"correct_text": "retención selectiva.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En el método directo para la extracción de grasa bruta, cuando el disolvente se evapora, se determina la cantidad de grasa a través de…",
+		"options": {
+			"a": "el método indirecto.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "el método gravimétrico.",
+			"d": "la gravimetría."
+		},
+		"correct": "d",
+		"correct_text": "la gravimetría.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La determinación de las características organolépticas tiene una gran importancia en la industria alimentaria porque…",
+		"options": {
+			"a": "sirve para conocer el sabor concreto de un producto.",
+			"b": "solo sirve para clasificar un producto.",
+			"c": "sirve para conocer cómo se va a vender ese producto concreto.",
+			"d": "se necesita clasificar y asegurar el nivel de calidad de los productos."
+		},
+		"correct": "d",
+		"correct_text": "se necesita clasificar y asegurar el nivel de calidad de los productos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se define como “el proceso que consiste en cuantificar el número de bacterias vivas o el número de unidades formadoras de colonias en una cantidad determinada de alimentos”, es…",
+		"options": {
+			"a": "contador de microorganismos.",
+			"b": "contador de enzimas.",
+			"c": "recuento de microorganismos.",
+			"d": "recuento de bacterias."
+		},
+		"correct": "c",
+		"correct_text": "recuento de microorganismos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El valor nutritivo de un alimento está determinado por…",
+		"options": {
+			"a": "su composición.",
+			"b": "su peso en kg.",
+			"c": "la cantidad que las personas somos capaces de comer de ese alimento.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "a",
+		"correct_text": "su composición.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los componentes más habituales resultantes de la alteración de los lípidos son…:",
+		"options": {
+			"a": "los compuestos de peroxidación e isomerización.",
+			"b": "los compuestas apolares.",
+			"c": "los ácidos grasos terminados.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "a",
+		"correct_text": "los compuestos de peroxidación e isomerización.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se entiende por calidad…",
+		"options": {
+			"a": "a los atributos o funciones, únicamente que ofrece un producto o servicio.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "al conjunto de características, atributos o funciones que ofrece un producto o servicio.",
+			"d": "al conjunto únicamente de características que ofrece un producto o servicio."
+		},
+		"correct": "c",
+		"correct_text": "al conjunto de características, atributos o funciones que ofrece un producto o servicio.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En el sistema de calidad de las técnicas instrumentales básicas, es importante…",
+		"options": {
+			"a": "la protección de los equipos de medición.",
+			"b": "la adquisición de los equipos de medición.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "la gestión y el control de los equipos de medición."
+		},
+		"correct": "d",
+		"correct_text": "la gestión y el control de los equipos de medición.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El método que se caracteriza por la eliminación por medio de reactivos químicos de los distintos componentes de los alimentos, es…",
+		"options": {
+			"a": "el método químico.",
+			"b": "el método enzimático.",
+			"c": "el método glicólico.",
+			"d": "el método total."
+		},
+		"correct": "a",
+		"correct_text": "el método químico.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las propiedades de un alimento se comparan con…",
+		"options": {
+			"a": "si su sabor es el adecuado para el producto en concreto.",
+			"b": "si se vende bien ese producto en concreto en diferentes supermercados.",
+			"c": "los gustos de un grupo determinado de consumidores.",
+			"d": "las características exigidas por la reglamentación alimentaria."
+		},
+		"correct": "d",
+		"correct_text": "las características exigidas por la reglamentación alimentaria.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El método Dye-Binding se basa en la utilización de…",
+		"options": {
+			"a": "colorantes que se fijan sobre los lípidos.",
+			"b": "enzimas que se fijan sobre las proteínas.",
+			"c": "sales minerales que se fijan sobre las proteínas.",
+			"d": "colorantes que se fijan sobre las proteínas."
+		},
+		"correct": "d",
+		"correct_text": "colorantes que se fijan sobre las proteínas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué método mide el volumen de agua liberada por una muestra?",
+		"options": {
+			"a": "el método de las lámparas infrarrojas.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "las estufas de desecación.",
+			"d": "el método de destilación."
+		},
+		"correct": "d",
+		"correct_text": "el método de destilación.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La humedad en los productos líquidos y en las leches condensadas se puede determinar con el uso…",
+		"options": {
+			"a": "de un medio electrónico.",
+			"b": "de un medio digital.",
+			"c": "el refractómetro.",
+			"d": "de un medio artesanal."
+		},
+		"correct": "c",
+		"correct_text": "el refractómetro.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El método Kjeldahl, se resume en las etapas de…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "adición de hidróxido sódico.",
+			"c": "valoración del amoniaco destilado en ácido bárico.",
+			"d": "digestión de la muestra con ácido sulfúrico concentrado."
+		},
+		"correct": "a",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En las propiedades funcionales y de estabilidad, están relacionadas…",
+		"options": {
+			"a": "los aspectos del deterioro del alimento en su consumo.",
+			"b": "los grandes aspectos de un alimento en su procesamiento.",
+			"c": "los aspectos de deterioro del alimento en su procesamiento.",
+			"d": "los aspectos de aumento del alimento en su procesamiento."
+		},
+		"correct": "c",
+		"correct_text": "los aspectos de deterioro del alimento en su procesamiento.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El análisis cuantitativo de la grasa bruta se basa en…",
+		"options": {
+			"a": "la extracción de la fracción acuosa del producto.",
+			"b": "la extracción de la fracción proteica del producto.",
+			"c": "la inserción de la fracción lipídica en el producto.",
+			"d": "la extracción de la fracción lipídica del producto."
+		},
+		"correct": "d",
+		"correct_text": "la extracción de la fracción lipídica del producto.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El contenido en cenizas representa el contenido total en…",
+		"options": {
+			"a": "en proteínas.",
+			"b": "en minerales.",
+			"c": "en grasa bruta.",
+			"d": "acciones enzimáticas."
+		},
+		"correct": "b",
+		"correct_text": "en minerales.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Para asegurar la calidad de los productos, los operadores de la industria alimentaria necesitan…",
+		"options": {
+			"a": "adquirir materia prima sin antes consultar sus especificaciones.",
+			"b": "adquirir materias primas con unas especificaciones de calidad adecuadas.",
+			"c": "adquirir comida adecuada.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "b",
+		"correct_text": "adquirir materias primas con unas especificaciones de calidad adecuadas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se definen como “aquellas características apreciables a través de los sentidos”...",
+		"options": {
+			"a": "propiedades organolépticas.",
+			"b": "criterios de calidad.",
+			"c": "propiedades nutricionales.",
+			"d": "propiedades funcionales y de estabilidad."
+		},
+		"correct": "a",
+		"correct_text": "propiedades organolépticas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué se utiliza generalmente para poder medir las propiedades organolépticas de un alimento?",
+		"options": {
+			"a": "cualquier persona vale.",
+			"b": "paneles de personas.",
+			"c": "degustadores de alta cocina.",
+			"d": "paneles de catadores."
+		},
+		"correct": "d",
+		"correct_text": "paneles de catadores.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Cómo se debe realizar la toma de muestras en el control de calidad microbiológico?",
+		"options": {
+			"a": "sin el uso de recipientes estériles.",
+			"b": "sin ningún tipo de protección.",
+			"c": "de forma aséptica y utilizando recipientes estériles.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "c",
+		"correct_text": "de forma aséptica y utilizando recipientes estériles.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Por qué es difícil para los consumidores y las propias empresas conocer la aptitud adecuada de los alimentos?",
+		"options": {
+			"a": "porque son productos muy complejos.",
+			"b": "porque cada vez existen más empresas.",
+			"c": "por la gran evolución que ha sufrido la industria alimentaria.",
+			"d": "porque se dan pocos datos acerca de los alimentos."
+		},
+		"correct": "c",
+		"correct_text": "por la gran evolución que ha sufrido la industria alimentaria.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los diferentes equipos más utilizados en las técnicas instrumentales para un control de calidad organoléptica, encontramos…",
+		"options": {
+			"a": "la nariz electrónica.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "los colorímetros.",
+			"d": "la Cizalla de Warner Bratzler."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las especificaciones de calidad o especificaciones de compra se detallan…",
+		"options": {
+			"a": "en la parte superior de los productos.",
+			"b": "en un pliego de preinscripciones.",
+			"c": "en la página web de la empresa.",
+			"d": "en el reverso de los productos."
+		},
+		"correct": "b",
+		"correct_text": "en un pliego de preinscripciones.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El carácter de las propiedades nutricionales es…",
+		"options": {
+			"a": "subjetivo a cada uno.",
+			"b": "indiferente para todas las personas.",
+			"c": "individual a cada uno.",
+			"d": "objetivo a todos."
+		},
+		"correct": "d",
+		"correct_text": "objetivo a todos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los resultados de la determinación básica de la composición del agua se suele expresar como…",
+		"options": {
+			"a": "humedad, sólidos totales y agua.",
+			"b": "humedad y sólidos totales.",
+			"c": "humedad.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "a",
+		"correct_text": "humedad, sólidos totales y agua.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En general, se consideran dentro de las propiedades funcionales y de estabilidad…",
+		"options": {
+			"a": "todas aquellas propiedades no nutricionales que influyen en el carácter sensorial del alimento.",
+			"b": "todas aquellas reglas nutricionales de los alimentos.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "todas aquellas propiedades nutricionales de los alimentos."
+		},
+		"correct": "a",
+		"correct_text": "todas aquellas propiedades no nutricionales que influyen en el carácter sensorial del alimento.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las características de las especificaciones de calidad deben estar basadas en…",
+		"options": {
+			"a": "la legislación del país.",
+			"b": "ningún tipo de legislación.",
+			"c": "la legislación comunitaria.",
+			"d": "la legislación alimentaria."
+		},
+		"correct": "d",
+		"correct_text": "la legislación alimentaria.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El medio de cultivo definido como “llevan en su composición alguna sustancia que permite seleccionar los microorganismos que pueden crecer” es…",
+		"options": {
+			"a": "el medio selectivo.",
+			"b": "el medio de cultivo anaerobio.",
+			"c": "el medio diferencial.",
+			"d": "el medio de enriquecimiento."
+		},
+		"correct": "a",
+		"correct_text": "el medio selectivo.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué entidad es la encargada de acreditar la calidad de los productos…",
+		"options": {
+			"a": "el Ministerio de Consumo.",
+			"b": "la Entidad Nacional de Acreditación.",
+			"c": "la Agencia Estatal de Consumo.",
+			"d": "la Entidad Provincial de Acreditación."
+		},
+		"correct": "b",
+		"correct_text": "la Entidad Nacional de Acreditación.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El método de extracción caracterizado por realizarse con un disolvente apolar en continuo, es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "la extracción líquido-líquido.",
+			"c": "la extracción líquida-sólida.",
+			"d": "la extracción sólida-sólida."
+		},
+		"correct": "b",
+		"correct_text": "la extracción líquido-líquido.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre los equipos de medida directa, podemos encontrarnos con…",
+		"options": {
+			"a": "balanza analítica y medidor de radiación.",
+			"b": "todas las respuestas anteirores son correctas.",
+			"c": "espectofotómetro.",
+			"d": "polarógrafo y cromatógrafo."
+		},
+		"correct": "a",
+		"correct_text": "balanza analítica y medidor de radiación.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En los huevos, la inspección visual comprende…",
+		"options": {
+			"a": "el pH y el nitrógeno volátil.",
+			"b": "el porcentaje de rotos e índice de líquido que incluye.",
+			"c": "su aspecto, las grietas que existan o la cámara de aire, entre otros.",
+			"d": "la edad, la coloración, las deformaciones o su engrosamiento."
+		},
+		"correct": "c",
+		"correct_text": "su aspecto, las grietas que existan o la cámara de aire, entre otros.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Se definen como “aquello en lo cual está basada en la normativa vigente y se sitúan los requerimientos de la empresa o instituciones” a…",
+		"options": {
+			"a": "las especificaciones de cantidad.",
+			"b": "la especificación de los requerimientos energéticos.",
+			"c": "las especificaciones de calidad.",
+			"d": "la especificación del producto."
+		},
+		"correct": "c",
+		"correct_text": "las especificaciones de calidad.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los principales componentes de los alimentos son…",
+		"options": {
+			"a": "el agua, la fibra bruta, las cenizas totales y el nitrógeno.",
+			"b": "el agua, las cenizas totales, la proteína pura y la fibra bruta.",
+			"c": "el agua, las cenizas totales, la fibra bruta, el nitrógeno y la proteína pura.",
+			"d": "el agua y las cenizas totales, únicamente."
+		},
+		"correct": "c",
+		"correct_text": "el agua, las cenizas totales, la fibra bruta, el nitrógeno y la proteína pura.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Cada equipo de medición debe contar con una identificación que en general consta de…",
+		"options": {
+			"a": "un código.",
+			"b": "un número de serie y una fecha de alta.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "una denominación de equipo."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La realización de las determinaciones en la composición de los alimentos es básica para…",
+		"options": {
+			"a": "conocer un poco más sobre los distintos tipos de alimentos.",
+			"b": "conocer con exactitud el contenido de los distintos macro y micronutrientes.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "conocer a medida los alimentos."
+		},
+		"correct": "b",
+		"correct_text": "conocer con exactitud el contenido de los distintos macro y micronutrientes.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "¿Qué método óptico se basa en la medida comparativa de intensidades luminosas mediante la acentuación de uno de los rayos o su transformación en energía eléctrica?",
+		"options": {
+			"a": "la fluormetría.",
+			"b": "la polarometría.",
+			"c": "la nanometría.",
+			"d": "la fotometría."
+		},
+		"correct": "d",
+		"correct_text": "la fotometría.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El método de referencia para calcular la proteína pura es…",
+		"options": {
+			"a": "el Método destilado.",
+			"b": "el Método sulfúrico.",
+			"c": "el Método Hammer.",
+			"d": "el Método Kjeldahl."
+		},
+		"correct": "d",
+		"correct_text": "el Método Kjeldahl.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La peroxidasa, es más conocida comúnmente como…",
+		"options": {
+			"a": "bicarbonato sódico.",
+			"b": "agua oxigenada.",
+			"c": "lejía.",
+			"d": "cloro."
+		},
+		"correct": "b",
+		"correct_text": "agua oxigenada.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El metanol es un reactivo deshidratante, por lo que la reacción debe protegerse…",
+		"options": {
+			"a": "frente al calor.",
+			"b": "frente a la humedad del aire.",
+			"c": "frente al frío.",
+			"d": "frente al aire."
+		},
+		"correct": "b",
+		"correct_text": "frente a la humedad del aire.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los paneles de catadores están conformados por…",
+		"options": {
+			"a": "personas entrenadas y seleccionadas por su agudeza sensorial.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "personas cualquiera entre un público.",
+			"d": "expertos en gastronomía."
+		},
+		"correct": "a",
+		"correct_text": "personas entrenadas y seleccionadas por su agudeza sensorial.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Cuando un producto es originario de un lugar determinado, cuya calidad o características se deben fundamental o exclusivamente a un medio geográfico particular, se obtiene…",
+		"options": {
+			"a": "la Denominación de Origen Protegida.",
+			"b": "la Indicación Geográfica Protegida.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "la Denominación Provincial de Origen."
+		},
+		"correct": "a",
+		"correct_text": "la Denominación de Origen Protegida.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En la leche, la fosfatasa alcalina se inactiva progresivamente a temperaturas superiores a…",
+		"options": {
+			"a": "80 grados.",
+			"b": "30 grados.",
+			"c": "50 grados.",
+			"d": "60 grados."
+		},
+		"correct": "d",
+		"correct_text": "60 grados.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El residuo inorgánico que queda después de calcinar la materia orgánica es…",
+		"options": {
+			"a": "la proteína bruta.",
+			"b": "la fibra bruta.",
+			"c": "el nitrógeno.",
+			"d": "las cenizas."
+		},
+		"correct": "d",
+		"correct_text": "las cenizas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Las pruebas bioquímicas de caracterización pueden basarse en…",
+		"options": {
+			"a": "análisis proteicos.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "análisis grasos o enzimáticos.",
+			"d": "análisis glucídicos."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre las técnicas de secado de los alimentos, podemos encontrarnos con…",
+		"options": {
+			"a": "estufas de sustancia inerte.",
+			"b": "con lámparas de suprarrojos.",
+			"c": "por desecación de sustancia inerte.",
+			"d": "por corriente de aire frío."
+		},
+		"correct": "c",
+		"correct_text": "por desecación de sustancia inerte.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "El polisacárido que se obtiene a partir de algas y que se utiliza como agente gelificante, es…",
+		"options": {
+			"a": "el algar.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "el agar.",
+			"d": "la algarosa."
+		},
+		"correct": "c",
+		"correct_text": "el agar.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "En los productos perecederos, ¿qué tipos de inspecciones se realizan?",
+		"options": {
+			"a": "inspecciones en la variedad o en la especie.",
+			"b": "inspecciones en la coloración o la homogeneidad.",
+			"c": "inspecciones sobre si existen defectos en la piel del producto.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La fibra alimentaria, comprende…",
+		"options": {
+			"a": "el almidón resistente.",
+			"b": "los residuos no específicos.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "los polisacáridos no amiláceos."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Los criterios de calidad comprenden, de forma general…",
+		"options": {
+			"a": "ambas respuestas anteriores son correctas.",
+			"b": "ninguna de las dos respuestas anteriores es correcta.",
+			"c": "las categorías de características exigidas por la normativa vigente.",
+			"d": "el conjunto de prescripciones técnicas o de compra que determinan la calidad del producto."
+		},
+		"correct": "a",
+		"correct_text": "ambas respuestas anteriores son correctas",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "La refractometría es un método óptico basado en…",
+		"options": {
+			"a": "en el índice de refracción de las sustancias.",
+			"b": "la medición de la rotación óptica producida sobre un haz de luz polarizada.",
+			"c": "la medición de la fluorescencia de las sustancias que son capaces de absorber energía.",
+			"d": "en la medida del potencial eléctrico y la corriente eléctrica en una celda electroquímica."
+		},
+		"correct": "a",
+		"correct_text": "en el índice de refracción de las sustancias",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	},
+	{
+		"question": "Entre las características a valorar entre los diversos productos podemos distinguir entre…",
+		"options": {
+			"a": "propiedades nutricionales.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "propiedades funcionales y de estabilidad.",
+			"d": "propiedades organolépticas."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas",
+		"asignatura": "control_alimentario",
+		"tema": "tema2"
+	}
 ]

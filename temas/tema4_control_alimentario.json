@@ -1,860 +1,937 @@
 [
-  {
-    "question": "La trazabilidad hacia delante también es conocida como…",
-    "options": {
-      "a": "trazabilidad de clientes.",
-      "b": "trazabilidad de proveedores.",
-      "c": "trazabilidad interna.",
-      "d": "trazabilidad de proceso."
-    },
-    "correct": "a",
-    "correct_text": "trazabilidad de clientes.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la revisión periódica de los equipos medidores de temperatura, deben utilizarse…",
-    "options": {
-      "a": "material de la propia empresa.",
-      "b": "instrumentos calibrados.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "material propio de los técnicos."
-    },
-    "correct": "b",
-    "correct_text": "instrumentos calibrados.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "La trazabilidad, que da la posibilidad de conocer qué productos entran en la empresa y quiénes son sus proveedores, es…",
-    "options": {
-      "a": "la trazabilidad hacia atrás.",
-      "b": "la trazabilidad interna.",
-      "c": "la trazabilidad hacia arriba.",
-      "d": "la trazabilidad hacia delante."
-    },
-    "correct": "a",
-    "correct_text": "la trazabilidad hacia atrás.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Uno de los objetivos fundamentales de la legislación vigente es…",
-    "options": {
-      "a": "garantizar que la empresa obtenga los mayores beneficios posibles.",
-      "b": "garantizar un nivel elevado de protección a los consumidores.",
-      "c": "garantizar el mínimo nivel de protección a los consumidores.",
-      "d": "garantizar que se incumplen los derechos de los consumidores."
-    },
-    "correct": "b",
-    "correct_text": "garantizar un nivel elevado de protección a los consumidores.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la toma de muestras, en el muestreo y control analíticos, implica…",
-    "options": {
-      "a": "la recogida de alimentos.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "la recogida de agua.",
-      "d": "la comprobación de las superficies."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El objetivo del plan de buenas prácticas de manipulación es…",
-    "options": {
-      "a": "lograr que las fases estén correctamente manipuladas.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "la descripción del conjunto de requisitos, actividades y controles correctos en cada fase del proceso productivo.",
-      "d": "lograr que los manipuladores de alimentos conozcan cómo tratar los mismos."
-    },
-    "correct": "c",
-    "correct_text": "la descripción del conjunto de requisitos, actividades y controles correctos en cada fase del proceso productivo.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Se define como “el conjunto de procedimientos basados en el APPCC, que las empresas alimentarias, de forma obligatoria, ponen en práctica de forma permanente”",
-    "options": {
-      "a": "el sistema de autodisciplina.",
-      "b": "el sistema de autogestión.",
-      "c": "el sistema de autocontrol.",
-      "d": "el sistema de autolavado."
-    },
-    "correct": "c",
-    "correct_text": "el sistema de autocontrol.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "¿Qué registro controla cualquier incidencia que tenga lugar tras haber entregado una mercancía?",
-    "options": {
-      "a": "el registro interno de la empresa.",
-      "b": "el registro externo de la empresa.",
-      "c": "el registro simbólico de la empresa.",
-      "d": "el registro de devoluciones o quejas de los clientes."
-    },
-    "correct": "d",
-    "correct_text": "el registro de devoluciones o quejas de los clientes.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El diagnóstico de la situación, en el plan de control de plagas, consiste en…",
-    "options": {
-      "a": "la valoración de las necesidades de limpieza de la empresa.",
-      "b": "la intuición de las características de la empresa y su entorno.",
-      "c": "la valoración de las características de la empresa y su entorno.",
-      "d": "la valoración interna y externa de la empresa."
-    },
-    "correct": "c",
-    "correct_text": "la valoración de las características de la empresa y su entorno.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En cuanto a la documentación requerida para certificar a los proveedores de un alimento, se necesita…",
-    "options": {
-      "a": "una declaración de conformidad de envases.",
-      "b": "un certificado de conformidad para vehículos isotermo.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "una copia de la inscripción del proveedor en el Registro General Sanitario."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el control de plagas, la empresa contratada debe realizar visitas…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "mensuales.",
-      "c": "diarias.",
-      "d": "programas de inspección y observación de signos de infestación."
-    },
-    "correct": "d",
-    "correct_text": "programas de inspección y observación de signos de infestación.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los equipos de frío y tratamiento térmico, deben contar…",
-    "options": {
-      "a": "sin los instrumentos de medida.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "con los instrumentos de medida necesarios.",
-      "d": "con las necesidades de la empresa."
-    },
-    "correct": "c",
-    "correct_text": "con los instrumentos de medida necesarios.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Por suministros, podemos entender…",
-    "options": {
-      "a": "productos de limpieza y productos para el mantenimiento.",
-      "b": "utensilios en contacto con los alimentos.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "materias primas, envases y embalajes."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Se define como “la capacidad de seguir el rastro o movimiento de un alimento a través de las etapas de producción, transformación y distribución” a…",
-    "options": {
-      "a": "el seguimiento interno del producto.",
-      "b": "la trazabilidad.",
-      "c": "las necesidades productivas.",
-      "d": "el seguimiento de la empresa."
-    },
-    "correct": "b",
-    "correct_text": "la trazabilidad.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El sistema de autocontrol, también se apoya en…",
-    "options": {
-      "a": "las Prácticas Correctas de Higiene.",
-      "b": "las Prácticas Correctas de los empleados.",
-      "c": "las Prácticas Correctas alimenticias.",
-      "d": "las Prácticas Correctas de manipulación."
-    },
-    "correct": "a",
-    "correct_text": "las Prácticas Correctas de Higiene.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el transporte de los alimentos, se debe…",
-    "options": {
-      "a": "si requiere frío se requiere un certificado de idoneidad.",
-      "b": "no aparecer aplastado el producto a su recepción.",
-      "c": "mantener las cajas estibadas sin tocar con las paredes o el suelo.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Todos los planes, en las prácticas de higiene, deben contemplar…",
-    "options": {
-      "a": "un sistema de corrección.",
-      "b": "un sistema de verificación.",
-      "c": "un sistema de vigilancia.",
-      "d": "un sistema de registros."
-    },
-    "correct": "d",
-    "correct_text": "un sistema de registros.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En las frutas y hortalizas, se consideran en buen estado cuando…",
-    "options": {
-      "a": "hay un grado de maduración adecuado.",
-      "b": "hay un brillo al corte.",
-      "c": "hay una existencia de parásitos.",
-      "d": "existe una consistencia firme."
-    },
-    "correct": "a",
-    "correct_text": "hay un grado de maduración adecuado.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El mantenimiento preventivo de las instalaciones, equipos o utensilios, se realiza por…",
-    "options": {
-      "a": "para lograr un mejor rendimiento.",
-      "b": "averías y deficiencias en los mismos.",
-      "c": "la necesidad de la empresa.",
-      "d": "la obligación de los jefes."
-    },
-    "correct": "b",
-    "correct_text": "averías y deficiencias en los mismos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Además, como anexo al plan de control del agua, la empresa debe tener…",
-    "options": {
-      "a": "el plano de fontanería de sus establecimientos e instalaciones.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "el contrato o recibo de la empresa abastecedora del agua.",
-      "d": "el plano numerado de grifos de muestreo."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el plan de control del agua, se debe tener en cuenta…",
-    "options": {
-      "a": "si el agua tiene un buen sabor.",
-      "b": "si la empresa hace un uso irresponsable del agua.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "si la gestión es autónoma o se abastece de la red municipal."
-    },
-    "correct": "d",
-    "correct_text": "si la gestión es autónoma o se abastece de la red municipal.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El plan de control de plagas, generalmente está realizado por…",
-    "options": {
-      "a": "ambas respuestas son correctas.",
-      "b": "el personal del establecimiento, únicamente.",
-      "c": "una empresa especializada en control de plagas, únicamente.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "a",
-    "correct_text": "ambas respuestas son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En general, las prácticas de higiene se suelen concretar en…",
-    "options": {
-      "a": "8 planes.",
-      "b": "10 planes.",
-      "c": "5 planes.",
-      "d": "12 planes."
-    },
-    "correct": "b",
-    "correct_text": "10 planes.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Las instalaciones de frío de las industrias deben controlarse mediante registros de temperatura, al menos…",
-    "options": {
-      "a": "tres veces al día.",
-      "b": "una vez al día.",
-      "c": "dos veces al día.",
-      "d": "cuatro veces al día."
-    },
-    "correct": "c",
-    "correct_text": "dos veces al día.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El plan de limpieza y desinfección, tiene un objetivo, que es…",
-    "options": {
-      "a": "contratar a más personas para lograr generar un mayor empleo.",
-      "b": "mantener los útiles de la empresa limpios únicamente.",
-      "c": "mantener las instalaciones, equipos, mobiliario y útiles de la empresa en el estado adecuado.",
-      "d": "verificar las conexiones del agua de la empresa."
-    },
-    "correct": "c",
-    "correct_text": "mantener las instalaciones, equipos, mobiliario y útiles de la empresa en el estado adecuado.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las características del sistema de autocontrol, encontramos…",
-    "options": {
-      "a": "los operadores alimentarios no son responsables de sus actos.",
-      "b": "el sistema de autocontrol debe dejar de garantizar la seguridad.",
-      "c": "la Autoridad Sanitaria establece un marco de exigencia mínimo.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "la Autoridad Sanitaria establece un marco de exigencia mínimo.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "La documentación de la parte general, en la información de la empresa, debe incluir…",
-    "options": {
-      "a": "el plano o croquis actualizado del establecimiento alimentario.",
-      "b": "los irresponsables del sistema de autocontrol.",
-      "c": "la razón legal y dirección del establecimiento.",
-      "d": "el número de identificación en el Registro de empresas."
-    },
-    "correct": "a",
-    "correct_text": "el plano o croquis actualizado del establecimiento alimentario.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el control de la recepción de la mercancía, si se trata de productos perecederos…",
-    "options": {
-      "a": "se comprueban las características organolépticas.",
-      "b": "se comprueba la temperatura a la recepción del lote.",
-      "c": "se comprueba la fecha de caducidad y el correcto etiquetado.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Para hacer un buen uso de los envases, se debe…",
-    "options": {
-      "a": "garantizar una eficaz protección del alimento.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "tener el material autorizado para el uso alimentario.",
-      "d": "estar exentos de suciedad o polvo, entre otros."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el plan de mantenimiento de la cadena de frío, es de suma importancia…",
-    "options": {
-      "a": "que la industria realice un control periódico de los equipos.",
-      "b": "contar con el género adecuado.",
-      "c": "que la industria realice un control periódico de las temperaturas.",
-      "d": "que no se tengan necesidades."
-    },
-    "correct": "c",
-    "correct_text": "que la industria realice un control periódico de las temperaturas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El documento donde se indica la composición y elaboración de cada producto, se denomina…",
-    "options": {
-      "a": "razón social de la empresa.",
-      "b": "ficha técnica del producto.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "documento de identificación del producto."
-    },
-    "correct": "b",
-    "correct_text": "ficha técnica del producto.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el documento de control de producción y loteado, se suele incluir…",
-    "options": {
-      "a": "la cantidad de materias primas y la fecha de recepción de las mismas.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "el control organoléptico previo a la utilización de las materias primas.",
-      "d": "las materias primas utilizadas."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las medidas, en el control de plagas, se recomienda…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "evitar los acúmulos de agua.",
-      "c": "el no uso de las trampas eléctricas.",
-      "d": "la no revisión de los embalajes y pales."
-    },
-    "correct": "b",
-    "correct_text": "evitar los acúmulos de agua.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las normas para la eliminación de desperdicios y basuras, nos encontramos con…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "mantener los contenedores exteriores cerrados.",
-      "c": "utilizar cubos o contenedores de basura dotados de tapa y apertura a pedal.",
-      "d": "lavarse y desinfectarse las manos tras la evacuación de la basura."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El objetivo del Plan de formación de los manipuladores es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "que éstos dispongan de una formación adecuada en atención al cliente.",
-      "c": "que éstos dispongan de una formación adecuada en higiene.",
-      "d": "lograr adquirir conocimientos."
-    },
-    "correct": "c",
-    "correct_text": "que éstos dispongan de una formación adecuada en higiene.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En los productos en refrigeración, la temperatura máxima debe ser de…",
-    "options": {
-      "a": "5 grados.",
-      "b": "8 grados.",
-      "c": "0 grados.",
-      "d": "3 grados."
-    },
-    "correct": "a",
-    "correct_text": "5 grados.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las empresas que requieren una trazabilidad hacia atrás e interna, encontramos…",
-    "options": {
-      "a": "empresas que elaboran comidas preparadas y las suministran al consumidor final.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "empresas que únicamente distribuyen productos a otras empresas.",
-      "d": "empresas que elaboran comidas preparadas y las distribuyen a empresas."
-    },
-    "correct": "a",
-    "correct_text": "empresas que elaboran comidas preparadas y las suministran al consumidor final.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la verificación del plan de limpieza y desinfección, debe incluir…",
-    "options": {
-      "a": "la toma de muestras de las personas.",
-      "b": "el uso de lejía.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "la toma de muestras de superficies de útiles y equipos."
-    },
-    "correct": "d",
-    "correct_text": "la toma de muestras de superficies de útiles y equipos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Todos los productos plaguicidas aplicados deben…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "ser conocidos dentro del mundo de la limpieza.",
-      "c": "estar comprados por la empresa.",
-      "d": "estar autorizados para el control y la eliminación de plagas."
-    },
-    "correct": "d",
-    "correct_text": "estar autorizados para el control y la eliminación de plagas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En las características del sistema de autocontrol, “el control de peligros debe estar basado en…”",
-    "options": {
-      "a": "lo que digan unas pocas personas.",
-      "b": "pautas y criterios legales.",
-      "c": "el pensamiento de los líderes de las empresas.",
-      "d": "el criterio de una sola persona."
-    },
-    "correct": "b",
-    "correct_text": "pautas y criterios legales.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El objetivo del plan de certificación de los proveedores es…",
-    "options": {
-      "a": "asegurar que los suministros no incorporen peligros significativos.",
-      "b": "lograr contratar servicios de limpieza adecuados.",
-      "c": "lograr que la empresa tenga un gran renombre.",
-      "d": "lograr que la empresa crezca."
-    },
-    "correct": "a",
-    "correct_text": "asegurar que los suministros no incorporen peligros significativos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los responsables de la empresa deben realizar una inspección visual…",
-    "options": {
-      "a": "mensual.",
-      "b": "diaria.",
-      "c": "anual.",
-      "d": "trimestral."
-    },
-    "correct": "b",
-    "correct_text": "diaria.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las medidas en el plan de control de plagas, podemos encontrar…",
-    "options": {
-      "a": "el adecuado diseño y construcción de los locales.",
-      "b": "el empleo de mosquiteras en sus ventanas.",
-      "c": "el empleo de contenedores y recipientes.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Para desarrollar un sistema de autocontrol, se deben analizar inicialmente…",
-    "options": {
-      "a": "las necesidades de la empresa.",
-      "b": "los diagramas de flujo.",
-      "c": "los indicadores de la empresa.",
-      "d": "los diagramas de barras."
-    },
-    "correct": "b",
-    "correct_text": "los diagramas de flujo.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "¿Mediante qué documento se controlan documentalmente los lotes y productos elaborados diariamente?",
-    "options": {
-      "a": "mediante el documento requerido por las instituciones sanitarias.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "mediante el documento de salida del producto.",
-      "d": "mediante el documento de control de producción y loteado."
-    },
-    "correct": "d",
-    "correct_text": "mediante el documento de control de producción y loteado.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre los requisitos mínimos que deben cumplir los proveedores, encontramos…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "los documentos acreditativos de nombre de empresa.",
-      "c": "las especificaciones de calidad y microbiológicas.",
-      "d": "las condiciones de vuelo de las materias primas."
-    },
-    "correct": "c",
-    "correct_text": "las especificaciones de calidad y microbiológicas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "La verificación, permite comprobar…",
-    "options": {
-      "a": "el sistema de evaluación de los productos.",
-      "b": "el sistema de ubicación de los productos.",
-      "c": "el sistema de autocontrol y que asegura la inocuidad de los alimentos.",
-      "d": "el sistema de organización de la empresa."
-    },
-    "correct": "c",
-    "correct_text": "el sistema de autocontrol y que asegura la inocuidad de los alimentos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Cuando la formación se realice directamente por la empresa alimentaria, el programa de formación será diseñado o impartido…",
-    "options": {
-      "a": "por personal externo de la empresa acreditado documentalmente para ello.",
-      "b": "por personal externo a la empresa.",
-      "c": "por los jefes de la propia empresa.",
-      "d": "por personal interno de la empresa acreditado documentalmente para ello."
-    },
-    "correct": "d",
-    "correct_text": "por personal interno de la empresa acreditado documentalmente para ello.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En las carnes, las características organolépticas serán adecuadas en un producto en buen estado cuando…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "no se vea un brillo en el corte.",
-      "c": "la consistencia de la carne no sea firme.",
-      "d": "tenga un color y un olor propio de la carne."
-    },
-    "correct": "d",
-    "correct_text": "tenga un color y un olor propio de la carne.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la pegatina de control de recepción de un producto, debe aparecer…",
-    "options": {
-      "a": "la caducidad y la temperatura de salida.",
-      "b": "el nombre del producto y la recepción del lote.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "la fecha de salida y el control organoléptico."
-    },
-    "correct": "b",
-    "correct_text": "el nombre del producto y la recepción del lote.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El sistema de autocontrol se divide en…",
-    "options": {
-      "a": "el análisis de peligros y puntos críticos de control.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "el plan general de higiene.",
-      "d": "los aspectos generales."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El registro donde se controlan las salidas de productos o distribución, se denomina como…",
-    "options": {
-      "a": "registro interno.",
-      "b": "registro de salidas.",
-      "c": "registro de envío.",
-      "d": "registro de control de salidas."
-    },
-    "correct": "d",
-    "correct_text": "registro de control de salidas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El plan de control del agua, tiene como objetivo…",
-    "options": {
-      "a": "verificar el agua que bebemos.",
-      "b": "descontrolar el sistema de agua del establecimiento.",
-      "c": "garantizar que el agua utilizada no afecta a la salubridad y a la seguridad de las personas.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "c",
-    "correct_text": "garantizar que el agua utilizada no afecta a la salubridad y a la seguridad de las personas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "La auditoría interna tiene como objetivo…",
-    "options": {
-      "a": "determinar la organización de la empresa.",
-      "b": "determinar los beneficios de la empresa.",
-      "c": "determinar si el sistema APPCC se ha implantado correctamente.",
-      "d": "determinar si los productos alimenticios son tratados adecuadamente."
-    },
-    "correct": "c",
-    "correct_text": "determinar si el sistema APPCC se ha implantado correctamente.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El plan de mantenimiento de instalaciones y equipos, tiene como objetivo…",
-    "options": {
-      "a": "asegurar el correcto funcionamiento de las instalaciones, maquinaria y equipos.",
-      "b": "ninguna de las respuestas anteriores es correcta.",
-      "c": "dar conocimiento de los problemas en la maquinaria de la empresa.",
-      "d": "dejar obsoletos todos los útiles de la empresa."
-    },
-    "correct": "a",
-    "correct_text": "asegurar el correcto funcionamiento de las instalaciones, maquinaria y equipos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El conjunto de procedimientos y prácticas que cumplen los requisitos legales de higiene para controlar los riesgos alimentarios, es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "el plan general de higiene.",
-      "c": "el plan legal de higiene.",
-      "d": "el plan social de higiene."
-    },
-    "correct": "b",
-    "correct_text": "el plan general de higiene.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el plan de eliminación de residuos, los residuos sólidos deben ser depositados en…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "cubos normales de limpieza.",
-      "c": "en el suelo.",
-      "d": "en bolsas de basura o en contenedores de basura con tapadera."
-    },
-    "correct": "d",
-    "correct_text": "en bolsas de basura o en contenedores de basura con tapadera.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las medidas de control e higiene, podemos encontrar…",
-    "options": {
-      "a": "analizar y evaluar los posibles riesgos.",
-      "b": "establecer procedimientos de verificación.",
-      "c": "determinar los puntos de control críticos.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El objetivo del plan de eliminación de residuos es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "evitar que los residuos o subproductos generados por la empresa produzcan contaminaciones cruzadas.",
-      "c": "lograr que los residuos no queden en la basura.",
-      "d": "lograr un mayor beneficio para la empresa y una mayor producción."
-    },
-    "correct": "b",
-    "correct_text": "evitar que los residuos o subproductos generados por la empresa produzcan contaminaciones cruzadas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "En caso de contratar algún servicio de recogida de residuos específicos, los albaranes de recogida, deberán ser archivados durante al menos…",
-    "options": {
-      "a": "1 año.",
-      "b": "2 años.",
-      "c": "5 años.",
-      "d": "7 años."
-    },
-    "correct": "b",
-    "correct_text": "2 años.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "El objetivo del plan de control de plagas es…",
-    "options": {
-      "a": "lograr la existencia de cualquier plaga.",
-      "b": "ver la contaminación de equipos y útiles de la empresa.",
-      "c": "desinfectar los equipos y útiles de la empresa.",
-      "d": "evitar la existencia de cualquier plaga en la industria."
-    },
-    "correct": "d",
-    "correct_text": "evitar la existencia de cualquier plaga en la industria.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Las medidas preventivas de higiene en función de la normativa legal y las guías del sector alimentario, se pueden dividir en…",
-    "options": {
-      "a": "criterios cuantitativos y cualitativos.",
-      "b": "criterios fijos y variables.",
-      "c": "criterios primarios y secundarios.",
-      "d": "criterios principales y no principales."
-    },
-    "correct": "a",
-    "correct_text": "criterios cuantitativos y cualitativos.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Todas aquellas empresas que puedan aplicar un sistema de autocontrol, su aplicación se debe apoyar en…",
-    "options": {
-      "a": "un mecanismo informático.",
-      "b": "un mecanismo irreal.",
-      "c": "un mecanismo flexible.",
-      "d": "un mecanismo inflexible."
-    },
-    "correct": "c",
-    "correct_text": "un mecanismo flexible.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las características del sistema de autocontrol, encontramos que “los requisitos mínimos deben estar al alcance de…”",
-    "options": {
-      "a": "las pequeñas empresas, únicamente.",
-      "b": "las pequeñas empresas, además de las medianas y grandes empresas.",
-      "c": "grandes empresas, únicamente.",
-      "d": "todas las personas."
-    },
-    "correct": "b",
-    "correct_text": "las pequeñas empresas, además de las medianas y grandes empresas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Es necesario disponer de un plan de mantenimiento adecuado de locales, instalaciones y maquinaria…",
-    "options": {
-      "a": "adecuado al volumen de la empresa.",
-      "b": "adecuado al volumen de ventas de la empresa.",
-      "c": "adecuado al tamaño de las instalaciones de la empresa.",
-      "d": "adecuado a las necesidades de la empresa."
-    },
-    "correct": "c",
-    "correct_text": "adecuado al tamaño de las instalaciones de la empresa.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los contenidos de la formación para los manipuladores incluirán…",
-    "options": {
-      "a": "las prácticas incorrectas de higiene y sus consecuencias.",
-      "b": "los fundamentos y prácticas correctas de higiene.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "los conocimientos básicos en materia de higiene alimentaria."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "control_alimentario",
-    "tema": "tema4"
-  }
+	{
+		"question": "La trazabilidad hacia delante también es conocida como…",
+		"options": {
+			"a": "trazabilidad de clientes.",
+			"b": "trazabilidad de proveedores.",
+			"c": "trazabilidad interna.",
+			"d": "trazabilidad de proceso."
+		},
+		"correct": "a",
+		"correct_text": "trazabilidad de clientes.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la revisión periódica de los equipos medidores de temperatura, deben utilizarse…",
+		"options": {
+			"a": "material de la propia empresa.",
+			"b": "instrumentos calibrados.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "material propio de los técnicos."
+		},
+		"correct": "b",
+		"correct_text": "instrumentos calibrados.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "La trazabilidad, que da la posibilidad de conocer qué productos entran en la empresa y quiénes son sus proveedores, es…",
+		"options": {
+			"a": "la trazabilidad hacia atrás.",
+			"b": "la trazabilidad interna.",
+			"c": "la trazabilidad hacia arriba.",
+			"d": "la trazabilidad hacia delante."
+		},
+		"correct": "a",
+		"correct_text": "la trazabilidad hacia atrás.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Uno de los objetivos fundamentales de la legislación vigente es…",
+		"options": {
+			"a": "garantizar que la empresa obtenga los mayores beneficios posibles.",
+			"b": "garantizar un nivel elevado de protección a los consumidores.",
+			"c": "garantizar el mínimo nivel de protección a los consumidores.",
+			"d": "garantizar que se incumplen los derechos de los consumidores."
+		},
+		"correct": "b",
+		"correct_text": "garantizar un nivel elevado de protección a los consumidores.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la toma de muestras, en el muestreo y control analíticos, implica…",
+		"options": {
+			"a": "la recogida de alimentos.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "la recogida de agua.",
+			"d": "la comprobación de las superficies."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El objetivo del plan de buenas prácticas de manipulación es…",
+		"options": {
+			"a": "lograr que las fases estén correctamente manipuladas.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "la descripción del conjunto de requisitos, actividades y controles correctos en cada fase del proceso productivo.",
+			"d": "lograr que los manipuladores de alimentos conozcan cómo tratar los mismos."
+		},
+		"correct": "c",
+		"correct_text": "la descripción del conjunto de requisitos, actividades y controles correctos en cada fase del proceso productivo.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Se define como “el conjunto de procedimientos basados en el APPCC, que las empresas alimentarias, de forma obligatoria, ponen en práctica de forma permanente”",
+		"options": {
+			"a": "el sistema de autodisciplina.",
+			"b": "el sistema de autogestión.",
+			"c": "el sistema de autocontrol.",
+			"d": "el sistema de autolavado."
+		},
+		"correct": "c",
+		"correct_text": "el sistema de autocontrol.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "¿Qué registro controla cualquier incidencia que tenga lugar tras haber entregado una mercancía?",
+		"options": {
+			"a": "el registro interno de la empresa.",
+			"b": "el registro externo de la empresa.",
+			"c": "el registro simbólico de la empresa.",
+			"d": "el registro de devoluciones o quejas de los clientes."
+		},
+		"correct": "d",
+		"correct_text": "el registro de devoluciones o quejas de los clientes.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El diagnóstico de la situación, en el plan de control de plagas, consiste en…",
+		"options": {
+			"a": "la valoración de las necesidades de limpieza de la empresa.",
+			"b": "la intuición de las características de la empresa y su entorno.",
+			"c": "la valoración de las características de la empresa y su entorno.",
+			"d": "la valoración interna y externa de la empresa."
+		},
+		"correct": "c",
+		"correct_text": "la valoración de las características de la empresa y su entorno.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En cuanto a la documentación requerida para certificar a los proveedores de un alimento, se necesita…",
+		"options": {
+			"a": "una declaración de conformidad de envases.",
+			"b": "un certificado de conformidad para vehículos isotermo.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "una copia de la inscripción del proveedor en el Registro General Sanitario."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el control de plagas, la empresa contratada debe realizar visitas…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "mensuales.",
+			"c": "diarias.",
+			"d": "programas de inspección y observación de signos de infestación."
+		},
+		"correct": "d",
+		"correct_text": "programas de inspección y observación de signos de infestación.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los equipos de frío y tratamiento térmico, deben contar…",
+		"options": {
+			"a": "sin los instrumentos de medida.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "con los instrumentos de medida necesarios.",
+			"d": "con las necesidades de la empresa."
+		},
+		"correct": "c",
+		"correct_text": "con los instrumentos de medida necesarios.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Por suministros, podemos entender…",
+		"options": {
+			"a": "productos de limpieza y productos para el mantenimiento.",
+			"b": "utensilios en contacto con los alimentos.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "materias primas, envases y embalajes."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Se define como “la capacidad de seguir el rastro o movimiento de un alimento a través de las etapas de producción, transformación y distribución” a…",
+		"options": {
+			"a": "el seguimiento interno del producto.",
+			"b": "la trazabilidad.",
+			"c": "las necesidades productivas.",
+			"d": "el seguimiento de la empresa."
+		},
+		"correct": "b",
+		"correct_text": "la trazabilidad.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El sistema de autocontrol, también se apoya en…",
+		"options": {
+			"a": "las Prácticas Correctas de Higiene.",
+			"b": "las Prácticas Correctas de los empleados.",
+			"c": "las Prácticas Correctas alimenticias.",
+			"d": "las Prácticas Correctas de manipulación."
+		},
+		"correct": "a",
+		"correct_text": "las Prácticas Correctas de Higiene.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "En el transporte de los alimentos, se debe…",
+		"options": {
+			"a": "si requiere frío se requiere un certificado de idoneidad.",
+			"b": "no aparecer aplastado el producto a su recepción.",
+			"c": "mantener las cajas estibadas sin tocar con las paredes o el suelo.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Todos los planes, en las prácticas de higiene, deben contemplar…",
+		"options": {
+			"a": "un sistema de corrección.",
+			"b": "un sistema de verificación.",
+			"c": "un sistema de vigilancia.",
+			"d": "un sistema de registros."
+		},
+		"correct": "d",
+		"correct_text": "un sistema de registros.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "En las frutas y hortalizas, se consideran en buen estado cuando…",
+		"options": {
+			"a": "hay un grado de maduración adecuado.",
+			"b": "hay un brillo al corte.",
+			"c": "hay una existencia de parásitos.",
+			"d": "existe una consistencia firme."
+		},
+		"correct": "a",
+		"correct_text": "hay un grado de maduración adecuado.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El mantenimiento preventivo de las instalaciones, equipos o utensilios, se realiza por…",
+		"options": {
+			"a": "para lograr un mejor rendimiento.",
+			"b": "averías y deficiencias en los mismos.",
+			"c": "la necesidad de la empresa.",
+			"d": "la obligación de los jefes."
+		},
+		"correct": "b",
+		"correct_text": "averías y deficiencias en los mismos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Además, como anexo al plan de control del agua, la empresa debe tener…",
+		"options": {
+			"a": "el plano de fontanería de sus establecimientos e instalaciones.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "el contrato o recibo de la empresa abastecedora del agua.",
+			"d": "el plano numerado de grifos de muestreo."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el plan de control del agua, se debe tener en cuenta…",
+		"options": {
+			"a": "si el agua tiene un buen sabor.",
+			"b": "si la empresa hace un uso irresponsable del agua.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "si la gestión es autónoma o se abastece de la red municipal."
+		},
+		"correct": "d",
+		"correct_text": "si la gestión es autónoma o se abastece de la red municipal.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El plan de control de plagas, generalmente está realizado por…",
+		"options": {
+			"a": "ambas respuestas son correctas.",
+			"b": "el personal del establecimiento, únicamente.",
+			"c": "una empresa especializada en control de plagas, únicamente.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "a",
+		"correct_text": "ambas respuestas son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En general, las prácticas de higiene se suelen concretar en…",
+		"options": {
+			"a": "8 planes.",
+			"b": "10 planes.",
+			"c": "5 planes.",
+			"d": "12 planes."
+		},
+		"correct": "b",
+		"correct_text": "10 planes.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "Las instalaciones de frío de las industrias deben controlarse mediante registros de temperatura, al menos…",
+		"options": {
+			"a": "tres veces al día.",
+			"b": "una vez al día.",
+			"c": "dos veces al día.",
+			"d": "cuatro veces al día."
+		},
+		"correct": "c",
+		"correct_text": "dos veces al día.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "El plan de limpieza y desinfección, tiene un objetivo, que es…",
+		"options": {
+			"a": "contratar a más personas para lograr generar un mayor empleo.",
+			"b": "mantener los útiles de la empresa limpios únicamente.",
+			"c": "mantener las instalaciones, equipos, mobiliario y útiles de la empresa en el estado adecuado.",
+			"d": "verificar las conexiones del agua de la empresa."
+		},
+		"correct": "c",
+		"correct_text": "mantener las instalaciones, equipos, mobiliario y útiles de la empresa en el estado adecuado.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "Entre las características del sistema de autocontrol, encontramos…",
+		"options": {
+			"a": "los operadores alimentarios no son responsables de sus actos.",
+			"b": "el sistema de autocontrol debe dejar de garantizar la seguridad.",
+			"c": "la Autoridad Sanitaria establece un marco de exigencia mínimo.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "c",
+		"correct_text": "la Autoridad Sanitaria establece un marco de exigencia mínimo.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "La documentación de la parte general, en la información de la empresa, debe incluir…",
+		"options": {
+			"a": "el plano o croquis actualizado del establecimiento alimentario.",
+			"b": "los irresponsables del sistema de autocontrol.",
+			"c": "la razón legal y dirección del establecimiento.",
+			"d": "el número de identificación en el Registro de empresas."
+		},
+		"correct": "a",
+		"correct_text": "el plano o croquis actualizado del establecimiento alimentario.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "En el control de la recepción de la mercancía, si se trata de productos perecederos…",
+		"options": {
+			"a": "se comprueban las características organolépticas.",
+			"b": "se comprueba la temperatura a la recepción del lote.",
+			"c": "se comprueba la fecha de caducidad y el correcto etiquetado.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Para hacer un buen uso de los envases, se debe…",
+		"options": {
+			"a": "garantizar una eficaz protección del alimento.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "tener el material autorizado para el uso alimentario.",
+			"d": "estar exentos de suciedad o polvo, entre otros."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el plan de mantenimiento de la cadena de frío, es de suma importancia…",
+		"options": {
+			"a": "que la industria realice un control periódico de los equipos.",
+			"b": "contar con el género adecuado.",
+			"c": "que la industria realice un control periódico de las temperaturas.",
+			"d": "que no se tengan necesidades."
+		},
+		"correct": "c",
+		"correct_text": "que la industria realice un control periódico de las temperaturas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "El documento donde se indica la composición y elaboración de cada producto, se denomina…",
+		"options": {
+			"a": "razón social de la empresa.",
+			"b": "ficha técnica del producto.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "documento de identificación del producto."
+		},
+		"correct": "b",
+		"correct_text": "ficha técnica del producto.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el documento de control de producción y loteado, se suele incluir…",
+		"options": {
+			"a": "la cantidad de materias primas y la fecha de recepción de las mismas.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "el control organoléptico previo a la utilización de las materias primas.",
+			"d": "las materias primas utilizadas."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre las medidas, en el control de plagas, se recomienda…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "evitar los acúmulos de agua.",
+			"c": "el no uso de las trampas eléctricas.",
+			"d": "la no revisión de los embalajes y pales."
+		},
+		"correct": "b",
+		"correct_text": "evitar los acúmulos de agua.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre las normas para la eliminación de desperdicios y basuras, nos encontramos con…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "mantener los contenedores exteriores cerrados.",
+			"c": "utilizar cubos o contenedores de basura dotados de tapa y apertura a pedal.",
+			"d": "lavarse y desinfectarse las manos tras la evacuación de la basura."
+		},
+		"correct": "a",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El objetivo del Plan de formación de los manipuladores es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "que éstos dispongan de una formación adecuada en atención al cliente.",
+			"c": "que éstos dispongan de una formación adecuada en higiene.",
+			"d": "lograr adquirir conocimientos."
+		},
+		"correct": "c",
+		"correct_text": "que éstos dispongan de una formación adecuada en higiene.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En los productos en refrigeración, la temperatura máxima debe ser de…",
+		"options": {
+			"a": "5 grados.",
+			"b": "8 grados.",
+			"c": "0 grados.",
+			"d": "3 grados."
+		},
+		"correct": "a",
+		"correct_text": "5 grados.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "Entre las empresas que requieren una trazabilidad hacia atrás e interna, encontramos…",
+		"options": {
+			"a": "empresas que elaboran comidas preparadas y las suministran al consumidor final.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "empresas que únicamente distribuyen productos a otras empresas.",
+			"d": "empresas que elaboran comidas preparadas y las distribuyen a empresas."
+		},
+		"correct": "a",
+		"correct_text": "empresas que elaboran comidas preparadas y las suministran al consumidor final.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "En la verificación del plan de limpieza y desinfección, debe incluir…",
+		"options": {
+			"a": "la toma de muestras de las personas.",
+			"b": "el uso de lejía.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "la toma de muestras de superficies de útiles y equipos."
+		},
+		"correct": "d",
+		"correct_text": "la toma de muestras de superficies de útiles y equipos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Todos los productos plaguicidas aplicados deben…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "ser conocidos dentro del mundo de la limpieza.",
+			"c": "estar comprados por la empresa.",
+			"d": "estar autorizados para el control y la eliminación de plagas."
+		},
+		"correct": "d",
+		"correct_text": "estar autorizados para el control y la eliminación de plagas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En las características del sistema de autocontrol, “el control de peligros debe estar basado en…”",
+		"options": {
+			"a": "lo que digan unas pocas personas.",
+			"b": "pautas y criterios legales.",
+			"c": "el pensamiento de los líderes de las empresas.",
+			"d": "el criterio de una sola persona."
+		},
+		"correct": "b",
+		"correct_text": "pautas y criterios legales.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El objetivo del plan de certificación de los proveedores es…",
+		"options": {
+			"a": "asegurar que los suministros no incorporen peligros significativos.",
+			"b": "lograr contratar servicios de limpieza adecuados.",
+			"c": "lograr que la empresa tenga un gran renombre.",
+			"d": "lograr que la empresa crezca."
+		},
+		"correct": "a",
+		"correct_text": "asegurar que los suministros no incorporen peligros significativos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los responsables de la empresa deben realizar una inspección visual…",
+		"options": {
+			"a": "mensual.",
+			"b": "diaria.",
+			"c": "anual.",
+			"d": "trimestral."
+		},
+		"correct": "b",
+		"correct_text": "diaria.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "Entre las medidas en el plan de control de plagas, podemos encontrar…",
+		"options": {
+			"a": "el adecuado diseño y construcción de los locales.",
+			"b": "el empleo de mosquiteras en sus ventanas.",
+			"c": "el empleo de contenedores y recipientes.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Para desarrollar un sistema de autocontrol, se deben analizar inicialmente…",
+		"options": {
+			"a": "las necesidades de la empresa.",
+			"b": "los diagramas de flujo.",
+			"c": "los indicadores de la empresa.",
+			"d": "los diagramas de barras."
+		},
+		"correct": "b",
+		"correct_text": "los diagramas de flujo.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "¿Mediante qué documento se controlan documentalmente los lotes y productos elaborados diariamente?",
+		"options": {
+			"a": "mediante el documento requerido por las instituciones sanitarias.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "mediante el documento de salida del producto.",
+			"d": "mediante el documento de control de producción y loteado."
+		},
+		"correct": "d",
+		"correct_text": "mediante el documento de control de producción y loteado.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre los requisitos mínimos que deben cumplir los proveedores, encontramos…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "los documentos acreditativos de nombre de empresa.",
+			"c": "las especificaciones de calidad y microbiológicas.",
+			"d": "las condiciones de vuelo de las materias primas."
+		},
+		"correct": "c",
+		"correct_text": "las especificaciones de calidad y microbiológicas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "La verificación, permite comprobar…",
+		"options": {
+			"a": "el sistema de evaluación de los productos.",
+			"b": "el sistema de ubicación de los productos.",
+			"c": "el sistema de autocontrol y que asegura la inocuidad de los alimentos.",
+			"d": "el sistema de organización de la empresa."
+		},
+		"correct": "c",
+		"correct_text": "el sistema de autocontrol y que asegura la inocuidad de los alimentos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Cuando la formación se realice directamente por la empresa alimentaria, el programa de formación será diseñado o impartido…",
+		"options": {
+			"a": "por personal externo de la empresa acreditado documentalmente para ello.",
+			"b": "por personal externo a la empresa.",
+			"c": "por los jefes de la propia empresa.",
+			"d": "por personal interno de la empresa acreditado documentalmente para ello."
+		},
+		"correct": "d",
+		"correct_text": "por personal interno de la empresa acreditado documentalmente para ello.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En las carnes, las características organolépticas serán adecuadas en un producto en buen estado cuando…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "no se vea un brillo en el corte.",
+			"c": "la consistencia de la carne no sea firme.",
+			"d": "tenga un color y un olor propio de la carne."
+		},
+		"correct": "d",
+		"correct_text": "tenga un color y un olor propio de la carne.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la pegatina de control de recepción de un producto, debe aparecer…",
+		"options": {
+			"a": "la caducidad y la temperatura de salida.",
+			"b": "el nombre del producto y la recepción del lote.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "la fecha de salida y el control organoléptico."
+		},
+		"correct": "b",
+		"correct_text": "el nombre del producto y la recepción del lote.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El sistema de autocontrol se divide en…",
+		"options": {
+			"a": "el análisis de peligros y puntos críticos de control.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "el plan general de higiene.",
+			"d": "los aspectos generales."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El registro donde se controlan las salidas de productos o distribución, se denomina como…",
+		"options": {
+			"a": "registro interno.",
+			"b": "registro de salidas.",
+			"c": "registro de envío.",
+			"d": "registro de control de salidas."
+		},
+		"correct": "d",
+		"correct_text": "registro de control de salidas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El plan de control del agua, tiene como objetivo…",
+		"options": {
+			"a": "verificar el agua que bebemos.",
+			"b": "descontrolar el sistema de agua del establecimiento.",
+			"c": "garantizar que el agua utilizada no afecta a la salubridad y a la seguridad de las personas.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "c",
+		"correct_text": "garantizar que el agua utilizada no afecta a la salubridad y a la seguridad de las personas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "La auditoría interna tiene como objetivo…",
+		"options": {
+			"a": "determinar la organización de la empresa.",
+			"b": "determinar los beneficios de la empresa.",
+			"c": "determinar si el sistema APPCC se ha implantado correctamente.",
+			"d": "determinar si los productos alimenticios son tratados adecuadamente."
+		},
+		"correct": "c",
+		"correct_text": "determinar si el sistema APPCC se ha implantado correctamente.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El plan de mantenimiento de instalaciones y equipos, tiene como objetivo…",
+		"options": {
+			"a": "asegurar el correcto funcionamiento de las instalaciones, maquinaria y equipos.",
+			"b": "ninguna de las respuestas anteriores es correcta.",
+			"c": "dar conocimiento de los problemas en la maquinaria de la empresa.",
+			"d": "dejar obsoletos todos los útiles de la empresa."
+		},
+		"correct": "a",
+		"correct_text": "asegurar el correcto funcionamiento de las instalaciones, maquinaria y equipos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El conjunto de procedimientos y prácticas que cumplen los requisitos legales de higiene para controlar los riesgos alimentarios, es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "el plan general de higiene.",
+			"c": "el plan legal de higiene.",
+			"d": "el plan social de higiene."
+		},
+		"correct": "b",
+		"correct_text": "el plan general de higiene.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el plan de eliminación de residuos, los residuos sólidos deben ser depositados en…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "cubos normales de limpieza.",
+			"c": "en el suelo.",
+			"d": "en bolsas de basura o en contenedores de basura con tapadera."
+		},
+		"correct": "d",
+		"correct_text": "en bolsas de basura o en contenedores de basura con tapadera.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre las medidas de control e higiene, podemos encontrar…",
+		"options": {
+			"a": "analizar y evaluar los posibles riesgos.",
+			"b": "establecer procedimientos de verificación.",
+			"c": "determinar los puntos de control críticos.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El objetivo del plan de eliminación de residuos es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "evitar que los residuos o subproductos generados por la empresa produzcan contaminaciones cruzadas.",
+			"c": "lograr que los residuos no queden en la basura.",
+			"d": "lograr un mayor beneficio para la empresa y una mayor producción."
+		},
+		"correct": "b",
+		"correct_text": "evitar que los residuos o subproductos generados por la empresa produzcan contaminaciones cruzadas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "En caso de contratar algún servicio de recogida de residuos específicos, los albaranes de recogida, deberán ser archivados durante al menos…",
+		"options": {
+			"a": "1 año.",
+			"b": "2 años.",
+			"c": "5 años.",
+			"d": "7 años."
+		},
+		"correct": "b",
+		"correct_text": "2 años.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"rara": "si"
+	},
+	{
+		"question": "El objetivo del plan de control de plagas es…",
+		"options": {
+			"a": "lograr la existencia de cualquier plaga.",
+			"b": "ver la contaminación de equipos y útiles de la empresa.",
+			"c": "desinfectar los equipos y útiles de la empresa.",
+			"d": "evitar la existencia de cualquier plaga en la industria."
+		},
+		"correct": "d",
+		"correct_text": "evitar la existencia de cualquier plaga en la industria.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Las medidas preventivas de higiene en función de la normativa legal y las guías del sector alimentario, se pueden dividir en…",
+		"options": {
+			"a": "criterios cuantitativos y cualitativos.",
+			"b": "criterios fijos y variables.",
+			"c": "criterios primarios y secundarios.",
+			"d": "criterios principales y no principales."
+		},
+		"correct": "a",
+		"correct_text": "criterios cuantitativos y cualitativos.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Todas aquellas empresas que puedan aplicar un sistema de autocontrol, su aplicación se debe apoyar en…",
+		"options": {
+			"a": "un mecanismo informático.",
+			"b": "un mecanismo irreal.",
+			"c": "un mecanismo flexible.",
+			"d": "un mecanismo inflexible."
+		},
+		"correct": "c",
+		"correct_text": "un mecanismo flexible.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre las características del sistema de autocontrol, encontramos que “los requisitos mínimos deben estar al alcance de…”",
+		"options": {
+			"a": "las pequeñas empresas, únicamente.",
+			"b": "las pequeñas empresas, además de las medianas y grandes empresas.",
+			"c": "grandes empresas, únicamente.",
+			"d": "todas las personas."
+		},
+		"correct": "b",
+		"correct_text": "las pequeñas empresas, además de las medianas y grandes empresas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Es necesario disponer de un plan de mantenimiento adecuado de locales, instalaciones y maquinaria…",
+		"options": {
+			"a": "adecuado al volumen de la empresa.",
+			"b": "adecuado al volumen de ventas de la empresa.",
+			"c": "adecuado al tamaño de las instalaciones de la empresa.",
+			"d": "adecuado a las necesidades de la empresa."
+		},
+		"correct": "c",
+		"correct_text": "adecuado al tamaño de las instalaciones de la empresa.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los contenidos de la formación para los manipuladores incluirán…",
+		"options": {
+			"a": "las prácticas incorrectas de higiene y sus consecuencias.",
+			"b": "los fundamentos y prácticas correctas de higiene.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "los conocimientos básicos en materia de higiene alimentaria."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los residuos generados por la empresa suelen ser…",
+		"options": {
+			"a": "materiales de envases.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "embalajes de ingredientes.",
+			"d": "residuos sólidos."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Se define como “el conjunto de procedimientos basados en el APPCC, que las empresas alimentarias, de forma obligatoria, ponen en práctica de forma permanente”",
+		"options": {
+			"a": "el sistema de autodisciplina.",
+			"b": "el sistema de autogestión.",
+			"c": "el sistema de autocontrol.",
+			"d": "el sistema de autolavado."
+		},
+		"correct": "c",
+		"correct_text": "el sistema de autocontrol",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "El diseño de instalaciones y equipos comprende…",
+		"options": {
+			"a": "el tamaño de las dependencias que faciliten las actividades de la empresa.",
+			"b": "la construcción y emplazamiento de la industria.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "el tamaño de los pasillos y salas."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre las empresas que requieren una trazabilidad hacia atrás, interna del proceso y hacia delante, nos encontramos…",
+		"options": {
+			"a": "con empresas dedicadas a la producción primaria.",
+			"b": "empresas que elaboran comidas preparadas.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "con empresas que procesan y distribuyen alimentos a otras empresas."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	},
+	{
+		"question": "Las guías de buenas prácticas de manipulación deben incluir…",
+		"options": {
+			"a": "la recepción de materias primas y envases.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "el mantenimiento de los productos elaborados.",
+			"d": "las normas de higiene personal."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas",
+		"asignatura": "control_alimentario",
+		"tema": "tema4"
+	}
 ]

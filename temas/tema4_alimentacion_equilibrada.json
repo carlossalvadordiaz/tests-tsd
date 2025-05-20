@@ -1,691 +1,717 @@
 [
-  {
-    "question": "La ingesta recomendada se estima para determinados grupos…",
-    "options": {
-      "a": "desiguales de situación fisiológica.",
-      "b": "homogéneos de edad, sexo o actividad física.",
-      "c": "ninguna respuestas de las anteriores es correcta.",
-      "d": "heterogéneos de edad o actividad física."
-    },
-    "correct": "b",
-    "correct_text": "homogéneos de edad, sexo o actividad física.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Las principales limitaciones de la evaluación clínica del estado nutricional, son…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "pocos signos clínicos que son bastante específicos.",
-      "c": "la mente puede controlar algunos signos.",
-      "d": "un signo clínico se debe a la deficiencia de un nutriente."
-    },
-    "correct": "a",
-    "correct_text": "ninguna de las respuestas anteriores es correcta.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "El estudio de la composición corporal, se encarga de…",
-    "options": {
-      "a": "la medición en vivo de los diferentes componentes del organismo.",
-      "b": "la medición en diferido de diferentes necesidades del ser humano.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "la medición en diferido de los diferentes componentes del organismo."
-    },
-    "correct": "a",
-    "correct_text": "la medición en vivo de los diferentes componentes del organismo.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "¿Cómo deben ser las proteínas en una buena dieta…?",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "nulas.",
-      "c": "de alto valor biológico.",
-      "d": "de bajo valor biológico."
-    },
-    "correct": "c",
-    "correct_text": "de alto valor biológico.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre los índices que indican la calidad de una dieta, encontramos…",
-    "options": {
-      "a": "el perfil calórico y la energía.",
-      "b": "la densidad de nutrientes y el número de calorías diarias.",
-      "c": "la calidad de los macronutrientes y la calidad de las grasas de la dieta.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la pirámide nutricional de Australia, en el primer nivel se introducen…",
-    "options": {
-      "a": "los cereales.",
-      "b": "la carne.",
-      "c": "las legumbres, frutas y hortalizas.",
-      "d": "el aceite de oliva."
-    },
-    "correct": "c",
-    "correct_text": "las legumbres, frutas y hortalizas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "La grasa en la cavidad abdominal, se asocia con…",
-    "options": {
-      "a": "diabetes tipo V.",
-      "b": "mayor riesgo de enfermedades coronarias.",
-      "c": "menor riesgo de hipertensión.",
-      "d": "no se relaciona con el cáncer."
-    },
-    "correct": "b",
-    "correct_text": "mayor riesgo de enfermedades coronarias.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "¿Qué criterio de las tablas de composición de alimentos, se define como “los valores que representen una buena estimación de la composición habitual de los alimentos en las formas consumidas…”?",
-    "options": {
-      "a": "datos representativos.",
-      "b": "descriptores de alimentos claros.",
-      "c": "datos con una claridad analítica satisfactoria.",
-      "d": "cobertura amplia de alimentos y nutrientes."
-    },
-    "correct": "a",
-    "correct_text": "datos representativos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "¿Cuál es la base de una alimentación equilibrada?",
-    "options": {
-      "a": "la adecuada elección y combinación de alimentos, que aporten los nutrientes necesarios.",
-      "b": "la elección de productos químicos, que no aporten nutrientes necesarios.",
-      "c": "la no adecuada elección y combinación de alimentos, sin aportar los nutrientes necesarios.",
-      "d": "la buena elección de objetos, que aporten nutrientes necesarios."
-    },
-    "correct": "a",
-    "correct_text": "la adecuada elección y combinación de alimentos, que aporten los nutrientes necesarios.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los valores de las tablas de composición de alimentos, son…",
-    "options": {
-      "a": "valores traza.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "valores desconocidos.",
-      "d": "valores numéricos y valores cero."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "La ingesta recomendada indica…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "la cantidad más alta de cada uno de los nutrientes que debe ingerirse.",
-      "c": "la cantidad máxima de cada uno de los nutrientes que debe ingerirse.",
-      "d": "la cantidad necesaria de cada uno de los nutrientes que debe ingerirse."
-    },
-    "correct": "d",
-    "correct_text": "la cantidad necesaria de cada uno de los nutrientes que debe ingerirse.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre los criterios para realizar una tabla de composición de alimentos encontramos…",
-    "options": {
-      "a": "la cobertura amplia de alimentos y nutrientes.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "los descriptores de alimentos claros.",
-      "d": "deben ser de fácil uso y comprensión."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Respecto a los minerales, la ingesta de sal debe ser…",
-    "options": {
-      "a": "menor a 5 gramos al día.",
-      "b": "entre 5 y 7’5 gramos al día.",
-      "c": "mayor a 5 gramos al día.",
-      "d": "mayor a 10 gramos al día."
-    },
-    "correct": "a",
-    "correct_text": "menor a 5 gramos al día.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "El índice de masa corporal, relaciona…",
-    "options": {
-      "a": "la edad con la altura.",
-      "b": "la masa grasa con la altura.",
-      "c": "la masa corporal con la altura.",
-      "d": "la edad con el sexo."
-    },
-    "correct": "c",
-    "correct_text": "la masa corporal con la altura.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la cena, se deben aportar un total de las calorías diarias del…",
-    "options": {
-      "a": "20 a 25%.",
-      "b": "5%.",
-      "c": "9%.",
-      "d": "10 a 15%."
-    },
-    "correct": "a",
-    "correct_text": "20 a 25%.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Dentro del índice de masa corporal, se considera obesidad de Tipo I, cuando se está entre…",
-    "options": {
-      "a": "30 y 34,9.",
-      "b": "25 - 26,9.",
-      "c": "18,5 y 24,9.",
-      "d": "40 y 49.9."
-    },
-    "correct": "a",
-    "correct_text": "30 y 34,9.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "¿Cuál es el objetivo de las guías alimentarias?",
-    "options": {
-      "a": "dar a conocer a la población el patrón de una alimentación saludable.",
-      "b": "todas las respuestas anteriores son incorrectas.",
-      "c": "no dar a conocer a la población el patrón de una alimentación saludable.",
-      "d": "dar a conocer a la población el patrón de una alimentación poco saludable."
-    },
-    "correct": "a",
-    "correct_text": "dar a conocer a la población el patrón de una alimentación saludable.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los índices que se usan en las antropometrías son…",
-    "options": {
-      "a": "los pliegues cutáneos, únicamente.",
-      "b": "el IMC, el ICC y los pliegues cutáneos.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "el IMC, únicamente."
-    },
-    "correct": "b",
-    "correct_text": "el IMC, el ICC y los pliegues cutáneos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Para el cálculo de los requerimientos de los nutrientes se acude a…",
-    "options": {
-      "a": "requerimientos totales.",
-      "b": "requerimientos poblacionales.",
-      "c": "requerimientos medios.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "requerimientos poblacionales.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los ácidos grasos trans, incrementan los niveles de LDL, reducen y los de HDL y alteran la sensibilidad a…",
-    "options": {
-      "a": "la acción de ciertas pastillas.",
-      "b": "la acción de la insulina.",
-      "c": "la acción del azúcar.",
-      "d": "la acción de ciertas bacterias."
-    },
-    "correct": "b",
-    "correct_text": "la acción de la insulina.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Las guías alimentarias se presentan…",
-    "options": {
-      "a": "en forma de representaciones gráficas.",
-      "b": "en forma de lista.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "en forma de tabla."
-    },
-    "correct": "a",
-    "correct_text": "en forma de representaciones gráficas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "La cantidad mínima del nutriente que permite conseguir un adecuado desarrollo físico y psíquico, es…",
-    "options": {
-      "a": "la necesidad mínima.",
-      "b": "la necesidad máxima.",
-      "c": "el requerimiento mínimo.",
-      "d": "el requerimiento óptimo."
-    },
-    "correct": "d",
-    "correct_text": "el requerimiento óptimo.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "La rueda de los alimentos, de SEDCA 2019, ¿cuántos grupos diferencia?_____.",
-    "options": {
-      "a": "8 grupos",
-      "b": "6 grupos.",
-      "c": "5 grupos.",
-      "d": "3 grupos."
-    },
-    "correct": "b",
-    "correct_text": "6 grupos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los requerimientos nutricionales son…",
-    "options": {
-      "a": "la cantidad de todos y cada uno de los nutrientes que debe ingerir un individuo.",
-      "b": "la cantidad de todos y cada uno de los nutrientes que debe ingerir un animal.",
-      "c": "la cantidad de todos y cada uno de los nutrientes que debe ingerir una planta.",
-      "d": "la cantidad de todos y cada uno de los alimentos que debe ingerir un individuo."
-    },
-    "correct": "a",
-    "correct_text": "la cantidad de todos y cada uno de los nutrientes que debe ingerir un individuo.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Definido como “la ingesta que satisface las necesidades del 50% de los individuos sanos de un determinado grupo de edad y género”, es…",
-    "options": {
-      "a": "la ingesta dietética suficiente.",
-      "b": "el límite superior tolerable de la ingesta.",
-      "c": "el requerimiento medio estimado.",
-      "d": "el límite inferior de la ingesta."
-    },
-    "correct": "c",
-    "correct_text": "el requerimiento medio estimado.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Los requerimientos nutricionales de proteínas, marcan que un ser humano necesita…",
-    "options": {
-      "a": "0,8g por kg de peso al día.",
-      "b": "1,5g por kg de peso al día.",
-      "c": "0,5g por kg de peso al día.",
-      "d": "2g por kg de peso al día."
-    },
-    "correct": "a",
-    "correct_text": "0,8g por kg de peso al día.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "La cineantropometría, se define como…",
-    "options": {
-      "a": "ninguna de las anteriores respuestas es correcta.",
-      "b": "la disciplina que estudia el cuerpo humano.",
-      "c": "la disciplina que estudia el cuerpo de un animal.",
-      "d": "la disciplina que estudia las plantas."
-    },
-    "correct": "b",
-    "correct_text": "la disciplina que estudia el cuerpo humano.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Dentro de la valoración del estado nutricional, encontramos…",
-    "options": {
-      "a": "la evaluación química del estado nutricional.",
-      "b": "la evaluación de la composición corporal, únicamente.",
-      "c": "ninguna de las respuestas anteriores es correcta.",
-      "d": "la evaluación de la composición corporal y la evaluación bioquímica del estado nutricional, entre otros."
-    },
-    "correct": "d",
-    "correct_text": "la evaluación de la composición corporal y la evaluación bioquímica del estado nutricional, entre otros.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la pirámide nutricional de Australia, los frutos secos se encuentran…",
-    "options": {
-      "a": "en la primera fase.",
-      "b": "en la cuarta fase.",
-      "c": "en la tercera fase.",
-      "d": "en la segunda fase."
-    },
-    "correct": "c",
-    "correct_text": "en la tercera fase.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la pirámide de hidratación saludable, encontramos que se debe hacer un uso diario, del consumo de…",
-    "options": {
-      "a": "café.",
-      "b": "Agua.",
-      "c": "bebidas alcohólicas.",
-      "d": "bebidas refrescantes."
-    },
-    "correct": "b",
-    "correct_text": "Agua.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Las tablas de composición de alimentos, se utilizan para…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "para la planificación de la dieta de un individuo.",
-      "c": "ambas respuestas son correctas.",
-      "d": "calcular la ingesta de nutrientes de un individuo."
-    },
-    "correct": "c",
-    "correct_text": "ambas respuestas son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "El tejido graso afecta a…",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "el sistema metabólico.",
-      "c": "el sistema inmunológico.",
-      "d": "el sistema inflamatorio."
-    },
-    "correct": "a",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En cuanto a los requerimientos nutricionales de proteínas, la complementación…",
-    "options": {
-      "a": "no puede compensarse el déficit de un aminoácido con otro.",
-      "b": "puede compensar el déficit de un determinado aminoácido.",
-      "c": "puede no compensar el déficit de proteínas.",
-      "d": "ninguna de las respuestas anteriores es correcta."
-    },
-    "correct": "b",
-    "correct_text": "puede compensar el déficit de un determinado aminoácido.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el plato de Harvard, diferenciamos entre…",
-    "options": {
-      "a": "4 partes fundamentales.",
-      "b": "2 partes fundamentales.",
-      "c": "5 partes fundamentales.",
-      "d": "3 partes fundamentales."
-    },
-    "correct": "a",
-    "correct_text": "4 partes fundamentales.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "La alimentación, es un proceso…",
-    "options": {
-      "a": "educable.",
-      "b": "todas las respuestas anteriores son correctas.",
-      "c": "consciente.",
-      "d": "voluntario."
-    },
-    "correct": "b",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre los componentes de la composición corporal, encontramos…",
-    "options": {
-      "a": "el modelo tricompartimental.",
-      "b": "el modelo pentacompartimental.",
-      "c": "el modelo bicompartimental.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Entre las diferentes técnicas que sirven para evaluar los distintos componentes de la composición corporal, encontramos…",
-    "options": {
-      "a": "la impedancia bioeléctrica.",
-      "b": "la densitometría de rayos X de doble energía.",
-      "c": "todas las respuestas anteriores son correctas.",
-      "d": "las antropometrías."
-    },
-    "correct": "c",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el índice de cintura - cadera…",
-    "options": {
-      "a": "los hombres tienen una mayor proporción que las mujeres.",
-      "b": "la proporción depende de la edad.",
-      "c": "los hombres y las mujeres utilizan la misma proporción.",
-      "d": "las mujeres tienen una mayor proporción que los hombres."
-    },
-    "correct": "a",
-    "correct_text": "los hombres tienen una mayor proporción que las mujeres.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "El índice que mide la capacidad de un hidrato de carbono, para aumentar la glucemia en sangre una vez ingerido es…",
-    "options": {
-      "a": "ninguna de las respuestas anteriores es correcta.",
-      "b": "el índice glucémico.",
-      "c": "el índice protéico.",
-      "d": "el índice óptimo."
-    },
-    "correct": "b",
-    "correct_text": "el índice glucémico.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el consumo de los lípidos y la hiperlipidemia, se produce la principal causa, ¿de qué enfermedad?",
-    "options": {
-      "a": "todas las respuestas anteriores son correctas.",
-      "b": "cáncer.",
-      "c": "cirrosis.",
-      "d": "arteriopatía coronaria."
-    },
-    "correct": "d",
-    "correct_text": "arteriopatía coronaria.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Uno de los hidratos de carbono con un índice glucémico bajo, es…",
-    "options": {
-      "a": "la miel.",
-      "b": "la mermelada.",
-      "c": "la harina de trigo.",
-      "d": "las lentejas cocidas."
-    },
-    "correct": "d",
-    "correct_text": "las lentejas cocidas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la cima de la pirámide de la alimentación saludable encontramos…",
-    "options": {
-      "a": "el aceite de oliva.",
-      "b": "los productos procesados.",
-      "c": "las frutas, verduras y hortalizas.",
-      "d": "los cereales, pan o pasta."
-    },
-    "correct": "b",
-    "correct_text": "los productos procesados.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el límite superior tolerable de la ingesta, es importante tener en cuenta…",
-    "options": {
-      "a": "el uso de la comida.",
-      "b": "el uso del agua.",
-      "c": "el uso de ciertas comidas.",
-      "d": "el uso de suplementos nutricionales."
-    },
-    "correct": "d",
-    "correct_text": "el uso de suplementos nutricionales.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Algunas deficiencias en la piel, se pueden deber a la falta de…",
-    "options": {
-      "a": "vitamina K.",
-      "b": "vitamina E.",
-      "c": "Proteínas.",
-      "d": "vitamina C."
-    },
-    "correct": "b",
-    "correct_text": "vitamina E.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la cúspide de la pirámide de alimentación saludable encontramos…",
-    "options": {
-      "a": "los snacks, bollería y dulce.",
-      "b": "el pan, el arroz y la pasta.",
-      "c": "la leche y los derivados lácteos.",
-      "d": "las hortalizas, frutas y verduras."
-    },
-    "correct": "a",
-    "correct_text": "los snacks, bollería y dulce.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En los dos primeros grupos, de la rueda de los alimentos de SEDCA 2019, encontramos…",
-    "options": {
-      "a": "los reguladores.",
-      "b": "todas las respuestas anteriores son incorrectas.",
-      "c": "los energéticos.",
-      "d": "los formadores."
-    },
-    "correct": "c",
-    "correct_text": "los energéticos.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En el registro de los alimentos…",
-    "options": {
-      "a": "no debe durar menos de 3 días.",
-      "b": "el sujeto debe ser lo más riguroso posible al anotar su ingesta.",
-      "c": "el sujeto no debe ser nada preciso.",
-      "d": "es preferible que abarque 7 días."
-    },
-    "correct": "b",
-    "correct_text": "el sujeto debe ser lo más riguroso posible al anotar su ingesta.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En la evaluación clínica del estado nutricional, ¿qué signo puede mostrar que hay problemas en el sistema esquelético?",
-    "options": {
-      "a": "las hemorragias.",
-      "b": "la petequia.",
-      "c": "la osteomalacia.",
-      "d": "la cardiomegalia."
-    },
-    "correct": "c",
-    "correct_text": "la osteomalacia.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "En cuanto a la calidad de la grasa de la dieta, la ingesta de ácidos grasos trans debe ser…",
-    "options": {
-      "a": "menor al 1%.",
-      "b": "mayor al 1%.",
-      "c": "mayor al 3%.",
-      "d": "menor al 0’5%."
-    },
-    "correct": "a",
-    "correct_text": "menor al 1%.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Definido como “el modelo que divide la masa corporal en masa grasa, masa muscular, masa ósea y masa residual”, es…",
-    "options": {
-      "a": "el modelo tricompartimental.",
-      "b": "el modelo pentacompartimental.",
-      "c": "el modelo tetracompartimental.",
-      "d": "el modelo bicompartimental."
-    },
-    "correct": "c",
-    "correct_text": "el modelo tetracompartimental.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Las tablas de composición de alimentos suelen contener…",
-    "options": {
-      "a": "la fibra, los minerales y las vitaminas.",
-      "b": "porción comestible de un alimento y su energía.",
-      "c": "las proteínas, grasas o hidratos de carbono.",
-      "d": "todas las respuestas anteriores son correctas."
-    },
-    "correct": "d",
-    "correct_text": "todas las respuestas anteriores son correctas.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "Dentro del registro de alimentos, lo preferible es que abarque…",
-    "options": {
-      "a": "una semana completa.",
-      "b": "tan solo un día.",
-      "c": "3 días.",
-      "d": "el mes completo."
-    },
-    "correct": "c",
-    "correct_text": "3 días.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  },
-  {
-    "question": "El arroz integral cocido, se encuentra entre los productos con un índice glucémico…",
-    "options": {
-      "a": "medio.",
-      "b": "bajo.",
-      "c": "muy alto.",
-      "d": "alto."
-    },
-    "correct": "b",
-    "correct_text": "bajo.",
-    "asignatura": "alimentacion_equilibrada",
-    "tema": "tema4"
-  }
+	{
+		"question": "La ingesta recomendada se estima para determinados grupos…",
+		"options": {
+			"a": "desiguales de situación fisiológica.",
+			"b": "homogéneos de edad, sexo o actividad física.",
+			"c": "ninguna respuestas de las anteriores es correcta.",
+			"d": "heterogéneos de edad o actividad física."
+		},
+		"correct": "b",
+		"correct_text": "homogéneos de edad, sexo o actividad física.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Las principales limitaciones de la evaluación clínica del estado nutricional, son…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "pocos signos clínicos que son bastante específicos.",
+			"c": "la mente puede controlar algunos signos.",
+			"d": "un signo clínico se debe a la deficiencia de un nutriente."
+		},
+		"correct": "a",
+		"correct_text": "ninguna de las respuestas anteriores es correcta.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "El estudio de la composición corporal, se encarga de…",
+		"options": {
+			"a": "la medición en vivo de los diferentes componentes del organismo.",
+			"b": "la medición en diferido de diferentes necesidades del ser humano.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "la medición en diferido de los diferentes componentes del organismo."
+		},
+		"correct": "a",
+		"correct_text": "la medición en vivo de los diferentes componentes del organismo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "¿Cómo deben ser las proteínas en una buena dieta…?",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "nulas.",
+			"c": "de alto valor biológico.",
+			"d": "de bajo valor biológico."
+		},
+		"correct": "c",
+		"correct_text": "de alto valor biológico.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre los índices que indican la calidad de una dieta, encontramos…",
+		"options": {
+			"a": "el perfil calórico y la energía.",
+			"b": "la densidad de nutrientes y el número de calorías diarias.",
+			"c": "la calidad de los macronutrientes y la calidad de las grasas de la dieta.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la pirámide nutricional de Australia, en el primer nivel se introducen…",
+		"options": {
+			"a": "los cereales.",
+			"b": "la carne.",
+			"c": "las legumbres, frutas y hortalizas.",
+			"d": "el aceite de oliva."
+		},
+		"correct": "c",
+		"correct_text": "las legumbres, frutas y hortalizas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "La grasa en la cavidad abdominal, se asocia con…",
+		"options": {
+			"a": "diabetes tipo V.",
+			"b": "mayor riesgo de enfermedades coronarias.",
+			"c": "menor riesgo de hipertensión.",
+			"d": "no se relaciona con el cáncer."
+		},
+		"correct": "b",
+		"correct_text": "mayor riesgo de enfermedades coronarias.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "¿Qué criterio de las tablas de composición de alimentos, se define como “los valores que representen una buena estimación de la composición habitual de los alimentos en las formas consumidas…”?",
+		"options": {
+			"a": "datos representativos.",
+			"b": "descriptores de alimentos claros.",
+			"c": "datos con una claridad analítica satisfactoria.",
+			"d": "cobertura amplia de alimentos y nutrientes."
+		},
+		"correct": "a",
+		"correct_text": "datos representativos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "¿Cuál es la base de una alimentación equilibrada?",
+		"options": {
+			"a": "la adecuada elección y combinación de alimentos, que aporten los nutrientes necesarios.",
+			"b": "la elección de productos químicos, que no aporten nutrientes necesarios.",
+			"c": "la no adecuada elección y combinación de alimentos, sin aportar los nutrientes necesarios.",
+			"d": "la buena elección de objetos, que aporten nutrientes necesarios."
+		},
+		"correct": "a",
+		"correct_text": "la adecuada elección y combinación de alimentos, que aporten los nutrientes necesarios.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los valores de las tablas de composición de alimentos, son…",
+		"options": {
+			"a": "valores traza.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "valores desconocidos.",
+			"d": "valores numéricos y valores cero."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "La ingesta recomendada indica…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "la cantidad más alta de cada uno de los nutrientes que debe ingerirse.",
+			"c": "la cantidad máxima de cada uno de los nutrientes que debe ingerirse.",
+			"d": "la cantidad necesaria de cada uno de los nutrientes que debe ingerirse."
+		},
+		"correct": "d",
+		"correct_text": "la cantidad necesaria de cada uno de los nutrientes que debe ingerirse.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre los criterios para realizar una tabla de composición de alimentos encontramos…",
+		"options": {
+			"a": "la cobertura amplia de alimentos y nutrientes.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "los descriptores de alimentos claros.",
+			"d": "deben ser de fácil uso y comprensión."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Respecto a los minerales, la ingesta de sal debe ser…",
+		"options": {
+			"a": "menor a 5 gramos al día.",
+			"b": "entre 5 y 7’5 gramos al día.",
+			"c": "mayor a 5 gramos al día.",
+			"d": "mayor a 10 gramos al día."
+		},
+		"correct": "a",
+		"correct_text": "menor a 5 gramos al día.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "El índice de masa corporal, relaciona…",
+		"options": {
+			"a": "la edad con la altura.",
+			"b": "la masa grasa con la altura.",
+			"c": "la masa corporal con la altura.",
+			"d": "la edad con el sexo."
+		},
+		"correct": "c",
+		"correct_text": "la masa corporal con la altura.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la cena, se deben aportar un total de las calorías diarias del…",
+		"options": {
+			"a": "20 a 25%.",
+			"b": "5%.",
+			"c": "9%.",
+			"d": "10 a 15%."
+		},
+		"correct": "a",
+		"correct_text": "20 a 25%.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Dentro del índice de masa corporal, se considera obesidad de Tipo I, cuando se está entre…",
+		"options": {
+			"a": "30 y 34,9.",
+			"b": "25 - 26,9.",
+			"c": "18,5 y 24,9.",
+			"d": "40 y 49.9."
+		},
+		"correct": "a",
+		"correct_text": "30 y 34,9.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "¿Cuál es el objetivo de las guías alimentarias?",
+		"options": {
+			"a": "dar a conocer a la población el patrón de una alimentación saludable.",
+			"b": "todas las respuestas anteriores son incorrectas.",
+			"c": "no dar a conocer a la población el patrón de una alimentación saludable.",
+			"d": "dar a conocer a la población el patrón de una alimentación poco saludable."
+		},
+		"correct": "a",
+		"correct_text": "dar a conocer a la población el patrón de una alimentación saludable.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los índices que se usan en las antropometrías son…",
+		"options": {
+			"a": "los pliegues cutáneos, únicamente.",
+			"b": "el IMC, el ICC y los pliegues cutáneos.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "el IMC, únicamente."
+		},
+		"correct": "b",
+		"correct_text": "el IMC, el ICC y los pliegues cutáneos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Para el cálculo de los requerimientos de los nutrientes se acude a…",
+		"options": {
+			"a": "requerimientos totales.",
+			"b": "requerimientos poblacionales.",
+			"c": "requerimientos medios.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "b",
+		"correct_text": "requerimientos poblacionales.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los ácidos grasos trans, incrementan los niveles de LDL, reducen y los de HDL y alteran la sensibilidad a…",
+		"options": {
+			"a": "la acción de ciertas pastillas.",
+			"b": "la acción de la insulina.",
+			"c": "la acción del azúcar.",
+			"d": "la acción de ciertas bacterias."
+		},
+		"correct": "b",
+		"correct_text": "la acción de la insulina.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Las guías alimentarias se presentan…",
+		"options": {
+			"a": "en forma de representaciones gráficas.",
+			"b": "en forma de lista.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "en forma de tabla."
+		},
+		"correct": "a",
+		"correct_text": "en forma de representaciones gráficas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "La cantidad mínima del nutriente que permite conseguir un adecuado desarrollo físico y psíquico, es…",
+		"options": {
+			"a": "la necesidad mínima.",
+			"b": "la necesidad máxima.",
+			"c": "el requerimiento mínimo.",
+			"d": "el requerimiento óptimo."
+		},
+		"correct": "d",
+		"correct_text": "el requerimiento óptimo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "La rueda de los alimentos, de SEDCA 2019, ¿cuántos grupos diferencia?_____.",
+		"options": {
+			"a": "8 grupos",
+			"b": "6 grupos.",
+			"c": "5 grupos.",
+			"d": "3 grupos."
+		},
+		"correct": "b",
+		"correct_text": "6 grupos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los requerimientos nutricionales son…",
+		"options": {
+			"a": "la cantidad de todos y cada uno de los nutrientes que debe ingerir un individuo.",
+			"b": "la cantidad de todos y cada uno de los nutrientes que debe ingerir un animal.",
+			"c": "la cantidad de todos y cada uno de los nutrientes que debe ingerir una planta.",
+			"d": "la cantidad de todos y cada uno de los alimentos que debe ingerir un individuo."
+		},
+		"correct": "a",
+		"correct_text": "la cantidad de todos y cada uno de los nutrientes que debe ingerir un individuo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Definido como “la ingesta que satisface las necesidades del 50% de los individuos sanos de un determinado grupo de edad y género”, es…",
+		"options": {
+			"a": "la ingesta dietética suficiente.",
+			"b": "el límite superior tolerable de la ingesta.",
+			"c": "el requerimiento medio estimado.",
+			"d": "el límite inferior de la ingesta."
+		},
+		"correct": "c",
+		"correct_text": "el requerimiento medio estimado.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Los requerimientos nutricionales de proteínas, marcan que un ser humano necesita…",
+		"options": {
+			"a": "0,8g por kg de peso al día.",
+			"b": "1,5g por kg de peso al día.",
+			"c": "0,5g por kg de peso al día.",
+			"d": "2g por kg de peso al día."
+		},
+		"correct": "a",
+		"correct_text": "0,8g por kg de peso al día.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "La cineantropometría, se define como…",
+		"options": {
+			"a": "ninguna de las anteriores respuestas es correcta.",
+			"b": "la disciplina que estudia el cuerpo humano.",
+			"c": "la disciplina que estudia el cuerpo de un animal.",
+			"d": "la disciplina que estudia las plantas."
+		},
+		"correct": "b",
+		"correct_text": "la disciplina que estudia el cuerpo humano.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Dentro de la valoración del estado nutricional, encontramos…",
+		"options": {
+			"a": "la evaluación química del estado nutricional.",
+			"b": "la evaluación de la composición corporal, únicamente.",
+			"c": "ninguna de las respuestas anteriores es correcta.",
+			"d": "la evaluación de la composición corporal y la evaluación bioquímica del estado nutricional, entre otros."
+		},
+		"correct": "d",
+		"correct_text": "la evaluación de la composición corporal y la evaluación bioquímica del estado nutricional, entre otros.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la pirámide nutricional de Australia, los frutos secos se encuentran…",
+		"options": {
+			"a": "en la primera fase.",
+			"b": "en la cuarta fase.",
+			"c": "en la tercera fase.",
+			"d": "en la segunda fase."
+		},
+		"correct": "c",
+		"correct_text": "en la tercera fase.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la pirámide de hidratación saludable, encontramos que se debe hacer un uso diario, del consumo de…",
+		"options": {
+			"a": "café.",
+			"b": "Agua.",
+			"c": "bebidas alcohólicas.",
+			"d": "bebidas refrescantes."
+		},
+		"correct": "b",
+		"correct_text": "Agua.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Las tablas de composición de alimentos, se utilizan para…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "para la planificación de la dieta de un individuo.",
+			"c": "ambas respuestas son correctas.",
+			"d": "calcular la ingesta de nutrientes de un individuo."
+		},
+		"correct": "c",
+		"correct_text": "ambas respuestas son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "El tejido graso afecta a…",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "el sistema metabólico.",
+			"c": "el sistema inmunológico.",
+			"d": "el sistema inflamatorio."
+		},
+		"correct": "a",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En cuanto a los requerimientos nutricionales de proteínas, la complementación…",
+		"options": {
+			"a": "no puede compensarse el déficit de un aminoácido con otro.",
+			"b": "puede compensar el déficit de un determinado aminoácido.",
+			"c": "puede no compensar el déficit de proteínas.",
+			"d": "ninguna de las respuestas anteriores es correcta."
+		},
+		"correct": "b",
+		"correct_text": "puede compensar el déficit de un determinado aminoácido.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el plato de Harvard, diferenciamos entre…",
+		"options": {
+			"a": "4 partes fundamentales.",
+			"b": "2 partes fundamentales.",
+			"c": "5 partes fundamentales.",
+			"d": "3 partes fundamentales."
+		},
+		"correct": "a",
+		"correct_text": "4 partes fundamentales.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "La alimentación, es un proceso…",
+		"options": {
+			"a": "educable.",
+			"b": "todas las respuestas anteriores son correctas.",
+			"c": "consciente.",
+			"d": "voluntario."
+		},
+		"correct": "b",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre los componentes de la composición corporal, encontramos…",
+		"options": {
+			"a": "el modelo tricompartimental.",
+			"b": "el modelo pentacompartimental.",
+			"c": "el modelo bicompartimental.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Entre las diferentes técnicas que sirven para evaluar los distintos componentes de la composición corporal, encontramos…",
+		"options": {
+			"a": "la impedancia bioeléctrica.",
+			"b": "la densitometría de rayos X de doble energía.",
+			"c": "todas las respuestas anteriores son correctas.",
+			"d": "las antropometrías."
+		},
+		"correct": "c",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el índice de cintura - cadera…",
+		"options": {
+			"a": "los hombres tienen una mayor proporción que las mujeres.",
+			"b": "la proporción depende de la edad.",
+			"c": "los hombres y las mujeres utilizan la misma proporción.",
+			"d": "las mujeres tienen una mayor proporción que los hombres."
+		},
+		"correct": "a",
+		"correct_text": "los hombres tienen una mayor proporción que las mujeres.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "El índice que mide la capacidad de un hidrato de carbono, para aumentar la glucemia en sangre una vez ingerido es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores es correcta.",
+			"b": "el índice glucémico.",
+			"c": "el índice protéico.",
+			"d": "el índice óptimo."
+		},
+		"correct": "b",
+		"correct_text": "el índice glucémico.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el consumo de los lípidos y la hiperlipidemia, se produce la principal causa, ¿de qué enfermedad?",
+		"options": {
+			"a": "todas las respuestas anteriores son correctas.",
+			"b": "cáncer.",
+			"c": "cirrosis.",
+			"d": "arteriopatía coronaria."
+		},
+		"correct": "d",
+		"correct_text": "arteriopatía coronaria.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Uno de los hidratos de carbono con un índice glucémico bajo, es…",
+		"options": {
+			"a": "la miel.",
+			"b": "la mermelada.",
+			"c": "la harina de trigo.",
+			"d": "las lentejas cocidas."
+		},
+		"correct": "d",
+		"correct_text": "las lentejas cocidas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la cima de la pirámide de la alimentación saludable encontramos…",
+		"options": {
+			"a": "el aceite de oliva.",
+			"b": "los productos procesados.",
+			"c": "las frutas, verduras y hortalizas.",
+			"d": "los cereales, pan o pasta."
+		},
+		"correct": "b",
+		"correct_text": "los productos procesados.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el límite superior tolerable de la ingesta, es importante tener en cuenta…",
+		"options": {
+			"a": "el uso de la comida.",
+			"b": "el uso del agua.",
+			"c": "el uso de ciertas comidas.",
+			"d": "el uso de suplementos nutricionales."
+		},
+		"correct": "d",
+		"correct_text": "el uso de suplementos nutricionales.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Algunas deficiencias en la piel, se pueden deber a la falta de…",
+		"options": {
+			"a": "vitamina K.",
+			"b": "vitamina E.",
+			"c": "Proteínas.",
+			"d": "vitamina C."
+		},
+		"correct": "b",
+		"correct_text": "vitamina E.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la cúspide de la pirámide de alimentación saludable encontramos…",
+		"options": {
+			"a": "los snacks, bollería y dulce.",
+			"b": "el pan, el arroz y la pasta.",
+			"c": "la leche y los derivados lácteos.",
+			"d": "las hortalizas, frutas y verduras."
+		},
+		"correct": "a",
+		"correct_text": "los snacks, bollería y dulce.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En los dos primeros grupos, de la rueda de los alimentos de SEDCA 2019, encontramos…",
+		"options": {
+			"a": "los reguladores.",
+			"b": "todas las respuestas anteriores son incorrectas.",
+			"c": "los energéticos.",
+			"d": "los formadores."
+		},
+		"correct": "c",
+		"correct_text": "los energéticos.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En el registro de los alimentos…",
+		"options": {
+			"a": "no debe durar menos de 3 días.",
+			"b": "el sujeto debe ser lo más riguroso posible al anotar su ingesta.",
+			"c": "el sujeto no debe ser nada preciso.",
+			"d": "es preferible que abarque 7 días."
+		},
+		"correct": "b",
+		"correct_text": "el sujeto debe ser lo más riguroso posible al anotar su ingesta.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En la evaluación clínica del estado nutricional, ¿qué signo puede mostrar que hay problemas en el sistema esquelético?",
+		"options": {
+			"a": "las hemorragias.",
+			"b": "la petequia.",
+			"c": "la osteomalacia.",
+			"d": "la cardiomegalia."
+		},
+		"correct": "c",
+		"correct_text": "la osteomalacia.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "En cuanto a la calidad de la grasa de la dieta, la ingesta de ácidos grasos trans debe ser…",
+		"options": {
+			"a": "menor al 1%.",
+			"b": "mayor al 1%.",
+			"c": "mayor al 3%.",
+			"d": "menor al 0’5%."
+		},
+		"correct": "a",
+		"correct_text": "menor al 1%.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Definido como “el modelo que divide la masa corporal en masa grasa, masa muscular, masa ósea y masa residual”, es…",
+		"options": {
+			"a": "el modelo tricompartimental.",
+			"b": "el modelo pentacompartimental.",
+			"c": "el modelo tetracompartimental.",
+			"d": "el modelo bicompartimental."
+		},
+		"correct": "c",
+		"correct_text": "el modelo tetracompartimental.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Las tablas de composición de alimentos suelen contener…",
+		"options": {
+			"a": "la fibra, los minerales y las vitaminas.",
+			"b": "porción comestible de un alimento y su energía.",
+			"c": "las proteínas, grasas o hidratos de carbono.",
+			"d": "todas las respuestas anteriores son correctas."
+		},
+		"correct": "d",
+		"correct_text": "todas las respuestas anteriores son correctas.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Dentro del registro de alimentos, lo preferible es que abarque…",
+		"options": {
+			"a": "una semana completa.",
+			"b": "tan solo un día.",
+			"c": "3 días.",
+			"d": "el mes completo."
+		},
+		"correct": "c",
+		"correct_text": "3 días.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "El arroz integral cocido, se encuentra entre los productos con un índice glucémico…",
+		"options": {
+			"a": "medio.",
+			"b": "bajo.",
+			"c": "muy alto.",
+			"d": "alto."
+		},
+		"correct": "b",
+		"correct_text": "bajo.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "El nivel que agrupa el músculo esquelético y no esquelético, los tejidos blandos o el tejido adiposo, entre otros, es…",
+		"options": {
+			"a": "el nivel histológico o tisular.",
+			"b": "el nivel celular.",
+			"c": "el nivel molecular.",
+			"d": "el nivel atómico."
+		},
+		"correct": "a",
+		"correct_text": "el nivel histológico o tisular.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	},
+	{
+		"question": "Definido como “el estudio de las combinaciones de alimentos adecuadas para proporcionar una nutrición correcta en circunstancias concretas del individuo”, es…",
+		"options": {
+			"a": "ninguna de las respuestas anteriores son correctas.",
+			"b": "la alimentación.",
+			"c": "la nutrición.",
+			"d": "la dietética."
+		},
+		"correct": "d",
+		"correct_text": "la dietética.",
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4"
+	}
 ]
