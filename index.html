@@ -65,24 +65,24 @@
 		</style>
 	</head>
 	<body>
-		<a href="index.html">🔘 Preguntas tipo test</a>
-		<!-- <a href="preguntas_desarrollo.html">📝 Preguntas de desarrollo</a> -->
+		<!-- 	<a href="index.html">🔘 Preguntas tipo test</a>
+		<a href="preguntas_desarrollo.html">📝 Preguntas de desarrollo</a> -->
 
 		<h1>Test Interactivo TSD v2</h1>
-		<p>
-			<span>Corregido Alimentación equilibrada 1 y Dietoterapia general.</span>
-		</p>
-		<p>
-			<span>Los test generales son de 40 preguntas.</span>
-		</p>
-		<p>Corregida pregunta Fisiopatología tema 2.</p>
-		<p>Test generales de más preguntas</p>
+
 		<h2>By Carlos Salvador</h2>
 		<p>Cualquier fallo o sugerencia -> 696 106 783</p>
 		<h4>
 			Selecciona un tema y dale a comenzar test, al terminar las preguntas te
 			saldrá el resultado y los fallos.
 		</h4>
+		<label>
+			<h4>
+				<input type="checkbox" id="toggleCorrect" /> Activar modo Nichel (Esto
+				si que es para vagos😈)
+			</h4>
+		</label>
+		<p></p>
 
 		<label for="tema">Selecciona un tema:</label>
 		<select id="tema">
@@ -270,6 +270,14 @@
 					const btn = document.createElement("button");
 					btn.innerText = value;
 					btn.className = "option";
+
+					// Si está activo el modo pista, resaltar la correcta
+					if (showCorrectAnswer && key === question.correct) {
+						btn.style.border = "2px solid green";
+						btn.style.backgroundColor = "#e6ffed";
+						btn.style.fontWeight = "bold";
+					}
+
 					btn.onclick = () => {
 						userAnswers.push({ selected: key, question });
 						if (currentQuestionIndex + 1 < selectedQuestions.length) {
@@ -355,6 +363,13 @@ document.getElementById("score").innerText =
 					container.appendChild(div);
 				});
 			}
+			let showCorrectAnswer = false;
+			document
+				.getElementById("toggleCorrect")
+				.addEventListener("change", function () {
+					showCorrectAnswer = this.checked;
+					showQuestion();
+				});
 		</script>
 	</body>
 </html>
