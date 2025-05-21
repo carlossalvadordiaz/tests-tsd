@@ -1,0 +1,1660 @@
+[
+  {
+    "question": "La categoría de actividad en reposo, tiene un factor de actividad en el factor compensado de…",
+    "options": {
+      "a": "1,3.",
+      "b": "1.",
+      "c": "1,1.",
+      "d": "1,2."
+    },
+    "correct": "b",
+    "correct_text": "1.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "La categoría de actividad moderada, tiene un factor de actividad en el factor compensado de…",
+    "options": {
+      "a": "5.",
+      "b": "3.",
+      "c": "6.",
+      "d": "4."
+    },
+    "correct": "a",
+    "correct_text": "5.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Una kilocaloría equivale a…",
+    "options": {
+      "a": "1000 calorías.",
+      "b": "700 calorías.",
+      "c": "500 calorías.",
+      "d": "2000 calorías."
+    },
+    "correct": "a",
+    "correct_text": "1000 calorías.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la determinación del gasto energético total, en el factor recomendado, en los hombres se considera actividad moderada y se usa un factor…",
+    "options": {
+      "a": "1,90.",
+      "b": "1,78.",
+      "c": "1,4.",
+      "d": "1,10."
+    },
+    "correct": "b",
+    "correct_text": "1,78.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué porcentaje se atribuye a las proteínas en la termogénesis de los alimentos?",
+    "options": {
+      "a": "entre un 30 y 40 por ciento.",
+      "b": "entre un 15 y un 20 por ciento.",
+      "c": "entre un 3 y un 5 por ciento.",
+      "d": "entre un 2 y un 3 por ciento."
+    },
+    "correct": "b",
+    "correct_text": "entre un 15 y un 20 por ciento.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema1"
+  },
+  {
+    "question": "Entre las proteínas podemos encontrar 20 aminoácidos naturales, que se dividen en…:",
+    "options": {
+      "a": "10 esenciales y 10 no esenciales.",
+      "b": "9 esenciales, 9 no esenciales y 2 parcialmente esenciales.",
+      "c": "12 esenciales y 8 no esenciales.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "9 esenciales, 9 no esenciales y 2 parcialmente esenciales",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "La lipasa hidrolizada junto con los triglicéridos, dan lugar a…",
+    "options": {
+      "a": "3 monoglicéridos y 2 ácidos grasos.",
+      "b": "5 monoglicéridos y 4 ácidos grasos.",
+      "c": "4 monoglicéridos y 3 ácidos grasos.",
+      "d": "1 monoglicérido y 2 ácidos grasos."
+    },
+    "correct": "a",
+    "correct_text": "3 monoglicéridos y 2 ácidos grasos",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la fase postprandial, se produce un primer llenado de los depósitos hepáticos, este se produce cuando se llega a…",
+    "options": {
+      "a": "200 gramos.",
+      "b": "50 gramos.",
+      "c": "400 gramos.",
+      "d": "100 gramos."
+    },
+    "correct": "d",
+    "correct_text": "100 gramos",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "El intestino grueso es un conducto de aproximadamente…",
+    "options": {
+      "a": "2,5 metros.",
+      "b": "2 metros.",
+      "c": "1,5 metros.",
+      "d": "3 metros."
+    },
+    "correct": "c",
+    "correct_text": "1,5 metros",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si miramos la cantidad diaria recomendada de potasio, encontramos que debe ser de…",
+    "options": {
+      "a": "9g por día.",
+      "b": "1g por día.",
+      "c": "3 a 4g por día.",
+      "d": "6g por día."
+    },
+    "correct": "c",
+    "correct_text": "3 a 4g por día",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los minerales se dividen en dos grandes grupos, pero en nuestra dieta, ¿qué cantidad se necesita de macrominerales?",
+    "options": {
+      "a": "entre 50 y 100 mg/día.",
+      "b": "más de 100 mg/día.",
+      "c": "menos de 50 mg/día.",
+      "d": "menos de 100 mg/día."
+    },
+    "correct": "b",
+    "correct_text": "más de 100 mg/día",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Respecto a la ingesta de agua diaria, se considera que los adultos necesitan…",
+    "options": {
+      "a": "unos 50 ml/kg de peso.",
+      "b": "unos 20 ml/kg de peso.",
+      "c": "unos 25 ml/kg de peso.",
+      "d": "unos 35 ml/kg de peso."
+    },
+    "correct": "d",
+    "correct_text": "unos 35 ml/kg de peso",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En el peso corporal humano, ¿qué cantidad de agua representa la media?",
+    "options": {
+      "a": "un 40%,",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "un 80%.",
+      "d": "un 60%."
+    },
+    "correct": "d",
+    "correct_text": "un 60%",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En 60 gramos de huevo, podemos encontrar un total de…",
+    "options": {
+      "a": "78 kcal.",
+      "b": "20 kcal.",
+      "c": "50 kcal.",
+      "d": "100 kcal."
+    },
+    "correct": "a",
+    "correct_text": "78 kcal.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Un huevo fresco debe venderse al consumidor en…",
+    "options": {
+      "a": "los 30 días posteriores a la fecha de puesta.",
+      "b": "los 50 días posteriores a la fecha de puesta.",
+      "c": "los 10 días posteriores a la fecha de puesta.",
+      "d": "los 21 días posteriores a la fecha de puesta."
+    },
+    "correct": "d",
+    "correct_text": "los 21 días posteriores a la fecha de puesta.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "Los frutos secos, son aquellos frutos cuya parte comestible…",
+    "options": {
+      "a": "contiene más del 60% de agua.",
+      "b": "contiene menos del 50% de agua.",
+      "c": "contiene más del 50% de agua.",
+      "d": "contiene menos del 90% de agua."
+    },
+    "correct": "b",
+    "correct_text": "contiene menos del 50% de agua.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la estructura del huevo, esta está compuesta por…",
+    "options": {
+      "a": "4 partes.",
+      "b": "5 partes.",
+      "c": "3 partes.",
+      "d": "2 partes."
+    },
+    "correct": "c",
+    "correct_text": "3 partes.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En cuanto al valor nutricional de los cereales, contienen una cantidad de hidratos de carbono…",
+    "options": {
+      "a": "entre el 30 y 40 por ciento.",
+      "b": "entre el 70 y 75 por ciento.",
+      "c": "entre el 60 y 70 por ciento.",
+      "d": "entre el 20 y 30 por ciento."
+    },
+    "correct": "b",
+    "correct_text": "entre el 70 y 75 por ciento.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la estructura de huevo, está compuesta por…",
+    "options": {
+      "a": "4 partes.",
+      "b": "5 partes.",
+      "c": "3 partes.",
+      "d": "2 partes."
+    },
+    "correct": "c",
+    "correct_text": "3 partes",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema3"
+  },
+  {
+    "question": "Respecto a los minerales, la ingesta de sal debe ser…",
+    "options": {
+      "a": "menor a 5 gramos al día.",
+      "b": "entre 5 y 7’5 gramos al día.",
+      "c": "mayor a 5 gramos al día.",
+      "d": "mayor a 10 gramos al día."
+    },
+    "correct": "a",
+    "correct_text": "menor a 5 gramos al día.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la cena, se deben aportar un total de las calorías diarias del…",
+    "options": {
+      "a": "20 a 25%.",
+      "b": "5%.",
+      "c": "9%.",
+      "d": "10 a 15%."
+    },
+    "correct": "a",
+    "correct_text": "20 a 25%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "Dentro del índice de masa corporal, se considera obesidad de Tipo I, cuando se está entre…",
+    "options": {
+      "a": "30 y 34,9.",
+      "b": "25 - 26,9.",
+      "c": "18,5 y 24,9.",
+      "d": "40 y 49.9."
+    },
+    "correct": "a",
+    "correct_text": "30 y 34,9.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "La rueda de los alimentos, de SEDCA 2019, ¿cuántos grupos diferencia?_____.",
+    "options": {
+      "a": "8 grupos",
+      "b": "6 grupos.",
+      "c": "5 grupos.",
+      "d": "3 grupos."
+    },
+    "correct": "b",
+    "correct_text": "6 grupos.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los requerimientos nutricionales de proteínas, marcan que un ser humano necesita…",
+    "options": {
+      "a": "0,8g por kg de peso al día.",
+      "b": "1,5g por kg de peso al día.",
+      "c": "0,5g por kg de peso al día.",
+      "d": "2g por kg de peso al día."
+    },
+    "correct": "a",
+    "correct_text": "0,8g por kg de peso al día.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el plato de Harvard, diferenciamos entre…",
+    "options": {
+      "a": "4 partes fundamentales.",
+      "b": "2 partes fundamentales.",
+      "c": "5 partes fundamentales.",
+      "d": "3 partes fundamentales."
+    },
+    "correct": "a",
+    "correct_text": "4 partes fundamentales.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "En cuanto a la calidad de la grasa de la dieta, la ingesta de ácidos grasos trans debe ser…",
+    "options": {
+      "a": "menor al 1%.",
+      "b": "mayor al 1%.",
+      "c": "mayor al 3%.",
+      "d": "menor al 0’5%."
+    },
+    "correct": "a",
+    "correct_text": "menor al 1%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "Dentro del registro de alimentos, lo preferible es que abarque…",
+    "options": {
+      "a": "una semana completa.",
+      "b": "tan solo un día.",
+      "c": "3 días.",
+      "d": "el mes completo."
+    },
+    "correct": "c",
+    "correct_text": "3 días.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la etapa de lactación, el gasto energético se incrementa alrededor de…",
+    "options": {
+      "a": "un 10%.",
+      "b": "un 20%.",
+      "c": "un 5%.",
+      "d": "un 30%."
+    },
+    "correct": "b",
+    "correct_text": "un 20%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La adolescencia, en cuanto a la nutrición se refiere, es un período que comprende…",
+    "options": {
+      "a": "entre los 8 y los 15 años.",
+      "b": "entre los 15 y 20 años.",
+      "c": "entre los 10 y los 16 años.",
+      "d": "entre los 10 y 19 años."
+    },
+    "correct": "d",
+    "correct_text": "entre los 10 y 19 años.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la planificación dietética, en la etapa de gestación, es recomendable efectuar…",
+    "options": {
+      "a": "5 ingestas diarias.",
+      "b": "4 ingestas diarias.",
+      "c": "2 ingestas diarias.",
+      "d": "3 ingestas diarias."
+    },
+    "correct": "a",
+    "correct_text": "5 ingestas diarias.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "La ingesta recomendada de lípidos en los deportistas es de…",
+    "options": {
+      "a": "más del 30%.",
+      "b": "menos del 30%.",
+      "c": "más del 50%.",
+      "d": "menos del 10%."
+    },
+    "correct": "b",
+    "correct_text": "menos del 30%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la nutrición en la gestación, entre las características fisiológicas más relevantes, ¿cuál es la incorrecta?",
+    "options": {
+      "a": "se producen cambios metabólicos.",
+      "b": "se produce una ganancia de peso sobre 15 a 20 kg.",
+      "c": "se produce un aumento del volumen sanguíneo.",
+      "d": "se incrementa la sensación de hambre y sed."
+    },
+    "correct": "b",
+    "correct_text": "se produce una ganancia de peso sobre 15 a 20 kg.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se denomina como lactantes, a los niños comprendidos entre la edad…",
+    "options": {
+      "a": "de 0 a 12 meses.",
+      "b": "de 0 a 3 meses.",
+      "c": "de 1 año a 1 año y medio.",
+      "d": "de 1 a 2 años."
+    },
+    "correct": "a",
+    "correct_text": "de 0 a 12 meses.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las recomendaciones nutricionales en la niñez, es importante que el desayuno aporte…",
+    "options": {
+      "a": "el 15% del contenido energético diario.",
+      "b": "el 40% del contenido energético total diario.",
+      "c": "el 30% del contenido energético total diario.",
+      "d": "el 20 o 25% del contenido energético total diario."
+    },
+    "correct": "d",
+    "correct_text": "el 20 o 25% del contenido energético total diario.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre los requerimientos nutricionales en la gestación, la ingesta energética debe aumentar…",
+    "options": {
+      "a": "sobre un 15 a un 20%.",
+      "b": "sobre un 5 a un 8%.",
+      "c": "sobre un 2 a un 4%.",
+      "d": "sobre un 10 a un 15%."
+    },
+    "correct": "d",
+    "correct_text": "sobre un 10 a un 15%.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En los deportistas, el consumo de hidratos de carbono puede aumentar hasta…",
+    "options": {
+      "a": "el 40% de la ingesta energética diaria.",
+      "b": "el 80% de la ingesta energética diaria.",
+      "c": "el 50% de la ingesta energética diaria.",
+      "d": "el 60 o 70% de la ingesta energética diaria."
+    },
+    "correct": "d",
+    "correct_text": "el 60 o 70% de la ingesta energética diaria.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las características fisiológicas más relevantes, durante la gestación, la ganancia de peso medio es de…",
+    "options": {
+      "a": "8 a 15 kg.",
+      "b": "10 a 15 kg.",
+      "c": "10 a 12 kg.",
+      "d": "5 a 10kg."
+    },
+    "correct": "c",
+    "correct_text": "10 a 12 kg.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "En cuanto a la proteína en la adolescencia, los chicos comprendidos entre la edad de 14 a 18 años, necesitan…",
+    "options": {
+      "a": "0’5g por kg de peso al día.",
+      "b": "2g por kg de peso al día.",
+      "c": "0’9g por kg de peso al día.",
+      "d": "1’5g por kg de peso al día."
+    },
+    "correct": "c",
+    "correct_text": "0’9g por kg de peso al día.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "Entre las pautas generales, en la alimentación complementaria, ¿A qué edad un lactante puede consumir el mismo tipo de alimentos que el resto de la familia?",
+    "options": {
+      "a": "a los 18 meses.",
+      "b": "a los 12 meses.",
+      "c": "a los 6 meses.",
+      "d": "a los 10 meses."
+    },
+    "correct": "b",
+    "correct_text": "a los 12 meses.",
+    "asignatura": "alimentacion_equilibrada",
+    "tema": "tema5"
+  },
+  {
+    "question": "¿Cuántas especies de hongos existen que puedan producir patología en el ser humano?",
+    "options": {
+      "a": "menos de 150 especies.",
+      "b": "más de 150 especies.",
+      "c": "más de 200 especies.",
+      "d": "menos de 200 especies."
+    },
+    "correct": "b",
+    "correct_text": "más de 150 especies.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Desde qué año concreto, España forma parte de los miembros del Códex Alimentarius?",
+    "options": {
+      "a": "desde el año 1960.",
+      "b": "desde el año 1980.",
+      "c": "desde el año 1963.",
+      "d": "desde el año 1972."
+    },
+    "correct": "c",
+    "correct_text": "desde el año 1963.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Cuántos miembros conforman la Comisión del Códex Alimentarius?",
+    "options": {
+      "a": "189 miembros.",
+      "b": "186 miembros.",
+      "c": "180 miembros.",
+      "d": "150 miembros."
+    },
+    "correct": "b",
+    "correct_text": "186 miembros.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "La Comisión Europea plasmó sus prioridades estratégicas para el período 2019-2024 en…",
+    "options": {
+      "a": "el Tratado de Lisboa.",
+      "b": "el Reglamento (UE) 852/2004.",
+      "c": "la Agenda Estratégica 2019-2024.",
+      "d": "el Pacto Verde Europeo."
+    },
+    "correct": "c",
+    "correct_text": "la Agenda Estratégica 2019-2024.",
+    "asignatura": "control_alimentario",
+    "tema": "tema1"
+  },
+  {
+    "question": "En el método Dumas se realiza una combustión de la muestra, a una temperatura de…",
+    "options": {
+      "a": "entre 300 y 400 grados.",
+      "b": "entre 700 y 800 grados.",
+      "c": "entre 1000 y 2000 grados.",
+      "d": "entre 600 y 700 grados."
+    },
+    "correct": "b",
+    "correct_text": "entre 700 y 800 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "En la leche, la fosfatasa alcalina se inactiva progresivamente a temperaturas superiores a…",
+    "options": {
+      "a": "80 grados.",
+      "b": "30 grados.",
+      "c": "50 grados.",
+      "d": "60 grados."
+    },
+    "correct": "d",
+    "correct_text": "60 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué tipo de tratamientos térmicos producen la desnaturalización de las proteínas?",
+    "options": {
+      "a": "los tratamientos por debajo de los 0 grados.",
+      "b": "los tratamientos entre 100 y 200 grados.",
+      "c": "los tratamientos superiores a 50 o 60 grados.",
+      "d": "los tratamientos por debajo de los 30 grados."
+    },
+    "correct": "c",
+    "correct_text": "los tratamientos superiores a 50 o 60 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema3",
+    "rara": "si"
+  },
+  {
+    "question": "En general, las prácticas de higiene se suelen concretar en…",
+    "options": {
+      "a": "8 planes.",
+      "b": "10 planes.",
+      "c": "5 planes.",
+      "d": "12 planes."
+    },
+    "correct": "b",
+    "correct_text": "10 planes.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4",
+    "rara": "si"
+  },
+  {
+    "question": "En los productos en refrigeración, la temperatura máxima debe ser de…",
+    "options": {
+      "a": "5 grados.",
+      "b": "8 grados.",
+      "c": "0 grados.",
+      "d": "3 grados."
+    },
+    "correct": "a",
+    "correct_text": "5 grados.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4",
+    "rara": "si"
+  },
+  {
+    "question": "En caso de contratar algún servicio de recogida de residuos específicos, los albaranes de recogida, deberán ser archivados durante al menos…",
+    "options": {
+      "a": "1 año.",
+      "b": "2 años.",
+      "c": "5 años.",
+      "d": "7 años."
+    },
+    "correct": "b",
+    "correct_text": "2 años.",
+    "asignatura": "control_alimentario",
+    "tema": "tema4",
+    "rara": "si"
+  },
+  {
+    "question": "En general, ¿qué contenido en agua representa la carne fresca?",
+    "options": {
+      "a": "entre un 30 y un 40%.",
+      "b": "entre un 10 y un 20%.",
+      "c": "entre un 50 y un 60%.",
+      "d": "entre un 60 y un 80%."
+    },
+    "correct": "d",
+    "correct_text": "entre un 60 y un 80%.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5",
+    "rara": "si"
+  },
+  {
+    "question": "¿Qué cantidad de humedad presenta la harina?",
+    "options": {
+      "a": "alrededor del 12%.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "alrededor del 2%.",
+      "d": "alrededor del 20%."
+    },
+    "correct": "a",
+    "correct_text": "alrededor del 12%.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "De forma general, 100 gramos de legumbres, en crudo, aportan…",
+    "options": {
+      "a": "200 kcal.",
+      "b": "500 kcal.",
+      "c": "300 kcal.",
+      "d": "600 kcal."
+    },
+    "correct": "c",
+    "correct_text": "300 kcal.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "El aporte energético de un huevo de la talla L, podemos situarlo en…",
+    "options": {
+      "a": "150 kcal por cada 100 gramos de producto.",
+      "b": "50 kcal por cada 100 gramos de producto.",
+      "c": "160 kcal por cada 100 gramos de producto.",
+      "d": "200 kcal por cada 100 gramos de producto."
+    },
+    "correct": "c",
+    "correct_text": "160 kcal por cada 100 gramos de producto.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Por término medio, el aporte energético de la nata es de…",
+    "options": {
+      "a": "510 kcal por cada 100 gramos de producto.",
+      "b": "100 kcal por cada 100 gramos de producto.",
+      "c": "250 kcal por cada 100 gramos de producto.",
+      "d": "380 kcal por cada 100 gramos de producto."
+    },
+    "correct": "d",
+    "correct_text": "380 kcal por cada 100 gramos de producto.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5",
+    "rara": "si"
+  },
+  {
+    "question": "El contenido energético que aportan las grasas, podemos estimar que es…",
+    "options": {
+      "a": "300 kcal por cada 100 gramos.",
+      "b": "900 kcal por cada 100 gramos.",
+      "c": "700 gramos por cada 100 gramos.",
+      "d": "500 kcal por cada 100 gramos."
+    },
+    "correct": "b",
+    "correct_text": "900 kcal por cada 100 gramos.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "La leche UHT, en envase cerrado, puede conservarse a temperatura ambiente hasta…",
+    "options": {
+      "a": "6 meses.",
+      "b": "3 meses.",
+      "c": "5 meses.",
+      "d": "1 mes."
+    },
+    "correct": "a",
+    "correct_text": "6 meses.",
+    "asignatura": "control_alimentario",
+    "tema": "tema5",
+    "rara": "si"
+  },
+  {
+    "question": "¿Qué porcentaje de proteínas contienen los frutos secos?",
+    "options": {
+      "a": "un 20%.",
+      "b": "un 5%.",
+      "c": "un 50%.",
+      "d": "un 30%."
+    },
+    "correct": "a",
+    "correct_text": "un 20%",
+    "asignatura": "control_alimentario",
+    "tema": "tema5"
+  },
+  {
+    "question": "Los ácidos grasos saturados…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "representan una cantidad inferior al 10% de la ingesta energética total.",
+      "c": "representan entre el 30 - 35% de la ingesta energética total.",
+      "d": "representan una cantidad superior al 10% de la ingesta energética total."
+    },
+    "correct": "b",
+    "correct_text": "representan una cantidad inferior al 10% de la ingesta energética total.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué cantidad recomendada de colesterol se debe consumir diariamente?",
+    "options": {
+      "a": "más de 100 mg por 100 kcal.",
+      "b": "menos de 100 mg por 100 kcal.",
+      "c": "más de 150 mg por 100 kcal.",
+      "d": "más de 200 mg por 100 kcal."
+    },
+    "correct": "b",
+    "correct_text": "menos de 100 mg por 100 kcal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Para considerar a una persona con obesidad, el IMC debe ser?",
+    "options": {
+      "a": "mayor a 25.",
+      "b": "menor a 25.",
+      "c": "menor que 30.",
+      "d": "mayor o igual que 30."
+    },
+    "correct": "d",
+    "correct_text": "mayor o igual que 30.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "En el ICC, en las mujeres, se considera un riesgo cardiovascular muy bajo cuando…",
+    "options": {
+      "a": "es igual o superior a 0.80.",
+      "b": "es inferior a 0.80.",
+      "c": "es igual o superior a 0.85.",
+      "d": "es superior a 0.90."
+    },
+    "correct": "b",
+    "correct_text": "es inferior a 0.80.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Qué cantidad de agua se recomienda beber al día?",
+    "options": {
+      "a": "15 vasos al día.",
+      "b": "8 vasos al día.",
+      "c": "10 vasos al día.",
+      "d": "5 vasos al día."
+    },
+    "correct": "b",
+    "correct_text": "8 vasos al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "En la dieta líquida, si no se consumen sopas de carnes o levadura de cerveza, esta dieta será deficiente en…",
+    "options": {
+      "a": "proteínas y carbohidratos.",
+      "b": "folato, hierro y vitamina B6.",
+      "c": "sodio.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "folato, hierro y vitamina B6.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿A partir de qué edad se recomienda reducir la ingesta de calorías en un 5%?",
+    "options": {
+      "a": "a partir de los 40 años.",
+      "b": "a partir de los 50 años.",
+      "c": "a partir de los 20 años.",
+      "d": "a partir de los 10 años."
+    },
+    "correct": "b",
+    "correct_text": "a partir de los 50 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "¿Entre qué cantidades se deben reducir la ingesta diaria para bajar de peso?",
+    "options": {
+      "a": "entre 200 y 300 kcal.",
+      "b": "entre 100 y 200 kcal.",
+      "c": "entre 500 y 1000 kcal.",
+      "d": "entre 300 y 400 kcal."
+    },
+    "correct": "c",
+    "correct_text": "entre 500 y 1000 kcal.",
+    "asignatura": "dietoterapia",
+    "tema": "tema1"
+  },
+  {
+    "question": "La cantidad diaria que se debe consumir de azúcares simples debe ser…",
+    "options": {
+      "a": "baja, en torno al 20%.",
+      "b": "inferior al 20%.",
+      "c": "alta, en torno al 60%.",
+      "d": "normal, en torno al 30%."
+    },
+    "correct": "b",
+    "correct_text": "inferior al 20%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La glucemia al azar se diagnostica cuando el paciente…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "presenta una tasa menor a 100 mg/dl.",
+      "c": "presenta una tasa inferior a 100 mg/dl.",
+      "d": "presenta una tasa superior o igual a 200 mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "presenta una tasa superior o igual a 200 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El aspartamo aporta una cantidad de calorías…",
+    "options": {
+      "a": "10 kcal/g.",
+      "b": "5 kcal/g.",
+      "c": "1 kcal/g.",
+      "d": "4 kcal/g."
+    },
+    "correct": "d",
+    "correct_text": "4 kcal/g.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Si se realiza ejercicio durante un total de 30 minutos a 1 hora, se debe…",
+    "options": {
+      "a": "aumentar la insulina un 10%.",
+      "b": "disminuir la insulina un 50%.",
+      "c": "disminuir la insulina entre un 10 y un 30%.",
+      "d": "aumentar la insulina en un 20%."
+    },
+    "correct": "c",
+    "correct_text": "disminuir la insulina entre un 10 y un 30%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El tratamiento dietético combinado o no con insulina o fármaco hipoglucemiantes orales, está indicado para…",
+    "options": {
+      "a": "la diabetes gestacional.",
+      "b": "la diabetes tipo 2.",
+      "c": "la diabetes tipo 1.",
+      "d": "la diabetes postparto."
+    },
+    "correct": "b",
+    "correct_text": "la diabetes tipo 2.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Cuando el sistema inmunológico del cuerpo destruye las células beta del páncreas, nos encontramos ante…",
+    "options": {
+      "a": "la diabetes tipo 4.",
+      "b": "la diabetes tipo 1.",
+      "c": "la diabetes tipo 2.",
+      "d": "la diabetes tipo 3."
+    },
+    "correct": "b",
+    "correct_text": "la diabetes tipo 1.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La diabetes tipo 2, es más frecuente a desarrollarse en…",
+    "options": {
+      "a": "menores de 5 años.",
+      "b": "menores de 20 años.",
+      "c": "mayores de 40 años.",
+      "d": "mayores de 10 años."
+    },
+    "correct": "c",
+    "correct_text": "mayores de 40 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Entre las recomendaciones para el control de la diabetes, encontramos que la glucemia postprandial, se debe encontrar en unos rangos…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "inferior a 300 mg/dl.",
+      "c": "superior a 180 mg/dl.",
+      "d": "inferior a 180 mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "inferior a 180 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Respecto al colesterol total, la cantidad de colesterol debe ser…",
+    "options": {
+      "a": "superior a 200 mg/dl.",
+      "b": "inferior a 30 mg/dl.",
+      "c": "inferior a 185 mg/dl.",
+      "d": "inferior a 70 mg/dl."
+    },
+    "correct": "c",
+    "correct_text": "inferior a 185 mg/dl.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué cantidad de berenjenas contienen 10 gramos de carbohidratos?",
+    "options": {
+      "a": "300 gramos.",
+      "b": "100 gramos.",
+      "c": "500 gramos.",
+      "d": "50 gramos."
+    },
+    "correct": "a",
+    "correct_text": "300 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué cantidad de fibra se recomienda consumir diariamente?",
+    "options": {
+      "a": "entre 25 y 30 gramos.",
+      "b": "entre 35 y 40 gramos.",
+      "c": "entre 10 y 15 gramos.",
+      "d": "entre 40 y 50 gramos."
+    },
+    "correct": "a",
+    "correct_text": "entre 25 y 30 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se considera como carga glucémica alta, cuando se sitúa…",
+    "options": {
+      "a": "superior a 30.",
+      "b": "superior a 20.",
+      "c": "inferior a 20.",
+      "d": "inferior a 10."
+    },
+    "correct": "b",
+    "correct_text": "superior a 20.",
+    "asignatura": "dietoterapia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La cantidad de proteínas diaria que se debe consumir cuando se padece pancreatitis es de…",
+    "options": {
+      "a": "2g por kg de peso al día.",
+      "b": "0’5g por kg de peso al día.",
+      "c": "3g por kg de peso al día.",
+      "d": "1’5g por kg de peso al día."
+    },
+    "correct": "d",
+    "correct_text": "1’5g por kg de peso al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Se considera como hipertensión en fase 1, cuando hay unos niveles de presión arterial…",
+    "options": {
+      "a": "entre 140-159/90-99 mmHg.",
+      "b": "menores a 120/80 mmHg.",
+      "c": "ninguna de las respuestas anteriores es correcta.",
+      "d": "entre 120-139/80-88 mmHg."
+    },
+    "correct": "a",
+    "correct_text": "entre 140-159/90-99 mmHg.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "El tratamiento dietético en la fase inicial de una dieta baja en FODMAPs, tiene una duración aproximada de…",
+    "options": {
+      "a": "2 a 3 semanas.",
+      "b": "6 a 8 semanas.",
+      "c": "4 a 6 semanas.",
+      "d": "1 a 2 semanas."
+    },
+    "correct": "c",
+    "correct_text": "4 a 6 semanas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la población europea, el porcentaje de prevalencia de la enfermedad celíaca es del…",
+    "options": {
+      "a": "2%.",
+      "b": "3%.",
+      "c": "5%.",
+      "d": "1%."
+    },
+    "correct": "d",
+    "correct_text": "1%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Las grasas, representan un porcentaje de la ingesta energética diaria de…",
+    "options": {
+      "a": "entre el 20 y 30%.",
+      "b": "entre el 10 y 15%.",
+      "c": "entre el 5 y 10%.",
+      "d": "entre el 30 y 35%."
+    },
+    "correct": "d",
+    "correct_text": "entre el 30 y 35%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la cirrosis avanzada, se debe aumentar el consumo de hidratos de carbono hasta…",
+    "options": {
+      "a": "el 60%.",
+      "b": "el 70%.",
+      "c": "el 50%.",
+      "d": "el 30%."
+    },
+    "correct": "a",
+    "correct_text": "el 60%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La oliguria, es una producción de orina inferior a…",
+    "options": {
+      "a": "300 ml al día.",
+      "b": "700 ml al día.",
+      "c": "500 ml al día.",
+      "d": "600 ml al día."
+    },
+    "correct": "c",
+    "correct_text": "500 ml al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La enfermedad renal poliquística provoca un fracaso renal a la edad de...",
+    "options": {
+      "a": "20 años.",
+      "b": "30 años.",
+      "c": "50 años.",
+      "d": "70 años."
+    },
+    "correct": "c",
+    "correct_text": "50 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué cantidad de fibra se debe consumir en una dieta alta en este micronutriente?",
+    "options": {
+      "a": "entre 20 y 25 gramos.",
+      "b": "entre 30 y 35 gramos.",
+      "c": "entre 40 y 45 gramos.",
+      "d": "entre 30 y 50 gramos."
+    },
+    "correct": "b",
+    "correct_text": "entre 30 y 35 gramos.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "La esofagitis, afecta a un porcentaje de la población de alrededor del…",
+    "options": {
+      "a": "20% de la población.",
+      "b": "7% de la población.",
+      "c": "40% de la población.",
+      "d": "3% de la población."
+    },
+    "correct": "b",
+    "correct_text": "7% de la población.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En el cuidado nutricional postquirúrgico, se debe dar un aumento del gasto energético recomendado de…",
+    "options": {
+      "a": "entre el 20 y 50%.",
+      "b": "el 60%.",
+      "c": "el 70%.",
+      "d": "entre el 10 y 20%."
+    },
+    "correct": "a",
+    "correct_text": "entre el 20 y 50%.",
+    "asignatura": "dietoterapia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de vitamina participa como coenzima en el metabolismo de las grasas?",
+    "options": {
+      "a": "la vitamina B12.",
+      "b": "la vitamina B3.",
+      "c": "la vitamina B9.",
+      "d": "la vitamina B6."
+    },
+    "correct": "a",
+    "correct_text": "la vitamina B12.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La ingesta recomendada diaria de vitamina D, se encuentra en…",
+    "options": {
+      "a": "5g por día.",
+      "b": "2g por día.",
+      "c": "15g por día.",
+      "d": "10g por día."
+    },
+    "correct": "c",
+    "correct_text": "15g por día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Para la prueba de ácido 5-OH-Indolactéico , se debe recoger la orina de…",
+    "options": {
+      "a": "12 horas.",
+      "b": "48 horas.",
+      "c": "24 horas.",
+      "d": "36 horas."
+    },
+    "correct": "c",
+    "correct_text": "24 horas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En las mujeres, ¿cuál es el índice diario recomendado de consumo de vitamina K?",
+    "options": {
+      "a": "60 pg por día.",
+      "b": "90 pg por día.",
+      "c": "80 pg por día.",
+      "d": "120 pg por día."
+    },
+    "correct": "b",
+    "correct_text": "90 pg por día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la prueba para el estudio del metabolismo de calcio, se considera normal eliminar por la orina…",
+    "options": {
+      "a": "hasta 100 mg de agua en 24 horas.",
+      "b": "hasta 300 mg de agua en 24 horas.",
+      "c": "hasta 300 mg de calcio en 24 horas.",
+      "d": "hasta 300 mg de calcio en 12 horas."
+    },
+    "correct": "c",
+    "correct_text": "hasta 300 mg de calcio en 24 horas.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La densidad calórica de las fórmulas normocalóricas es…",
+    "options": {
+      "a": "inferior a 1’5 kcal/ml.",
+      "b": "superior a 2 kcal/ml.",
+      "c": "superior a 1’5 kcal/ml.",
+      "d": "igual a 1’25 kcal/ml."
+    },
+    "correct": "d",
+    "correct_text": "igual a 1’25 kcal/ml.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El tratamiento para la recuperación de vitamina C es…",
+    "options": {
+      "a": "la toma de más luz solar a lo largo del día.",
+      "b": "la ingesta de 100 mg de vitamina C tres veces al día.",
+      "c": "la ingesta de productos lácteos más de tres veces al día.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "b",
+    "correct_text": "la ingesta de 100 mg de vitamina C tres veces al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La ingesta diaria recomendada de ácido fólico es de…",
+    "options": {
+      "a": "200 mg al día.",
+      "b": "400 mg al día.",
+      "c": "100 mg al día.",
+      "d": "300 mg al día."
+    },
+    "correct": "b",
+    "correct_text": "400 mg al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Son patológicos y sospechosos de tumor carcinoide, los valores de 5-OH-Indolactéico por encima de…",
+    "options": {
+      "a": "30 mg al día.",
+      "b": "20 mg al día.",
+      "c": "40 mg al día.",
+      "d": "10 mg al día."
+    },
+    "correct": "a",
+    "correct_text": "30 mg al día.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Los adolescentes comienzan a beber en una media de…",
+    "options": {
+      "a": "los 18 años.",
+      "b": "los 16 años.",
+      "c": "los 15 años.",
+      "d": "los 14 años."
+    },
+    "correct": "b",
+    "correct_text": "los 16 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿A partir de qué edad, una persona empieza a perder en su piel cerca del 75% de la capacidad para fabricar vitamina D?",
+    "options": {
+      "a": "a partir de los 50 años.",
+      "b": "a partir de los 70 años.",
+      "c": "a partir de los 40 años.",
+      "d": "a partir de los 60 años."
+    },
+    "correct": "b",
+    "correct_text": "a partir de los 70 años.",
+    "asignatura": "dietoterapia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El intestino delgado recibe un cantidad total de fluidos diarios de…",
+    "options": {
+      "a": "3 litros al día.",
+      "b": "5 litros al día.",
+      "c": "10 litros al día.",
+      "d": "8 litros al día."
+    },
+    "correct": "d",
+    "correct_text": "8 litros al día.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema2"
+  },
+  {
+    "question": "¿Qué porcentaje de las sales biliares que llegan al intestino se reabsorben por transporte activo en el íleon distal?…",
+    "options": {
+      "a": "un 80%.",
+      "b": "un 99%.",
+      "c": "un 94%.",
+      "d": "un 60%."
+    },
+    "correct": "c",
+    "correct_text": "un 94%.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El trayecto en el tránsito intestinal puede durar entre…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "24 y 72 horas.",
+      "c": "6 y 36 horas.",
+      "d": "12 y 48 horas."
+    },
+    "correct": "d",
+    "correct_text": "12 y 48 horas.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema2"
+  },
+  {
+    "question": "La principal función del factor intrínseco es…",
+    "options": {
+      "a": "introducir los nutrientes en la sangre.",
+      "b": "fijar la vitamina B12 en el íleon.",
+      "c": "transportar los hidratos de carbono.",
+      "d": "fijar las proteínas en el hígado."
+    },
+    "correct": "b",
+    "correct_text": "fijar la vitamina B12 en el íleon.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El producto que se forma en la secreción gástrica se denomina y tiene una cantidad de…",
+    "options": {
+      "a": "ninguna de las respuestas anteriores es correcta.",
+      "b": "jugo gástrico y 1’5 litros al día.",
+      "c": "amilasa y 1’5 litros al día.",
+      "d": "jugo mucoso y 2 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "jugo gástrico y 1’5 litros al día.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema2"
+  },
+  {
+    "question": "El hígado pesa aproximadamente…",
+    "options": {
+      "a": "3 kg.",
+      "b": "1 kg.",
+      "c": "2 kg.",
+      "d": "1’5 kg."
+    },
+    "correct": "d",
+    "correct_text": "1’5 kg.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema2"
+  },
+  {
+    "question": "Se ha estimado que un… de la población adulta sufre pirosis…",
+    "options": {
+      "a": "un 20%.",
+      "b": "un 15%.",
+      "c": "un 1%.",
+      "d": "un 5 o 10%."
+    },
+    "correct": "d",
+    "correct_text": "un 5 o 10%.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema3"
+  },
+  {
+    "question": "En la capacidad para el transporte hidroelectrolítico del intestino, se estima que diariamente se vierten…",
+    "options": {
+      "a": "9 litros de líquidos al intestino para aumentar la digestión.",
+      "b": "2 litros de líquidos al intestino para facilitar la digestión.",
+      "c": "9 litros de líquidos al intestino para facilitar la digestión.",
+      "d": "9 litros de líquidos al intestino para dificultar la digestión."
+    },
+    "correct": "c",
+    "correct_text": "9 litros de líquidos al intestino para facilitar la digestión.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema3"
+  },
+  {
+    "question": "Entre las medidas posturales que encontramos para reducir los síntomas del reflujo gastroesofágico, tenemos…",
+    "options": {
+      "a": "bajar el cabecero de la cama.",
+      "b": "consumir tabaco.",
+      "c": "no acostarse hasta 2 o 3 horas después de la ingesta.",
+      "d": "ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "c",
+    "correct_text": "no acostarse hasta 2 o 3 horas después de la ingesta.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema3"
+  },
+  {
+    "question": "¿Qué tipo de diabetes es la más frecuente en todas las poblaciones?",
+    "options": {
+      "a": "la diabetes tipo 3.",
+      "b": "la diabetes tipo 5.",
+      "c": "la diabetes tipo 2.",
+      "d": "la diabetes tipo 1."
+    },
+    "correct": "c",
+    "correct_text": "la diabetes tipo 2.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los diferentes tipos de diabetes, se clasifican en…",
+    "options": {
+      "a": "tipos del 1 al 3.",
+      "b": "tipos del 1 al 4.",
+      "c": "solo existe un tipo de diabetes.",
+      "d": "tipos 1 y 2."
+    },
+    "correct": "d",
+    "correct_text": "tipos 1 y 2.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué porcentaje de proteínas ingeridas, son atacadas en el sistema digestivo y degradadas a aminoácidos?",
+    "options": {
+      "a": "un 50%.",
+      "b": "un 70 o 75%.",
+      "c": "un 90 o 95%.",
+      "d": "un 80 u 85%."
+    },
+    "correct": "c",
+    "correct_text": "un 90 o 95%.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El síndrome hipoglucémico se detecta cuando hay un descenso…",
+    "options": {
+      "a": "de la glucólisis por debajo de 20mg/dl.",
+      "b": "de la glucemia por debajo de 70mg/dl.",
+      "c": "de la glucemia por debajo de 60mg/dl.",
+      "d": "de la glucemia por debajo de 40mg/dl."
+    },
+    "correct": "d",
+    "correct_text": "de la glucemia por debajo de 40mg/dl.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "El contenido en el organismo de magnesio, se encuentra en un total de…",
+    "options": {
+      "a": "30 gramos.",
+      "b": "25 gramos.",
+      "c": "20 gramos.",
+      "d": "40 gramos."
+    },
+    "correct": "b",
+    "correct_text": "25 gramos.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿A partir de qué edad es más frecuente y probable que se comience a desarrollar diabetes tipo 2?",
+    "options": {
+      "a": "a partir del nacimiento.",
+      "b": "a partir de los 60 años.",
+      "c": "a partir de los 25 años.",
+      "d": "a partir de los 40 años."
+    },
+    "correct": "d",
+    "correct_text": "a partir de los 40 años.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En total, el organismo contiene unos… de fósforo…",
+    "options": {
+      "a": "600 gramos.",
+      "b": "400 gramos.",
+      "c": "800 gramos.",
+      "d": "900 gramos."
+    },
+    "correct": "a",
+    "correct_text": "600 gramos.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En la hipocalcemia, se encuentra una concentración de calcio sérico inferior a…",
+    "options": {
+      "a": "15 mg por decilitro.",
+      "b": "8 mg por decilitro.",
+      "c": "10 mg por decilitro.",
+      "d": "20 mg por decilitro."
+    },
+    "correct": "b",
+    "correct_text": "8 mg por decilitro.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el mineral óseo, podemos encontrar un total de… magnesio…",
+    "options": {
+      "a": "un 90%.",
+      "b": "un 60%.",
+      "c": "un 50%.",
+      "d": "un 75%."
+    },
+    "correct": "b",
+    "correct_text": "un 60%.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué cantidad de proteínas contiene el plasma?",
+    "options": {
+      "a": "unos 5g por decilitro.",
+      "b": "unos 3g por decilitro.",
+      "c": "unos 10g por decilitro.",
+      "d": "unos 7g por decilitro."
+    },
+    "correct": "d",
+    "correct_text": "unos 7g por decilitro.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "Entre los distintos tipos de glucogenosis, existen un total de…",
+    "options": {
+      "a": "10 tipos distintos.",
+      "b": "15 tipos distintos.",
+      "c": "9 tipos distintos.",
+      "d": "5 tipos distintos."
+    },
+    "correct": "c",
+    "correct_text": "9 tipos distintos.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "¿Qué cantidad de calcio se absorbe en una dieta media?",
+    "options": {
+      "a": "100 mg.",
+      "b": "1000 mg.",
+      "c": "500 mg.",
+      "d": "800 mg."
+    },
+    "correct": "b",
+    "correct_text": "1000 mg.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "En el metabolismo lipídico, las grasas de la dieta están representadas en un...",
+    "options": {
+      "a": "90% de triglicéridos y un 10% de colesterol",
+      "b": "un 80% de triglicéridos y un 20% de otros productos",
+      "c": "ninguna de las respuestas anteriores es correcta",
+      "d": "un 50% de triglicéridos y un 50% de colesterol"
+    },
+    "correct": "a",
+    "correct_text": "90% de triglicéridos y un 10% de colesterol",
+    "asignatura": "fisiopatologia",
+    "tema": "tema4"
+  },
+  {
+    "question": "La formación de orina comienza con la filtración de grandes cantidades de líquidos, en torno a…",
+    "options": {
+      "a": "entre 100 y 150 litros al día.",
+      "b": "entre 150 y 180 litros al día.",
+      "c": "300 litros al día.",
+      "d": "entre 200 y 250 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "entre 150 y 180 litros al día.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la poliuria, como alteración cuantitativa del aparato renal, encontramos la emisión de… orina al día.",
+    "options": {
+      "a": "más de 4 litros.",
+      "b": "más de 2 litros.",
+      "c": "más de 5 litros.",
+      "d": "menos de 2 litros."
+    },
+    "correct": "b",
+    "correct_text": "más de 2 litros.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema5"
+  },
+  {
+    "question": "La temperatura corporal media se sitúa entre…",
+    "options": {
+      "a": "los 34º y los 35º.",
+      "b": "ninguna de las respuestas anteriores es correcta.",
+      "c": "los 37º y los 38º.",
+      "d": "los 36’5º y los 37º."
+    },
+    "correct": "d",
+    "correct_text": "los 36’5º y los 37º.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema5"
+  },
+  {
+    "question": "En el aparato renal, los riñones pesan un total de…",
+    "options": {
+      "a": "150 gramos por cada riñón.",
+      "b": "150 gramos entre ambos riñones.",
+      "c": "200 gramos entre ambos riñones.",
+      "d": "200 gramos por cada riñón."
+    },
+    "correct": "a",
+    "correct_text": "150 gramos por cada riñón.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema5"
+  },
+  {
+    "question": "En la función tubular se procesa selectivamente el filtrado, permitiendo la excreción de…",
+    "options": {
+      "a": "0’5 a 1 litro al día.",
+      "b": "1 a 2 litros al día.",
+      "c": "2 a 3 litros al día.",
+      "d": "2 a 2’5 litros al día."
+    },
+    "correct": "b",
+    "correct_text": "1 a 2 litros al día.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema5"
+  },
+  {
+    "question": "Se considera fiebre cuando la temperatura corporal sube a…",
+    "options": {
+      "a": "los 38’5º.",
+      "b": "los 36º.",
+      "c": "los 37º.",
+      "d": "los 39º."
+    },
+    "correct": "a",
+    "correct_text": "los 38’5º.",
+    "asignatura": "fisiopatologia",
+    "tema": "tema5"
+  }
+]
