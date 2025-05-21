@@ -29,6 +29,7 @@
 				border-radius: 5px;
 				cursor: pointer;
 				text-align: left;
+				color: #ccc;
 			}
 			.result-correct {
 				color: green;
@@ -77,7 +78,7 @@
 			saldrá el resultado y los fallos.
 		</h4>
 		<label>
-			<h4>
+			<h4 style="color: blue">
 				<input type="checkbox" id="toggleCorrect" /> Activar modo Nichel (Esto
 				si que es para vagos😈)
 			</h4>
@@ -275,7 +276,10 @@
 					if (showCorrectAnswer && key === question.correct) {
 						btn.style.border = "2px solid green";
 						btn.style.backgroundColor = "#e6ffed";
+						btn.style.color = "black";
 						btn.style.fontWeight = "bold";
+					} else if (!showCorrectAnswer) {
+						btn.style.color = "black";
 					}
 
 					btn.onclick = () => {
