@@ -8,7 +8,6 @@
 			body {
 				font-family: Arial, sans-serif;
 				margin: 30px;
-				background-color: #f7f9fb;
 			}
 			.hidden {
 				display: none;
@@ -19,6 +18,11 @@
 				border-radius: 8px;
 				margin-bottom: 20px;
 				border-left: 6px solid #0073aa;
+			}
+			button {
+				padding: 10px;
+				margin: 10px 5px 20px 0;
+				font-size: 16px;
 			}
 			.option {
 				margin: 10px 0;
@@ -63,11 +67,29 @@
 				font-size: 0.9rem;
 				color: #555;
 			}
+			body {
+				position: relative;
+			}
+
+			body::before {
+				content: "";
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background-image: url("https://w0.peakpx.com/wallpaper/580/240/HD-wallpaper-sid-ice-age-sid.jpg");
+				background-size: cover;
+				background-position: center;
+				background-repeat: no-repeat;
+				opacity: 0.25; /* Ajusta la transparencia */
+				z-index: -1;
+			}
 		</style>
 	</head>
 	<body>
-		<!-- 	<a href="index.html">🔘 Preguntas tipo test</a>
-		<a href="preguntas_desarrollo.html">📝 Preguntas de desarrollo</a> -->
+		<a href="index.html">🔘 Preguntas tipo test</a>
+		<a href="desarrollo_preguntas.html">📝 Preguntas de desarrollo</a>
 
 		<h1>Test Interactivo TSD v2</h1>
 
@@ -84,9 +106,12 @@
 			</h4>
 		</label>
 		<p></p>
-
+		<p></p>
 		<label for="tema">Selecciona un tema:</label>
 		<select id="tema">
+			<option value="temas/preguntas_numericas.json">
+				🦥Preguntas con números de todas las asignaturas
+			</option>
 			<option value="temas/tema1_fisiopatologia.json">
 				Fisiopatología - Tema 1
 			</option>
