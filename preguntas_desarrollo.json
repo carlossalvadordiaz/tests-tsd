@@ -1,0 +1,369 @@
+[
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "¿Qué es el PAN y cuáles son sus fases?",
+		"respuesta": "<ol><li><strong>Evaluación</strong><ul><li>Clínicos: bioquímica, patologías</li><li>Antropométricos: peso, talla, pliegues</li><li>Dietéticos: encuestas, frecuencia de consumo</li></ul></li><li><strong>Diagnóstico</strong><ul><li>No médico</li><li>Ejemplo: déficit de hierro → anemia</li></ul></li><li><strong>Intervención</strong><ul><li>Objetivos nutricionales</li><li>Adaptado al diagnóstico</li></ul></li><li><strong>Seguimiento</strong><ul><li>Revisión de objetivos</li><li>Cambios en medidas</li></ul></li></ol>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "Tipos de diabetes y diferencias fisiopatológicas.",
+		"respuesta": "Diabetes tipo 1: déficit absoluto de insulina por destrucción autoinmune de células beta. Diabetes tipo 2: resistencia a la insulina y disfunción progresiva de células beta. Ambas provocan hiperglucemia, pero los mecanismos son distintos.<ul><li><strong>Tipo 1 – Insulinodependiente</strong><ul><li>Déficit absoluto de insulina</li><li>Inicio brusco</li></ul></li><li><strong>Tipo 2 – Resistencia a la insulina</strong><ul><li>Producción conservada, pero no efectiva</li><li>Asociado a obesidad</li></ul></li></ul>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "Problemas metabólicos en la diabetes (resistencia a la insulina, hiperglucemia).",
+		"respuesta": "La diabetes tipo 2 se caracteriza por resistencia a la insulina, provocando hiperglucemia. El cuerpo no puede utilizar bien la glucosa, lo que lleva a aumento de glucosa en sangre y posible aparición de cuerpos cetónicos."
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "Propuesta de tratamiento nutricional para un paciente con diabetes tipo 2.",
+		"respuesta": "Reducir índice glucémico de la dieta, priorizar carbohidratos complejos, fibra, evitar azúcares simples, controlar grasas. Distribuir comidas, ajustar cantidades y fomentar el ejercicio físico regular."
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "¿Qué es el SIBO y cómo se trata nutricionalmente?",
+		"respuesta": "El SIBO es un sobrecrecimiento bacteriano en el intestino delgado que provoca hinchazón, gases y diarrea. El tratamiento incluye antibióticos y una dieta baja en FODMAPs durante varias fases."
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "¿Qué es la dieta baja en FODMAPs y cómo se estructura?",
+		"respuesta": "Es una dieta en 3 fases: eliminación de FODMAPs, reintroducción gradual de grupos (fructanos, lactosa, etc.) y mantenimiento según tolerancia. Se usa en SIBO y colon irritable.<ol><li><strong>Eliminación</strong> (2–6 semanas)<ul><li>Reducir todos los FODMAPs</li></ul></li><li><strong>Reintroducción</strong> (8 semanas)<ul><li>Grupos por separado, observar síntomas</li></ul></li><li><strong>Personalización</strong><ul><li>Plan individual a largo plazo</li></ul></li></ol>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "Comparación entre enfermedad de Crohn y colitis ulcerosa.",
+		"respuesta": "Crohn puede afectar cualquier parte del tubo digestivo, con inflamación transmural y discontinua. La colitis ulcerosa afecta sólo el colon y mucosa, de forma continua desde el recto. Ambas requieren control dietético individualizado según síntomas y fase."
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "¿Cuál es el papel de la nutrición en pacientes con cáncer?",
+		"respuesta": "Prevenir o tratar la caquexia, mantener masa muscular y energía. Adaptar la dieta a síntomas (náuseas, disfagia, etc.) y cubrir necesidades aumentadas por el metabolismo tumoral.<ul><li><strong>Factores protectores:</strong><ul><li>Frutas, verduras, fibra, fitonutrientes</li></ul></li><li><strong>Factores de riesgo:</strong><ul><li>Carnes procesadas, alcohol, grasa saturada</li></ul></li><li><strong>Síntomas:</strong> Caquexia, pérdida de apetito</li></ul>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "Diferencias entre anorexia y bulimia.",
+		"respuesta": "Anorexia: restricción alimentaria, bajo peso, distorsión de la imagen corporal. Bulimia: atracones seguidos de conductas compensatorias como vómitos. Ambas requieren intervención psicológica y nutricional.<ul><li><strong>Anorexia:</strong><ul><li>Restricción</li><li>Miedo a ganar peso</li><li>Imagen corporal alterada</li></ul></li><li><strong>Bulimia:</strong><ul><li>Atracones + conductas purgativas (vómitos, laxantes)</li></ul></li><li><strong>Factores de riesgo:</strong><ul><li>Sociales</li><li>Familiares</li><li>Psicológicos</li></ul></li><li><strong>Abordaje nutricional:</strong><ul><li>Enfoque no restrictivo</li><li>Reeducación alimentaria progresiva</li></ul></li></ul>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "¿Qué factores pueden influir en el desarrollo de un TCA?",
+		"respuesta": "Factores genéticos, familiares, sociales (presión estética), personalidad (perfeccionismo, baja autoestima), eventos traumáticos. La combinación varía entre individuos.<ul><li><strong>Anorexia:</strong><ul><li>Restricción</li><li>Miedo a ganar peso</li><li>Imagen corporal alterada</li></ul></li><li><strong>Bulimia:</strong><ul><li>Atracones + conductas purgativas (vómitos, laxantes)</li></ul></li><li><strong>Factores de riesgo:</strong><ul><li>Sociales</li><li>Familiares</li><li>Psicológicos</li></ul></li><li><strong>Abordaje nutricional:</strong><ul><li>Enfoque no restrictivo</li><li>Reeducación alimentaria progresiva</li></ul></li></ul>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"pregunta": "¿Cómo sería la intervención nutricional ante un paciente con TCA?",
+		"respuesta": "Restablecer hábitos regulares, evitar conteo estricto, reintroducir alimentos temidos, crear relación positiva con la comida. Coordinar con psicoterapia y adaptarse al estado clínico.<ul><li><strong>Anorexia:</strong><ul><li>Restricción</li><li>Miedo a ganar peso</li><li>Imagen corporal alterada</li></ul></li><li><strong>Bulimia:</strong><ul><li>Atracones + conductas purgativas (vómitos, laxantes)</li></ul></li><li><strong>Factores de riesgo:</strong><ul><li>Sociales</li><li>Familiares</li><li>Psicológicos</li></ul></li><li><strong>Abordaje nutricional:</strong><ul><li>Enfoque no restrictivo</li><li>Reeducación alimentaria progresiva</li></ul></li></ul>"
+	},
+
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema1",
+		"pregunta": "¿Cuáles son los tipos de contaminantes alimentarios y pon ejemplos de cada uno?",
+		"respuesta": "\n<p><strong>Contaminantes alimentarios</strong> son sustancias o agentes que comprometen la seguridad o calidad del alimento. Se clasifican en:</p>\n<ul>\n  <li><strong>Físicos:</strong> cuerpos extraños como fragmentos de <em>vidrio</em>, <em>plástico</em> o <em>metal</em>.</li>\n  <li><strong>Químicos:</strong> residuos de <em>pesticidas</em>, <em>metales pesados</em> (mercurio en pescados), <em>micotoxinas</em>.</li>\n  <li><strong>Biológicos:</strong> microorganismos <em>patógenos</em> como <strong>Salmonella</strong>, <strong>Listeria</strong>, virus (Hepatitis A), <strong>parásitos</strong>.</li>\n</ul>\n<p>Es fundamental prevenir su presencia mediante <strong>buenas prácticas de manipulación</strong> y <strong>controles analíticos</strong>.</p>\n"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema2",
+		"pregunta": "¿Qué es una especificación de calidad y qué criterios incluye?",
+		"respuesta": "\n<p>Una <strong>especificación de calidad</strong> es el conjunto de parámetros que definen las características deseables de un alimento. Incluye:</p>\n<ul>\n  <li><strong>Organolépticos:</strong> sabor, aroma, textura, color.</li>\n  <li><strong>Salubridad:</strong> ausencia de contaminantes (inocuidad).</li>\n  <li><strong>Nutricionales:</strong> contenido de proteínas, grasas, vitaminas.</li>\n  <li><strong>Funcionales:</strong> estabilidad microbiológica, digestibilidad.</li>\n</ul>\n<p>Sirven como base para asegurar la <strong>calidad esperada</strong> en la industria alimentaria.</p>\n"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema3",
+		"pregunta": "¿Qué es la reacción de Maillard y dónde se da comúnmente?",
+		"respuesta": "\n<p>La <strong>reacción de Maillard</strong> es un <em>pardeamiento no enzimático</em> que ocurre entre <strong>aminoácidos</strong> y <strong>azúcares reductores</strong> a altas temperaturas.</p>\n<p>Produce cambios en el color, sabor y aroma de los alimentos. Se da en:</p>\n<ul>\n  <li><strong>Pan:</strong> costra dorada.</li>\n  <li><strong>Carnes:</strong> superficie tostada al asar.</li>\n  <li><strong>Café y cacao:</strong> durante el tueste.</li>\n</ul>\n<p>Es una reacción muy valorada en la industria por aportar características sensoriales deseables.</p>\n"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema3",
+		"pregunta": "Diferencias entre infección, intoxicación y toxiinfección alimentaria.",
+		"respuesta": "\n<p><strong>Infección alimentaria:</strong> consumo de alimentos con <em>microorganismos vivos</em> que se multiplican en el cuerpo (Ej: Salmonella).</p>\n<p><strong>Intoxicación alimentaria:</strong> ingestión de <em>toxinas</em> ya presentes en el alimento (Ej: toxina botulínica).</p>\n<p><strong>Toxiinfección:</strong> combinación de ambas: <em>microorganismo + toxina</em> (Ej: Clostridium perfringens).</p>\n<p>Es clave diferenciar estas entidades para aplicar <strong>medidas preventivas específicas</strong>.</p>\n"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"pregunta": "¿Qué es el sistema APPCC y cuáles son sus etapas principales?",
+		"respuesta": "\n<p><strong>APPCC</strong> (Análisis de Peligros y Puntos Críticos de Control) es un sistema preventivo que garantiza la <strong>seguridad alimentaria</strong>.</p>\n<p>Etapas principales:</p>\n<ol>\n  <li>Constituir equipo APPCC.</li>\n  <li>Describir producto y uso previsto.</li>\n  <li>Elaborar diagrama de flujo.</li>\n  <li>Identificar peligros y puntos críticos (PCC).</li>\n  <li>Establecer límites críticos y medidas correctoras.</li>\n  <li>Vigilancia y verificación del sistema.</li>\n</ol>\n<p>Es obligatorio en la industria alimentaria según el Reglamento 852/2004.</p>\n"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"pregunta": "Enumera los Planes Generales de Higiene (PGH) y desarrolla dos de ellos.",
+		"respuesta": "\n<p>Los <strong>PGH</strong> son prerrequisitos del sistema APPCC y garantizan la higiene en la industria alimentaria. Son 10:</p>\n<ol>\n  <li>Control del agua.</li>\n  <li>Limpieza y desinfección.</li>\n  <li>Control de plagas.</li>\n  <li>Eliminación de residuos.</li>\n  <li>Mantenimiento de instalaciones.</li>\n  <li>Control de proveedores.</li>\n  <li>Formación del personal.</li>\n  <li>Trazabilidad.</li>\n  <li>Control de la cadena de frío.</li>\n  <li>Control de alérgenos.</li>\n</ol>\n<p><strong>Ej. 1 – Limpieza y desinfección:</strong> protocolo de superficies, utensilios y equipos.</p>\n<p><strong>Ej. 2 – Trazabilidad:</strong> seguimiento del alimento “de la granja a la mesa”.</p>\n"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema5",
+		"pregunta": "Elige un grupo alimentario y describe su composición, características y controles.",
+		"respuesta": "\n<p><strong>Grupo: Legumbres</strong></p>\n<ul>\n  <li><strong>Composición:</strong> Ricas en proteínas vegetales (~20%), hidratos complejos, fibra, minerales (Fe, Mg), bajo contenido en grasa.</li>\n  <li><strong>Organolépticas:</strong> sabor suave, textura cremosa tras cocción.</li>\n  <li><strong>Controles:</strong> detección de <em>micotoxinas</em>, <em>residuos de pesticidas</em>, <em>humedad</em>, <em>actividad de agua</em>.</li>\n</ul>\n<p>Se consideran alimentos funcionales por su perfil nutricional y su rol en la prevención de enfermedades crónicas.</p>\n"
+	},
+
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2",
+		"pregunta": "¿Cómo es el proceso digestivo completo de una comida mixta (con hidratos, proteínas y grasas)?",
+		"respuesta": "\n<p><strong>Proceso digestivo:</strong></p>\n<ul>\n<li><strong>Boca:</strong> digestión mecánica (masticación) y química (amilasa salival para hidratos).</li>\n<li><strong>Esófago:</strong> transporte por <em>peristaltismo</em>.</li>\n<li><strong>Estómago:</strong> digestión mecánica (mezcla) y química (pepsina → proteínas).</li>\n<li><strong>Intestino delgado:</strong> enzimas pancreáticas + bilis actúan sobre grasas, proteínas e hidratos.</li>\n<li><strong>Intestino grueso:</strong> absorción de agua y acción de la microbiota.</li>\n</ul>\n<p><em>Importante:</em> cada macronutriente inicia y termina su digestión en distintas etapas.</p>\n"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2",
+		"pregunta": "¿Cómo se metabolizan los hidratos, proteínas y grasas en el cuerpo tras su digestión?",
+		"respuesta": "\n<p><strong>Metabolismo energético:</strong></p>\n<ul>\n<li><strong>Hidratos:</strong> Glucosa → glucólisis → piruvato → <em>acetil-CoA</em> → ciclo de Krebs.</li>\n<li><strong>Grasas:</strong> Ácidos grasos → <em>β-oxidación</em> → acetil-CoA → ciclo de Krebs.</li>\n<li><strong>Proteínas:</strong> Aminoácidos → desaminación → ciclo de la <em>urea</em>.</li>\n</ul>\n<p><em>Resultado:</em> Producción de ATP y subproductos para energía celular.</p>\n"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3",
+		"pregunta": "Expón el valor nutricional de dos grupos alimentarios (ej. legumbres y carnes).",
+		"respuesta": "\n<p><strong>Legumbres:</strong></p>\n<ul>\n<li>Ricas en <strong>hidratos complejos</strong>, <strong>fibra</strong> y proteínas vegetales.</li>\n<li>Aporte de <em>hierro no hemo</em>, zinc, y vitaminas del grupo B.</li>\n</ul>\n<p><strong>Carnes:</strong></p>\n<ul>\n<li>Fuente de proteínas de <strong>alto valor biológico</strong>.</li>\n<li>Contenido en hierro hemo, B12 y grasas variables según el tipo.</li>\n</ul>\n"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4",
+		"pregunta": "¿Cuáles son los requerimientos nutricionales de los macronutrientes y qué particularidades presentan?",
+		"respuesta": "\n<p><strong>Hidratos de carbono:</strong> 50–55% de la energía total, preferentemente <em>complejos</em> y con <strong>índice glucémico bajo</strong>.</p>\n<p><strong>Grasas:</strong> 30–35%. Menos del 10% saturadas. Priorizar <strong>poliinsaturadas</strong> y <strong>monoinsaturadas</strong>. Evitar <em>grasas trans</em>.</p>\n<p><strong>Proteínas:</strong> 0,8 g/kg/día. En deportistas:</p>\n<ul>\n<li><em>Resistencia:</em> hasta 2 g/kg</li>\n<li><em>Fuerza:</em> hasta 2,7–3,1 g/kg</li>\n</ul>\n<p>Requieren ajuste según etapa vital o patología.</p>\n"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "¿Cómo se debe abordar la nutrición en mujeres embarazadas?",
+		"respuesta": "\n<p><strong>Objetivos:</strong> cubrir <em>mayores requerimientos energéticos</em> y prevenir déficits.</p>\n<ul>\n<li>Incremento de kcal según trimestre.</li>\n<li>Reforzar: <strong>ácido fólico</strong>, <strong>hierro</strong>, <strong>calcio</strong>, <strong>yodo</strong>, <strong>omega-3</strong>.</li>\n<li>Evitar: pescados grandes (mercurio), quesos sin pasteurizar, carnes crudas.</li>\n</ul>\n<p><em>Educación alimentaria</em> clave para prevenir anemia, malformaciones y deficiencias nutricionales.</p>\n"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "¿Qué aspectos clave hay que considerar en una dieta vegetariana o vegana?",
+		"respuesta": "\n<p><strong>Aspectos esenciales:</strong></p>\n<ul>\n<li>Garantizar <strong>proteínas completas</strong> (combinando cereales y legumbres).</li>\n<li><strong>Vitamina B12:</strong> <em>único suplemento obligatorio</em> (oral o sublingual).</li>\n<li>Control de: hierro, zinc, calcio, omega-3 y yodo.</li>\n</ul>\n<p>Planificación y control nutricional adecuados previenen déficits.</p>\n"
+	},
+
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2",
+		"pregunta": "¿Cuál es el recorrido digestivo de los macronutrientes y qué tipo de digestión ocurre en cada fase?",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li><strong>Boca:</strong> Digestión mecánica (masticación) + química (amilasa salival).</li><li><strong>Esófago:</strong> Movimiento peristáltico.</li><li><strong>Estómago:</strong> Digestión mecánica (amasado) + química (pepsina y HCl).</li><li><strong>Intestino delgado:</strong> Digestión química (enzimas pancreáticas y bilis) + absorción.</li><li><strong>Intestino grueso:</strong> Absorción de agua y fermentación por microbiota.</li></ul><strong>Regla mnemotécnica:</strong> <em>“BEEII”</em> (Boca, Esófago, Estómago, Intestino delgado, Intestino grueso)."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2",
+		"pregunta": "¿Cómo se metabolizan los macronutrientes tras su absorción?",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li><strong>Hidratos de carbono:</strong> Glucólisis &rarr; piruvato &rarr; ciclo de Krebs.</li><li><strong>Lípidos:</strong> Beta-oxidación &rarr; Acetil-CoA &rarr; ciclo de Krebs.</li><li><strong>Proteínas:</strong> Catabolismo &rarr; Ciclo de la urea + gluconeogénesis si es necesario.</li></ul><strong>Regla mnemotécnica:</strong> <em>“GLU-BETA-UREA”</em>."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3",
+		"pregunta": "Describe el valor nutricional de las legumbres.",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li>Buena fuente de proteínas vegetales.</li><li>Ricas en fibra, hierro, zinc, folato y magnesio.</li><li>Bajo contenido en grasas.</li><li>Combinadas con cereales mejoran el perfil aminoacídico.</li></ul><strong>Regla mnemotécnica:</strong> <em>“Legumbres = Proteína + Fibra + Minerales”</em>."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema3",
+		"pregunta": "¿Qué aportan nutricionalmente las frutas y verduras?",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li>Ricas en agua, fibra y antioxidantes.</li><li>Buena fuente de vitaminas (C, A, folatos) y minerales (potasio).</li><li>Bajo contenido calórico.</li></ul><strong>Regla mnemotécnica:</strong> <em>“Frutas y verduras = Hidratación + Defensa”</em>."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4",
+		"pregunta": "Explica los requerimientos energéticos de los macronutrientes.",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li><strong>Hidratos:</strong> 45–60% de la energía total.</li><li><strong>Grasas:</strong> 25–35% (preferiblemente insaturadas).</li><li><strong>Proteínas:</strong> 10–20%, ajustable en deportistas o patologías.</li></ul><strong>Regla mnemotécnica:</strong> <em>“HGP: 50-30-20 flexible”</em>."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema4",
+		"pregunta": "¿Qué significa RDI y cuál es su aplicación en nutrición?",
+		"respuesta": "<strong>Respuesta:</strong><br><p><strong>RDI:</strong> Ingestas Dietéticas Recomendadas. Representan la cantidad de un nutriente que cubre las necesidades del 97-98% de la población sana.</p><ul><li>Aplicación: Evaluar, planificar y ajustar dietas individuales y poblacionales.</li></ul><strong>Regla mnemotécnica:</strong> <em>“RDI = Recomendación Del Ideal”</em>."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "Describe la alimentación durante el embarazo y nutrientes clave.",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li>Incremento de necesidades energéticas (+300 kcal/día).</li><li><strong>Hierro, ácido fólico, calcio, yodo y DHA</strong> como nutrientes clave.</li><li>Evitar toxoplasmosis y listeriosis: no consumir quesos blandos, embutidos crudos, etc.</li></ul><strong>Regla mnemotécnica:</strong> <em>“H-F-C-I-D: Hierro, Folato, Calcio, Iodo, DHA”</em>."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "¿Qué caracteriza a una dieta vegetariana equilibrada?",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li>Alta en fibra, antioxidantes y fitoquímicos.</li><li>Aporte adecuado de proteínas vegetales (legumbre + cereal).</li><li>Suplementación obligatoria de B12.</li></ul><strong>Regla mnemotécnica:</strong> <em>“Veg-B12”</em> (lo único obligatorio en vegetarianos bien estructurados).</li>"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "¿Cómo adaptar la alimentación en el deporte?",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li>Aumento de requerimientos energéticos y proteicos.</li><li>Importancia de la hidratación y el timing nutricional (pre, intra, post).</li><li>Revisión de micronutrientes: hierro, calcio, vitamina D.</li></ul><strong>Regla mnemotécnica:</strong> <em>“3H: Hidratación, Hiperenergía, Hierro”</em>."
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema2",
+		"pregunta": "¿Qué funciones tienen los hidratos de carbono en el organismo?",
+		"respuesta": "<strong>Respuesta:</strong><br><ul><li>Principal fuente de energía (glucosa).</li><li>Participan en estructuras celulares y señalización.</li><li>Regulan el metabolismo proteico (efecto ahorrador).</li></ul><strong>Regla mnemotécnica:</strong> <em>“EES: Energía, Estructura, Señalización”</em>."
+	},
+
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema1",
+		"pregunta": "¿Cuáles son los tipos de contaminantes en los alimentos? Da ejemplos.",
+		"respuesta": "<b>Contaminantes:</b><br>• <b>Químicos</b>: pesticidas, metales pesados.<br>• <b>Biológicos</b>: bacterias (Salmonella), virus, parásitos.<br>• <b>Físicos</b>: vidrios, plásticos, metales.<br>• <b>Ambientales</b>: dioxinas, PCBs.<br><i>Regla mnemotécnica: Q-B-F-A.</i>"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema1",
+		"pregunta": "Diferencia entre infección, intoxicación y toxiinfección alimentaria.",
+		"respuesta": "<b>Infección:</b> el patógeno vivo causa enfermedad (ej. Salmonella).<br><b>Intoxicación:</b> enfermedad causada por toxinas (ej. botulismo).<br><b>Toxiinfección:</b> combinación de patógeno y toxina (ej. Clostridium perfringens).<br><i>Mnemotecnia: Inf = Bicho, Intox = Veneno, ToxiInf = Combo.</i>"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema2",
+		"pregunta": "Explica qué son las especificaciones de calidad en un alimento.",
+		"respuesta": "<b>Especificaciones de calidad:</b><br>• <b>Organolépticas</b>: sabor, olor, textura.<br>• <b>Nutricionales</b>: contenido de nutrientes.<br>• <b>Funcionales</b>: digestibilidad, saciedad.<br>• <b>Microbiológicas</b>: ausencia de patógenos.<br><i>Regla: ONFM.</i>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"tema": "tema1",
+		"pregunta": "¿Qué es el Proceso de Atención Nutricional (PAN) y sus fases?",
+		"respuesta": "<b>PAN:</b> herramienta estructurada para el abordaje nutricional.<br>1. <b>Evaluación</b>: datos clínicos, antropométricos y dietéticos.<br>2. <b>Diagnóstico</b>: identificar problemas nutricionales.<br>3. <b>Intervención</b>: plan individualizado.<br>4. <b>Seguimiento</b>: ajustes según evolución.<br><i>Mnemotecnia: E-D-I-S.</i>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"tema": "tema2",
+		"pregunta": "Propuesta de intervención nutricional para diabetes tipo 2.",
+		"respuesta": "<b>Tratamiento nutricional:</b><br>• Control de hidratos (índice glucémico bajo).<br>• Aumentar fibra (frutas, legumbres, verduras).<br>• Reducir grasas saturadas.<br>• Evitar azúcares simples.<br>• Horarios regulares de comida.<br><i>Regla: FIBRA-BAJA-GI.</i>"
+	},
+	{
+		"asignatura": "dietoterapia",
+		"tema": "tema3",
+		"pregunta": "Diferencias fisiopatológicas entre Crohn y colitis ulcerosa.",
+		"respuesta": "<b>Enfermedad de Crohn:</b> afecta todo el tubo digestivo, inflamación transmural.<br><b>Colitis ulcerosa:</b> afecta solo al colon y recto, inflamación de la mucosa.<br><i>Mnemotecnia: CROHN = Completo, CU = Colon Único.</i>"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema2",
+		"pregunta": "Explica el proceso de inflamación aguda y sus fases.",
+		"respuesta": "<b>Fases:</b><br>1. Vasodilatación<br>2. Aumento de permeabilidad vascular<br>3. Migración leucocitaria<br>4. Fagocitosis y reparación<br><i>Regla: V-P-M-F</i>"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema1",
+		"pregunta": "¿Qué cambios celulares ocurren en una lesión reversible?",
+		"respuesta": "<b>Lesión reversible:</b><br>• Edema celular<br>• Vacuolización<br>• Desorganización del citoesqueleto<br>• Pérdida de microvellosidades<br><i>Idea: “Células hinchadas, pero recuperables”.</i>"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema1",
+		"pregunta": "¿Qué es la apoptosis y cómo se diferencia de la necrosis?",
+		"respuesta": "<b>Apoptosis:</b> muerte celular programada, sin inflamación.<br><b>Necrosis:</b> muerte celular patológica, con inflamación.<br><i>Mnemotecnia: Apo = Amable, Necro = Nefasta.</i>"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "¿Qué debe incluir una dieta equilibrada para un deportista?",
+		"respuesta": "<b>Recomendaciones:</b><br>• Hidratos de carbono como base energética.<br>• Proteínas para recuperación muscular.<br>• Grasas saludables (omega-3).<br>• Micronutrientes: hierro, calcio, B-vitam.<br>• Timing: pre y post entreno adecuados.<br><i>Regla: H-P-G-M-T.</i>"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "¿Qué ajustes necesita una persona vegetariana para una alimentación completa?",
+		"respuesta": "<b>Claves para una dieta vegetariana equilibrada:</b><br>• Combinación de legumbres + cereales.<br>• Suplementar B12 sí o sí.<br>• Vigilar hierro, zinc y omega-3.<br><i>Regla: B12 + lentejas + semillas.</i>"
+	},
+	{
+		"asignatura": "alimentacion_equilibrada",
+		"tema": "tema5",
+		"pregunta": "Comparación entre requerimientos nutricionales en embarazo vs. lactancia.",
+		"respuesta": "<b>Embarazo:</b> ↑ hierro, ácido fólico, energía.<br><b>Lactancia:</b> ↑ energía, líquidos, calcio y B12.<br><i>Resumen: Embarazo = Sangre; Lactancia = Leche.</i>"
+	},
+
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema1",
+		"pregunta": "Explica las principales adaptaciones celulares y diferencia entre una adaptación fisiológica y una patológica.",
+		"respuesta": "Las adaptaciones celulares permiten a las células sobrevivir ante estímulos adversos. Pueden ser fisiológicas (funcionales y reversibles) o patológicas (con riesgo de lesión permanente).",
+		"desarrollo": "Las principales adaptaciones son: hipertrofia (aumento del tamaño celular, como en el músculo por entrenamiento), hiperplasia (aumento del número de células, como en el endometrio por acción hormonal), atrofia (reducción del tamaño o número de células, por desuso o desnutrición), metaplasia (cambio de tipo celular, como la transformación de epitelio respiratorio en fumadores) y displasia (alteración desorganizada del crecimiento celular, considerada precancerosa). Las fisiológicas suelen ser reversibles y funcionales, mientras que las patológicas pueden derivar en enfermedad. \n\n 🔬 Érase una vez cinco formas distintas en las que una célula intentaba sobrevivir…\n\n⚖️ Imagina un tejido sometido a distintos retos. Las células, adaptativas como son, responden con estrategias únicas:\n\n💪 *Hipertrofia*: Cuando haces fuerza, las células musculares se agrandan para soportar la carga. Es una adaptación fisiológica positiva. Pero si el corazón sufre por una hipertensión crónica, también se agranda... y eso es una hipertrofia patológica.\n\n🔢 *Hiperplasia*: Si el útero se prepara para un embarazo, aumenta el número de células: eso es hiperplasia fisiológica. Sin embargo, en una próstata aumentada por estímulos hormonales descontrolados, ya hablamos de algo patológico.\n\n📉 *Atrofia*: Las células que no se usan, se encogen. Así de simple. Músculos inmovilizados, tejidos envejecidos, zonas del cerebro en enfermedades neurodegenerativas… todas son formas de atrofia. Algunas reversibles, otras no tanto.\n\n🔄 *Metaplasia*: A veces, el entorno obliga a cambiar. En el esófago de un fumador, las células epiteliales normales se sustituyen por otras más resistentes… pero menos funcionales. Esta adaptación salva momentáneamente, pero puede abrir la puerta a enfermedades graves.\n\n⚠️ *Displasia*: Cuando el cambio ya no sigue reglas, cuando la arquitectura celular se desorganiza, y las células crecen sin control ni forma, hablamos de displasia. Es el paso previo a muchas neoplasias. Aquí el cuerpo ya está dando señales de alarma.\n\n🧠 Todas estas adaptaciones tienen un propósito: responder al entorno. Pero cuando el estímulo es dañino o sostenido, la adaptación deja de ser útil… y se convierte en enfermedad.\n\n🩺 En respuesta: la célula se adapta para sobrevivir… pero también nos avisa cuando algo no va bien. ",
+		"imagen": "img/fisiopatologia/adaptaciones_celulares.png"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema2",
+		"pregunta": "Enumera los cuatro procesos digestivos básicos y describe en qué partes del aparato digestivo se producen.",
+		"respuesta": "Los cuatro procesos digestivos son: digestión, secreción, motilidad y absorción. Cada uno ocurre en partes específicas del aparato gastrointestinal.",
+		"desarrollo": "Digestión: ocurre en la boca (amilasa salival), estómago (pepsina para proteínas) e intestino delgado (enzimas pancreáticas y bilis). Secreción: se da en glándulas salivales, estómago (ácido clorhídrico), páncreas e hígado (bilis). Motilidad: movimiento del bolo alimenticio mediante peristaltismo en esófago, estómago e intestinos. Absorción: se produce sobre todo en intestino delgado (nutrientes) y grueso (agua y electrolitos). Estos procesos pueden solaparse en algunas zonas.\n\n 🍞 Imagina que un bocadillo llamado 'Pancho' inicia un viaje épico por tu cuerpo...\n\n🔪 *DIGESTIÓN*: En la **boca**, Pancho es masticado y rociado con saliva. En el **estómago**, los ácidos lo deshacen aún más. En el **intestino delgado**, las enzimas pancreáticas terminan el trabajo. Todo para que deje de ser 'Pancho' y se convierta en piezas sueltas.\n\n🧪 *SECRECIÓN*: Cada parada del viaje tiene sus ayudantes químicos. La **saliva**, el **jugo gástrico**, la **bilis** del hígado y las **enzimas pancreáticas** hacen posible la digestión. Son como las herramientas del chef.\n\n🚚 *MOTILIDAD*: Pancho avanza gracias a contracciones musculares. Desde el **esófago** hasta el **colon**, el peristaltismo guía el viaje.\n\n🌱 *ABSORCIÓN*: Cuando ya es irreconocible, los nutrientes de Pancho son absorbidos, principalmente en el **intestino delgado**. El **intestino grueso** se encarga de recuperar agua y minerales.\n\n🧠 Estos cuatro procesos actúan en sincronía. Si uno falla, todo el sistema se resiente. Por eso entender *dónde* y *cómo* actúan es fundamental para identificar enfermedades digestivas.",
+		"imagen": "img/fisiopatologia/procesos_digestivos.png"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema3",
+		"pregunta": "Describe qué es el reflujo gastroesofágico, sus causas, síntomas y medidas dietéticas/posturales para su tratamiento.",
+		"respuesta": "El reflujo gastroesofágico ocurre cuando el contenido gástrico asciende hacia el esófago. Se relaciona con disfunción del cardias y puede producir pirosis o regurgitación.",
+		"desarrollo": "El reflujo se debe a una relajación anómala del esfínter esofágico inferior (cardias), lo que permite que el ácido gástrico suba. Sus síntomas incluyen ardor, regurgitación ácida y tos nocturna. Las medidas dietéticas incluyen evitar café, chocolate, grasas y comidas copiosas; fraccionar las comidas y no acostarse justo después de comer. Posturalmente, se recomienda elevar el cabecero de la cama y no usar ropa apretada.\n\n🍽️ Imagina que estás en una taberna medieval. En el gran salón hay dos salas importantes: la sala del banquete (el estómago) y la entrada principal vigilada por un portero muy fuerte (el esfínter esofágico inferior). Este portero solo deja pasar comida en un único sentido: hacia la sala del banquete.\n\nUn día, el portero comienza a relajarse demasiado… quizás por culpa del estrés, de comer en exceso o por ciertas pócimas como el café, el alcohol o los fritos. Así que, sin querer, permite que la comida ya digerida y con ácidos suba de nuevo hacia la entrada… ¡provocando caos en el vestíbulo! Esa sensación de ardor o fuego subiendo por el pecho se llama pirosis 🔥, y el hecho de que parte del contenido ácido vuelva al esófago es lo que conocemos como reflujo gastroesofágico.\n\nEl caballero encargado de la sanación (el dietista) recomienda varias estrategias:\n- ⚔️ Evitar festines copiosos (comidas grandes), alimentos muy grasos, chocolate, alcohol y café.\n- 🛏️ Dormir con el cabecero elevado y no tumbarse justo después de comer.\n- 🧘 Comer despacio y evitar ropa ajustada que presione el abdomen.\n\nAunque en ocasiones puede usarse un escudero (el tratamiento farmacológico), lo más noble es fortalecer las barreras del castillo con buenos hábitos dietéticos y posturales.\n\nAsí, poco a poco, el portero recupera su firmeza, y el reino vuelve a la paz digestiva. 🏰",
+		"imagen": "img/fisiopatologia/reflujo_gastroesofagico.png"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema4",
+		"pregunta": "Explica qué son las intolerancias a la lactosa y fructosa, diferenciando sus tipos y abordaje dietético.",
+		"respuesta": "Ambas intolerancias son trastornos digestivos comunes. La de lactosa se debe al déficit de lactasa y la de fructosa a defectos en su absorción. El tratamiento es dietético.",
+		"desarrollo": "La intolerancia a la lactosa puede ser genética o adquirida, y se debe a un déficit de lactasa, generando síntomas como hinchazón, diarrea y gases. El abordaje consiste en eliminar o reducir lácteos con lactosa y usar fermentados o lácteos sin lactosa. La intolerancia a la fructosa puede ser fructosemia benigna (leve) o intolerancia hereditaria (grave). El tratamiento es evitar alimentos ricos en fructosa como frutas, miel y algunos edulcorantes. \n\n🥛👩‍⚕️ Imagina a Clara, una nutricionista que atiende a dos nuevos pacientes: Marta y Tomás.\n\n🔍 Marta llega con hinchazón, gases y malestar tras tomar leche. Clara sospecha de intolerancia a la lactosa. Le explica que existen dos tipos:\n- La **primaria (genética)**: pérdida progresiva de la enzima lactasa, común en adultos.\n- La **secundaria (adquirida)**: tras infecciones intestinales o inflamaciones como la celiaquía.\n🧠 Clara le enseña que esta intolerancia no es “una sentencia”. Se puede descubrir el *umbral de tolerancia*, reintroduciendo poco a poco lactosa o consumiendo fermentados como kéfir o yogur, que tienen menos cantidad.\n\n🍯 Luego llega Tomás, con síntomas similares pero tras consumir miel o frutas. Clara sospecha de **intolerancia a la fructosa**. Le aclara que hay dos formas:\n- **Fructosuria benigna** (hereditaria): sin síntomas.\n- **Intolerancia hereditaria a la fructosa**: más grave, con vómitos y daño hepático si se consume.\n- Y una más común: **malabsorción de fructosa**, relacionada con el intestino delgado y la microbiota, que puede mejorarse con dietas FODMAP y control individual.\n\n📚 Clara los tranquiliza: ambas intolerancias se pueden manejar bien. Lo clave no es solo eliminar alimentos, sino aprender a tolerarlos con inteligencia. Con análisis, paciencia y acompañamiento, cada paciente puede diseñar su dieta sin miedo. 💪🍽️",
+		"imagen": "img/fisiopatologia/intolerancias.png"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema5",
+		"pregunta": "Describe las funciones del riñón y el papel del glomérulo y los túbulos dentro de la nefrona.",
+		"respuesta": "El riñón filtra la sangre, regula el equilibrio ácido-base y mantiene la homeostasis. Su unidad funcional es la nefrona, compuesta por el glomérulo y los túbulos.",
+		"desarrollo": "El glomérulo realiza la filtración del plasma, generando el ultrafiltrado que formará la orina. Los túbulos (proximal, asa de Henle, distal) reabsorben agua, electrolitos y nutrientes, y secretan desechos. Las funciones renales incluyen: excreción de residuos, regulación del pH, control de la presión arterial y producción de eritropoyetina.\n\n 🧠 Un día en la vida de Renaldo, el riñón 🩺\n\nRenaldo es un riñón trabajador que vive en el cuerpo de una persona activa. Cada día, junto con su gemelo (el otro riñón), filtra unos 180 litros de sangre para mantener limpio el organismo. Su misión es clara: eliminar residuos, mantener el equilibrio hídrico y electrolítico, y regular la presión arterial.\n\nPero Renaldo no trabaja solo. Cada uno de sus millones de unidades funcionales —las nefronas— es como una mini-fábrica que se encarga de transformar la sangre sucia en orina limpia.\n\n🏭 Una de esas nefronas se llama Nefi, y está formada por dos zonas clave: el glomérulo y los túbulos renales.\n\n🌀 El glomérulo es como un colador muy fino. Allí Nefi filtra la sangre como si cribara arena buscando oro. Deja pasar el agua, la glucosa, los electrolitos y pequeñas moléculas, pero retiene las proteínas y células. Esto da lugar al llamado filtrado glomerular: la primera versión de la orina.\n\n🚰 Pero este filtrado está aún 'verde'. Así que entra en acción la segunda parte de Nefi: los túbulos. Allí es donde se decide qué se recicla y qué se desecha. El túbulo proximal reabsorbe glucosa, aminoácidos y sodio; el asa de Henle se encarga de concentrar la orina regulando el agua; y el túbulo distal y colector ajustan finamente el equilibrio de pH, potasio y otros iones.\n\n🧂 Si hay demasiada sal, los túbulos lo detectan y eliminan el exceso. Si falta agua, concentran la orina como buenos ahorradores.\n\nEn respuesta:\n🔹 El glomérulo filtra.\n🔹 Los túbulos reabsorben y secretan.\n🔹 El riñón en conjunto depura, regula y mantiene el equilibrio interno.\n\nGracias a Renaldo y sus millones de nefronas como Nefi, nuestro cuerpo puede eliminar toxinas, regular la tensión arterial y mantenernos en equilibrio constante.\n\n💡 Sin este sistema, el más mínimo desajuste podría ser letal. Por eso, ¡cuidar tus riñones es cuidar tu vida!",
+		"imagen": "img/fisiopatologia/funcion_renal.png"
+	},
+	{
+		"asignatura": "fisiopatologia",
+		"tema": "tema5",
+		"pregunta": "Elige dos glándulas endocrinas y describe las hormonas que sintetizan y sus funciones principales.",
+		"respuesta": "El sistema endocrino regula funciones clave mediante hormonas. Glándulas como la hipófisis o el páncreas secretan compuestos con efectos metabólicos y regulatorios.",
+		"desarrollo": "Ejemplo 1: Hipófisis anterior — sintetiza hormona del crecimiento (GH), TSH (tirotropina) y ACTH. GH estimula crecimiento, TSH regula la tiroides y ACTH las suprarrenales. Ejemplo 2: Islotes de Langerhans del páncreas — secretan insulina (reduce glucemia) y glucagón (aumenta glucemia). Cada hormona tiene dianas específicas y mecanismos de retroalimentación.\n\n📚 En la ciudad de CuerpoHumanoCity, existía una red secreta de comunicación llamada Sistema Endocrino. Sus oficinas centrales eran las glándulas endocrinas, y su misión era enviar cartas con instrucciones precisas a distintos barrios del cuerpo. \n\n✉️ Desde la torre de la Hipófisis, se enviaban órdenes como la GH (hormona del crecimiento), que viajaba hasta los barrios de los músculos y huesos para decirles: '¡Creced fuertes y sanos!'. También salía la TSH, una carta destinada a la glándula tiroides, para que activara el metabolismo de toda la ciudad. \n\n🔥 En la zona de emergencias, la Corteza Suprarrenal liberaba el cortisol cada vez que se detectaba una situación de estrés. Esta hormona esteroidea ponía en marcha un plan de acción: más energía, más azúcar en sangre, y menos inflamación. \n\n📦 Algunas cartas eran grandes y complejas, como las proteicas. Otras eran compactas y liposolubles, como las esteroideas. Y otras eran veloces y pequeñas, derivadas de aminoácidos como la adrenalina, que activaba las alarmas cuando hacía falta correr o reaccionar rápido. \n\n📬 Cada barrio del cuerpo tenía un buzón especial, un receptor, que solo aceptaba su carta específica. Si una carta llegaba mal, o si no llegaba, se producían problemas en la ciudad: descoordinación, fatiga, desórdenes metabólicos… \n\n💡 Así, esta ciudad vivía en equilibrio gracias a la sabiduría de sus glándulas y la puntualidad de sus mensajeros hormonales. Y cada vez que algo fallaba, los sabios del cuerpo (los profesionales de la salud) investigaban qué oficina se había quedado en silencio o qué carta había llegado a destiempo.",
+		"imagen": "img/fisiopatologia/sistema_endocrino.png"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema1",
+		"pregunta": "Clasifica los tipos de contaminantes de los alimentos y desarrolla ejemplos específicos de al menos dos de ellos.",
+		"respuesta": "Los contaminantes físicos son objetos o materiales extraños que no deberían estar en los alimentos (p. ej., fragmentos de metal, vidrio o huesos). Los contaminantes biológicos incluyen microorganismos patógenos como Salmonella o Listeria. Los contaminantes químicos abarcan residuos de pesticidas, metales pesados o dioxinas. Por su parte, los contaminantes agrícolas/pesqueros pueden incluir histamina en pescados o micotoxinas en cereales. Es fundamental conocer su origen y vías de entrada para implementar planes preventivos eficaces.\n\n 🔍 En el tranquilo pueblo de Nutrivilla, todo giraba en torno a la seguridad de los alimentos. Sin embargo, una banda de intrusos silenciosos comenzó a infiltrarse en los mercados: los Contaminantes.\n\n🥶 El primero en ser detectado fue el Contaminante Físico, un personaje descuidado que iba dejando pedazos de metal, fragmentos de vidrio y astillas por los caminos del envasado. Una tarde, se coló en una fábrica de embutidos dejando tornillos en las salchichas.\n\n🧫 A su lado actuaba el Contaminante Biológico, invisible pero letal. Se escondía entre las superficies mal lavadas, en las manos sin guantes y en las carnes poco refrigeradas. Su especialidad: propagar Salmonella, E. coli o Listeria sin que nadie lo notara hasta que ya era tarde.\n\n☠️ Luego estaba el Contaminante Químico, un antiguo químico renegado que rociaba frutas con pesticidas ilegales, dejaba metales pesados en los peces del río y trazas de antibióticos en los productos lácteos.\n\n🌾 Desde los campos llegó el Contaminante Agrícola, disfrazado de cereal sano, pero con micotoxinas escondidas entre sus granos. Su primo marino, el Contaminante Pesquero, operaba desde los barcos, soltando peces con niveles peligrosos de histamina o mercurio.\n\n🛡️ Por suerte, el equipo de Control Alimentario —científicos, técnicos de higiene y supervisores de calidad— luchaba a diario para detenerlos. Su mejor arma: la prevención. Identificaban los puntos críticos, trazaban planes APPCC y formaban a los operarios para que cada alimento llegara seguro al plato.\n\n🍽️ Y así, en Nutrivilla, cada bocado era una victoria frente a esos intrusos invisibles, gracias al conocimiento, la vigilancia… y un poco de ciencia.",
+		"imagen": "img/control_alimentario/contaminantes_mapa_mental.png"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema2",
+		"pregunta": "¿Qué es una especificación de calidad? ¿Qué criterios la componen? Desarrolla y da ejemplos.",
+		"respuesta": "Una especificación de calidad es un conjunto de parámetros que garantizan que un alimento cumpla con las expectativas de consumo, seguridad y normativa. Entre los criterios más habituales se encuentran:\n- Organolépticos: color, olor, sabor, textura. Se evalúan mediante paneles de cata o análisis sensorial.\n- Nutricionales: contenido específico en proteínas, grasas, carbohidratos, fibra o vitaminas.\n- De salubridad: ausencia de contaminantes físicos (vidrios), químicos (pesticidas) y biológicos (bacterias, parásitos).\n- De digestibilidad: facilidad para ser digerido y aprovechado por el organismo. \n\n🍎 En la feria de alimentos de Sensovilla, cada producto competía por ser el mejor. Pero no bastaba con lucir bonito: los jueces eran expertos en detectar la verdadera calidad.\n\n👃 Primero llegó la señora Organoléptica, una mujer con un olfato y gusto tan agudo que notaba si el pan llevaba más de un día horneado o si el tomate sabía a campo o a nevera. Ella examinaba el color, el olor, la textura y el sabor. '¡La primera impresión cuenta!', repetía.\n\n🧼 Luego se presentó el señor Higiénico-Sanitario, con bata blanca y mirada severa. Revisaba la seguridad del alimento: '¿Ha pasado por controles sanitarios?', '¿Qué bacterias podría contener?'. Con sus pruebas microbiológicas, descartaba todo lo que supusiera un riesgo.\n\n🍽️ La tercera en llegar fue la doctora Nutricia, que medía la calidad desde el interior. Calculaba cuántas proteínas tenía una lenteja, cuánta vitamina C un pimiento y si un yogur aportaba calcio suficiente. Para ella, un alimento debía nutrir, no solo llenar.\n\n🏷️ Por último, el comercial Don Packaging, vestido de etiqueta brillante, valoraba si el envase era atractivo, si el etiquetado era legal, si el código de barras funcionaba. Para él, la presentación era casi tan importante como el producto en sí.\n\n🔬 Juntos, formaban el Comité de Calidad. Analizaban los alimentos con técnicas físico-químicas (medían el pH, la humedad y la acidez), microbiológicas (buscaban bacterias y hongos), y sensoriales (usaban paneles de catadores entrenados).\n\n🏆 Solo los alimentos que superaban todas las pruebas recibían la etiqueta de “Calidad Superior”, y eran celebrados en la feria. No bastaba con verse bien, había que serlo por dentro y por fuera.\n\n🥇Así, en Sensovilla, la calidad no era una casualidad. Era ciencia, control… y mucho paladar entrenado.",
+		"imagen": "img/control_alimentario/tema2_especificacion.png"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema3",
+		"pregunta": "¿Qué es la reacción de Maillard? ¿En qué alimentos aparece? ¿Por qué es importante en industria?",
+		"respuesta": "La reacción de Maillard es una transformación química que ocurre cuando un aminoácido reacciona con un azúcar reductor bajo calor, generando nuevos compuestos que aportan aroma, sabor y color. Es un proceso crucial en cocina y tecnología alimentaria.\nEjemplos comunes:\n- Corteza dorada del pan.\n- Café tostado.\n- Costra de una carne a la plancha.\n- Galletas horneadas.\nEs fundamental porque mejora la palatabilidad, pero debe controlarse para evitar compuestos tóxicos (como acrilamida).",
+		"imagen": "img/control_alimentario/tema3_maillard.png"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema3",
+		"pregunta": "Diferencia entre infección, intoxicación y toxiinfección alimentaria. Da ejemplos.",
+		"respuesta": "Una infección alimentaria ocurre al ingerir un microorganismo que se multiplica dentro del organismo, como Salmonella o Listeria. Una intoxicación es cuando se ingiere una toxina producida por un patógeno, como en el botulismo (toxina de Clostridium botulinum). La toxiinfección combina ambas: ingestión del microorganismo y toxina, como en el caso de Clostridium perfringens o Bacillus cereus.\nResumen:\n- Infección: Salmonella, Listeria.\n- Intoxicación: botulismo, estafilococo.\n- Toxiinfección: Clostridium perfringens, Bacillus cereus.",
+		"imagen": "img/control_alimentario/tema3_infeccion.png"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"pregunta": "¿Cuáles son los Planes Generales de Higiene? Nombra todos y desarrolla dos de ellos.",
+		"respuesta": "Los Planes Generales de Higiene (PGH) son requisitos previos al sistema APPCC y garantizan condiciones higiénicas. Los más comunes:\n1. Plan de control del agua\n2. Plan de limpieza y desinfección\n3. Control de plagas\n4. Control de trazabilidad\n5. Formación del personal\n6. Mantenimiento de instalaciones\n7. Gestión de residuos\n8. Control de proveedores\n9. Control de temperaturas\n10. Mantenimiento de la cadena de frío\nEjemplos desarrollados:\n- Plan de limpieza y desinfección: incluye protocolos de frecuencia, productos autorizados, zonas críticas.\n- Plan de control de plagas: control físico y químico, barreras y registros.",
+		"imagen": "img/control_alimentario/tema4_planes.png"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema4",
+		"pregunta": "¿Qué es el sistema APPCC y cuáles son sus etapas?",
+		"respuesta": "El sistema APPCC (Análisis de Peligros y Puntos de Control Crítico) busca prevenir riesgos para la salud del consumidor en la cadena alimentaria. Se basa en:\n1. Identificar peligros y valorar riesgos.\n2. Identificar los puntos críticos de control (PCC).\n3. Establecer límites críticos en cada PCC.\n4. Diseñar sistemas de vigilancia.\n5. Establecer acciones correctoras.\n6. Verificar el sistema.\n7. Documentar todo el proceso.\nEjemplo: en una línea de producción de leche pasteurizada, un PCC es la temperatura de pasteurización (mínimo 72°C durante 15 seg).",
+		"imagen": "img/control_alimentario/tema4_appcc.png"
+	},
+	{
+		"asignatura": "control_alimentario",
+		"tema": "tema5",
+		"pregunta": "Elige un grupo alimentario y describe su composición, valor nutricional, características organolépticas y controles alimentarios asociados.",
+		"respuesta": "Ej. legumbres: composición rica en proteínas y fibra, bajo contenido en grasa. Características organolépticas: textura cremosa, sabor terroso. Controles: humedad, color, y estado sanitario para evitar insectos o mohos Ejemplo: Legumbres.\n- Composición: alto contenido en proteínas (~20-25%), fibra dietética (~10%), hidratos de carbono complejos (~50%) y bajo en grasas.\n- Valor nutricional: buena fuente de hierro, magnesio y vitaminas del grupo B.\n- Características organolépticas: textura cremosa tras cocción, sabor neutro o ligeramente terroso, colores variados (blanco, marrón, negro).\n- Controles: humedad (<14% para evitar hongos), control visual de impurezas, pruebas de germinación para semillas.",
+		"imagen": "img/control_alimentario/tema5_legumbres.png"
+	}
+]

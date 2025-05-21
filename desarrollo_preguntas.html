@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Preguntas de Desarrollo</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				padding: 20px;
+				background: #f4f4f4;
+			}
+			h1 {
+				margin-bottom: 10px;
+			}
+			select,
+			button {
+				padding: 10px;
+				margin: 10px 5px 20px 0;
+				font-size: 16px;
+			}
+			#pregunta {
+				font-size: 20px;
+				margin: 20px 0;
+			}
+			#respuesta {
+				display: none;
+				background: #e0ffe0;
+				padding: 15px;
+				border-left: 5px solid green;
+				margin-bottom: 20px;
+			}
+			.footer {
+				margin-top: 3rem;
+				text-align: center;
+				font-size: 0.9rem;
+				color: #555;
+			}
+			body::before {
+				content: "";
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background-image: url("https://w0.peakpx.com/wallpaper/580/240/HD-wallpaper-sid-ice-age-sid.jpg");
+				background-size: cover;
+				background-position: center;
+				background-repeat: no-repeat;
+				opacity: 0.25; /* Ajusta la transparencia */
+				z-index: -1;
+			}
+		</style>
+	</head>
+	<body>
+		<a href="index.html">🔘 Preguntas tipo test</a>
+		<a href="desarrollo_preguntas.html">📝 Preguntas de desarrollo</a>
+
+		<h1>Banco de Preguntas de Desarrollo</h1>
+
+		<label for="asignatura">Selecciona asignatura:</label>
+		<select id="asignatura">
+			<option value="dietoterapia">Dietoterapia</option>
+			<option value="alimentacion_equilibrada">Alimentación equilibrada</option>
+			<option value="control_alimentario">Control alimentario</option>
+			<option value="fisiopatologia">Fisiopatología</option>
+		</select>
+
+		<button onclick="siguientePregunta()">Siguiente pregunta</button>
+		<button onclick="mostrarRespuesta()">Mostrar respuesta</button>
+
+		<div id="pregunta"></div>
+		<div id="respuesta"></div>
+
+		<div class="footer">
+			&copy; Carlos Salvador - Preparación TSD 1º interactivo
+		</div>
+
+		<script>
+			let data = {};
+			let preguntasFiltradas = [];
+			let preguntaActual = null;
+
+			function cargarJSON() {
+				fetch("data/preguntas_desarrollo.json")
+					.then((res) => res.json())
+					.then((json) => {
+						data = json;
+						siguientePregunta(); // inicial
+					});
+			}
+
+			function siguientePregunta() {
+				const asignatura = document.getElementById("asignatura").value;
+				preguntasFiltradas = data.filter((p) => p.asignatura === asignatura);
+				if (preguntasFiltradas.length === 0) return;
+
+				preguntaActual =
+					preguntasFiltradas[
+						Math.floor(Math.random() * preguntasFiltradas.length)
+					];
+				document.getElementById("pregunta").innerHTML =
+					"<strong>Pregunta:</strong> " + preguntaActual.pregunta;
+				document.getElementById("respuesta").style.display = "none";
+				document.getElementById("respuesta").innerHTML =
+					preguntaActual.respuesta;
+			}
+
+			function mostrarRespuesta() {
+				document.getElementById("respuesta").style.display = "block";
+			}
+
+			cargarJSON();
+		</script>
+	</body>
+</html>
